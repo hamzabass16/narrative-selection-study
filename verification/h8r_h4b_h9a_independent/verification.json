@@ -1,0 +1,383 @@
+{
+  "verifier": "independent re-implementation, /root/analysis/verify3",
+  "scripts": [
+    "verify_vdem.py",
+    "vdem_variants.py",
+    "verify_h4b.py",
+    "verify_h9a.py",
+    "build_verification.py"
+  ],
+  "A_vdem_h8r": [
+    {
+      "claim": "A1 autocracy-years",
+      "expected": 21576,
+      "verified": 21576,
+      "status": "match"
+    },
+    {
+      "claim": "A1 countries",
+      "expected": 202,
+      "verified": 202,
+      "status": "match"
+    },
+    {
+      "claim": "A1 corr(Cooperation, Dominance)",
+      "expected": -0.66,
+      "verified": -0.6567,
+      "status": "match"
+    },
+    {
+      "claim": "A2 regimes kept",
+      "expected": 1600,
+      "verified": 1600,
+      "status": "match",
+      "reason": "Exact match only when country-years with both v2x_regime and v2x_polyarchy missing (1,138 rows, 1789-1990) are left out of the regime-mean autocracy flag. If those rows are counted as non-autocracy (flag = 0), I get 1,582 regimes, 1,086 in the logit, OR 0.739 (0.624 to 0.875), 62.5 vs 39.0 percent. The spec does not say which; the original script uses the first.",
+      "literal_alt": 1582
+    },
+    {
+      "claim": "A2 regimes in logit",
+      "expected": 1099,
+      "verified": 1099,
+      "status": "match",
+      "reason": "Exact match only when country-years with both v2x_regime and v2x_polyarchy missing (1,138 rows, 1789-1990) are left out of the regime-mean autocracy flag. If those rows are counted as non-autocracy (flag = 0), I get 1,582 regimes, 1,086 in the logit, OR 0.739 (0.624 to 0.875), 62.5 vs 39.0 percent. The spec does not say which; the original script uses the first.",
+      "literal_alt": 1086
+    },
+    {
+      "claim": "A2 OR per SD of S (95% CI)",
+      "expected": [
+        0.75,
+        0.63,
+        0.89
+      ],
+      "verified": [
+        0.75,
+        0.633,
+        0.889
+      ],
+      "status": "match",
+      "reason": "Exact match only when country-years with both v2x_regime and v2x_polyarchy missing (1,138 rows, 1789-1990) are left out of the regime-mean autocracy flag. If those rows are counted as non-autocracy (flag = 0), I get 1,582 regimes, 1,086 in the logit, OR 0.739 (0.624 to 0.875), 62.5 vs 39.0 percent. The spec does not say which; the original script uses the first.",
+      "literal_alt": [
+        0.739,
+        0.624,
+        0.875
+      ]
+    },
+    {
+      "claim": "A2 percent violent, bottom vs top quartile of S",
+      "expected": [
+        63,
+        39
+      ],
+      "verified": [
+        62.9,
+        39.3
+      ],
+      "status": "match",
+      "reason": "Exact match only when country-years with both v2x_regime and v2x_polyarchy missing (1,138 rows, 1789-1990) are left out of the regime-mean autocracy flag. If those rows are counted as non-autocracy (flag = 0), I get 1,582 regimes, 1,086 in the logit, OR 0.739 (0.624 to 0.875), 62.5 vs 39.0 percent. The spec does not say which; the original script uses the first.",
+      "literal_alt": [
+        62.5,
+        39.0
+      ]
+    },
+    {
+      "claim": "A3 10-yr change in log GDPpc on S (95% CI)",
+      "expected": [
+        0.02,
+        0.006,
+        0.035
+      ],
+      "verified": [
+        0.0204,
+        0.0062,
+        0.0347
+      ],
+      "status": "match",
+      "n": 13381,
+      "countries": 176
+    },
+    {
+      "claim": "A3 20-yr change in life expectancy on S (95% CI)",
+      "expected": [
+        0.52,
+        0.17,
+        0.87
+      ],
+      "verified": [
+        0.518,
+        0.169,
+        0.868
+      ],
+      "status": "match",
+      "n": 13957
+    },
+    {
+      "claim": "A4 RL -> z(religious freedom) (95% CI)",
+      "expected": [
+        -2.04,
+        -2.84,
+        -1.24
+      ],
+      "verified": [
+        -2.036,
+        -2.835,
+        -1.237
+      ],
+      "status": "match",
+      "reason": "Exact match when z(v2clrelig) and z(v2clkill) are standardised within autocracy-years 1900 to 2023 (the regression window). Standardising within the full 1789-2025 autocracy sample, as the general rule reads literally, gives RL -> religious freedom -1.935 (-2.70 to -1.18) and RL -> -z(kill) 0.926. Pure rescaling; sign and significance unchanged.",
+      "n": 10659,
+      "literal_alt": [
+        -1.935,
+        -2.695,
+        -1.175
+      ]
+    },
+    {
+      "claim": "A4 RL -> -z(v2clkill)",
+      "expected": 0.95,
+      "verified": 0.952,
+      "status": "match",
+      "reason": "Exact match when z(v2clrelig) and z(v2clkill) are standardised within autocracy-years 1900 to 2023 (the regression window). Standardising within the full 1789-2025 autocracy sample, as the general rule reads literally, gives RL -> religious freedom -1.935 (-2.70 to -1.18) and RL -> -z(kill) 0.926. Pure rescaling; sign and significance unchanged.",
+      "ci": [
+        0.412,
+        1.493
+      ],
+      "literal_alt": 0.926
+    }
+  ],
+  "B_h4b": [
+    {
+      "claim": "B same_tradition N/Y/U",
+      "expected": [
+        61,
+        55,
+        1
+      ],
+      "verified": [
+        61,
+        55,
+        1
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "B adopted among N: Y/P/N/U",
+      "expected": [
+        5,
+        16,
+        39,
+        1
+      ],
+      "verified": [
+        5,
+        16,
+        39,
+        1
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "B Christian conquerors N/P",
+      "expected": [
+        12,
+        1
+      ],
+      "verified": [
+        12,
+        1
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "B Muslim conquerors N/P",
+      "expected": [
+        11,
+        2
+      ],
+      "verified": [
+        11,
+        2
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "B 'Other' conquerors adopted Y or P",
+      "expected": "11 of 15",
+      "verified": "11 of 15",
+      "status": "match",
+      "breakdown": {
+        "P": 7,
+        "Y": 4,
+        "N": 4
+      }
+    }
+  ],
+  "C_h9a": [
+    {
+      "claim": "C passages",
+      "expected": 2368,
+      "verified": 2368,
+      "status": "match"
+    },
+    {
+      "claim": "C coded by coder 1 (all)",
+      "expected": 2368,
+      "verified": 2368,
+      "status": "match"
+    },
+    {
+      "claim": "C coded by coder 2",
+      "expected": 474,
+      "verified": 474,
+      "status": "match"
+    },
+    {
+      "claim": "C relevance agreement / alpha",
+      "expected": [
+        "455/474",
+        0.87
+      ],
+      "verified": [
+        "455/474",
+        0.874
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "C valence agreement / alpha",
+      "expected": [
+        "452/474",
+        0.86
+      ],
+      "verified": [
+        "452/474",
+        0.862
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "C Family POS/NEG, Wilson upper",
+      "expected": [
+        11,
+        0,
+        0.26
+      ],
+      "verified": [
+        11,
+        0,
+        0.259
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "C Group POS/NEG, Wilson upper",
+      "expected": [
+        15,
+        0,
+        0.2
+      ],
+      "verified": [
+        15,
+        0,
+        0.204
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "C Reciprocity POS/NEG, Wilson upper",
+      "expected": [
+        35,
+        1,
+        0.14
+      ],
+      "verified": [
+        35,
+        1,
+        0.142
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "C Heroism POS/NEG, Wilson upper",
+      "expected": [
+        34,
+        0,
+        0.1
+      ],
+      "verified": [
+        34,
+        0,
+        0.102
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "C Deference POS/NEG, Wilson upper",
+      "expected": [
+        37,
+        1,
+        0.13
+      ],
+      "verified": [
+        37,
+        1,
+        0.135
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "C Fairness POS/NEG, Wilson upper",
+      "expected": [
+        18,
+        0,
+        0.18
+      ],
+      "verified": [
+        18,
+        0,
+        0.176
+      ],
+      "status": "match"
+    },
+    {
+      "claim": "C Property POS/NEG, Wilson upper",
+      "expected": [
+        50,
+        1,
+        0.1
+      ],
+      "verified": [
+        50,
+        1,
+        0.103
+      ],
+      "status": "match"
+    }
+  ],
+  "code_review": {
+    "h8r_analysis.py": [
+      "No error affecting the claimed numbers.",
+      "Convention: autoc is NaN when v2x_regime and v2x_polyarchy are both missing, so groupby mean skips those rows; this is why it gets 1,600 regimes (vs 1,582 if they count as non-autocracy). Should be stated in the plan.",
+      "Convention: Part A outcomes use z() inside the 1900-2023 frame `a`, while S uses the full autocracy sample. Different standardisation bases across parts; rescales RL coefficients by about 5 percent.",
+      "Latent: region = e_regiongeo.astype('Int64').astype(str) turns NaN into the string '<NA>', which formulas keep as a real fixed-effect level instead of dropping. No effect now (e_regiongeo has no missing values)."
+    ],
+    "h4b_analysis.py": [
+      "Counts consistent with final_codes.csv; items.csv joins 1:1 (117/117).",
+      "The conqueror-tradition crosstab (Christian 12N/1P, Muslim 11N/2P, Other 11/15) is not produced by this script; verified directly from the CSV.",
+      "Minor: in fit(), CCIz is standardised before rows with conqueror_writing U are dropped, so the 'per SD' scale is slightly off in the fitted sample.",
+      "Minor: imputations with non-finite estimates or |beta| >= 15 are silently dropped before Rubin pooling (outcome-dependent exclusion under separation). The model is not fitted in the primary spec anyway (5 events < 10)."
+    ],
+    "h9a_pipeline.py": [
+      "Krippendorff alpha and Wilson formulas are algebraically correct; my independent implementation gives identical values. Frozen copy is byte-identical.",
+      "Substantive: coder 2 coded zero NEG, and none of coder 1's 3 NEG passages (V0696, V1117, V1589) fall in the double-coded sample, so reliability of the NEG code, the one H9a turns on, is untested.",
+      "Valence alpha counts NA (irrelevant) as a category, so it largely re-measures relevance; on the 84 items both coders called relevant, valence agreement is 81/84 (alpha 0.93).",
+      "Interpretation: 'falsified' uses the point estimate > 5 percent; every Wilson upper bound (0.10 to 0.26) exceeds 5 percent, so no domain meets upper_bound_below_5pct.",
+      "Latent: region_bucket tests Oceania keywords (including 'pacific') before Americas, so a 'Pacific Northwest' region would be misbucketed. No candidate region triggers it.",
+      "Latent: load() overwrites duplicate pids silently; there are no duplicates now."
+    ]
+  },
+  "summary": {
+    "match": 28,
+    "close": 0,
+    "mismatch": 0
+  }
+}

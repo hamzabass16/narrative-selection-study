@@ -68,7 +68,7 @@ Three kinds of judgement were made by independent instances of an AI model (Clau
 - whether conquerors adopted the conquered tradition;
 - how ethnographies evaluate behaviours.
 
-Agreement between those instances shows the model is consistent, not that it is right. The other main sources were coded by human experts: Seshat, V-Dem, the Ethnographic Atlas and the folklore catalogue. A separate verification run re-derived the folklore and crisis numbers from scratch, and the errors it found are corrected and logged.
+Agreement between those instances shows the model is consistent, not that it is right. The other main sources were coded by human experts: Seshat, V-Dem, the Ethnographic Atlas and the folklore catalogue. Two separate verification runs re-derived the folklore, crisis, ruler-conduct, conquest and ethnography numbers from scratch; all reproduced, and the errors they found are corrected and logged. One gap remains: none of the three passages coded as condemning a behaviour was double-coded, so agreement on those judgements is untested.
 
 ## Read the full reports
 
@@ -89,7 +89,7 @@ Agreement between those instances shows the model is consistent, not that it is 
 | `h8r/` | Ruler conduct (dominance versus cooperation) and religious legitimation, V-Dem v15 |
 | `h9a/` | Ethnography sample, passage extraction, coding brief and codes |
 | `h9b/` | Phylogenetic signal of moralizing-god belief on the Ethnographic Atlas |
-| `verification/` | Independent re-derivation of the folklore and crisis results |
+| `verification/` | Independent re-derivations of the folklore, crisis, ruler-conduct, conquest and ethnography results |
 | `protocol/` | Scripts that wrote the protocol's later sections |
 | `tools/` | Helpers for moving files through the browser |
 

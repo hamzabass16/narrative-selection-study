@@ -1,0 +1,62 @@
+{
+  "n_rows": 117,
+  "n_unique_items": 117,
+  "items_expected_present": true,
+  "same_tradition": {
+    "N": 61,
+    "Y": 55,
+    "U": 1
+  },
+  "adopted_among_N": {
+    "N": 39,
+    "P": 16,
+    "Y": 5,
+    "U": 1
+  },
+  "adopted_nonmissing_among_Y": 0,
+  "crosstab": {
+    "Christianity": {
+      "N": 12,
+      "P": 1
+    },
+    "Greek": {
+      "N": 1
+    },
+    "Hinduism": {
+      "N": 3,
+      "P": 2,
+      "Y": 1
+    },
+    "Islam": {
+      "N": 11,
+      "P": 2
+    },
+    "Jainism": {
+      "N": 1,
+      "U": 1
+    },
+    "Mesopotamian": {
+      "N": 1
+    },
+    "Other*": {
+      "N": 4,
+      "P": 7,
+      "Y": 4
+    },
+    "Roman": {
+      "N": 3,
+      "P": 2
+    },
+    "Zoroastrianism": {
+      "N": 3,
+      "P": 2
+    }
+  },
+  "other_n": 15,
+  "other_adopted_YP": 11,
+  "other_adopted_breakdown": {
+    "P": 7,
+    "Y": 4,
+    "N": 4
+  }
+}

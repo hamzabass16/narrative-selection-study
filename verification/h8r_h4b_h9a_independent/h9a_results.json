@@ -1,0 +1,118 @@
+{
+  "n_passages": 2368,
+  "n_unique_pids": 2368,
+  "coder1_n_rows": 2368,
+  "coder1_n_unique_pids": 2368,
+  "coder1_n_duplicate_pids": 0,
+  "coder1_n_conflicting_duplicates": 0,
+  "coder1_pids_not_in_passages": [],
+  "coder1_relevant_values": {
+    "N": 1915,
+    "Y": 453
+  },
+  "coder1_valence_values": {
+    "NA": 1915,
+    "NONE": 250,
+    "POS": 200,
+    "NEG": 3
+  },
+  "coder1_relevant_x_valence": {
+    "N|NA": 1915,
+    "Y|NONE": 250,
+    "Y|POS": 200,
+    "Y|NEG": 3
+  },
+  "coder2_n_rows": 474,
+  "coder2_n_unique_pids": 474,
+  "coder2_n_duplicate_pids": 0,
+  "coder2_n_conflicting_duplicates": 0,
+  "coder2_pids_not_in_passages": [],
+  "coder2_relevant_values": {
+    "N": 374,
+    "Y": 100
+  },
+  "coder2_valence_values": {
+    "NA": 374,
+    "POS": 47,
+    "NONE": 53
+  },
+  "coder2_relevant_x_valence": {
+    "N|NA": 374,
+    "Y|POS": 47,
+    "Y|NONE": 53
+  },
+  "coder1_covers_all_passages": true,
+  "coder1_missing_pids": [],
+  "coder1_rows_in_wrong_society_file": 0,
+  "n_double_coded": 474,
+  "coder2_pids_not_coded_by_coder1": [],
+  "relevance_agree": 455,
+  "relevance_alpha": 0.8735620875993451,
+  "valence_agree": 452,
+  "valence_alpha": 0.8620529832019016,
+  "valence_alpha_both_relevant": [
+    84,
+    81,
+    0.9289865343727852
+  ],
+  "double_coded_file_n": 474,
+  "double_coded_file_equals_pass2": true,
+  "coder1_by_domain": {
+    "Family": {
+      "POS": 11,
+      "NEG": 0,
+      "POS_if_relevant": 11,
+      "NEG_if_relevant": 0,
+      "n_passages": 360,
+      "wilson_upper": 0.2588
+    },
+    "Group": {
+      "POS": 15,
+      "NEG": 0,
+      "POS_if_relevant": 15,
+      "NEG_if_relevant": 0,
+      "n_passages": 360,
+      "wilson_upper": 0.2039
+    },
+    "Reciprocity": {
+      "POS": 35,
+      "NEG": 1,
+      "POS_if_relevant": 35,
+      "NEG_if_relevant": 1,
+      "n_passages": 329,
+      "wilson_upper": 0.1417
+    },
+    "Heroism": {
+      "POS": 34,
+      "NEG": 0,
+      "POS_if_relevant": 34,
+      "NEG_if_relevant": 0,
+      "n_passages": 356,
+      "wilson_upper": 0.1015
+    },
+    "Deference": {
+      "POS": 37,
+      "NEG": 1,
+      "POS_if_relevant": 37,
+      "NEG_if_relevant": 1,
+      "n_passages": 336,
+      "wilson_upper": 0.1349
+    },
+    "Fairness": {
+      "POS": 18,
+      "NEG": 0,
+      "POS_if_relevant": 18,
+      "NEG_if_relevant": 0,
+      "n_passages": 276,
+      "wilson_upper": 0.1759
+    },
+    "Property": {
+      "POS": 50,
+      "NEG": 1,
+      "POS_if_relevant": 50,
+      "NEG_if_relevant": 1,
+      "n_passages": 351,
+      "wilson_upper": 0.103
+    }
+  }
+}
