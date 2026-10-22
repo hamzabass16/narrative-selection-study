@@ -50,7 +50,11 @@ cp(A/'study2', 'study2')
 # Protocol text helpers and report
 for f in ['docs_helper.py', 'addendum_text.py', 'results_text.py', 'deviations_text.py', 'deviations2_text.py']:
     cp(A/'out'/f, f'protocol/doc_build/{f}')
-cp(A/'report', 'report')
+for f in ['report_text.py', 'build_html.py', 'build_md.py', 'make_figures.py', 'sync_repo.py']:
+    cp(A/'report'/f, f'report/build/{f}')
+cp(A/'report/figures', 'report/figures')
+cp(A/'report/export/RESULTS.md', 'report/RESULTS.md')
+cp(A/'report/export/PROTOCOL.pdf', 'report/PROTOCOL.pdf')
 for f in ['unpack_b64.py', 'unpack_parts.py']:
     cp(A/f, f'tools/{f}')
 print('synced')

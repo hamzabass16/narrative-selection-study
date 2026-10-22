@@ -1,75 +1,117 @@
-# Narrative Selection and Societal Endurance
+# Do the stories a society tells decide how long it survives?
 
-Code, coding records and results for an exploratory run of the Registered Report protocol "Narrative Selection and Societal Endurance" (Hamza Bassatne, 2026). The study asks whether the cooperative moral content of a society's narratives predicts how long its polities last (H1 to H7), whether leadership legitimated by service outlasts leadership held by force (H8), and whether humans converged on the content of morality rather than on belief in a particular God (H9).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="report/figures/fig1_violent_end_by_strategy_dark.png">
+  <img alt="Share of autocratic regimes that ended violently from within, by how cooperatively they ruled: 63% for the least cooperative quarter, 53%, 46%, and 39% for the most cooperative quarter" src="report/figures/fig1_violent_end_by_strategy_light.png" width="760">
+</picture>
 
-## Status: exploratory, not confirmatory
+Genes cannot carry what a person learns in a lifetime. Language can. A lesson about how to live together can be told as a story and passed down for a thousand years. If stories are how societies inherit what they have learned, the societies whose stories teach cooperation should outlast the rest. And if people everywhere arrived at the same thing, perhaps it was the content of morality, not any one God.
 
-The plans in this repository were frozen in Google Drive before the data they use were examined, but the protocol has not been through Stage 1 peer review or registered on OSF. More importantly, every judgement-based code was made by independent instances of one AI language model, with no human coder validating them:
+This repository tests those ideas against world history, using:
 
-* termination types of 429 Seshat polities (Study 1),
-* whether conquerors adopted the tradition of the conquered (H4b),
-* how old ethnographies evaluate seven cooperative behaviours (H9a).
+- 864 polities in the Seshat Global History Databank, from the end of the last Ice Age to the present;
+- 2,564 folklore motifs told across 1,265 societies;
+- the religions of 775 societies;
+- 1,600 autocratic regimes since 1789.
 
-Agreement between model instances measures the model's consistency, not human reliability. Treat every estimate here as exploratory. The deviations from the protocol are listed as D1 onward in protocol Section 12.
+The tests come from a pre-registered research protocol, and each one names in advance what result would count against it.
 
-The narrative-content measure (the Cooperative Content Index, CCI) uses a published dictionary, the Morality-as-Cooperation Dictionary (MAC-D), so it needs no judgement and is blind to outcomes. It measures how often each moral domain is mentioned, not whether a text endorses it.
+The short answer so far: counting moral words in sacred texts does not predict how long states last. How rulers actually behave predicts how their regimes end.
 
-## Results in one line each
+## The ideas being tested
 
-| Hypothesis | Result |
-|---|---|
-| H1 content predicts endurance | Not supported: HR 1.08 per SD [0.90, 1.28], permutation p 0.51 |
-| H2 robust to drivers of power | Not supported: HR 1.08 [0.92, 1.25] |
-| H3 content precedes complexity | Not testable with a time-invariant score |
-| H4a internal collapse, not conquest | Not supported: sub-HR 1.15 [0.80, 1.66] |
-| H4b conquerors adopt high-content traditions | see `report/` |
-| H5 content apart from moralizing gods | No content effect to separate |
-| H6 experiment | Not run (needs real participants) |
-| H7 same effect in every era | Uninterpretable (early era rests on two traditions) |
-| H8 service-legitimated rule | Original proxy (belief in divine sanction of rulers) failed. Revised test on conduct (V-Dem, 1,600 autocratic regimes since 1789): cooperative rule ended violently less often (39 vs 63%) and was followed by faster growth and longer lives; no difference in duration, civil war or coups |
-| H9a behaviours judged good everywhere | see `report/` |
-| H9b moralizing God spreads by descent and scale | Supported: D = -0.20; OR 2.37 per level of hierarchy |
-| Study 2 folklore content and trust | Null for trust (pipeline check reproduces the trickster result) |
+1. **Stories as a second inheritance.** Biologists call the wall between what a body learns and what its genes pass on the Weismann barrier. Narratives cross it. If the moral content of stories is selected like a trait, then societies whose canonical stories carry more cooperative content (care for kin, loyalty, reciprocity, courage, respect, fairness, property) should endure longer. This should hold even after accounting for the armies, farms and populations that usually decide who survives.
+2. **Service outlasts force.** Rulers who govern by serving and by accepting limits should leave sturdier societies than rulers who govern by fear. A simple model in the protocol predicts something more specific. Rule by force need not be shorter, but it should end more often in sudden internal collapse, because it holds only while the fear holds.
+3. **Convergence on content, not on God.** If humanity converged on anything, it should be the behaviours that make cooperation work, valued everywhere. Belief in a moralizing God should instead spread like an inherited institution of large states.
 
-The full per-hypothesis account, with the reasons each result came out as it did and how each could be tested better, is in the Google Doc "Narrative Selection and Societal Endurance: Results by Hypothesis". Its source text is in `report/report_text.py`.
+## What was found
+
+**Moral words in scriptures do not predict how long states last.** The canonical texts of 15 traditions were scored with a published dictionary of cooperative morality (the Bible, the Qur'an, the Rig Veda, the Analects, the Kojiki, the Iliad, and others). The score did not predict how long 253 states lasted: hazard ratio 1.08 per standard deviation [0.90, 1.28]. A strong protective effect is ruled out; a small one is not. The test was weak, though. Only 15 traditions vary, and a word count measures how often morality is mentioned, not whether a story endorses it. The Kojiki scores highest because its genealogies are full of kinship words.
+
+**In folklore, what predicts trust is how a story ends, not which moral words it uses.** Earlier work found that societies whose folk tales punish the trickster are more trusting today, even among the children of immigrants. That result reproduced exactly here. Counting cooperative words in the same tales predicted nothing.
+
+**Belief in a moralizing God spreads like an inherited institution of large states.** Across 775 societies on a global language tree, belief in a moralizing high god clusters by ancestry (D = -0.20, where 1 would be a random scatter). Each extra level of political hierarchy multiplies its odds by 2.4, and prevalence rises from 6 percent in village societies to 61 percent in societies with four levels of hierarchy. This fits the idea that people converged on moral content while the God travelled with states, conquest and conversion.
+
+**Believing that rulers answer to God did not protect states.** Polities whose rulers were believed to be under divine moral judgement suffered no less in their crises. Their crises more often ended with the ruler deposed or killed: 67 versus 22 percent. Those removals came with civil war, not reform; none of 93 removals was followed by new public goods. After an internal collapse, the next state in the same region was less complex than after an ordinary transition; after a conquest it was not.
+
+**What rulers do matters more than what is claimed for them.** Human experts (V-Dem) rated every autocracy since 1789 on dominance (political killings, torture, repression) and on cooperation (respecting the constitution, accepting courts and legislatures, spending on public goods rather than favours). The results:
+- **How regimes end:** the most cooperative quarter ended violently from within 39 percent of the time, against 63 percent for the least cooperative quarter (chart above).
+- **How long they last:** cooperative regimes did not last longer. That is exactly what the protocol's model predicted.
+- **Prosperity and health:** for each standard deviation more cooperative, a country grew 2 percent more over the following decade and gained half a year more of life expectancy over two decades.
+- **Not supported:** civil wars and coups were no less frequent.
+
+**Rule in the name of religion looks like rule by force.** Autocracies that legitimate themselves through religion grant less religious freedom to others. They kill and torture more, are less constrained by courts, and spend less on public goods. Nationalist and socialist regimes share parts of this profile; only religious legitimation has all of it.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="report/figures/fig2_religious_legitimation_dark.png">
+  <img alt="Autocracies that legitimate themselves through religion: less religious freedom, fewer public goods, weaker courts, more repression, killings and torture" src="report/figures/fig2_religious_legitimation_light.png" width="760">
+</picture>
+
+**Still running:**
+- **Conquerors:** whether conquerors adopt the stories of the people they conquer (107 of 117 episodes coded so far).
+- **Ethnographies:** whether a new sample of old ethnographies shows the seven cooperative behaviours valued everywhere.
+
+## Why it matters
+
+The boldest claim, that the moral content of stories selects which societies survive, did not show up when content was measured by word counts. That leaves two possibilities: the claim is wrong, or the measure is too blunt. The folklore result points to the second. Readers respond to whether a story rewards the cheat, not to how often it says "brother". The next test has to code what stories endorse.
+
+The leadership claim held up once it was measured by conduct rather than by belief. Force does not shorten a regime's life. It changes how the regime dies: in coups, assassinations and uprisings instead of orderly transitions, with poorer and less healthy societies left behind. And a ruler who claims God's authority is, on the evidence of the last century, more likely to rule by force than to be bound by morality.
+
+## How much to trust this
+
+These results are exploratory. The protocol has not been peer reviewed, and every analysis plan was fixed before its data were examined. Every deviation from plan is logged (D1 to D23 in the protocol).
+
+Three kinds of judgement were made by independent instances of an AI model (Claude), with no human coders:
+- how each state ended;
+- whether conquerors adopted the conquered tradition;
+- how ethnographies evaluate behaviours.
+
+Agreement between those instances shows the model is consistent, not that it is right. The other main sources were coded by human experts: Seshat, V-Dem, the Ethnographic Atlas and the folklore catalogue. A separate verification run re-derived the folklore and crisis numbers from scratch, and the errors it found are corrected and logged.
+
+## Read the full reports
+
+- [`report/RESULTS.md`](report/RESULTS.md): the result for every hypothesis, why it came out that way, and how it could be tested better.
+- [`report/PROTOCOL.pdf`](report/PROTOCOL.pdf): the registered-report protocol, with its deviations log and results sections.
 
 ## Layout
 
 | Folder | Contents |
 |---|---|
-| `data/seshat/` | Seshat Global History Databank, current public API release, downloaded 17 Oct 2026 (JSON of every table used) |
-| `study1/frame/` | Polity frame, coder brief (codebook v0.3), item batches, raw coder outputs for both passes, adjudication, source audit |
-| `study1/analysis/` | Covariates, Cox and Fine-Gray library, analysis script (frozen copy and post-freeze diff), results, specification curve, independent verification |
-| `cci/` | Corpus specification, retrieval and cleaning briefs, raw and cleaned public-domain texts with removal audit, MAC-D scorer, tradition scores |
-| `h4b/` | Conquest episodes, coder brief, batches, coder outputs, agreement, adjudication, analysis |
-| `h8/` | Within-region, literate-state and CrisisDB analyses; follow-up on the costs of removal and internal collapse |
-| `h8r/` | Revised H8: dominance versus cooperative ruler conduct and religious legitimation (V-Dem v15) |
-| `verification/` | Independent re-derivation of the Study 2 and CrisisDB numbers |
-| `h9a/` | Sampling rule, candidate list, passages, coder brief, codes, results |
-| `h9b/` | Phylogenetic signal (D statistic) and political-scale models on the Ethnographic Atlas |
+| `report/` | Results report (Markdown), protocol (PDF), figures, and the scripts that build them |
+| `data/seshat/` | Seshat Global History Databank, public API release downloaded 17 October 2026 |
+| `study1/` | State endings: polity frame, coding brief, coder outputs for both passes, adjudication, source audit, survival models, specification curve |
+| `cci/` | Public-domain canonical texts, cleaning audit, dictionary scorer and tradition scores |
 | `study2/` | Folklore motif scoring and the trust, immigrant and political-scale models |
-| `protocol/` | Scripts used to write protocol sections into the Google Doc |
-| `report/` | Results report text and the repository sync script |
-| `tools/` | Helpers for moving binary files through the browser |
+| `h4b/` | Conquest episodes, coding brief, coder outputs, agreement and analysis |
+| `h8/` | Rulers under divine judgement: survival models, crisis models, and the costs of removal and collapse |
+| `h8r/` | Ruler conduct (dominance versus cooperation) and religious legitimation, V-Dem v15 |
+| `h9a/` | Ethnography sample, passage extraction, coding brief and codes |
+| `h9b/` | Phylogenetic signal of moralizing-god belief on the Ethnographic Atlas |
+| `verification/` | Independent re-derivation of the folklore and crisis results |
+| `protocol/` | Scripts that wrote the protocol's later sections |
+| `tools/` | Helpers for moving files through the browser |
 
 ## Reproducing
 
-The scripts were run with Python 3.13, numpy, pandas, scipy, statsmodels, scikit-learn and dendropy. They use the absolute paths of the run environment (`/root/analysis/...` for this repository's contents, `/root/data/...` for third-party data). The frozen copies have to stay byte-identical, so the paths were left as they are. To rerun, put the repository folders at those paths, or edit the paths.
+The scripts were run with Python 3.13, numpy, pandas, scipy, statsmodels, scikit-learn, dendropy and pyreadr. They use the absolute paths of the environment they ran in: `/root/analysis/...` for this repository's contents and `/root/data/...` for third-party data. Frozen copies of the analysis scripts must stay byte-identical, so the paths were left unchanged. To rerun, place the folders at those paths or edit the paths at the top of each script.
 
-Third-party data not included here (size or licence), with where to get them:
+Third-party data not stored here, and where to get them:
 
-* Michalopoulos and Xue (2021), "Folklore", replication archive: Harvard Dataverse, https://doi.org/10.7910/DVN/IXOHKB, unpacked to `/root/data/mx_folklore/`.
-* V-Dem v15: the vdemdata package, https://github.com/vdeminstitute/vdemdata (data/vdem.RData), read with pyreadr into `/root/data/ext_vdem/vdem.pkl`. V-Dem data are CC BY-SA 4.0.
-* D-PLACE CLDF data (Ethnographic Atlas, Glottolog trees): https://github.com/D-PLACE/dplace-cldf, cloned to `/root/data/dplace-cldf/`.
-* MAC-D dictionaries: the eMACDscore package, https://github.com/medianeuroscience/eMACDscore, cloned to `/root/data/ext/eMACDscore/`. The package's dictionary files are `macdvirtue.dic` and `macdvice.dic`. The vice file is the same size as the OSF original (https://osf.io/86qry). The virtue file (28,332 bytes) is 9 bytes smaller than the OSF copy, and the OSF copy could not be downloaded to find the difference (see deviations).
+- **Folklore:** Michalopoulos and Xue (2021), *Folklore*, replication archive: https://doi.org/10.7910/DVN/IXOHKB
+- **V-Dem v15:** https://github.com/vdeminstitute/vdemdata (`data/vdem.RData`)
+- **D-PLACE** (Ethnographic Atlas and Glottolog trees): https://github.com/D-PLACE/dplace-cldf
+- **MAC-D dictionaries:** the eMACDscore package, https://github.com/medianeuroscience/eMACDscore. These are the package's copies of the OSF originals (https://osf.io/86qry). The virtue file is 9 bytes smaller than the OSF listing; see deviation D15 in the protocol.
 
 ## Licences
 
-* Code in this repository: MIT, unless a file says otherwise.
-* Seshat data: CC BY-NC-SA 4.0 (Seshat: Global History Databank, https://seshat-db.com). Non-commercial use only; cite Turchin et al. and the Seshat databank.
-* The texts in `cci/texts` and `cci/clean` are public-domain translations, all published before 1929. Each one's source (Project Gutenberg, Sefaria, sacred-texts.com) is listed in `cci/texts/manifest.csv`. Licence headers and footers were stripped when the texts were retrieved. These files are not Project Gutenberg editions.
-* The model-generated codes, briefs and results are released under CC BY 4.0.
+- **Code:** MIT.
+- **Seshat-derived files** (`data/seshat`, `study1`, `h8`): CC BY-NC-SA 4.0, as the Seshat licence requires. Non-commercial use only; cite the Seshat Global History Databank (https://seshat-db.com).
+- **V-Dem-derived results** (`h8r`): CC BY-SA 4.0, following V-Dem's licence.
+- **Texts in `cci/texts` and `cci/clean`:** public-domain translations, all published before 1929. Sources are listed in `cci/texts/manifest.csv`. Licence headers were stripped at retrieval, so these are not Project Gutenberg editions.
+- **Other coding records, reports and figures:** CC BY 4.0.
 
-## Citation
+## Author
 
-Bassatne, H. (2026). Narrative Selection and Societal Endurance: exploratory analyses of a Registered Report protocol. GitHub repository hamzabass16/narrative-selection-study.
+Hamza Bassatné. Data collection, coding and analysis were carried out with the assistance of Claude (Anthropic), following the author's protocol.
+
+Citation: Bassatné, H. (2026). *Narrative Selection and Societal Endurance: exploratory results.* https://github.com/hamzabass16/narrative-selection-study
