@@ -1,0 +1,335 @@
+NGA,PolID,Start,End,World Region,successor,end_type
+Big Island Hawaii,Hawaii1,1000,1199,Oceania-Australia,Hawaii2,transformation (censored)
+Big Island Hawaii,Hawaii2,1200,1649,Oceania-Australia,Hawaii3,uncoded
+Big Island Hawaii,Hawaii3,1650,1777,Oceania-Australia,USKameh,uncoded
+Big Island Hawaii,USKameh,1778,1819,Oceania-Australia,,right-censored (end of record)
+Cahokia,USMisEW,-600,-151,NorthAmerica,USMisMW,transformation (censored)
+Cahokia,USMisMW,-150,299,NorthAmerica,USMisRo,transformation (censored)
+Cahokia,USMisRo,300,449,NorthAmerica,USMisMu,transformation (censored)
+Cahokia,USMisMu,450,599,NorthAmerica,USMisPa,transformation (censored)
+Cahokia,USMisPa,600,749,NorthAmerica,USMisSp,transformation (censored)
+Cahokia,USMisSp,750,899,NorthAmerica,USMisME,transformation (censored)
+Cahokia,USMisME,900,1049,NorthAmerica,USCahoE,transformation (censored)
+Cahokia,USCahoE,1050,1199,NorthAmerica,USCahoL,transformation (censored)
+Cahokia,USCahoL,1200,1274,NorthAmerica,USMisSd,transformation (censored)
+Cahokia,USMisSd,1275,1399,NorthAmerica,USOneot,replacement
+Cahokia,USOneot,1400,1639,NorthAmerica,USIllin,replacement
+Cahokia,USIllin,1640,1717,NorthAmerica,,right-censored (end of record)
+Cambodian Basin,KhFunaE,225,539,SoutheastAsia,KhFunaL,transformation (censored)
+Cambodian Basin,KhFunaL,540,639,SoutheastAsia,KhChenl,transformation (censored)
+Cambodian Basin,KhChenl,640,801,SoutheastAsia,KhAngkE,transformation (censored)
+Cambodian Basin,KhAngkE,802,1079,SoutheastAsia,KhAngkC,transformation (censored)
+Cambodian Basin,KhAngkC,1080,1219,SoutheastAsia,KhAngkL,transformation (censored)
+Cambodian Basin,KhAngkL,1220,1431,SoutheastAsia,KhCambd,transformation (censored)
+Cambodian Basin,KhCambd,1432,1593,SoutheastAsia,ThAyuth,transformation (censored)
+Cambodian Basin,ThAyuth,1594,1767,SoutheastAsia,ThRattn,transformation (censored)
+Cambodian Basin,ThRattn,1782,1873,SoutheastAsia,,right-censored (end of record)
+Central Java,IdCJBun,-400,499,SoutheastAsia,IdKalin,uncoded
+Central Java,IdKalin,500,731,SoutheastAsia,IdMedng,transformation (censored)
+Central Java,IdMedng,732,1019,SoutheastAsia,IdKedir,transformation (censored)
+Central Java,IdKedir,1049,1222,SoutheastAsia,IdMajap,conquest
+Central Java,IdMajap,1291,1518,SoutheastAsia,IdMatrm,transformation (censored)
+Central Java,IdMatrm,1568,1703,SoutheastAsia,,right-censored (end of record)
+Chuuk Islands,FmTrukE,1775,1885,Oceania-Australia,FmTrukL,conquest
+Chuuk Islands,FmTrukL,1886,1948,Oceania-Australia,,right-censored (end of record)
+Crete,GrCrNeo,-7000,-3001,Europe,GrCrPre,uncoded
+Crete,GrCrPre,-3000,-1901,Europe,GrCrOPa,uncoded
+Crete,GrCrOPa,-1900,-1701,Europe,GrCrNPa,uncoded
+Crete,GrCrNPa,-1700,-1451,Europe,GrCrMPa,uncoded
+Crete,GrCrMPa,-1450,-1301,Europe,GrCrPPa,uncoded
+Crete,GrCrPPa,-1300,-1201,Europe,GrCrFPa,uncoded
+Crete,GrCrFPa,-1200,-1001,Europe,GrCrGeo,uncoded
+Crete,GrCrGeo,-1000,-711,Europe,GrCrArc,uncoded
+Crete,GrCrArc,-710,-501,Europe,GrCrCls,uncoded
+Crete,GrCrCls,-500,-322,Europe,GrCrHel,uncoded
+Crete,GrCrHel,-323,-69,Europe,ItRomPr,absorption
+Crete,GrCrEmr,824,960,Europe,TrByzM2,transformation (censored)
+Crete,TrByzM3,1073,1203,Europe,GrCrVen,uncoded
+Crete,GrCrVen,1204,1669,Europe,,right-censored (end of record)
+Cuzco,PeCuzLF,1,199,SouthAmerica,PeCuzE1,transformation (censored)
+Cuzco,PeCuzE1,200,499,SouthAmerica,PeCuzE2,disputed: absorption/transformation (censored)
+Cuzco,PeCuzE2,500,649,SouthAmerica,PeWari*,disputed: conquest/transformation (censored)
+Cuzco,PeWari*,650,999,SouthAmerica,PeCuzL1,disputed: replacement/transformation (censored)
+Cuzco,PeCuzL1,1000,1249,SouthAmerica,PeCuzL2,transformation (censored)
+Cuzco,PeCuzL2,1250,1399,SouthAmerica,PeInca*,disputed: absorption/replacement/transformation (censored)
+Cuzco,PeInca*,1400,1531,SouthAmerica,EsHabsb,transformation (censored)
+Deccan,InDecNL,-2700,-1201,SouthAsia,InDecIA,transformation (censored)
+Deccan,InDecIA,-1200,-301,SouthAsia,InMaury,transformation (censored)
+Deccan,InDecKg,-205,-101,SouthAsia,InSataL,uncoded
+Deccan,InSataL,-100,203,SouthAsia,InVakat,uncoded
+Deccan,InVakat,286,335,SouthAsia,GapDec,uncoded
+Deccan,GapDec,351,450,SouthAsia,InKadam,transformation (censored)
+Deccan,InKadam,451,540,SouthAsia,InChaBd,transformation (censored)
+Deccan,InChaBd,541,756,SouthAsia,InRasht,conquest
+Deccan,InChaKl,974,1055,SouthAsia,InHoysa,transformation (censored)
+Deccan,InHoysa,1192,1253,SouthAsia,InKampi,conquest
+Deccan,InKampi,1280,1310,SouthAsia,InVijay,absorption
+Deccan,InVijay,1337,1646,SouthAsia,InMugl*,transformation (censored)
+Deccan,InEInCo,1800,1857,SouthAsia,InBritP,uncoded
+Deccan,InBritP,1858,1946,SouthAsia,,right-censored (end of record)
+Finger Lakes,UsIroqE,1566,1713,NorthAmerica,UsIroqL,transformation (censored)
+Finger Lakes,UsIroqL,1714,1848,NorthAmerica,,right-censored (end of record)
+Galilee,IlCanaa,-2000,-1181,SouthwestAsia,LbAcPho,uncoded
+Galilee,LbAcPho,-1180,-1031,SouthwestAsia,IlYisrl,uncoded
+Galilee,IlYisrl,-1030,-722,SouthwestAsia,IqNAssr,uncoded
+Galilee,IqNAssr,-721,-539,SouthwestAsia,IrAchae,transformation (censored)
+Galilee,EgPtol1,-300,-199,SouthwestAsia,IrSeleu,transformation (censored)
+Galilee,IlJudea,-103,-62,SouthwestAsia,,right-censored (end of record)
+Garo Hills,InGaroE,1775,1867,SouthAsia,InGaroL,conquest
+Garo Hills,InGaroL,1868,1956,SouthAsia,,right-censored (end of record)
+Ghanaian Coast,GhAshnE,1501,1701,Africa,GhAshnL,transformation (censored)
+Ghanaian Coast,GhAshnL,1702,1895,Africa,GbEmpir,uncoded
+Ghanaian Coast,GbEmpir,1895,1914,Africa,,right-censored (end of record)
+Iceland,IsCommw,930,1261,Europe,NorKing,transformation (censored)
+Iceland,NorKing,1262,1380,Europe,,right-censored (end of record)
+Kachi Plain,PkAcerN,-7500,-5501,SouthAsia,PkCeraN,transformation (censored)
+Kachi Plain,PkCeraN,-5500,-4001,SouthAsia,PkChalc,uncoded
+Kachi Plain,PkChalc,-4000,-3201,SouthAsia,PkPreUr,transformation (censored)
+Kachi Plain,PkPreUr,-3200,-2501,SouthAsia,PkUrbn1,transformation (censored)
+Kachi Plain,PkUrbn1,-2500,-2101,SouthAsia,PkUrbn2,transformation (censored)
+Kachi Plain,PkUrbn2,-2100,-1801,SouthAsia,PkPostU,uncoded
+Kachi Plain,PkPostU,-1800,-1301,SouthAsia,PkProto,transformation (censored)
+Kachi Plain,PkProto,-1300,-551,SouthAsia,IrAchae,transformation (censored)
+Kachi Plain,InMaury,-303,-194,SouthAsia,PkIndGr,uncoded
+Kachi Plain,PkIndGr,-145,-96,SouthAsia,IrPart1,conquest
+Kachi Plain,IrPart1,-95,21,SouthAsia,AfKushn,transformation (censored)
+Kachi Plain,AfKushn,30,250,SouthAsia,IrSasn1,transformation (censored)
+Kachi Plain,AfHepht,496,531,SouthAsia,IrSasn2,transformation (censored)
+Kachi Plain,PkSind1,862,1192,SouthAsia,AfGhurd,uncoded
+Kachi Plain,AfGhurd,1193,1206,SouthAsia,InDelh*,transformation (censored)
+Kachi Plain,InDelh*,1207,1339,SouthAsia,PkSind2,uncoded
+Kachi Plain,PkSind2,1340,1519,SouthAsia,InMugl*,transformation (censored)
+Kachi Plain,InMugl*,1526,1740,SouthAsia,AfDurrn,transformation (censored)
+Kachi Plain,AfDurrn,1748,1826,SouthAsia,,right-censored (end of record)
+Kansai,JpYayoi,-300,249,EastAsia,JpKofun,transformation (censored)
+Kansai,JpKofun,250,537,EastAsia,JpAsuka,transformation (censored)
+Kansai,JpAsuka,538,710,EastAsia,JpHeian,transformation (censored)
+Kansai,JpHeian,794,1184,EastAsia,JpKamak,transformation (censored)
+Kansai,JpKamak,1185,1333,EastAsia,JpAshik,transformation (censored)
+Kansai,JpAshik,1336,1466,EastAsia,JpSengk,transformation (censored)
+Kansai,JpSengk,1467,1567,EastAsia,JpAzMom,transformation (censored)
+Kansai,JpAzMom,1568,1602,EastAsia,JpTokgw,internal
+Kansai,JpTokgw,1603,1868,EastAsia,,right-censored (end of record)
+Kapuasi Basin,IdBrokE,1650,1841,SoutheastAsia,IdBrokL,conquest
+Kapuasi Basin,IdBrokL,1842,1987,SoutheastAsia,,right-censored (end of record)
+Konya Plain,TrNeoER,-9600,-7001,SouthwestAsia,TrNeoCR,uncoded
+Konya Plain,TrNeoCR,-7000,-6601,SouthwestAsia,TrNeoLT,uncoded
+Konya Plain,TrNeoLT,-6600,-6001,SouthwestAsia,TrClcER,transformation (censored)
+Konya Plain,TrClcER,-6000,-5501,SouthwestAsia,GapKP1,uncoded
+Konya Plain,GapKP1,-5500,-5001,SouthwestAsia,TrClcLT,transformation (censored)
+Konya Plain,TrClcLT,-5000,-3001,SouthwestAsia,TrBrzER,disputed: replacement/transformation (censored)
+Konya Plain,TrBrzER,-3000,-2001,SouthwestAsia,TrBrzMD,transformation (censored)
+Konya Plain,TrBrzMD,-2000,-1700,SouthwestAsia,TrHatOK,uncoded
+Konya Plain,TrHatOK,-1650,-1501,SouthwestAsia,TrBrzL2,transformation (censored)
+Konya Plain,TrBrzL2,-1500,-1400,SouthwestAsia,TrHatNK,transformation (censored)
+Konya Plain,TrHatNK,-1344,-1181,SouthwestAsia,TrNHitt,transformation (censored)
+Konya Plain,TrNHitt,-1180,-901,SouthwestAsia,TrTabal,transformation (censored)
+Konya Plain,TrTabal,-900,-837,SouthwestAsia,TrPhryg,transformation (censored)
+Konya Plain,TrPhryg,-836,-696,SouthwestAsia,TrLydia,uncoded
+Konya Plain,TrLydia,-670,-547,SouthwestAsia,IrAchae,transformation (censored)
+Konya Plain,TrLysim,-300,-282,SouthwestAsia,IrSeleu,transformation (censored)
+Konya Plain,TrCappL,-129,-95,SouthwestAsia,ItRomPr,absorption
+Konya Plain,ItRomPr,-31,283,SouthwestAsia,TrRomDm,transformation (censored)
+Konya Plain,TrERom*,395,607,SouthwestAsia,TrByzM1,transformation (censored)
+Konya Plain,TrByzM1,632,866,SouthwestAsia,TrByzM2,transformation (censored)
+Konya Plain,TrByzM2,867,1072,SouthwestAsia,TrRum**,absorption
+Konya Plain,TrRum**,1093,1243,SouthwestAsia,IrIlkhn,disputed: absorption/conquest
+Konya Plain,IrIlkhn,1263,1326,SouthwestAsia,TrOttm1,conquest
+Konya Plain,TrOttm1,1393,1402,SouthwestAsia,TrOttm2,transformation (censored)
+Konya Plain,TrOttm2,1421,1516,SouthwestAsia,TrOttm3,transformation (censored)
+Konya Plain,TrOttm5,1839,1922,SouthwestAsia,,right-censored (end of record)
+Latium,ItLatCA,-3600,-1801,Europe,ItLatBA,transformation (censored)
+Latium,ItLatBA,-1800,-1001,Europe,ItLatIA,transformation (censored)
+Latium,ItLatIA,-1000,-717,Europe,ItRomRg,transformation (censored)
+Latium,ItRomRg,-716,-510,Europe,ItRomER,transformation (censored)
+Latium,ItRomER,-509,-265,Europe,ItRomMR,transformation (censored)
+Latium,ItRomMR,-264,-134,Europe,ItRomLR,transformation (censored)
+Latium,ItRomLR,-133,-29,Europe,ItRomPr,absorption
+Latium,ItRomWe,395,457,Europe,ItOstrg,disputed: conquest/transformation (censored)
+Latium,ItOstrg,493,554,Europe,ItRav**,transformation (censored)
+Latium,ItRav**,568,710,Europe,ItStPet,conquest
+Latium,ItStPet,711,903,Europe,ItPapEM,transformation (censored)
+Latium,ItPapEM,904,1197,Europe,ItPapHM,transformation (censored)
+Latium,ItPapHM,1198,1308,Europe,ItPapRn,transformation (censored)
+Latium,ItPapRn,1378,1526,Europe,ItPapM1,transformation (censored)
+Latium,ItPapM1,1527,1647,Europe,ItPapM2,transformation (censored)
+Latium,ItPapM2,1648,1800,Europe,,right-censored (end of record)
+Lena River Valley,RuYakuE,1400,1642,CentralEurasia,RuYakuL,conquest
+Lena River Valley,RuYakuL,1643,1900,CentralEurasia,,right-censored (end of record)
+Lowland Andes,EcJivaE,1534,1830,SouthAmerica,EcJivaL,transformation (censored)
+Lowland Andes,EcJivaL,1831,1931,SouthAmerica,,right-censored (end of record)
+Middle Ganga,InMahaJ,-600,-325,SouthAsia,InMaury,transformation (censored)
+Middle Ganga,InSunga,-187,-65,SouthAsia,InAyodE,uncoded
+Middle Ganga,InAyodE,-64,34,SouthAsia,AfKushn,transformation (censored)
+Middle Ganga,InGupta,320,514,SouthAsia,InMagad,uncoded
+Middle Ganga,InMagad,550,606,SouthAsia,InKanau,uncoded
+Middle Ganga,InKanau,650,779,SouthAsia,InRasht,conquest
+Middle Ganga,InRasht,780,809,SouthAsia,InGurjr,uncoded
+Middle Ganga,InGurjr,810,1030,SouthAsia,InGhdvl,uncoded
+Middle Ganga,InGhdvl,1090,1202,SouthAsia,InDelh*,transformation (censored)
+Middle Yellow River Valley,CnYngsh,-5000,-3001,EastAsia,CnLngsh,transformation (censored)
+Middle Yellow River Valley,CnLngsh,-3000,-1900,EastAsia,CnErlit,transformation (censored)
+Middle Yellow River Valley,CnErlit,-1850,-1651,EastAsia,CnErlig,transformation (censored)
+Middle Yellow River Valley,CnErlig,-1650,-1251,EastAsia,CnShang,transformation (censored)
+Middle Yellow River Valley,CnShang,-1250,-1123,EastAsia,CnWZhou,conquest
+Middle Yellow River Valley,CnWZhou,-1122,-795,EastAsia,CnJinSA,conquest
+Middle Yellow River Valley,CnJinSA,-794,-489,EastAsia,CnWeiWS,conquest
+Middle Yellow River Valley,CnWeiWS,-488,-223,EastAsia,CnWHan*,conquest
+Middle Yellow River Valley,CnWHan*,-202,9,EastAsia,CnEHan*,transformation (censored)
+Middle Yellow River Valley,CnEHan*,25,219,EastAsia,CnErJin,transformation (censored)
+Middle Yellow River Valley,CnErJin,265,317,EastAsia,CnNWei*,transformation (censored)
+Middle Yellow River Valley,CnNWei*,386,557,EastAsia,CnSui**,transformation (censored)
+Middle Yellow River Valley,CnSui**,581,617,EastAsia,CnTangE,transformation (censored)
+Middle Yellow River Valley,CnTangE,618,762,EastAsia,CnTangL,transformation (censored)
+Middle Yellow River Valley,CnTangL,763,907,EastAsia,CnNSong,absorption
+Middle Yellow River Valley,CnNSong,960,1126,EastAsia,CnLrJin,transformation (censored)
+Middle Yellow River Valley,CnLrJin,1127,1234,EastAsia,CnYuan*,transformation (censored)
+Middle Yellow River Valley,CnYuan*,1271,1367,EastAsia,CnMing*,absorption
+Middle Yellow River Valley,CnMing*,1368,1643,EastAsia,CnQingE,transformation (censored)
+Middle Yellow River Valley,CnQingE,1644,1795,EastAsia,CnQingL,transformation (censored)
+Middle Yellow River Valley,CnQingL,1796,1912,EastAsia,,right-censored (end of record)
+Niger Inland Delta,MlJeJe1,-250,49,Africa,MlJeJe2,transformation (censored)
+Niger Inland Delta,MlJeJe2,50,399,Africa,MlJeJe3,transformation (censored)
+Niger Inland Delta,MlJeJe3,400,899,Africa,MlJeJe4,transformation (censored)
+Niger Inland Delta,MlJeJe4,900,999,Africa,MrWagdM,transformation (censored)
+Niger Inland Delta,MrWagdM,1000,1077,Africa,MrWagdL,transformation (censored)
+Niger Inland Delta,MrWagdL,1100,1202,Africa,MlMali*,transformation (censored)
+Niger Inland Delta,MlMali*,1235,1410,Africa,MlSong2,transformation (censored)
+Niger Inland Delta,MlSong2,1493,1590,Africa,MaSaadi,transformation (censored)
+Niger Inland Delta,MaSaadi,1591,1618,Africa,MlSegou,uncoded
+Niger Inland Delta,MlSegou,1640,1711,Africa,MlBaman,transformation (censored)
+Niger Inland Delta,MlBaman,1712,1818,Africa,,right-censored (end of record)
+North Colombia,CoNahua,250,1049,SouthAmerica,CoTairo,transformation (censored)
+North Colombia,CoTairo,1050,1524,SouthAmerica,,right-censored (end of record)
+Orkhon Valley,MnXngnE,-1400,-300,CentralEurasia,MnXngnM,transformation (censored)
+Orkhon Valley,MnXngnM,-209,-60,CentralEurasia,MnXngnL,transformation (censored)
+Orkhon Valley,MnXngnL,-59,99,CentralEurasia,MnXianb,disputed: absorption/transformation (censored)
+Orkhon Valley,MnXianb,100,250,CentralEurasia,MnRourn,transformation (censored)
+Orkhon Valley,MnRourn,300,551,CentralEurasia,MnETurk,transformation (censored)
+Orkhon Valley,MnETurk,583,630,CentralEurasia,MnTurk2,absorption
+Orkhon Valley,MnTurk2,684,744,CentralEurasia,MnUigur,disputed: conquest/transformation (censored)
+Orkhon Valley,MnUigur,745,840,CentralEurasia,MnShiwe,uncoded
+Orkhon Valley,MnShiwe,841,907,CentralEurasia,MnKhit2,absorption
+Orkhon Valley,MnKhit2,960,1125,CentralEurasia,MnMongE,uncoded
+Orkhon Valley,MnMongE,1126,1205,CentralEurasia,MnMngKh,disputed: absorption/conquest
+Orkhon Valley,MnMngKh,1206,1367,CentralEurasia,MnMongL,transformation (censored)
+Orkhon Valley,MnMongL,1368,1689,CentralEurasia,MnZungh,absorption
+Orkhon Valley,MnZungh,1695,1745,CentralEurasia,CnQingL,transformation (censored)
+Oro PNG,PgOrokE,1734,1883,Oceania-Australia,PgOrokL,conquest
+Oro PNG,PgOrokL,1884,1942,Oceania-Australia,,right-censored (end of record)
+Paris Basin,FrBeakr,-3200,-2201,Europe,FrAtlBA,transformation (censored)
+Paris Basin,FrAtlBA,-2200,-1001,Europe,FrHallA,transformation (censored)
+Paris Basin,FrHallA,-1000,-901,Europe,FrHallB,transformation (censored)
+Paris Basin,FrHallB,-900,-701,Europe,FrHallC,transformation (censored)
+Paris Basin,FrHallC,-700,-601,Europe,FrHallD,transformation (censored)
+Paris Basin,FrHallD,-600,-475,Europe,FrTeneA,disputed: replacement/transformation (censored)
+Paris Basin,FrTeneA,-474,-325,Europe,FrTeneB,transformation (censored)
+Paris Basin,FrTeneB,-324,-175,Europe,FrTeneC,transformation (censored)
+Paris Basin,FrTeneC,-174,-27,Europe,ItRomPr,absorption
+Paris Basin,TrRomDm,284,473,Europe,FrMervE,conquest
+Paris Basin,FrMervE,481,542,Europe,FrMervM,transformation (censored)
+Paris Basin,FrMervM,543,686,Europe,FrMervL,transformation (censored)
+Paris Basin,FrMervL,687,750,Europe,FrCarlE,transformation (censored)
+Paris Basin,FrCarlE,752,839,Europe,FrCarlL,transformation (censored)
+Paris Basin,FrCarlL,840,986,Europe,FrCaptE,transformation (censored)
+Paris Basin,FrCaptE,987,1149,Europe,FrCaptL,transformation (censored)
+Paris Basin,FrCaptL,1150,1327,Europe,FrValoE,transformation (censored)
+Paris Basin,FrValoE,1328,1449,Europe,FrValoL,transformation (censored)
+Paris Basin,FrValoL,1450,1588,Europe,FrBurbE,transformation (censored)
+Paris Basin,FrBurbE,1589,1659,Europe,FrBurbL,transformation (censored)
+Paris Basin,FrBurbL,1660,1788,Europe,,right-censored (end of record)
+Sogdiana,TjSaraz,-3500,-2001,CentralEurasia,KzAndro,uncoded
+Sogdiana,KzAndro,-2000,-1401,CentralEurasia,UzKok01,uncoded
+Sogdiana,UzKok01,-1400,-1000,CentralEurasia,UzKhw01,disputed: replacement/transformation (censored)
+Sogdiana,UzKhw01,-999,-751,CentralEurasia,UzKok02,replacement
+Sogdiana,UzKok02,-750,-600,CentralEurasia,IrAchae,transformation (censored)
+Sogdiana,AfGrBct,-248,-130,CentralEurasia,AfTochr,conquest
+Sogdiana,AfTochr,-129,29,CentralEurasia,AfKushn,transformation (censored)
+Sogdiana,IrSasn1,231,425,CentralEurasia,AfHepht,conquest
+Sogdiana,KgWTurk,564,603,CentralEurasia,UzSogdi,transformation (censored)
+Sogdiana,UzSogdi,604,711,CentralEurasia,IqAbbs1,transformation (censored)
+Sogdiana,UzSamnd,876,990,CentralEurasia,KgKarKh,conquest
+Sogdiana,KgKarKh,991,1212,CentralEurasia,UzChagt,transformation (censored)
+Sogdiana,UzChagt,1263,1361,CentralEurasia,UzTimur,transformation (censored)
+Sogdiana,UzJanid,1599,1747,CentralEurasia,,right-censored (end of record)
+Southern China Hills,CnHQngL,1701,1895,EastAsia,CnHChin,transformation (censored)
+Southern China Hills,CnHChin,1896,1941,EastAsia,,right-censored (end of record)
+Susiana,IrPrCer,-7800,-7201,SouthwestAsia,IrForma,uncoded
+Susiana,IrForma,-7200,-7001,SouthwestAsia,IrArcha,uncoded
+Susiana,IrArcha,-7000,-6001,SouthwestAsia,IrKhzE*,uncoded
+Susiana,IrKhzE*,-6000,-5701,SouthwestAsia,IrKhzEM,transformation (censored)
+Susiana,IrKhzEM,-5700,-5101,SouthwestAsia,IrKhzM*,uncoded
+Susiana,IrKhzM*,-5100,-4701,SouthwestAsia,IrKhzL*,uncoded
+Susiana,IrKhzL*,-4700,-4301,SouthwestAsia,IrSusa1,transformation (censored)
+Susiana,IrSusa1,-4300,-3801,SouthwestAsia,IrSusa2,uncoded
+Susiana,IrSusa2,-3800,-3101,SouthwestAsia,IrSusa3,uncoded
+Susiana,IrSusa3,-3100,-2676,SouthwestAsia,IrAwanE,uncoded
+Susiana,IrAwanE,-2675,-2251,SouthwestAsia,IqAkkad,disputed: absorption/transformation (censored)
+Susiana,IqAkkad,-2250,-2113,SouthwestAsia,IqUrIII,uncoded
+Susiana,IqUrIII,-2112,-2029,SouthwestAsia,IrShima,transformation (censored)
+Susiana,IrShima,-2028,-1901,SouthwestAsia,IrSukkE,uncoded
+Susiana,IrSukkE,-1900,-1701,SouthwestAsia,IrSukkL,transformation (censored)
+Susiana,IrSukkL,-1700,-1501,SouthwestAsia,IrMElm1,conquest
+Susiana,IrMElm1,-1500,-1401,SouthwestAsia,IrMElm2,conquest
+Susiana,IrMElm2,-1400,-1201,SouthwestAsia,IrMElm3,conquest
+Susiana,IrMElm3,-1200,-1101,SouthwestAsia,IrElmCP,transformation (censored)
+Susiana,IrElmCP,-1100,-901,SouthwestAsia,IrNElm1,uncoded
+Susiana,IrNElm1,-900,-744,SouthwestAsia,IrNElm2,transformation (censored)
+Susiana,IrNElm2,-743,-647,SouthwestAsia,IrNElm3,uncoded
+Susiana,IrNElm3,-612,-540,SouthwestAsia,IrAchae,transformation (censored)
+Susiana,IrSeleu,-312,-144,SouthwestAsia,IrPart1,conquest
+Susiana,IrElym2,25,215,SouthwestAsia,IrSasn1,transformation (censored)
+Susiana,IqAbbs1,750,946,SouthwestAsia,IrBuyid,disputed: conquest/transformation (censored)
+Susiana,IrBuyid,947,1055,SouthwestAsia,IrSeljq,conquest
+Susiana,IrSeljq,1056,1190,SouthwestAsia,IqAbbs2,transformation (censored)
+Susiana,IqAbbs2,1191,1207,SouthwestAsia,IrIlkhn,disputed: absorption/conquest
+Susiana,UzTimur,1394,1470,SouthwestAsia,IrAkKoy,replacement
+Susiana,IrAkKoy,1471,1504,SouthwestAsia,IrSafvd,disputed: conquest/transformation (censored)
+Susiana,IrSafvd,1505,1722,SouthwestAsia,IrQajar,conquest
+Susiana,IrQajar,1794,1925,SouthwestAsia,,right-censored (end of record)
+Upper Egypt,EgBadar,-4400,-3801,Africa,EgNaqa1,uncoded
+Upper Egypt,EgNaqa1,-3800,-3551,Africa,EgNaqa2,uncoded
+Upper Egypt,EgNaqa2,-3550,-3301,Africa,EgNaqa3,uncoded
+Upper Egypt,EgNaqa3,-3300,-3101,Africa,EgDyn1*,transformation (censored)
+Upper Egypt,EgDyn1*,-3100,-2901,Africa,EgDyn2*,transformation (censored)
+Upper Egypt,EgDyn2*,-2900,-2651,Africa,EgOldK1,uncoded
+Upper Egypt,EgOldK1,-2650,-2351,Africa,EgOldK2,transformation (censored)
+Upper Egypt,EgOldK2,-2350,-2151,Africa,EgRegns,uncoded
+Upper Egypt,EgRegns,-2150,-2017,Africa,EgMidKg,uncoded
+Upper Egypt,EgMidKg,-2016,-1721,Africa,EgThebH,uncoded
+Upper Egypt,EgThebH,-1720,-1567,Africa,EgNKThu,uncoded
+Upper Egypt,EgNKThu,-1550,-1294,Africa,EgNKRam,transformation (censored)
+Upper Egypt,EgNKRam,-1293,-1071,Africa,EgThebL,conquest
+Upper Egypt,EgThebL,-1070,-761,Africa,SdKusht,transformation (censored)
+Upper Egypt,SdKusht,-760,-656,Africa,EgSaite,replacement
+Upper Egypt,EgSaite,-655,-526,Africa,IrAchae,transformation (censored)
+Upper Egypt,IrAchae,-525,-405,Africa,EgIntOc,internal
+Upper Egypt,EgIntOc,-404,-343,Africa,EgPtol1,transformation (censored)
+Upper Egypt,EgPtol2,-217,-32,Africa,ItRomPr,absorption
+Upper Egypt,EgTulIk,868,969,Africa,TnFatim,conquest
+Upper Egypt,TnFatim,970,1170,Africa,EgAyyub,transformation (censored)
+Upper Egypt,EgMamBh,1260,1347,Africa,EgMamCP,transformation (censored)
+Upper Egypt,EgMamCP,1348,1411,Africa,EgMamBu,transformation (censored)
+Upper Egypt,EgMamBu,1412,1516,Africa,TrOttm3,transformation (censored)
+Upper Egypt,TrOttm4,1683,1798,Africa,,right-censored (end of record)
+Valley of Oaxaca,MxTieLa,-1400,-1151,NorthAmerica,MxSanGu,transformation (censored)
+Valley of Oaxaca,MxSanGu,-1150,-701,NorthAmerica,MxRosar,transformation (censored)
+Valley of Oaxaca,MxRosar,-700,-501,NorthAmerica,MxAlb1E,replacement
+Valley of Oaxaca,MxAlb1E,-500,-301,NorthAmerica,MxAlb1L,transformation (censored)
+Valley of Oaxaca,MxAlb1L,-300,-101,NorthAmerica,MxAlb2*,transformation (censored)
+Valley of Oaxaca,MxAlb2*,-100,199,NorthAmerica,MxAlb3A,transformation (censored)
+Valley of Oaxaca,MxAlb3A,200,499,NorthAmerica,MxAlb3B,transformation (censored)
+Valley of Oaxaca,MxAlb3B,500,899,NorthAmerica,MxAlb5*,transformation (censored)
+Valley of Oaxaca,MxAlb5*,900,1520,NorthAmerica,EsHabsb,transformation (censored)
+Valley of Oaxaca,EsHabsb,1521,1700,NorthAmerica,,right-censored (end of record)
+Yemeni Coastal Plain,YeHmyr2,378,525,SouthwestAsia,IrSasn2,transformation (censored)
+Yemeni Coastal Plain,IrSasn2,571,633,SouthwestAsia,SyCalUm,transformation (censored)
+Yemeni Coastal Plain,SyCalUm,664,750,SouthwestAsia,IqAbbs2,transformation (censored)
+Yemeni Coastal Plain,YeZiyad,869,1037,SouthwestAsia,YeWarLd,transformation (censored)
+Yemeni Coastal Plain,YeWarLd,1038,1174,SouthwestAsia,EgAyyub,transformation (censored)
+Yemeni Coastal Plain,EgAyyub,1175,1228,SouthwestAsia,YeRasul,uncoded
+Yemeni Coastal Plain,YeRasul,1229,1453,SouthwestAsia,YeTahir,uncoded
+Yemeni Coastal Plain,YeTahir,1454,1517,SouthwestAsia,TrOttm3,transformation (censored)
+Yemeni Coastal Plain,TrOttm3,1538,1636,SouthwestAsia,YeQasmi,transformation (censored)
+Yemeni Coastal Plain,YeQasmi,1637,1805,SouthwestAsia,YeOttoL,uncoded
+Yemeni Coastal Plain,YeOttoL,1873,1919,SouthwestAsia,,right-censored (end of record)

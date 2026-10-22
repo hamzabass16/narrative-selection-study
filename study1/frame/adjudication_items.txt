@@ -1,0 +1,70 @@
+ITEM F102 | P = Saadi Sultanate | database dates 1554 CE to 1659 CE | home area: Niger Inland Delta; region Maghreb | capital(s): Marrakesh | candidate successors: Segou Kingdom (1650 to 1712): next in NGA sequence (Niger Inland Delta) || Alawi Dynasty I (1631 to 1727): starts within 30 years of P end in same Seshat region | database 'succeeding entity' text: Alaouite Dynasty
+  Coder A: successor=Shabana (Shbanat) chief Abd al-Karim ibn Abi Bakr ash-Shbani in Marrakesh (1659-1668); then Alawi Sultanate (Marrakesh taken 1669); Q1=S1; Q2=T1c; Q3=Y; Q4=Y; Q5=2; end_year=1659
+    notes: After the 1603 succession war the realm fragmented; Saadis kept Marrakesh. In 1659 the last sultan died and Marrakesh pledged allegiance to ash-Shbani, his maternal-kin army chief (internal takeover). Alawites (internal, Tafilalt) took Marrakesh 1669.
+    source1: Editors of Encyclopaedia Britannica, 'Sa'di dynasty', Encyclopaedia Britannica - https://www.britannica.com/topic/Sadi-dynasty
+    source2: Kingdom of Morocco official portal, 'History of Morocco: important dates' (1658/1659 entry) - https://maroc.ma/en/history-of-morocco/important-dates?page=8 ; also Britannica, 'al-Rashid' - https://www.britannica.com/biography/al-Rashid
+  Coder B: successor=Alawi dynasty (took Marrakesh 1668-69; Shabana tribal chief held it 1659-68); Q1=S1; Q2=T1a; Q3=Y; Q4=Y; Q5=2; end_year=1659
+    notes: Post-1603 succession war divided Morocco into principalities (Dila'iyya etc.); last Saadi killed 1659 by maternal Shabana kin (lead only). Internal Alawis from Tafilalt took Marrakesh 1669. Home area 'Niger Inland Delta' is wrong.
+    source1: Encyclopaedia Britannica, 'North Africa: Morocco under sharifian dynasties', Encyclopaedia Britannica - https://www.britannica.com/place/North-Africa/Political-fragmentation-and-the-triumph-of-Islamic-culture-c-1250-c-1500
+    source2: Encyclopaedia Britannica, 'Alawi dynasty', Encyclopaedia Britannica - https://www.britannica.com/topic/Alawi-dynasty
+
+ITEM F266 | P = Igala | database dates 1600 CE to 1900 CE | home area: n/a; region West Africa | capital(s): Idah | candidate successors: none listed | database 'succeeding entity' text: British Empire
+  Coder A: successor=British Empire (Protectorate of Northern Nigeria); Q1=S1; Q2=T9; Q3=Y; Q4=U; Q5=1; end_year=1900
+    notes: Igala (Idah, Ata) passed under British rule c.1900 (Royal Niger Company sphere, then Northern Nigeria protectorate); Ata retained under indirect rule. Whether by treaty or force not verified in opened sources. Search/fetch budget exhausted.
+    source1: Encyclopaedia Britannica, 'Igala' - https://www.britannica.com/topic/Igala
+    source2: Encyclopaedia Britannica, 'Royal Niger Company' - https://www.britannica.com/topic/Royal-Niger-Company
+  Coder B: successor=British Protectorate of Northern Nigeria (after Royal Niger Company); Q1=S1; Q2=T3; Q3=Y; Q4=Y; Q5=1; end_year=1900
+    notes: Royal Niger Company treaty sphere passed to the British Protectorate of Northern Nigeria on 1 Jan 1900; the Attah continued under indirect rule. No conquest of Idah found, but sources thin (web budget exhausted). 19th-century succession disputes weakened Idah.
+    source1: Encyclopaedia Britannica (Editors), Igala, Encyclopaedia Britannica online - https://www.britannica.com/topic/Igala
+    source2: Encyclopaedia Britannica, 11th ed. (1911), Nigeria (Wikisource transcription; notes Niger Company treaties with major rulers) - https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nigeria
+
+ITEM F306 | P = Sind - Abbasid-Fatimid Period | database dates 854 CE to 1193 CE | home area: Kachi Plain; region Pakistan | capital(s): Bania; Mansura; Thatta; Muhammed Tur | candidate successors: Delhi Sultanate (1206 to 1526): next in NGA sequence (Kachi Plain) | database 'succeeding entity' text: none listed
+  Coder A: successor=Ghurid Sultanate (later Qabacha, then Delhi Sultanate); Q1=S1; Q2=T2; Q3=Y; Q4=U; Q5=1; end_year=1182
+    notes: Mu'izz al-Din of Ghur took Multan and Uch (1175) and compelled the Sumras of Lower Sind to accept suzerainty (1182) after reaching Debal/coast. Sumra chiefs persisted locally to 1351. Composite polity; listed capitals Thatta and Muhammad Tur postdate 1193.
+    source1: C.E. Bosworth, 'Ghurids', Encyclopaedia Iranica X/6, 2001 - https://www.iranicaonline.org/articles/ghurids
+    source2: Habibullah Siddiqui, 'The Soomras of Sindh: their origin, main characteristics and rule - an overview (1025-1351 AD)', University of Karachi - https://uok.edu.pk/faculties/sindhi/docs/soomroEng.pdf
+  Coder B: successor=Soomra dynasty of lower Sindh (continued to 1351); Q1=S3; Q2=T0; Q3=N; Q4=U; Q5=1; end_year=1193
+    notes: Soomra dynasty (capitals Thari, Muhammad Tur) ruled lower Sindh c.1025-1351 across 1193. Ghurids took Multan and Uch 1175 and Debal c.1176-82, but sources disagree on effective control; later Delhi vassalage. The 1193 boundary looks arbitrary.
+    source1: Habibullah Siddiqui, The Soomras of Sindh: their origin, main characteristics and rule (1025-1351 AD), University of Karachi - https://uok.edu.pk/faculties/sindhi/docs/soomroEng.pdf
+    source2: Encyclopaedia Britannica (Editors), Muizz al-Din Muhammad ibn Sam, Encyclopaedia Britannica online - https://www.britannica.com/biography/Muizz-al-Din-Muhammad-ibn-Sam
+
+ITEM F146 | P = Rouran Khaganate | database dates 300 CE to 555 CE | home area: Orkhon Valley; region Mongolia | capital(s): Mumocheng | candidate successors: Eastern Turk Khaganate (583 to 630): next in NGA sequence (Orkhon Valley), starts within 30 years of P end in same Seshat region || Shiwei (600 to 1000): next in NGA sequence (Orkhon Valley) | database 'succeeding entity' text: First Turk Khaganate
+  Coder A: successor=First Turk Khaganate; Q1=S1; Q2=T1a; Q3=Y; Q4=Y; Q5=2; end_year=552
+    notes: Britannica: in 552 Turkish tribes living within the empire rebelled and, allied with Wei, destroyed the Juan-juan; Turks then ruled Mongolia. Internal under vassal rule (T2 if Turks deemed external). Rouran remnants destroyed 555.
+    source1: Encyclopaedia Britannica, 'Juan-juan' - https://www.britannica.com/topic/Juan-juan
+    source2: Encyclopaedia Britannica, 'Bumin' - https://www.britannica.com/biography/Bumin
+  Coder B: successor=First Turk (Gokturk) Khaganate; Q1=S1; Q2=T1c; Q3=Y; Q4=Y; Q5=2; end_year=552
+    notes: Turks, a subject tribe inside the Rouran realm (internal under the brief), revolted in 552 with Wei support; Anagui killed himself and the Turks took Mongolia. Remnants destroyed 555 (database end). 520s succession strife gives Q4 Y.
+    source1: Encyclopaedia Britannica (Editors), Juan-juan, Encyclopaedia Britannica online - https://www.britannica.com/topic/Juan-juan
+    source2: Encyclopaedia Britannica (Editors), Tujue, Encyclopaedia Britannica online - https://www.britannica.com/topic/Tujue
+
+ITEM F064 | P = Kingdom of Norway II | database dates 1262 CE to 1396 CE | home area: Iceland; region Northern Europe | capital(s): Bergen | candidate successors: Kalmar Union (1397 to 1523): starts within 30 years of P end in same Seshat region | database 'succeeding entity' text: Kalmar Union
+  Coder A: successor=Kalmar Union (Norway as a kingdom under union monarch Erik of Pomerania); Q1=S1; Q2=T3; Q3=N; Q4=N; Q5=2; end_year=1397
+    notes: Dynastic union: Olav ruled Norway and Denmark, Margrete succeeded, Erik acclaimed king of Norway 1389, crowned at Kalmar 1397. Shared monarch and foreign policy; each realm kept its laws and council, so Norwegian authority persisted. No conquest.
+    source1: Britannica Editors, 'Kalmar Union', Encyclopaedia Britannica - https://www.britannica.com/event/Kalmar-Union
+    source2: Helge Salvesen, Per G. Norseng, Erik Opsahl, Ida Scott, 'Kalmarunionen', Store norske leksikon, 2024 - https://snl.no/Kalmarunionen
+  Coder B: successor=Kalmar Union; Q1=S1; Q2=T6; Q3=N; Q4=N; Q5=2; end_year=1397
+    notes: No conquest: Norway in dynastic union with Denmark since 1380; Margaret summoned the three councils to Kalmar, where Erik was crowned union king in June 1397. Norway remained a separate kingdom. T3 (inheritance union) is a plausible alternative.
+    source1: Encyclopaedia Britannica (Editors), Kalmar Union, Encyclopaedia Britannica online - https://www.britannica.com/event/Kalmar-Union
+    source2: Encyclopaedia Britannica (Editors), Margaret I, Encyclopaedia Britannica online - https://www.britannica.com/biography/Margaret-I
+
+ITEM F195 | P = Chagatai Khanate | database dates 1227 CE to 1402 CE | home area: Sogdiana; region Turkestan | capital(s): Bukhara | candidate successors: Timurid Empire (1370 to 1526): next in NGA sequence (Sogdiana) | database 'succeeding entity' text: Timurid Empire
+  Coder A: successor=Timurid Empire (Timur, Barlas amir of the Chaghatay ulus); Q1=S1; Q2=T1c; Q3=Y; Q4=Y; Q5=2; end_year=1370
+    notes: From the 1340s tribal amirs ruled Transoxiana with puppet khans; fragmentation after 1358; Tughluq Temur's 1360 reunification was intra-Chaghatayid. Insider amir Timur killed rival Husayn, ruled by 1370 with nominal Ogedeid khans. DB 1402 = last nominal khan.
+    source1: Peter Jackson, 'Chaghatayid dynasty i. History', Encyclopaedia Iranica - https://www.iranicaonline.org/articles/chaghatayid-dynasty/i-history/
+    source2: Bertold Spuler, 'Central Asia v. In the Mongol and Timurid periods', Encyclopaedia Iranica (1990) - https://www.iranicaonline.org/articles/central-asia-v
+  Coder B: successor=Timurid Empire (Ulus Chaghatay under Timurid amirs); Q1=S3; Q2=T0; Q3=N; Q4=Y; Q5=1; end_year=1402
+    notes: From 1340s tribal amirs ruled Transoxiana through figurehead khans; Timur, a local tribal insider, became virtual ruler 1370 and kept nominal khans to c.1448, so 1402 is no break. Alternative reading: T1c. Q4: amir wars, Moghul invasions.
+    source1: Encyclopaedia Iranica, 'Chaghatayid Dynasty: i. History' - https://www.iranicaonline.org/articles/chaghatayid-dynasty/i-history/
+    source2: Metropolitan Museum of Art, Heilbrunn Timeline of Art History, 'The Art of the Timurid Period (ca. 1370-1507)' - https://www.metmuseum.org/toah/hd/timu/hd_timu.htm
+
+ITEM F415 | P = Koktepe I | database dates 1400 BCE to 1000 BCE | home area: Sogdiana; region Turkestan | capital(s): Koktepe | candidate successors: Ancient Khwarazm (-1000 to -521): S names P as its predecessor, next in NGA sequence (Sogdiana), starts within 30 years of P end in same Seshat region | database 'succeeding entity' text: Koktepe II
+  Coder A: successor=Koktepe II; Q1=S4; Q2=T0; Q3=U; Q4=U; Q5=1; end_year=-1000
+    notes: Archaeological phase without recorded central authority. Iranica: Kok Tepe occupied from at least the 15th c. BCE and persisted through the Iron Age, implying continuity across the I/II boundary; excavation reports (Persee) inaccessible, so weak inference.
+    source1: Etienne de La Vaissiere, 'Sogdiana iii. History and Archeology', Encyclopaedia Iranica - https://www.iranicaonline.org/articles/sogdiana-iii-history-and-archeology
+    source2: nan
+  Coder B: successor=Koktepe II (later phase of same site); Q1=S4; Q2=T9; Q3=U; Q4=U; Q5=1; end_year=-1000
+    notes: Archaeological phase, no central authority. Regionally c.1000 BCE handmade-pottery cultures end, wheel-made pottery and fortified sites appear, yet some sites and burial practices continue. No accessible site report on the Koktepe I/II transition; phase dates unverified.
+    source1: J. Lhuillier, 'Central Asia during the Achaemenid period in archaeological perspective', in S. Gondet & E. Haerinck (eds), L'Orient est son jardin, Acta Iranica 58, Peeters 2018 - https://www.academia.edu/39781684/Central_Asia_during_the_Achaemenid_period_in_archaeological_perspective
+    source2: J. Bendezu-Sarmiento & J. Lhuillier, 'Sine Sepulchro cultural complex of Transoxiana', AMIT 45, 2013 - https://www.academia.edu/19534633
+

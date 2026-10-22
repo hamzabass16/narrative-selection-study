@@ -1,0 +1,93 @@
+[
+ {
+  "item": "F102",
+  "successor": "Shabana chief Abd al-Karim ibn Abi Bakr ash-Shbani in Marrakesh (1659-1668), then Alawi dynasty (Marrakesh taken 1669)",
+  "Q1": "S1",
+  "Q2": "T1c",
+  "Q3": "Y",
+  "Q4": "Y",
+  "Q5": "2",
+  "end_year": 1659,
+  "source1": "Kingdom of Morocco official portal, 'History of Morocco: important dates' (1658/1659 entry) - https://maroc.ma/en/history-of-morocco/important-dates?page=8",
+  "source2": "Encyclopaedia Britannica (Editors), 'al-Rashid' - https://www.britannica.com/biography/al-Rashid ; also Britannica, 'Alawi dynasty' - https://www.britannica.com/topic/Alawi-dynasty",
+  "reason": "Coder A. The core is Marrakesh, which the Saadis held until 1659, so T1a (loss of over half the core for 25+ years) fails. The last sultan died and Marrakesh pledged to ash-Shbani, his maternal-kin Shabana chief: an insider coup (T1c). The Alawis, Sijilmasa sharifs inside the realm, are internal, so their 1669 capture is not T2."
+ },
+ {
+  "item": "F266",
+  "successor": "British Protectorate of Northern Nigeria (after Royal Niger Company administration)",
+  "Q1": "S1",
+  "Q2": "T3",
+  "Q3": "Y",
+  "Q4": "U",
+  "Q5": "1",
+  "end_year": 1900,
+  "source1": "Encyclopaedia Britannica (Editors), 'Royal Niger Company', Encyclopaedia Britannica online - https://www.britannica.com/topic/Royal-Niger-Company",
+  "source2": "Encyclopaedia Britannica, 11th ed. (1911), 'Nigeria' (Wikisource transcription) - https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nigeria ; also Britannica, 'Kogi' (Idah on the Niger's east bank) - https://www.britannica.com/place/Kogi",
+  "reason": "Coder B, weakly. Idah, on the Niger bank, lay in the Royal Niger Company's chartered territory, acquired mainly by treaties and transferred to the Crown on 1 January 1900. No source documents a military conquest of Idah, so T3 (diplomatic annexation) fits better than T9; Q5=1 because no opened source describes Igala's incorporation specifically."
+ },
+ {
+  "item": "F306",
+  "successor": "Ghurid Sultanate (suzerain over the Sumras from 1182; later Qabacha, then Delhi Sultanate)",
+  "Q1": "S1",
+  "Q2": "T2",
+  "Q3": "Y",
+  "Q4": "U",
+  "Q5": "1",
+  "end_year": 1182,
+  "source1": "C.E. Bosworth, 'Ghurids', Encyclopaedia Iranica X/6, 2001 - https://www.iranicaonline.org/articles/ghurids",
+  "source2": "Habibullah Siddiqui, 'The Soomras of Sindh: their origin, main characteristics and rule - an overview (1025-1351 AD)', University of Karachi - https://uok.edu.pk/faculties/sindhi/docs/soomroEng.pdf",
+  "reason": "Coder A. The Ghurids were external, based in Ghur and Ghazna. Bosworth (Iranica) says Mu'izz al-Din compelled the Sumras of Lower Sind to acknowledge his suzerainty in 1182; Siddiqui records the Ghurid invasion and occupation of Debal. Vassalage imposed by an invading army within W is T2 under the priority rule, though Sumra chiefs ruled locally until 1351."
+ },
+ {
+  "item": "F146",
+  "successor": "First Turk (Gokturk) Khaganate",
+  "Q1": "S1",
+  "Q2": "T1c",
+  "Q3": "Y",
+  "Q4": "Y",
+  "Q5": "2",
+  "end_year": 552,
+  "source1": "Encyclopaedia Britannica (Editors), 'Juan-juan', Encyclopaedia Britannica online - https://www.britannica.com/topic/Juan-juan",
+  "source2": "Encyclopaedia Britannica (Editors), 'Tujue', Encyclopaedia Britannica online - https://www.britannica.com/topic/Tujue",
+  "reason": "Coder B. The Turks were a subject tribe inside the Rouran empire, so under the 'rebellious vassal' clause they are internal; Western Wei was only an ally and never held Mongolia, so not T2. Their 552 revolt overthrew the khaganate at once and installed a new regime (T1c); T1a needs a 25-year loss of control through fragmentation."
+ },
+ {
+  "item": "F064",
+  "successor": "Kalmar Union (Norway a separate kingdom under union king Erik of Pomerania)",
+  "Q1": "S1",
+  "Q2": "T3",
+  "Q3": "N",
+  "Q4": "N",
+  "Q5": "2",
+  "end_year": 1397,
+  "source1": "Halvard Bjorkvik and Erik Opsahl, 'Olav 4 Hakonsson', Store norske leksikon - https://snl.no/Olav_4_H%C3%A5konsson",
+  "source2": "Helge Salvesen, Per G. Norseng, Erik Opsahl, Ida Scott, 'Kalmarunionen', Store norske leksikon, 2024 - https://snl.no/Kalmarunionen ; also Britannica, 'Kalmar Union' - https://www.britannica.com/event/Kalmar-Union",
+  "reason": "Coder A. Norway's union with Denmark came by inheritance: Olav became king of Norway 'automatically by inheritance' in 1380, with no union treaty (SNL); Erik was acclaimed in 1389. At Kalmar no union agreement was adopted and the draft stayed unratified, so T6 'negotiated merger' fails. T3 explicitly lists inheritance union; Norway kept its laws and council (Q3=N)."
+ },
+ {
+  "item": "F195",
+  "successor": "Timurid Empire (Ulus Chaghatay under Timur and his successors, with nominal Ogedeid khans)",
+  "Q1": "S3",
+  "Q2": "T0",
+  "Q3": "N",
+  "Q4": "Y",
+  "Q5": "1",
+  "end_year": 1402,
+  "source1": "Peter Jackson, 'Chaghatayid dynasty i. History', Encyclopaedia Iranica, 1991 - https://www.iranicaonline.org/articles/chaghatayid-dynasty/i-history/",
+  "source2": "Bertold Spuler, 'Central Asia v. In the Mongol and Timurid periods', Encyclopaedia Iranica, 1990 - https://www.iranicaonline.org/articles/central-asia-v",
+  "reason": "Coder B. From the 1340s tribal amirs ruled Transoxiana through puppet khans (Jackson); in 1370 Timur became that ruling amir and kept appointing nominal khans until c.1448. The codebook says a change of ruler or dynasty that leaves the apparatus in place is not an end, so not T1c; 1402, the last khan's death, is a dataset boundary (S3/T0)."
+ },
+ {
+  "item": "F415",
+  "successor": "Koktepe II (later phase of the same site)",
+  "Q1": "S4",
+  "Q2": "T0",
+  "Q3": "U",
+  "Q4": "U",
+  "Q5": "1",
+  "end_year": -1000,
+  "source1": "Etienne de La Vaissiere, 'Sogdiana iii. History and Archeology', Encyclopaedia Iranica, 2011 - https://www.iranicaonline.org/articles/sogdiana-iii-history-and-archeology",
+  "source2": "J. Bendezu-Sarmiento and J. Lhuillier, 'Sine Sepulchro cultural complex of Transoxiana (between 1500 and the middle of the 1st millennium BCE)', AMIT 45, 2013 - https://www.academia.edu/19534633",
+  "reason": "Coder A. As an S4 phase only T0, T4 or T9 apply. Iranica says Kok Tepe, occupied from at least the 15th century BCE, persisted through the Iron Age; regionally the c.1000 BCE Middle Iron Age reoccupied earlier sites with great material continuity (Bendezu-Sarmiento and Lhuillier). No evidence of population replacement, so T0 at confidence 1, not T9."
+ }
+]

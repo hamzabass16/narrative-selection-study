@@ -1,0 +1,321 @@
+=== R3 ===
+Transcriber's note:
+
+   Numbers in brackets [ ] refer to line numbers in Virgil's
+   Aeneid. These numbers appeared at the top of each page of text
+   and have been retained for reference.
+
+   Obvious typographical errors have been corrected. A complete
+   list follows the text.
+
+
+
+
+
+THE AENEID OF VIRGIL
+
+Translated into English
+
+by
+
+J. W. MACKAIL, M.A.
+Fellow Of Balliol College, Oxford
+
+
+
+
+
+
+
+London
+MacMillan and Co.
+1885
+
+Printed by R. & R. CLARK, Edinburgh.
+
+
+
+
+PREFACE
+
+
+There is something grotesque in the idea of a prose translation of a
+poet, though the practice is become so common that it has ceased to
+provoke a smile or demand an apology. The language of poetry is language
+in fusion; that of prose is language fixed and crystallised; and an
+attempt to copy the one material in the other must always count on
+failure to convey what is, after all, one of the most essential things
+in poetry,--its poetical quality. And this is so with Virgil more,
+perhaps, than with any other poet; for more, perhaps, than any other
+poet Virgil depends on his poetical quality from first to last. Such a
+translation can only have the value of a copy of some great painting
+executed in mosaic, if indeed a copy in Berlin wool is not a closer
+analogy; and even at the best all it can have to say for itself will be
+in Virgil's own words, _Experiar sensus; nihil hic nisi carmina desunt._
+
+In this translation I have in the main followed the text of Conington
+and Nettleship. The more important deviations from this text are
+mentioned in the notes; but I have not thought it necessary to give a
+complete list of various readings, or to mention any change except where
+it might lead to misapprehension. Their notes have also been used by me
+throughout.
+
+Beyond this I have made constant use of the mass of ancient commentary
+going under the name of Servius; the most valuable, perhaps, of all, as
+it is in many ways the nearest to the poet himself. The explanation
+given in it has sometimes been followed against those of the modern
+editors. To other commentaries only occasional reference has been made.
+The sense that Virgil is his own best interpreter becomes stronger as
+one studies him more.
+
+My thanks are due to Mr. EVELYN ABBOTT, Fellow and Tutor of Balliol, and
+to the Rev. H. C. BEECHING, for much valuable suggestion and criticism.
+
+
+
+
+THE AENEID
+
+
+
+
+=== R3 ===
+THE END.
+
+
+
+
+NOTES
+
+
+BOOK FIRST
+
+l. 123--_Accipiunt inimicum imbrem._ Inimica non tantum hostilia sed
+perniciosa.--Serv. on ix. 315. The word often has this latter sense in
+Virgil.
+
+l. 396--_Aut capere aut captas iam despectare videntur._ Henry seems
+unquestionably right in explaining _captas despectare_ of the swans
+rising and hovering over the place where they had settled, this action
+being more fully expressed in the next two lines. The parallelism
+between ll. 396 and 400 exists, but it is inverted, _capere_
+corresponding to _subit_, _captas despectare_ to _tenet_.
+
+l. 427--_lata theatris_ with the balance of MS. authority.
+
+l. 550--_Arvaque_ after Med. and Pal.; _armaque_ Con.
+
+l. 636--_Munera laetitiamque die_ ('ut multi legunt,' says Serv.),
+though it has little MS. authority, has been adopted because it is
+strongly probable on internal grounds, as giving a basis for the other
+two readings, _dei_ and _dii_.
+
+l. 722--_The long-since-unstirred spirit._
+
+     And weep afresh love's long-since-cancell'd woe.
+                                  SHAKESPEARE, Sonnet XXX.
+
+l. 726--_dependent lychni laquearibus aureis._ Serv. on viii. 25,
+_summique ferit laquearia tecti_, says 'multi lacuaria legunt. nam lacus
+dicuntur: unde est . . . lacunar. non enim a laqueis dicitur.' As Prof.
+Nettleship has pointed out, this seems to indicate that there are two
+words, _laquear_ from _laqueus_, meaning chain or network, and _lacuar_
+or _lacunar_ from _lacus_, meaning sunk work.
+
+
+BOOK SECOND
+
+l. 30--_Classibus hic locus._ Ad equites referre debemus.--Serv. Cf.
+also vii. 716.
+
+l. 76--Omitted with the best MSS.
+
+l. 234--_moenia pandimus urbis._ Moenia cetera urbis tecta vel aedes
+accipiendum.--Serv. This is the sense which the word generally has in
+Virgil: it is often used in contrast with _muri_, or as a synonym of
+_urbs_; and in most cases _city_ is its nearest English equivalent.
+
+l. 381--_caerula colla tumentem._ Caerulum est viride cum nigro.--Serv.
+on vii. 198. Cf. iii. 208, where it is used of the colour of the sea
+after a storm.
+
+l. 616--_nimbo effulgens._ est fulgidum lumen quo deorum capita
+cinguntur. sic etiam pingi solet.--Serv. Cf. xii. 416.
+
+
+BOOK THIRD
+
+l. 127--_freta concita terris_ with all the best MSS.; _consita_ Con.
+
+l. 152--_qua se Plena per insertas fundebat Luna fenestras._ The usual
+explanation, which makes _insertas_ an epithet transferred by a sort of
+hypallage from _Luna_ to _fenestras_, is extremely violent, and makes
+the word little more than a repetition of _se fundebat_. Servius
+mentions two other interpretations; _non seratas, quasi inseratas_, and
+_clatratas_; the last has been adopted in the translation.
+
+In the passage of Lucretius (ii. 114) which Virgil has imitated here,
+
+     Contemplator enim cum solis lumina . . .
+     Inserti fundunt radii per opaca domorum,
+
+it is possible that _clatris_ may be the lost word.
+
+l. 684--
+
+     _Contra iussa monent Heleni, Scyllam atque Charybdim
+     Inter, utramque viam leti discrimine parvo
+     Ni teneant cursus._
+
+In this difficult passage it is probably best to take _cursus_ as the
+subject to teneant (_cursus teneant_, id est agantur.--Serv. Cf. also l.
+454 above, _quamvis vi cursus in altum Vela vocet_), _viam_ being either
+the direct object of _teneant_, or in loose apposition to _Scyllam atque
+Charybdim_.
+
+l. 708--_tempestatibus actis_ with Rom. and Pal.; _actus_ Con. after
+Med.
+
+
+BOOK FOURTH
+
+     Totus hic liber . . . in consiliis et subtilitatibus est.
+     nam paene comicus stilus est. nec mirum, ubi de amore
+     tractatur.--Serv.
+
+l. 273--Omitted with the best MSS.
+
+l. 528--Omitted with the best MSS.
+
+
+BOOK FIFTH
+
+l. 595--_iuduntque per undas_, omitted with the preponderance of MS.
+authority.
+
+
+BOOK SIXTH
+
+l. 242--Omitted with the balance of MS. authority.
+
+l. 806--_virtutem extendere factis_ with Med.; _virtute extendere vires_
+Con.
+
+
+BOOK EIGHTH
+
+l. 46--Omitted with the majority of the best MSS.
+
+l. 383--_Arma rogo. Genetrix nato te filia Nerei_.
+
+     _Arma rogo._ hic distinguendum, ut cui petat non dicat, sed
+     relinquat intellegi . . . _Genetrix nato te filia Nerei._ hoc
+     est, soles hoc praestare matribus.--Serv.
+
+
+BOOK NINTH
+
+l. 29--Omitted with all the best MSS.
+
+l. 122--Omitted with all the best MSS.
+
+l. 281--
+
+             _Me nulla dies tam fortibus ausis
+     Dissimilem arguerit tantum, Fortuna secunda
+     Aut adversa cadat._
+
+With some hesitation I have adopted this reading as the one open to
+least objection, though the balance of authority is decidedly in favour
+of _haud adversa_. For the position of _tantum_ cf. Ecl. x. 46,
+according to the 'subtilior explicatio' now generally adopted.
+
+l. 412--
+
+     _Et venit adversi in tergum Sulmonis ibique
+     Frangitur, et fisso transit praecordia ligno._
+
+The phrase _in tergum_ occurs twice elsewhere: ix. 764--meaning 'on the
+back'; and xi. 653--meaning 'backward'; and in x. 718 the uncertainty
+about the order of the lines makes it possible that _tergo decutit
+hastas_ was meant to refer to the boar, not to Mezentius. But the
+passages quoted by the editors there shew that the word might be used in
+the sense of 'shield'; and this being so we are scarcely justified in
+reading _aversi_ against all the good MSS.
+
+l. 529--Omitted with most MSS.
+
+
+BOOK TENTH
+
+l. 278--Omitted with the best MSS.
+
+l. 754--_Insidiis, iaculo et longe fallente sagitta._ The MS. authority
+is decidedly in favour of this, the more difficult reading; and the
+hendiadys is not more violent than those in Georg. ii. 192, Aen. iii.
+223.
+
+
+BOOK TWELFTH
+
+l. 218--_Tum magis, ut propius cernunt non viribus aequis._
+
+With Ribbeck I believe that there is a gap in the sense here, and have
+marked one in the translation.
+
+l. 520--_Limina_ with Med. _Munera_ Con.
+
+ll. 612, 613--Omitted with the best MSS.
+
+l. 751--_Venator cursu canis et latratibus instat._ I take _cursu canis_
+as equivalent to _currente cane_, as in i. 324, _spumantis apri cursum
+clamore prementem_.
+
+
+_Printed by_ R. & R. CLARK, _Edinburgh_.
+
+
+
+       *       *       *       *       *
+
+
+
+TRANSCRIBER'S NOTES
+
+
+The following words appear with and without a hyphen. Spelling has been
+left as in the original.
+
+     blood-stained    bloodstained
+     hill-tops        hilltops
+     horse-hair       horsehair
+     life-blood       lifeblood
+     new-born         newborn
+     spear-shaft      spearshaft
+     water-ways       waterways
+
+The following words are spelled in multiple ways. Spelling has been left
+as in the original.
+
+     aery             aëry
+     horned           hornèd
+     Nereids          Nereïd
+     Pergama          Pergamea
+
+The following corrections have made to the text:
+
+     page 173--'[quotation mark missing in original]Nymphs,
+     Laurentine Nymphs
+
+     page 202--in name fail to be Creüsa[original has Crëusa]
+
+     page 207--Rumour on fluttering[original has flutttering] wings
+
+     page 285--the Rhoetean[original has Rhoeteian] captain drives
+     his army
+
+The first occurrence of Phoebus was rendered with an oe ligature in the
+original.
+
+Ellipses match the original.
+

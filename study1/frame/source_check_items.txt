@@ -1,0 +1,99 @@
+F393 | polity: Shoa Sultanate | code Q2=T2 successor=Ifat Sultanate (Walasma dynasty) end_year=1285
+  coder's claim: Walasma ruler of neighbouring Ifat gained ascendancy over eastern Shewa sultanates c.1285, deposing Makhzumi rulers. Opened sources say hegemony, not battle detail. Q4 from Makhzumi dynastic strife and Christian intervention 1270s-80s, not verified in opened sources.
+  source1: Britannica Editors, 'Ifat', Encyclopaedia Britannica - https://www.britannica.com/place/Ifat
+  source2: Harold G. Marcus, 'Ethiopia: The Zagwe and Solomonic dynasties', Encyclopaedia Britannica - https://www.britannica.com/place/Ethiopia/The-Zagwe-and-Solomonic-dynasties
+
+F275 | polity: Egypt - New Kingdom Ramesside Period | code Q2=T1a successor=21st Dynasty at Tanis and Theban High Priests of Amun (Thebes-Libyan Period) end_year=-1070
+  coder's claim: Civil war (viceroy Pinhasy vs high priest) under Ramses XI; Herihor/Piankh ruled Thebes; at his death Egypt passed to two separate dynasties, Tanis north, Theban priests south, for over a century. Northern Tanite line arguably continuous (T0 alternative).
+  source1: Encyclopaedia Britannica, 'Ramses XI', Britannica - https://www.britannica.com/biography/Ramses-XI
+  source2: Encyclopaedia Britannica, 'Ancient Egypt: Egypt from 1076 BCE to the Macedonian invasion', Britannica - https://www.britannica.com/place/ancient-Egypt/Egypt-from-1076-bce-to-the-Macedonian-invasion
+
+F240 | polity: Anurādhapura III | code Q2=T0 successor=Anuradhapura IV (same Anuradhapura kingdom) end_year=614
+  coder's claim: 614 = end of Aggabodhi II's reign, a period split; Anuradhapura remained royal capital (except Kassapa I's Sigiriya) until Chola conquest c.993. Source 2 is a school textbook. Pre-614 crisis unclear; succession wars mainly after 614.
+  source1: UNESCO World Heritage Centre, 'Sacred City of Anuradhapura' - https://whc.unesco.org/en/list/200
+  source2: Sri Lanka Ministry of Education, History Grade 7, 'The Downfall of the Anuradhapura Kingdom and South Indian Influences' - http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22943/mod_resource/content/1/cha%203.pdf
+
+F132 | polity: Akan - Pre-Ashanti | code Q2=T1c successor=Ashanti Empire (Asante) end_year=1701
+  coder's claim: P has no capital or single authority; Denkyira hegemony treated as central authority. Kumasi-led Asante union, an Akan state inside the region, defeated Denkyira 1699-1701 and created new institutions. T2 or T6 arguable; low confidence.
+  source1: Encyclopaedia Britannica, 'Osei Tutu', Britannica - https://www.britannica.com/biography/Osei-Tutu
+  source2: Encyclopaedia Britannica, 'Golden Stool', Britannica - https://www.britannica.com/topic/Golden-Stool
+
+F208 | polity: Western Han Empire | code Q2=T0 successor=Xin dynasty (Wang Mang) end_year=9
+  coder's claim: Regent Wang Mang, a consort-clan insider, became acting emperor (6 CE) and took the throne (9 CE) within the Chang'an court and bureaucracy; Liu line interrupted. Revolts of Liu Chong (6) and Zhai Yi (7 CE) preceded. T1c arguable.
+  source1: Encyclopaedia Britannica, 'Wang Mang' - https://www.britannica.com/biography/Wang-Mang
+  source2: Encyclopaedia Britannica, 'Xin dynasty' - https://www.britannica.com/topic/Xin-dynasty (same publisher; no independent source could be opened)
+
+F122 | polity: Elam - Shimashki Period | code Q2=T0 successor=Elam - Sukkalmah (Epartid) dynasty end_year=-1940
+  coder's claim: Ebarat/Eparti, ninth Shimashki king, founded the sukkalmah line; last Shimashkians overlapped first sukkalmahs (Vallat). Stolper suggests a brief Larsan (Gungunum) interlude at Susa c. 1925 BCE but no sharp dynastic break; sources disagree. Dates approximate.
+  source1: Francois Vallat, 'Elam i. The history of Elam', Encyclopaedia Iranica online - https://www.iranicaonline.org/articles/elam-i
+  source2: Matthew W. Stolper, in E. Carter and M. W. Stolper, Elam: Surveys of Political History and Archaeology, University of California Press 1984 - https://archive.org/stream/ElamSurveyOfPolitic/ElizabethCarterMatthewW.StolperElamSurveysOfPoliticalHistoryAndArchaeology1985_djvu.txt
+
+F406 | polity: Ethiopia Kingdom III | code Q2=T1c successor=Ethiopian Empire under Tewodros II end_year=1855
+  coder's claim: Kassa (Tewodros II), non-noble warlord from within the realm, defeated regional lords (Ras Ali 1853) and was crowned 1855, ending Gonder-based Era of Princes; replaced feudal provincial order with appointed governors. T0 arguable (imperial office continued).
+  source1: Encyclopaedia Britannica, 'Tewodros II' - https://www.britannica.com/biography/Tewodros-II
+  source2: Encyclopaedia Britannica, 'Gonder' - https://www.britannica.com/place/Gonder
+
+F262 | polity: Kingdom of Gomma | code Q2=T2 successor=Ethiopian Empire (Shewa under Menelik II) end_year=1886
+  coder's claim: Gibe Oromo kingdom annexed by Menelik II of Shewa c.1886; Bulatovich records Goma assigned to Dejazmach Tesemma in 1887. Military mode from secondary leads only; Britannica general on Amhara subjugation.
+  source1: Alexander Bulatovich, With the Armies of Menelik II (1900), trans. R. Seltzer, Ethiopia Through Russian Eyes, Red Sea Press 2000 - http://www.samizdat.com/armies.html
+  source2: Encyclopaedia Britannica, 'Oromo' - https://www.britannica.com/topic/Oromo
+
+F234 | polity: Seljuk Sultanate | code Q2=T1a successor=Ghuzz (Oghuz) chiefs and Turkish amirs in Khurasan; later Khwarazmshahs end_year=1157
+  coder's claim: Core = Merv, Sanjar's capital. Subject Ghuzz Turkmen defeated and held Sanjar 1153-56; he died at Merv 1157; Khurasan fragmented among Ghuzz and amirs until Khwarazmian absorption. Qatwan defeat 1141. Hamadan Seljuks lasted to 1194; Il-Khanate successor wrong.
+  source1: Deborah G. Tor, 'Sanjar, Ahmad b. Malekshah', Encyclopaedia Iranica, 2000 (updated 2012) - https://www.iranicaonline.org/articles/sanjar
+  source2: Encyclopaedia Britannica, 'Sanjar' - https://www.britannica.com/biography/Sanjar
+
+F236 | polity: Saffarid Caliphate | code Q2=T2 successor=Ghaznavid Empire (Mahmud of Ghazna) end_year=1003
+  coder's claim: Mahmud of Ghazna invaded Sistan 393/1002-3, besieged and deposed Khalaf b. Ahmad, and annexed Sistan as a Ghaznavid province. Prior strife: Khalaf's war with Hosayn b. Taher (to 983) and feud with son Taher (d.1002).
+  source1: Encyclopaedia Iranica, 'Saffarids' - https://www.iranicaonline.org/articles/saffarids
+  source2: C. E. Bosworth, 'Kalaf b. Ahmad', Encyclopaedia Iranica - https://www.iranicaonline.org/articles/kalaf-b-ahmad ; also Encyclopaedia Britannica, 'Saffarid dynasty' - https://www.britannica.com/topic/Saffarid-dynasty
+
+F313 | polity: Yisrael | code Q2=T2 successor=Neo-Assyrian Empire end_year=-722
+  coder's claim: Shalmaneser V besieged Samaria three years. It fell in 722 (Sargon II claimed it; some date it 720) and became an Assyrian province. Coups followed Jeroboam II; Galilee was lost in 732. Listed capital Jerusalem reflects the United Monarchy.
+  source1: Karen Radner, 'Israel, the House of Omri', Assyrian Empire Builders, University College London, 2012 - https://www.ucl.ac.uk/sargon/essentials/countries/israel/
+  source2: Encyclopaedia Britannica, 'Shalmaneser V' - https://www.britannica.com/biography/Shalmaneser-V
+
+F404 | polity: Mongol Empire | code Q2=T0 successor=Great Yuan (Kublai's Yuan dynasty) end_year=1271
+  coder's claim: Kublai's regime, victorious in 1260-64 civil war with Ariq Boke, moved capital to Dadu and adopted dynastic name Da Yuan in 1271; same court continued. Empire-wide, four khanates became independent c.1261-62 (fragmentation outside core).
+  source1: Encyclopaedia Britannica, 'China: Changes under Kublai Khan and his successors' - https://www.britannica.com/place/China/Changes-under-Kublai-Khan-and-his-successors
+  source2: Peter Jackson, 'Mongols', Encyclopaedia Iranica 2002 - https://www.iranicaonline.org/articles/mongols
+
+F046 | polity: Tang Dynasty II | code Q2=T1a successor=Later Liang (Five Dynasties) end_year=907
+  coder's claim: Power divided among regional governors and warlords after Huang Chao rebellion; Tang control of central Yellow River valley extinguished by 907 when governor Zhu Wen forced abdication. Internal throughout; T1c (usurpation) is an alternative reading.
+  source1: Naomi Standen, 'The Five Dynasties', Cambridge History of China vol. 5 pt 1, Cambridge UP 2009 - https://www.cambridge.org/core/books/cambridge-history-of-china/five-dynasties/BED8234EA917268392A83E07FFE08EE7
+  source2: Encyclopaedia Britannica, 'Zhu Wen' - https://www.britannica.com/biography/Zhu-Wen
+
+F408 | polity: The Emirate of Crete | code Q2=T2 successor=Byzantine Empire end_year=961
+  coder's claim: Nikephoros Phokas' expedition (960) besieged and stormed Chandax March 961; Byzantines reconquered Crete, emir taken to Constantinople, island made a theme. Emirate's internal history poorly documented. DB start 824 (conquest c.824-827).
+  source1: Encyclopaedia Britannica, 'Byzantine Empire: From 867 to the Ottoman conquest' - https://www.britannica.com/place/Byzantine-Empire/From-867-to-the-Ottoman-conquest
+  source2: Anthony Kaldellis, 'The Byzantine conquest of Crete (961 AD), Prokopios' Vandal War, and the Continuator of the Chronicle of Symeon', Byzantine and Modern Greek Studies 39.2 (2015) - https://doi.org/10.1017/S0307013100015408
+
+F150 | polity: Kidarite Kingdom | code Q2=T2 successor=Alchon Huns (often termed Hephthalites) end_year=477
+  coder's claim: Grenet: Kidarites expelled from Balkh 467 by Sasanian-Hephthalite operations (after Hephthalite rebellion from 457); residual Gandhara kingdom sent embassies to China until 477. Gandhara's later takeover by Alchon Huns is not detailed in opened sources; inferred.
+  source1: Frantz Grenet, 'Kidarites', Encyclopaedia Iranica - https://www.iranicaonline.org/articles/kidarites
+  source2: A.D.H. Bivar, 'Hephthalites', Encyclopaedia Iranica XII/2 (2003) - https://www.iranicaonline.org/articles/hephthalites
+
+F258 | polity: Monte Alban III | code Q2=T0 successor=Monte Alban IIIB-IV (same Zapotec state at Monte Alban) end_year=500
+  coder's claim: 500 CE is a ceramic-phase boundary (IIIA to IIIB): Monte Alban remained the Zapotec capital, flourishing to c.800-850 CE, so central authority continued. No documented crisis around 500.
+  source1: Britannica Editors, 'Monte Alban', Encyclopaedia Britannica - https://www.britannica.com/place/Monte-Alban
+  source2: UNESCO World Heritage Centre, 'Historic Centre of Oaxaca and Archaeological Site of Monte Alban' - https://whc.unesco.org/en/list/415/
+
+F074 | polity: Delhi Sultanate | code Q2=T2 successor=Mughal Empire end_year=1526
+  coder's claim: Ibrahim Lodi's harsh rule caused noble discontent; Punjab governor Daulat Khan Lodi invited Babur of Kabul, who killed Ibrahim at Panipat (April 1526) and took Delhi and Agra; Lodi confederacy dissolved. Sur interlude (1540-56) came later.
+  source1: Encyclopaedia Britannica, 'Lodi dynasty' - https://www.britannica.com/topic/Lodi-dynasty
+  source2: Pascal Buresi and Andre Guimbretiere, 'Sultanat de Delhi', Encyclopaedia Universalis - https://www.universalis.fr/encyclopedie/sultanat-de-delhi/
+
+F213 | polity: Zagwe | code Q2=T1c successor=Ethiopian (Solomonic) Kingdom of Yekuno Amlak end_year=1270
+  coder's claim: c.1270 Yekuno Amlak, Amhara/Shewan noble (internal rebel), killed Zagwe king Yitbarek and defeated a counter-rebellion, founding Solomonic line; centre shifted from Lasta to Amhara/Shewa. External-conquest reading (T2) possible if Amhara lay outside Zagwe control.
+  source1: Encyclopaedia Britannica, 'Zagwe dynasty' and 'Ethiopia: The Zagwe and Solomonic dynasties' - https://www.britannica.com/topic/Zagwe-dynasty ; https://www.britannica.com/place/Ethiopia/The-Zagwe-and-Solomonic-dynasties
+  source2: T. P. Ofcansky & L. Berry (eds), Ethiopia: A Country Study, 'The Restoration of the Solomonic Line', Library of Congress, 1991 - http://countrystudies.us/ethiopia/8.htm
+
+F200 | polity: Phoenician Empire | code Q2=T2 successor=Macedonian Empire (Alexander the Great) end_year=-332
+  coder's claim: 333-332 BCE Alexander took Phoenicia: Sidon, Byblos, Arados surrendered, keeping tributary monarchies under a Macedonian satrap; Tyre resisted seven months and was destroyed. Q4: Sidonian revolt against Persia 351-345 BCE (Schmitt, Iranica 'Artaxerxes III').
+  source1: Pierre Briant, 'Alexander the Great', Encyclopaedia Iranica (1985) - https://www.iranicaonline.org/articles/alexander-the-great
+  source2: Encyclopaedia Britannica, 'Sidon' - https://www.britannica.com/place/Sidon
+
+F392 | polity: Nayaks of Thanjavur | code Q2=T2 successor=Madurai Nayaks (Alagiri), then Thanjavur Marathas under Ekoji/Venkoji (1675) end_year=1673
+  coder's claim: 1673 Madurai army took Tanjore, Vijayaraghava killed, Alagiri installed; Bijapur's general Ekoji defeated Alagiri and usurped throne early 1675 after briefly crowning a Nayak heir. Database end 1676 reflects Maratha takeover.
+  source1: V. Vriddhagirisan, The Nayaks of Tanjore, Annamalai University 1942 (editor's introduction) - https://archive.org/stream/dli.csl.7419/7419_djvu.txt
+  source2: 'Tanjore', Encyclopaedia Britannica 11th ed. 1911 (Wikisource) - https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tanjore

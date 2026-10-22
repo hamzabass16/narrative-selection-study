@@ -1,0 +1,21 @@
+11a12
+> FAILED = []
+115c116,121
+<         betas.append(r['beta']); ses.append(r['se'])
+---
+>         if np.isfinite(r['beta']).all():
+>             betas.append(r['beta']); ses.append(r['se'])
+>         else:
+>             FAILED.append(1)
+>     if not betas:
+>         nanp = np.full(Xv.shape[1], np.nan); return dict(names=list(X.columns), beta=nanp, se=nanp, df=nanp, n=int(ok.sum()), events=r['events'], clusters=r['clusters'], failed=len(Aset))
+118c124
+<     return dict(names=names, beta=q, se=se, df=df, n=int(ok.sum()), events=r['events'], clusters=r['clusters'])
+---
+>     return dict(names=names, beta=q, se=se, df=df, n=int(ok.sum()), events=r['events'], clusters=r['clusters'], failed=len(Aset) - len(betas))
+129c135
+<                 n=res['n'], events=float(res['events']), clusters=res['clusters'])
+---
+>                 n=res['n'], events=float(res['events']), clusters=res['clusters'], failed_imputations=int(res.get('failed', 0)))
+273a280
+> OUT['failed_fits_total'] = len(FAILED)

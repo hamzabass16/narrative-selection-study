@@ -1,0 +1,38 @@
+{
+  "H1": {
+    "n": 253,
+    "events_any": 176,
+    "events_internal": 49,
+    "events_conquest_T2": 117,
+    "cox_any_vs_cci_z": {
+      "HR": 1.0755351115135336,
+      "coef": 0.07281831588130439,
+      "CI95_model": [
+        0.9180682559687087,
+        1.2600106458074252
+      ],
+      "p_model": 0.3672817281559553,
+      "CI95_cluster_trad_primary": [
+        0.9063197101567205,
+        1.2763440573287321
+      ],
+      "p_cluster": 0.4044260714145951,
+      "n_clusters": 19
+    }
+  },
+  "H8": {
+    "n": 363,
+    "events_internal": 60,
+    "n_MERb_1": 294,
+    "cox_internal_cs_vs_MERb": {
+      "HR": 3.0448571565791442,
+      "coef": 1.113453989250067,
+      "CI95_model": [
+        1.2980942943842448,
+        7.1421276128241775
+      ],
+      "p_model": 0.010474832198233312
+    }
+  },
+  "notes": "Recomputed independently with statsmodels PHReg (ties=breslow); not using analysis.py/coxlib.py/coxfast.py."
+}

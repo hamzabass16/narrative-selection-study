@@ -1,0 +1,9 @@
+T5 in sample 1 T3 9 T4 0 T2 with Q4=Y 79
+T5_as_internal internal 1.19 0.85 1.67 0.315 50.0
+T5_as_internal conquest 1.03 0.78 1.37 0.829 117.0
+T3_merged_with_conquest internal 1.16 0.82 1.66 0.401 49.0
+T3_merged_with_conquest conquest 1.01 0.8 1.28 0.934 126.0
+T4_excluded internal 1.16 0.82 1.66 0.401 49.0
+T4_excluded conquest 1.03 0.78 1.37 0.829 117.0
+crisis_then_conquest_as_internal internal 1.18 1.0 1.38 0.05 128.0
+crisis_then_conquest_as_internal conquest 0.91 0.75 1.11 0.344 38.0

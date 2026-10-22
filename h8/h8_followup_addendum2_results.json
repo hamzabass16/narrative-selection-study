@@ -1,0 +1,74 @@
+{
+ "dSC_ns": {
+  "means": {
+   "conquest": 0.147,
+   "continuity": 0.191,
+   "internal": 0.045
+  },
+  "n": {
+   "continuity": 102,
+   "conquest": 70,
+   "internal": 35
+  },
+  "clustered_internal": {
+   "coef": -0.112,
+   "lo95": -0.217,
+   "hi95": -0.008,
+   "p": 0.0353
+  },
+  "clustered_conquest": {
+   "coef": -0.059,
+   "lo95": -0.153,
+   "hi95": 0.036,
+   "p": 0.223
+  },
+  "nga_fe_internal": {
+   "coef": -0.138,
+   "lo95": -0.297,
+   "hi95": 0.022,
+   "p": 0.0899
+  },
+  "nga_fe_conquest": {
+   "coef": -0.061,
+   "lo95": -0.168,
+   "hi95": 0.046,
+   "p": 0.2673
+  }
+ },
+ "dCap": {
+  "means": {
+   "conquest": 0.226,
+   "continuity": 0.208,
+   "internal": 0.14
+  },
+  "n": {
+   "continuity": 89,
+   "conquest": 40,
+   "internal": 27
+  },
+  "clustered_internal": {
+   "coef": -0.031,
+   "lo95": -0.277,
+   "hi95": 0.214,
+   "p": 0.8026
+  },
+  "clustered_conquest": {
+   "coef": 0.025,
+   "lo95": -0.179,
+   "hi95": 0.23,
+   "p": 0.8098
+  },
+  "nga_fe_internal": {
+   "coef": -0.098,
+   "lo95": -0.414,
+   "hi95": 0.217,
+   "p": 0.5419
+  },
+  "nga_fe_conquest": {
+   "coef": -0.102,
+   "lo95": -0.446,
+   "hi95": 0.243,
+   "p": 0.5627
+  }
+ }
+}

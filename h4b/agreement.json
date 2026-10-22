@@ -1,0 +1,40 @@
+{
+ "agreement": {
+  "same_tradition": {
+   "n": 19,
+   "agree": 19,
+   "alpha": 1.0
+  },
+  "adopted": {
+   "n": 19,
+   "agree": 18,
+   "alpha": 0.9157175398633257
+  },
+  "conqueror_writing": {
+   "n": 19,
+   "agree": 19,
+   "alpha": 1.0
+  },
+  "conqueror_tradition": {
+   "n": 19,
+   "agree": 19,
+   "alpha": 1.0
+  },
+  "conquered_tradition": {
+   "n": 19,
+   "agree": 19,
+   "alpha": 1.0
+  },
+  "analysed_outcome": {
+   "n": 19,
+   "agree": 18,
+   "alpha": 0.9157175398633257
+  }
+ },
+ "disagreements": [
+  "C017"
+ ],
+ "issues": [
+  "pass1 missing ['C021', 'C022', 'C023', 'C024', 'C025', 'C026', 'C027', 'C028', 'C029', 'C030']"
+ ]
+}
