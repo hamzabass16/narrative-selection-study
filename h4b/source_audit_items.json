@@ -1,0 +1,212 @@
+[
+ {
+  "item": "C031",
+  "description": "C031 | Conquered polity: Kampili Kingdom (1280 CE to 1327 CE; ended c. 1327 CE) | region: Southern India | main tradition of the conquered population according to the database: Hinduism | conquering polity or group: Delhi Sultanate (Tughluq)",
+  "code": {
+   "conquered_tradition": "Hinduism",
+   "conqueror_tradition": "Islam",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "Y"
+  },
+  "source1": "Encyclopaedia Britannica, 'Sangama dynasty' - https://www.britannica.com/topic/Sangama-dynasty",
+  "source2": "Encyclopaedia Britannica, 'India: The Tughluqs' - https://www.britannica.com/place/India/The-Tughluqs",
+  "notes": "Hindu Kampili fell to Muhammad ibn Tughluq's army in 1327; Sangama brothers taken to Delhi. Tughluq sultans stayed Muslim, Persian the court language, and pursued direct control of southern Hindu powers; no adoption of Hinduism."
+ },
+ {
+  "item": "C116",
+  "description": "C116 | Conquered polity: Kingdom of Gomma (1780 CE to 1886 CE; ended c. 1886 CE) | region: East Africa | main tradition of the conquered population according to the database: Islam | conquering polity or group: Ethiopian Empire (Shewa under Menelik II)",
+  "code": {
+   "conquered_tradition": "Islam",
+   "conqueror_tradition": "Christianity",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "Y"
+  },
+  "source1": "Mohammed Hassen, The Oromo of Ethiopia, 1500-1850: with special emphasis on the Gibe region, PhD thesis, SOAS University of London 1983 - https://eprints.soas.ac.uk/29226",
+  "source2": "Jan Zahorik, 'Iyasu V of Ethiopia (1913-1916): perilous traitor or a true modernizer?', University of West Bohemia - https://otik.zcu.cz/bitstream/11025/11847/1/Zahorik.pdf ; Temesgen Lemesa, The Oromo of Gommaa, 1880s-1991, thesis, Jimma University - https://repository.ju.edu.et/handle/123456789/6402",
+  "notes": "Gibe states, incl. Gomma, were the leading Oromo centre of Islamic learning; Menelik of Shewa annexed them, direct rule from 1886. Ethiopian state privileged the Orthodox Church, Muslims second-class; no adoption of Islam."
+ },
+ {
+  "item": "C097",
+  "description": "C097 | Conquered polity: Jaffna (1310 CE to 1591 CE; ended c. 1619 CE) | region: Sri Lanka | main tradition of the conquered population according to the database: Buddhism | conquering polity or group: Portuguese Estado da India (Habsburg Iberian Union)",
+  "code": {
+   "conquered_tradition": "Hinduism",
+   "conqueror_tradition": "Christianity",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "Y"
+  },
+  "source1": "University of Jaffna repository, 'Hinduism in Jaffna during the Period of Dutch Rule: A Historical Perspective', National Conference on Regional Development 2011 - https://rer.jfn.ac.lk/items/a762bbfc-e2f1-4eba-ad1a-d489f1f0265a",
+  "source2": "",
+  "notes": "Database Buddhism corrected: Jaffna was a Tamil kingdom (from late 13th century) under which Hinduism flourished with royal patronage. The Portuguese conquered it in 1619, tried to destroy Hindu temples and propagated Catholicism."
+ },
+ {
+  "item": "C025",
+  "description": "C025 | Conquered polity: Indo-Greek Kingdom (180 BCE to 10 BCE; ended c. 10 CE) | region: Pakistan | main tradition of the conquered population according to the database: Greek | conquering polity or group: Indo-Scythians (Saka: Maues and Azes dynasty at Taxila; satrap Rajuvula in eastern Punjab)",
+  "code": {
+   "conquered_tradition": "Buddhism",
+   "conqueror_tradition": "Other: Saka (Scythian/Iranian) religion",
+   "adopted": "P",
+   "adopted_year": "0",
+   "conqueror_writing": "Y"
+  },
+  "source1": "Pierfrancesco Callieri, 'Sakas: In Afghanistan', Encyclopaedia Iranica, 2016 - https://www.iranicaonline.org/articles/sakas",
+  "source2": "Willem J. Vogelsang, 'Gandhara', Encyclopaedia Iranica, 2000 - https://www.iranicaonline.org/articles/gandhara; David W. MacDowall, 'Azes', Encyclopaedia Iranica - https://www.iranicaonline.org/articles/azes",
+  "notes": "Database 'Greek' corrected: Gandhara's people were mainly Indian (Vogelsang), Buddhism prominent. Saka courtly entourage patronized Buddhism (Callieri); Azes kept Greek/Kharoshthi legends and Greek deities. No royal conversion attested. A uncertain (Buddhist vs Brahmanical); year approximate."
+ },
+ {
+  "item": "C064",
+  "description": "C064 | Conquered polity: Nayaks of Madurai (1529 CE to 1736 CE; ended c. 1736 CE) | region: Southern India | main tradition of the conquered population according to the database: Hinduism | conquering polity or group: Carnatic Sultanate (Nawabs of Arcot; Chanda Sahib)",
+  "code": {
+   "conquered_tradition": "Hinduism",
+   "conqueror_tradition": "Islam",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "Y"
+  },
+  "source1": "R. Sathyanatha Aiyar, History of the Nayaks of Madura, Oxford University Press (Humphrey Milford) 1924 - http://archive.org/stream/in.ernet.dli.2015.183822/2015.183822.History-Of-The-Nayaks-Of-Madura_djvu.txt",
+  "source2": "Encyclopaedia Britannica, Arcot - https://www.britannica.com/place/Arcot",
+  "notes": "Aiyar: Chanda Sahib overthrew the Hindu cause and the last Nayak queen Minakshi c. 1736. Arcot was the capital of the Muslim nawabs, who remained Muslim and used Persian administration; no adoption."
+ },
+ {
+  "item": "C043",
+  "description": "C043 | Conquered polity: Hadiya Sultanate (1300 CE to 1680 CE; ended c. 1680 CE) | region: East Africa | main tradition of the conquered population according to the database: Islam | conquering polity or group: Oromo groups",
+  "code": {
+   "conquered_tradition": "Islam",
+   "conqueror_tradition": "Other: Oromo traditional religion (Waaqa)",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "N"
+  },
+  "source1": "Encyclopaedia Britannica, Oromo - https://www.britannica.com/topic/Oromo",
+  "source2": "Marco Demichelis, The Oromo and the Historical Process of Islamisation of Ethiopia (book chapter, c. 2016) - https://www.academia.edu/32925374/The_Oromo_and_the_Historical_process_of_Islamisation_of_Ethiopia",
+  "notes": "16th-century Oromo expansion (gada groups, no dynasty) overran Hadiya. Britannica: southern Oromo (Arsi, Borana) remained sky-god worshippers. Demichelis inconsistent: gradual Islamisation from 16th c. near Harar, but Arsi-Bale kept awama. Oral culture; writing inferred N."
+ },
+ {
+  "item": "C030",
+  "description": "C030 | Conquered polity: Early Sultanate of Aussa (1734 CE to 1895 CE; ended c. 1896 CE) | region: East Africa | main tradition of the conquered population according to the database: Islam | conquering polity or group: Ethiopian Empire (Menelik II)",
+  "code": {
+   "conquered_tradition": "Islam",
+   "conqueror_tradition": "Christianity",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "Y"
+  },
+  "source1": "Encyclopaedia Britannica, 'Afar' - https://www.britannica.com/topic/Afar",
+  "source2": "Encyclopaedia Britannica (Students), 'Ethiopia' - https://kids.britannica.com/students/article/Ethiopia/274217",
+  "notes": "Afar are Muslim; Aussa was their notable sultanate. Menelik's forces defeated Sultan Muhammad Hanfare in 1896, making Aussa tributary (detail from leads). Ethiopian court stayed Orthodox Christian (state religion to 1974), writing Ge'ez/Amharic."
+ },
+ {
+  "item": "C070",
+  "description": "C070 | Conquered polity: Great Ming (1368 CE to 1644 CE; ended c. 1644 CE) | region: North China | main tradition of the conquered population according to the database: Confucianism | conquering polity or group: Early Qing (Manchu Qing dynasty), after a six-week occupation of Beijing by Li Zicheng's Shun regime",
+  "code": {
+   "conquered_tradition": "Confucianism",
+   "conqueror_tradition": "Other: Manchu shamanism (with Tibetan Buddhism)",
+   "adopted": "Y",
+   "adopted_year": "1646",
+   "conqueror_writing": "Y"
+  },
+  "source1": "National Palace Museum (Taipei), Chengde Summer Resort exhibition: Religious Tolerance - https://theme.npm.edu.tw/exh111/ChengdeSummerResort/en/page-4.html",
+  "source2": "Ronald Gray, Promulgation of the Sacred Edict, EBSCO Research Starters 2022 - https://ebsco.com/research-starters/politics-and-government/promulgation-sacred-edict ; Britannica, Abahai - https://www.britannica.com/biography/Abahai",
+  "notes": "Manchus held shamanism and Tibetan Buddhism. Qing adopted Confucian state orthodoxy (exams from 1646, Six Maxims, 1670 Sacred Edict declaring Confucianism the only true doctrine) while keeping shamanic court rites; P arguable."
+ },
+ {
+  "item": "C044",
+  "description": "C044 | Conquered polity: Sur Empire (1540 CE to 1556 CE; ended c. 1555 CE) | region: North India | main tradition of the conquered population according to the database: Hinduism | conquering polity or group: Mughal Empire (Humayun, then Akbar)",
+  "code": {
+   "conquered_tradition": "Hinduism",
+   "conqueror_tradition": "Islam",
+   "adopted": "P",
+   "adopted_year": "1574",
+   "conqueror_writing": "Y"
+  },
+  "source1": "Philadelphia Museum of Art, The Book of War: The Free Library of Philadelphia's Mughal Razmnama Folios - https://www.philamuseum.org/exhibitions/the-book-of-war-the-free-library-of-philadelphias-mughal-razmnama-folios",
+  "source2": "Metropolitan Museum of Art, Heilbrunn Timeline, The Art of the Mughals before 1600 - https://www.metmuseum.org/toah/hd/mugh/hd_mugh.htm",
+  "notes": "Humayun regained Agra and Delhi 1555. Akbar, a Muslim ruler, set up a Sanskrit translation bureau (1574), commissioned the Mahabharata translation, held interfaith debates with Hindus; 1582 new religious code. Patronage alongside Islam, not conversion."
+ },
+ {
+  "item": "C002",
+  "description": "C002 | Conquered polity: Greco-Bactrian Kingdom (256 BCE to 125 BCE; ended c. 130 BCE) | region: Afghanistan | main tradition of the conquered population according to the database: Greek | conquering polity or group: Yuezhi (Da Yuezhi, incl. Tochari)",
+  "code": {
+   "conquered_tradition": "Greek",
+   "conqueror_tradition": "Other: Yuezhi steppe nomadic religion (poorly attested)",
+   "adopted": "P",
+   "adopted_year": "-100",
+   "conqueror_writing": "N"
+  },
+  "source1": "Osmund Bopearachchi, 'Heliocles I', Encyclopaedia Iranica - https://www.iranicaonline.org/articles/heliocles-i",
+  "source2": "Han-period texts on the Yuezhi and Daxia (Hirth and Wylie transl.), Silk Road Seattle, University of Washington - https://depts.washington.edu/silkroad/texts/hantxt1.html",
+  "notes": "Yuezhi nomads (customs 'same as the Xiongnu') took Bactria c. 130 BCE and copied Greek predecessors' coinages (Greek legends, deities); no evidence of Greek cult at court. Bactrian population partly Iranian. Pre-conquest writing not attested."
+ },
+ {
+  "item": "C048",
+  "description": "C048 | Conquered polity: Kingdom of Kaffa (1390 CE to 1897 CE; ended c. 1897 CE) | region: East Africa | main tradition of the conquered population according to the database: Christianity | conquering polity or group: Ethiopian Empire",
+  "code": {
+   "conquered_tradition": "Other: Kafa indigenous religion",
+   "conqueror_tradition": "Christianity",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "Y"
+  },
+  "source1": "Seid Ahmed, A Historiography of the Conquest of Kaffa in 1897, Ethiopian Journal of Business and Social Science 4(2), Arba Minch University, 2021 - https://survey.amu.edu.et/ojs/index.php/EJBSS/article/download/130/129",
+  "source2": "Eike Haberland, Gaki Sherocho, Dictionary of African Christian Biography (from Encyclopaedia Africana Dictionary of African Biography, 1997) - https://dacb.org/stories/ethiopia/gaki-sherocho/",
+  "notes": "Corrected database Christianity: Seid Ahmed (citing Lange, Orent) says Kafa's indigenous religion mobilised resistance; after 1897 it was disrupted and Christian proselytizing expanded. Earlier Christianity was nominal or faded. Menelik's Orthodox court kept its faith."
+ },
+ {
+  "item": "C009",
+  "description": "C009 | Conquered polity: Vijayanagara Empire (1336 CE to 1646 CE; ended c. 1646 CE) | region: Southern India | main tradition of the conquered population according to the database: Hinduism | conquering polity or group: Bijapur (Adil Shahi) and Golconda (Qutb Shahi) sultanates",
+  "code": {
+   "conquered_tradition": "Hinduism",
+   "conqueror_tradition": "Islam",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "Y"
+  },
+  "source1": "Muhammad Baqir, 'Bijapur', Encyclopaedia Iranica IV/3, 1989 - https://www.iranicaonline.org/articles/bijapur",
+  "source2": "Encyclopaedia Britannica, 'Qutb Shahi dynasty' - https://www.britannica.com/topic/Qutb-Shahi-dynasty",
+  "notes": "Adil Shahis established Shi'ism at Bijapur with Persian as court language; Qutb Shahis were Shi'ite with strong Persian influence. Both stayed Muslim until Mughal annexation (1686-87). Britannica dates Vijayanagara's final collapse c. 1614, not 1646."
+ },
+ {
+  "item": "C046",
+  "description": "C046 | Conquered polity: Egypt - Inter-Occupation Period (404 BCE to 342 BCE; ended c. 343 BCE) | region: Northeast Africa | main tradition of the conquered population according to the database: Egyptian | conquering polity or group: Achaemenid Empire",
+  "code": {
+   "conquered_tradition": "Egyptian",
+   "conqueror_tradition": "Zoroastrianism",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "Y"
+  },
+  "source1": "Encyclopaedia Britannica, Artaxerxes III - https://www.britannica.com/biography/Artaxerxes-III",
+  "source2": "Mary Boyce, Achaemenid Religion, Encyclopaedia Iranica, 1983 - https://www.iranicaonline.org/articles/achaemenid-religion",
+  "notes": "Artaxerxes III reconquered Egypt 343; temples plundered, Apis reportedly killed (Britannica). Second Persian domination ended 332 (Bresciani, Iranica EGYPT i). Boyce: later Achaemenids Zoroastrian (debated). Earlier Darius I temple patronage predates this conquest."
+ },
+ {
+  "item": "C026",
+  "description": "C026 | Conquered polity: Anur\u0101dhapura IV (614 CE to 1017 CE; ended c. 1017 CE) | region: Sri Lanka | main tradition of the conquered population according to the database: Buddhism | conquering polity or group: Chola Empire (Chola province of Lanka)",
+  "code": {
+   "conquered_tradition": "Buddhism",
+   "conqueror_tradition": "Hinduism",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "Y"
+  },
+  "source1": "Encyclopaedia Britannica, 'Chola dynasty' - https://www.britannica.com/print/article/124889",
+  "source2": "UNESCO World Heritage Centre, 'Ancient City of Polonnaruwa' - https://whc.unesco.org/en/list/201/; Encyclopaedia Britannica, 'Brihadishvara Temple' - https://www.britannica.com/topic/Brihadishvara-temple",
+  "notes": "Rajaraja I took northern Lanka by 996; Rajendra I completed the conquest. Cholas built Brahmanic (Shaiva) monuments at Polonnaruwa and were Shiva-temple patrons. Reported Chola-era gifts to Velgam Vehera are minor, unverified, not court adoption."
+ },
+ {
+  "item": "C037",
+  "description": "C037 | Conquered polity: Akkadian Empire (2270 BCE to 2083 BCE; ended c. 2154 BCE) | region: Mesopotamia | main tradition of the conquered population according to the database: Mesopotamian | conquering polity or group: Gutian dynasty (Gutians)",
+  "code": {
+   "conquered_tradition": "Mesopotamian",
+   "conqueror_tradition": "Other: Gutian (Zagros) religion, poorly known",
+   "adopted": "P",
+   "adopted_year": "-2150",
+   "conqueror_writing": "Y"
+  },
+  "source1": "M. Van De Mieroop, 'Gutians', Encyclopaedia Iranica - https://iranicaonline.org/articles/gutians",
+  "source2": "D. R. Frayne, RIME 2: Sargonic and Gutian Periods (University of Toronto Press, 1993), E2.2.1.2 Erridu-pizir, via CDLI P462081 - https://cdli.earth/artifacts/462081",
+  "notes": "Gutian religion barely known (one god attested). Erridu-pizir, king of Gutium and the four quarters, wrote in Akkadian, dedicated a statue to Enlil, invoked Ishtar and Ninhursag alongside the god of Gutium. Gutian role in Akkad's fall uncertain."
+ }
+]

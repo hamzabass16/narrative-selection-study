@@ -14,7 +14,7 @@ For each hypothesis the report gives: what it claims; what was done; the result;
 - H2, robust to drivers of power: not supported. HR 1.08 [0.92, 1.25] after controls.
 - H3, content precedes complexity: not testable with a content score that is constant within a tradition.
 - H4a, content prevents internal collapse rather than conquest: not supported. Internal-collapse HR 1.15 [0.80, 1.66].
-- H4b, conquerors adopt high-content traditions: coding finished for 107 of 117 conquest episodes; the analysis runs when the last batch is coded.
+- H4b, conquerors adopt high-content traditions: not supported. In 61 conquests across traditions, conquerors adopted the conquered tradition fully in 5 and partly in 16, and adoption was, if anything, less likely for high-content traditions (odds ratio 0.60 [0.31, 1.15]). Adoption tracked the conquerors: peoples without a codified religion adopted in 11 of 15 cases, while Christian and Muslim conquerors kept their own in 23 of 26.
 - H5, content works apart from belief in moralizing gods: no content effect for the vessel to absorb.
 - H6, reading high-content stories raises trust in strangers: not run (needs a real experiment).
 - H7, the same effect in every era: uninterpretable; the earliest era rests on two traditions.
@@ -117,7 +117,27 @@ The same improvements as H1, plus more internal-collapse events: coding the rema
 
 ## H4b: conquerors adopt the narratives of the conquered
 
-*In progress.* Independent AI coders have coded whether the conquering elite adopted the conquered population's tradition within 100 years for 107 of 117 conquest episodes; agreement on the double-coded fifth so far is 18 of 19 (alpha 0.92). The pre-specified analysis (Section 14.2 of the protocol, `h4b/h4b_analysis.py`) runs when the last batch is coded.
+### Claim
+
+If cooperative content is what makes a tradition fit, conquerors should tend to adopt the traditions of the peoples they conquer when those traditions carry more of it (reverse transmission). The classic examples are the Mongols becoming Muslims in Iran and the Manchus becoming Confucian rulers of China.
+
+### What was done
+
+All 117 conquests in the Study 1 sample whose conquered population had a scored tradition were coded by independent AI coders, blind to the content scores. For each conquest they recorded three things: the conquering elite's own tradition; whether it adopted the conquered tradition as its own within 100 years (yes, partly, no); and whether the conquering elite used writing. A random 23 episodes were coded twice. The coders agreed on adoption in 22 (alpha 0.93), and a third coder settled the two disagreements. In 55 conquests the conquerors already shared the tradition, so nothing could be adopted. The pre-specified test is a logistic regression of adoption on the conquered tradition's content score, controlling for the conquered polity's complexity and writing and the conquerors' writing. Inference uses a permutation test that shuffles scores across traditions.
+
+### Result
+
+Of the 61 conquests across traditions, the conquerors fully adopted the conquered tradition in 5 and partly in 16; in 39 they kept their own, and 1 is unknown. With only 5 full adoptions, the primary model could not be fitted (the plan required 10). The pre-specified permutation test of the association was null: r = +0.04, p = 0.84. Counting partial adoption as adoption (21 of 57), the odds ratio was 0.60 per SD of content [0.31, 1.15], with permutation p = 0.39. This is in the opposite direction to the prediction, though not significant. By the plan's literal rule (an odds ratio below 1), H4b is not supported. The pattern by tradition shows why. Conquerors of Buddhist populations adopted Buddhism, at least partly, in 6 of 10 conquests, although Buddhism has the lowest content score. Conquerors of Muslim populations did so in 1 of 12, although Islam's score is second highest. Most of those 12 conquerors were Christian colonial powers or Christian Ethiopia.
+
+### Why
+
+Who adopted whom depended on the conquerors, not on the content of the conquered tradition. Conquerors who brought little codified religion of their own (steppe peoples, Kassites, Gutians, Mongols, Manchus) adopted the conquered tradition fully or partly in 11 of 15 conquests. These are the classic cases the hypothesis is built on, but what they show is that a literate, organized tradition absorbs unlettered conquerors. Conquerors who already carried a scriptural religion kept it. Christian conquerors kept theirs in 12 of 13 cases, and Muslim conquerors in 11 of 13; the two Muslim exceptions are the Mughals' partial patronage of Hindu traditions. The sample is also small: 9 to 10 traditions carry all the variation, and the content score is the weak word-count measure discussed under H1.
+
+### How to test it better
+
+- Measure the conquerors' starting point: whether their own tradition was written, codified and exclusive. The theory predicts adoption only where the conquerors' tradition is weaker in content than the one they meet, so the comparison should be conqueror versus conquered, which needs content scores for steppe and tribal traditions as well.
+- Code adoption of specific narrative elements (law codes, founding myths, moral exemplars) rather than of whole religions, since conquerors often keep their religion while adopting the law and literature of the conquered (Romans and Greek literature, the Normans and English law).
+- Extend beyond Seshat to every documented elite conversion (for example the Christianization of Germanic and Slavic rulers, the Islamization of Turkic dynasties) to reach a few hundred episodes.
 
 ## H5: content versus belief in moralizing gods
 

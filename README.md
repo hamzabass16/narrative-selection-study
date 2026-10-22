@@ -47,9 +47,9 @@ The short answer so far: counting moral words in sacred texts does not predict h
   <img alt="Autocracies that legitimate themselves through religion: less religious freedom, fewer public goods, weaker courts, more repression, killings and torture" src="report/figures/fig2_religious_legitimation_light.png" width="760">
 </picture>
 
-**Still running:**
-- **Conquerors:** whether conquerors adopt the stories of the people they conquer (107 of 117 episodes coded so far).
-- **Ethnographies:** whether a new sample of old ethnographies shows the seven cooperative behaviours valued everywhere.
+**Conquerors adopt the faith of the conquered only when they bring none to rival it.** The theory predicts that conquerors adopt the stories of the conquered when those stories carry more cooperative content, as the Mongols became Muslims and the Manchus became Confucian emperors. In 61 conquests where the two sides held different traditions, conquerors adopted the conquered tradition fully in 5 and partly in 16. Adoption was, if anything, less likely for high-content traditions (odds ratio 0.60 [0.31, 1.15]). What mattered was what the conquerors brought. Peoples with no codified religion of their own adopted in 11 of 15 conquests; Christian and Muslim conquerors kept their own in 23 of 26.
+
+**Still running:** whether a new sample of old ethnographies, one society per language family, shows the seven cooperative behaviours valued everywhere.
 
 ## Why it matters
 

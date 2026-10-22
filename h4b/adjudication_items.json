@@ -1,0 +1,62 @@
+[
+ {
+  "item": "C017",
+  "description": "C017 | Conquered polity: Hellenistic Crete (323 BCE to 69 BCE; ended c. 67 BCE) | region: Southeastern Europe | main tradition of the conquered population according to the database: Greek | conquering polity or group: Roman Republic (province of Crete, later Crete and Cyrene)",
+  "coder_A": {
+   "item": "C017",
+   "conquered_tradition": "Greek",
+   "conqueror_tradition": "Roman",
+   "same_tradition": "N",
+   "adopted": "P",
+   "adopted_year": "-31",
+   "conqueror_writing": "Y",
+   "confidence": "1",
+   "source1": "Encyclopaedia Britannica, 'Gortyn' - https://www.britannica.com/place/Gortyn",
+   "source2": "Beatrice Poletti, ''Foreign' Cults at Rome at the Turn of the Principate', Acta Antiqua Academiae Scientiarum Hungaricae 58 (2018) 549-569 - https://real.mtak.hu/104180/",
+   "notes": "Rome annexed Crete 67 BCE (Gortyn capital). Roman state cult was retained; Greek gods were already assimilated before conquest, and Augustus embraced and reshaped Greek cults such as the Eleusinian Mysteries. Patronage alongside Roman cult, not adoption; boundary blurry."
+  },
+  "coder_B": {
+   "item": "C017",
+   "conquered_tradition": "Greek",
+   "conqueror_tradition": "Roman",
+   "same_tradition": "N",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "Y",
+   "confidence": "2",
+   "source1": "Encyclopaedia Britannica, 'Quintus Caecilius Metellus Creticus' - https://www.britannica.com/biography/Quintus-Caecilius-Metellus-Creticus",
+   "source2": "Encyclopaedia Britannica, 'Roman religion: Influence on Roman religion' - https://www.britannica.com/topic/Roman-religion/Influence-on-Roman-religion",
+   "notes": "Metellus completed the conquest of Crete (69-67 BCE); it was joined to Cyrene as a province. Roman state religion persisted; its Hellenization (Greek rites, gods, myths) began in the 6th-4th centuries BCE, long before this conquest, so no new adoption followed."
+  }
+ },
+ {
+  "item": "C022",
+  "description": "C022 | Conquered polity: Later Wagadu Empire (1078 CE to 1203 CE; ended c. 1203 CE) | region: West Africa | main tradition of the conquered population according to the database: Islam | conquering polity or group: Sosso (Susu) kingdom of Sumanguru",
+  "coder_A": {
+   "item": "C022",
+   "conquered_tradition": "Islam",
+   "conqueror_tradition": "Other: Susu (Sosso) traditional religion",
+   "same_tradition": "N",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "N",
+   "confidence": "1",
+   "source1": "Encyclopaedia Britannica, 'Sumanguru', Britannica - https://www.britannica.com/biography/Sumanguru",
+   "source2": "Encyclopaedia Britannica, 'Ghana (historical West African empire)' - https://www.britannica.com/print/article/232424; Metropolitan Museum of Art, 'The Empires of the Western Sudan: Ghana Empire', Heilbrunn Timeline - https://www.metmuseum.org/toah/hd/ghan/hd_ghan.htm",
+   "notes": "Sumanguru captured Kumbi c.1203 and adhered to Susu traditional religion; Sosso power fell to Sundiata c.1235 without conversion. Database Islam kept but disputed (Met: Ghana's king never fully embraced Islam). Sosso writing unattested."
+  },
+  "coder_B": {
+   "item": "C022",
+   "conquered_tradition": "Islam",
+   "conqueror_tradition": "Other: Susu (Mande) traditional religion",
+   "same_tradition": "N",
+   "adopted": "N",
+   "adopted_year": "",
+   "conqueror_writing": "U",
+   "confidence": "2",
+   "source1": "Encyclopaedia Britannica, 'Sumanguru' - https://www.britannica.com/biography/Sumanguru",
+   "source2": "Metropolitan Museum of Art, Heilbrunn Timeline, 'The Empire of Ghana' - https://www.metmuseum.org/toah/hd/ghan/hd_ghan.htm",
+   "notes": "Britannica: Sumanguru's 'enthusiastic adherence to the traditional religion of the Susu' alienated Ghana's predominantly Muslim merchant class after he took Kumbi c.1203. Sosso power was short-lived (ended by Sundiata c.1235). Ghana population only partly Muslim. No evidence of Sosso literacy; known from oral tradition."
+  }
+ }
+]

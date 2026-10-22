@@ -1,0 +1,325 @@
+{
+ "n_items": 117,
+ "coded": 61,
+ "same_tradition": {
+  "N": 61,
+  "Y": 55,
+  "U": 1
+ },
+ "adopted_all": {
+  "": 56,
+  "N": 39,
+  "P": 16,
+  "Y": 5,
+  "U": 1
+ },
+ "tradition_corrected": 10,
+ "primary": {
+  "describe": {
+   "by_tradition": [
+    {
+     "tradk": "Buddhism",
+     "n": 5,
+     "adopted": 1.0,
+     "cci": -0.3755453816517136
+    },
+    {
+     "tradk": "Judaism",
+     "n": 3,
+     "adopted": 0.0,
+     "cci": -0.2295733370354923
+    },
+    {
+     "tradk": "Zoroastrianism",
+     "n": 3,
+     "adopted": 0.0,
+     "cci": -0.1988658600448011
+    },
+    {
+     "tradk": "Egyptian",
+     "n": 1,
+     "adopted": 0.0,
+     "cci": -0.1793084977249876
+    },
+    {
+     "tradk": "Hinduism",
+     "n": 11,
+     "adopted": 0.0,
+     "cci": -0.0716189295545874
+    },
+    {
+     "tradk": "Confucianism",
+     "n": 1,
+     "adopted": 1.0,
+     "cci": -0.0472886658664927
+    },
+    {
+     "tradk": "Mesopotamian",
+     "n": 4,
+     "adopted": 1.0,
+     "cci": 0.0923922435367188
+    },
+    {
+     "tradk": "Jainism",
+     "n": 1,
+     "adopted": 1.0,
+     "cci": 0.2456723633621687
+    },
+    {
+     "tradk": "Islam",
+     "n": 12,
+     "adopted": 1.0,
+     "cci": 0.4117495611480296
+    }
+   ],
+   "spearman_rho_trad": 0.507135627167435,
+   "spearman_p_trad": 0.163473533901699,
+   "r_episode": 0.04267576733473533,
+   "p_perm_trad": 0.8375812093953023,
+   "n": 41,
+   "events": 5
+  },
+  "model": "not fitted: fewer than 10 events or non-events"
+ },
+ "partial_as_yes": {
+  "describe": {
+   "by_tradition": [
+    {
+     "tradk": "Buddhism",
+     "n": 10,
+     "adopted": 6.0,
+     "cci": -0.3755453816517136
+    },
+    {
+     "tradk": "Judaism",
+     "n": 3,
+     "adopted": 0.0,
+     "cci": -0.2295733370354923
+    },
+    {
+     "tradk": "Zoroastrianism",
+     "n": 3,
+     "adopted": 0.0,
+     "cci": -0.1988658600448011
+    },
+    {
+     "tradk": "Egyptian",
+     "n": 4,
+     "adopted": 3.0,
+     "cci": -0.1793084977249876
+    },
+    {
+     "tradk": "Hinduism",
+     "n": 14,
+     "adopted": 3.0,
+     "cci": -0.0716189295545874
+    },
+    {
+     "tradk": "Confucianism",
+     "n": 1,
+     "adopted": 1.0,
+     "cci": -0.0472886658664927
+    },
+    {
+     "tradk": "Greek",
+     "n": 2,
+     "adopted": 2.0,
+     "cci": 0.0903217557833564
+    },
+    {
+     "tradk": "Mesopotamian",
+     "n": 7,
+     "adopted": 4.0,
+     "cci": 0.0923922435367188
+    },
+    {
+     "tradk": "Jainism",
+     "n": 1,
+     "adopted": 1.0,
+     "cci": 0.2456723633621687
+    },
+    {
+     "tradk": "Islam",
+     "n": 12,
+     "adopted": 1.0,
+     "cci": 0.4117495611480296
+    }
+   ],
+   "spearman_rho_trad": 0.3323470256441984,
+   "spearman_p_trad": 0.3481105026123388,
+   "r_episode": -0.21193592110302584,
+   "p_perm_trad": 0.38780609695152424,
+   "n": 57,
+   "events": 21
+  },
+  "model": {
+   "OR": 0.5975168579693404,
+   "lo95": 0.3093146524062145,
+   "hi95": 1.154249864273096,
+   "lo90": 0.3438543687604371,
+   "hi90": 1.0383069927091513,
+   "p_cluster": 0.12528708390815632,
+   "beta": -0.5149727813998554,
+   "n": 54,
+   "events": 20,
+   "traditions": 9,
+   "imputations_ok": 19,
+   "equivalent_null": false
+  },
+  "permutation": {
+   "beta_obs": -0.5318719864371557,
+   "p_perm": 0.3893053473263368,
+   "draws": 2000
+  }
+ },
+ "database_tradition": {
+  "describe": {
+   "by_tradition": [
+    {
+     "tradk": "Buddhism",
+     "n": 7,
+     "adopted": 1.0,
+     "cci": -0.3755453816517136
+    },
+    {
+     "tradk": "Judaism",
+     "n": 3,
+     "adopted": 0.0,
+     "cci": -0.2295733370354923
+    },
+    {
+     "tradk": "Christianity",
+     "n": 1,
+     "adopted": 0.0,
+     "cci": -0.2050088680689885
+    },
+    {
+     "tradk": "Zoroastrianism",
+     "n": 3,
+     "adopted": 0.0,
+     "cci": -0.1988658600448011
+    },
+    {
+     "tradk": "Egyptian",
+     "n": 1,
+     "adopted": 0.0,
+     "cci": -0.1793084977249876
+    },
+    {
+     "tradk": "Hinduism",
+     "n": 9,
+     "adopted": 0.0,
+     "cci": -0.0716189295545874
+    },
+    {
+     "tradk": "Confucianism",
+     "n": 1,
+     "adopted": 1.0,
+     "cci": -0.0472886658664927
+    },
+    {
+     "tradk": "Roman",
+     "n": 1,
+     "adopted": 0.0,
+     "cci": 0.0705130359212196
+    },
+    {
+     "tradk": "Mesopotamian",
+     "n": 5,
+     "adopted": 1.0,
+     "cci": 0.0923922435367188
+    },
+    {
+     "tradk": "Jainism",
+     "n": 1,
+     "adopted": 1.0,
+     "cci": 0.2456723633621687
+    },
+    {
+     "tradk": "Islam",
+     "n": 12,
+     "adopted": 1.0,
+     "cci": 0.4117495611480296
+    }
+   ],
+   "spearman_rho_trad": 0.46223486150838505,
+   "spearman_p_trad": 0.15230430140580045,
+   "r_episode": 0.061843929770038344,
+   "p_perm_trad": 0.6991504247876063,
+   "n": 44,
+   "events": 5
+  },
+  "model": "not fitted: fewer than 10 events or non-events"
+ },
+ "no_conqueror_writing": {
+  "describe": {
+   "by_tradition": [
+    {
+     "tradk": "Buddhism",
+     "n": 5,
+     "adopted": 1.0,
+     "cci": -0.3755453816517136
+    },
+    {
+     "tradk": "Judaism",
+     "n": 3,
+     "adopted": 0.0,
+     "cci": -0.2295733370354923
+    },
+    {
+     "tradk": "Zoroastrianism",
+     "n": 3,
+     "adopted": 0.0,
+     "cci": -0.1988658600448011
+    },
+    {
+     "tradk": "Egyptian",
+     "n": 1,
+     "adopted": 0.0,
+     "cci": -0.1793084977249876
+    },
+    {
+     "tradk": "Hinduism",
+     "n": 11,
+     "adopted": 0.0,
+     "cci": -0.0716189295545874
+    },
+    {
+     "tradk": "Confucianism",
+     "n": 1,
+     "adopted": 1.0,
+     "cci": -0.0472886658664927
+    },
+    {
+     "tradk": "Mesopotamian",
+     "n": 4,
+     "adopted": 1.0,
+     "cci": 0.0923922435367188
+    },
+    {
+     "tradk": "Jainism",
+     "n": 1,
+     "adopted": 1.0,
+     "cci": 0.2456723633621687
+    },
+    {
+     "tradk": "Islam",
+     "n": 12,
+     "adopted": 1.0,
+     "cci": 0.4117495611480296
+    }
+   ],
+   "spearman_rho_trad": 0.507135627167435,
+   "spearman_p_trad": 0.163473533901699,
+   "r_episode": 0.04267576733473533,
+   "p_perm_trad": 0.8470764617691154,
+   "n": 41,
+   "events": 5
+  },
+  "model": "not fitted: fewer than 10 events or non-events"
+ },
+ "secondary_difference": {
+  "n": 33,
+  "events": 1
+ }
+}

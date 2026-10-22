@@ -1,0 +1,26 @@
+[
+ {
+  "item": "C017",
+  "conquered_tradition": "Greek",
+  "conqueror_tradition": "Roman",
+  "same_tradition": "N",
+  "adopted": "P",
+  "adopted_year": "-31",
+  "conqueror_writing": "Y",
+  "confidence": "2",
+  "notes": "Brief's P covers patronage alongside own cult. Poletti: Augustus initiated at Eleusis 31 BC and Hellenized Apollo while reviving ancestral Roman cults. Roman state cult kept, so P not Y. Hellenization predating 67 BCE does not exclude in-window patronage.",
+  "source1": "Beatrice Poletti, ''Foreign' Cults at Rome at the Turn of the Principate', Acta Antiqua Academiae Scientiarum Hungaricae 58 (2018) 549-569 - https://real.mtak.hu/104180/7/068.2018.58.1-4.32.pdf"
+ },
+ {
+  "item": "C022",
+  "conquered_tradition": "Islam",
+  "conqueror_tradition": "Other: Susu (Sosso) traditional religion",
+  "same_tradition": "N",
+  "adopted": "N",
+  "adopted_year": "",
+  "conqueror_writing": "U",
+  "confidence": "2",
+  "notes": "Britannica: Sumanguru took Kumbi c.1203 and adhered to Susu traditional religion; Sosso power ended in the 1230s war with Kangaba, no conversion. Neither Britannica nor the Met mentions Sosso writing; oral-tradition sourcing is not evidence of non-literacy, so U.",
+  "source1": "Encyclopaedia Britannica, 'Sumanguru' - https://www.britannica.com/biography/Sumanguru"
+ }
+]

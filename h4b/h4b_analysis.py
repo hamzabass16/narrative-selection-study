@@ -79,11 +79,21 @@ def perm(s, use_qwrite=True, nperm=2000):
     null = np.array(null)
     return dict(beta_obs=obs['beta'], p_perm=float((np.sum(np.abs(null) >= abs(obs['beta'])) + 1) / (len(null) + 1)), draws=len(null))
 
-def describe(s):
+def describe(s, nperm=2000):
     t = s.groupby('tradk').agg(n=('y', 'size'), adopted=('y', 'sum'), cci=('cci_raw', 'first')).sort_values('cci')
     rho, p = stats.spearmanr(t.cci, t.adopted / t.n) if len(t) > 2 else (np.nan, np.nan)
+    # tradition-level permutation test (the header's 'exact permutation test'): statistic = correlation between each
+    # episode's adoption (0/1) and its tradition's CCI; CCI values shuffled across the 15 traditions
+    vals = cci.loc[TR, 'CCI'].values
+    obs = np.corrcoef(s.y, s.tradk.map(cci.CCI))[0, 1] if s.y.nunique() > 1 else np.nan
+    null = []
+    for k in range(nperm):
+        m = dict(zip(TR, rng.permutation(vals))); x = s.tradk.map(m)
+        if x.nunique() > 1: null.append(np.corrcoef(s.y, x)[0, 1])
+    null = np.array(null)
+    pp = float((np.sum(np.abs(null) >= abs(obs)) + 1) / (len(null) + 1)) if np.isfinite(obs) else np.nan
     return dict(by_tradition=t.reset_index().to_dict('records'), spearman_rho_trad=float(rho), spearman_p_trad=float(p),
-                n=int(len(s)), events=int(s.y.sum()))
+                r_episode=float(obs), p_perm_trad=pp, n=int(len(s)), events=int(s.y.sum()))
 
 for lab, tc, pay, uq in [('primary', 'trad_c', False, True), ('partial_as_yes', 'trad_c', True, True),
                          ('database_tradition', 'trad_primary', False, True), ('no_conqueror_writing', 'trad_c', False, False)]:
