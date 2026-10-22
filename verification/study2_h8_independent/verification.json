@@ -1,0 +1,229 @@
+{
+ "method_notes": {
+  "A": "Primary tokenizer: lowercase, curly apostrophes -> ', words = [a-z]+ with internal apostrophes; hyphens split words; dictionary terms tokenized the same way and matched as contiguous phrases (no wildcards exist in either .dic file). Variants in motif_scoring_summary.json.",
+  "B": "Unit share = flagged/all present motifs. Country incidence values are continuous population-weighted fractions (row sums = motifs_total), not counts. Both weighted and unweighted shares were computed; expected numbers reproduce only with incidence-weighted shares. EA incidence is 0/1 (two cells = 2). 8 incidence columns carry a trailing underscore (b28e_, d4aa_, e15_, e15a_, e15b_, e18_, h36g1_, m81_) and were mapped back to their motif ids. Units with <5 motifs dropped (0 countries, 31 EA groups) before z-scoring.",
+  "p_values": "Mine use Stata conventions: HC1 with t(N-K); clustered with t(G-1). Original uses statsmodels normal-based p-values, which explains small p differences."
+ },
+ "A_motif_scoring": [
+  {
+   "claim": "share of motifs with >=1 virtue term",
+   "expected": "26.0%",
+   "verified": "26.01%",
+   "status": "match"
+  },
+  {
+   "claim": "Family",
+   "expected": "14.5%",
+   "verified": "14.63%",
+   "status": "close",
+   "note": "14.47% if hyphenated words are kept as single tokens (then 'daughter-in-law' no longer matches 'in law')."
+  },
+  {
+   "claim": "Group",
+   "expected": "1.25%",
+   "verified": "1.25%",
+   "status": "match"
+  },
+  {
+   "claim": "Reciprocity",
+   "expected": "2.1%",
+   "verified": "2.18%",
+   "status": "close",
+   "note": "Difference is one motif (m30b, 'give and take back'): matched by the dictionary's 'give-and-take' only when hyphenated terms are split into phrases."
+  },
+  {
+   "claim": "Heroism",
+   "expected": "8.7%",
+   "verified": "8.7%",
+   "status": "match"
+  },
+  {
+   "claim": "Deference",
+   "expected": "0.35%",
+   "verified": "0.35%",
+   "status": "match"
+  },
+  {
+   "claim": "Fairness",
+   "expected": "0.08%",
+   "verified": "0.08%",
+   "status": "match"
+  },
+  {
+   "claim": "Property",
+   "expected": "2.8%",
+   "verified": "2.81%",
+   "status": "match"
+  },
+  {
+   "tokenization_sensitivity": {
+    "alpha_apos": {
+     "any": 26.01,
+     "Family": 14.63,
+     "Group": 1.25,
+     "Reciprocity": 2.18
+    },
+    "alpha_only": {
+     "any": 26.09,
+     "Family": 14.63,
+     "Group": 1.33,
+     "Reciprocity": 2.18
+    },
+    "alpha_apos_hyph": {
+     "any": 25.82,
+     "Family": 14.47,
+     "Group": 1.17,
+     "Reciprocity": 2.15
+    },
+    "naive_w": {
+     "any": 26.09,
+     "Family": 14.63,
+     "Group": 1.33,
+     "Reciprocity": 2.18
+    }
+   },
+   "what_matters": "(1) hyphen handling: splitting 'daughter-in-law' lets it match 'in law' (Family); (2) apostrophe handling: keeping \"partner's\" as one token stops it matching 'partner' (Group); (3) the original's extra -est/-eth stemmer ('noblest'->'noble', Heroism). Only 4 of 2,564 motifs differ from the original's flags, but because the 7 domains are equally weighted and some are near-empty (Fairness 2 motifs, Deference 9), those 4 flips move the EA estimate from 0.071 to 0.077."
+  }
+ ],
+ "B_CCI_construction": {
+  "claim": "CCI = re-standardized mean of 7 z-scored domain shares; CCI_net uses virtue-vice; exclude <5 motifs",
+  "expected": "procedure",
+  "verified": "rebuilt independently: 199 countries, 1,234 EA groups (31 dropped); corr(CCI, CCI_net) = 0.86 (countries, weighted), 0.89 (EA)",
+  "status": "match",
+  "note": "Country results match the expected values only with incidence-weighted shares (see C)."
+ },
+ "C_country_models": [
+  {
+   "claim": "CCI -> lntrust_wvsavg, standardized beta (90% CI), n",
+   "expected": "-0.02 (-0.24, 0.19), n=104",
+   "verified": "-0.025 (-0.241, 0.191), n=104",
+   "status": "match",
+   "note": "Incidence-weighted shares. With unweighted presence shares (a literal reading of the task's rule, since country incidence is fractional, not counts): -0.086 (-0.287, 0.115); still null."
+  },
+  {
+   "claim": "tricksters_punish -> lntrust_wvsavg: b, p, standardized, n",
+   "expected": "1.86, p=0.0001, 0.34, n=104",
+   "verified": "1.856, p=0.0002 (t, df=100), 0.34, n=104",
+   "status": "match",
+   "note": "p = 0.0001 with a normal reference, 0.0002 with Stata's t(100)."
+  },
+  {
+   "claim": "CCI -> trust_gps standardized beta, n",
+   "expected": "+0.11, n=76",
+   "verified": "0.105, n=76",
+   "status": "match",
+   "note": "p=0.537; unweighted shares give 0.031."
+  }
+ ],
+ "D_ESS_second_generation": [
+  {
+   "claim": "CCI of origin: SD of trust per SD (90% CI), n, origins",
+   "expected": "+0.001 (-0.03, 0.03), n=6,558, 117",
+   "verified": "do-file spec (individual controls, reghdfe): 0.015 (-0.013, 0.043), n=6554, 116 origins; baseline controls only: 0.0014 (-0.031, 0.034), n=6558, 117",
+   "status": "close",
+   "note": "The expected numbers reproduce exactly only WITHOUT the individual controls (gender, i.rel, i.health, i.age10) and with singletons kept. The claim says individual controls were used; with them (Table V Panel B col 2) the estimate is +0.015, still null. reghdfe drops 4 singleton obs (n 6,554, 116 origin clusters)."
+  },
+  {
+   "claim": "CCI_net: SD per SD, p",
+   "expected": "+0.027, p=0.018",
+   "verified": "do-file spec: 0.0361, p=0.003; baseline only: 0.0274, p=0.0183",
+   "status": "close",
+   "note": "Same sign and conclusion; larger and more significant with the do-file's individual controls."
+  },
+  {
+   "claim": "tricksters_punish: b, p",
+   "expected": "1.10, p=0.003",
+   "verified": "do-file spec: 1.066, p=0.0091; baseline only: 1.099, p=0.0035",
+   "status": "close",
+   "note": "Expected value equals the baseline-controls model (Table V Panel B col 1), not col 2."
+  }
+ ],
+ "E_Ethnographic_Atlas": [
+  {
+   "claim": "v33 on CCI: SD per SD, p, groups, families",
+   "expected": "+0.077, p=0.18, 1,105, 71",
+   "verified": "0.071, p=0.23, 1105, 71",
+   "status": "close",
+   "note": "Same N and clusters. With hyphenated words kept as tokens: 0.076, p=0.186. Using the original's motif flags in my pipeline gives 0.0776 (0.0771 if the 8 underscore motifs are dropped, as the original does)."
+  },
+  {
+   "claim": "+ i.v34 high-god dummies: SD per SD, p",
+   "expected": "+0.063, p=0.17",
+   "verified": "0.058, p=0.216, n=711, families=68",
+   "status": "close",
+   "note": "hyphen-kept tokenizer: 0.062, p=0.175. n drops to 711 because v34 is missing for many groups."
+  }
+ ],
+ "F_CrisisDB": [
+  {
+   "claim": "severity OLS: coef, p, n, means MERb1 vs MERb0",
+   "expected": "+0.19, p=0.19, n=135, 0.74 vs 0.54",
+   "verified": "0.189, p=0.189 (t(G-1): 0.192), n=135, 0.74 vs 0.54",
+   "status": "match",
+   "note": "120 polity clusters; 24 MERb=0 crises in this sample."
+  },
+  {
+   "claim": "removed logit: coef, OR (95% CI), p, n, shares, n MERb=0",
+   "expected": "2.01, OR 7.4 (2.6, 21), p=0.0002, n=132, 67% vs 22%, 23",
+   "verified": "2.008, OR 7.45 (2.61, 21.25), p=0.0002, n=132, 67.0% vs 22.0%, 23",
+   "status": "match"
+  },
+  {
+   "claim": "+PolPop: severity coef, p; removed OR, p",
+   "expected": "+0.12, p=0.51; OR 5.5, p=0.006",
+   "verified": "0.116, p=0.506 (n=118); OR 5.53, p=0.0061 (n=117)",
+   "status": "match",
+   "note": "Complete cases on PolPop drop 17 and 15 crises respectively."
+  }
+ ],
+ "original_code_review": [
+  {
+   "file": "/root/analysis/study2/study2.py",
+   "line": 19,
+   "issue": "unit_scores keeps only incidence columns whose names are in the flag index, silently dropping 8 motifs whose incidence columns end in '_' (b28e_, d4aa_, e15_, e15a_, e15b_, e18_, h36g1_, m81_; d4aa is a vice-Property motif). Wrong merge key; effect tiny (EA 0.0776 -> 0.0771, WVS -0.0226 -> -0.0221).",
+   "severity": "minor"
+  },
+  {
+   "file": "/root/analysis/study2/study2.py",
+   "line": "23-24, 43-46",
+   "issue": "Country shares are weighted by the fractional population-weighted incidence; the stated rule says weight only if the file has counts. The expected values depend on this choice (unweighted: WVS -0.09, GPS +0.03). Weighting is defensible (README: unweighted presence picks up border slivers), but it should be stated.",
+   "severity": "spec ambiguity"
+  },
+  {
+   "file": "/root/analysis/study2/study2.py",
+   "line": "62-66 (reporting)",
+   "issue": "The S2-2 claim cites the cont0 results (no individual controls), but describes the model as following the do-file's individual controls. The cont1 results (+0.015; CCI_net +0.036, p=0.002; trickster 1.07, p=0.008) are the ones matching that description. Code is otherwise equivalent to the do-file (rel, health, gender, age deciles verified identical).",
+   "severity": "reporting mismatch"
+  },
+  {
+   "file": "/root/analysis/study2/study2.py",
+   "line": 65,
+   "issue": "C(cntry_round) dummies in OLS keep 4 singleton observations that reghdfe drops (n 6,558/117 vs 6,554/116). p-values here and at lines 52 and 76 use a normal reference, not Stata's t(N-K) or t(G-1): slightly smaller p.",
+   "severity": "cosmetic"
+  },
+  {
+   "file": "/root/analysis/cci/macd.py",
+   "line": "12 and 18",
+   "issue": "Dictionary keys split on whitespace only, but the text tokenizer splits on hyphens, so all 43 hyphenated dictionary terms ('in-law', 'mother-in-law', 'give-and-take', 'self-denial', 'even-handed', ...) and 'i.o.u.' can never match.",
+   "severity": "minor"
+  },
+  {
+   "file": "/root/analysis/cci/macd.py",
+   "line": "19-26",
+   "issue": "An unstated -est/-eth stemmer adds matches the described method would not ('noblest' -> 'noble'). Together with the hyphen issue this changes 4 motif flags.",
+   "severity": "minor"
+  },
+  {
+   "file": "/root/analysis/h8/h8_improved.py",
+   "line": 198,
+   "issue": "pd.cut bins are right-closed, so year -500 falls in 'pre500BCE' though the spec says 'before -500'. No crisis sits exactly on -500 or 1500, so there is no effect. Same at h8_3_population.py line 15.",
+   "severity": "none in practice"
+  },
+  {
+   "file": "/root/analysis/h8/h8_improved.py",
+   "line": "193-207",
+   "issue": "No coding errors found. Coding, severity min_count=2, removed=max, MERb, era fallback and polity clustering match the spec. The crisis 'polity' key matches the frame and covariate ids (169/169; names agree in 151, the rest are spelling variants). The PolPop omission was a coding slip; h8_3_population.py fixes it and reproduces exactly.",
+   "severity": "none"
+  }
+ ]
+}

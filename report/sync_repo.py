@@ -41,11 +41,14 @@ cp(A/'cci', 'cci')
 # Hypothesis-specific analyses
 cp(A/'h4b', 'h4b')
 cp(A/'h8', 'h8')
+cp(A/'h8r', 'h8r')
+cp(A/'verify2', 'verification/study2_h8_independent')
+cp(A/'cci/fix', 'cci/fix')
 cp(A/'h9', 'h9b')
 cp(A/'h9a', 'h9a')
 cp(A/'study2', 'study2')
 # Protocol text helpers and report
-for f in ['docs_helper.py', 'addendum_text.py', 'results_text.py', 'deviations_text.py']:
+for f in ['docs_helper.py', 'addendum_text.py', 'results_text.py', 'deviations_text.py', 'deviations2_text.py']:
     cp(A/'out'/f, f'protocol/doc_build/{f}')
 cp(A/'report', 'report')
 for f in ['unpack_b64.py', 'unpack_parts.py']:

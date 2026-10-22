@@ -1,0 +1,24 @@
+17c17
+< A['D'] = pd.concat([-z(A.v2clkill), -z(A.v2cltort), -z(A.v2csreprss)], axis=1).mean(axis=1)
+---
+> A['Dom'] = pd.concat([-z(A.v2clkill), -z(A.v2cltort), -z(A.v2csreprss)], axis=1).mean(axis=1)
+19,20c19,20
+< A['C'] = Cc.mean(axis=1).where(Cc.notna().sum(axis=1) >= 3)
+< A['S'] = z(A.C - A.D); A['Dz'] = z(A.D); A['Cz'] = z(A.C)
+---
+> A['Coop'] = Cc.mean(axis=1).where(Cc.notna().sum(axis=1) >= 3)
+> A['S'] = z(A.Coop - A.Dom); A['Dz'] = z(A.Dom); A['Cz'] = z(A.Coop)
+23c23
+< R = dict(n_autoc_years=int(len(A)), countries=int(A.country_id.nunique()), corr_C_D=float(A[['C', 'D']].corr().iloc[0, 1]))
+---
+> R = dict(n_autoc_years=int(len(A)), countries=int(A.country_id.nunique()), corr_C_D=float(A[['Coop', 'Dom']].corr().iloc[0, 1]))
+26,29c26,29
+<     m0 = smf.ols(f, df, missing='drop')
+<     rows = m0.data.row_labels
+<     g = pd.factorize(df.loc[rows, cl])[0]
+<     m = m0.fit(cov_type='cluster', cov_kwds={'groups': g})
+---
+>     rows = smf.ols(f, df, missing='drop').data.row_labels
+>     d = df.loc[rows]
+>     g = pd.factorize(d[cl])[0]
+>     m = smf.ols(f, d).fit(cov_type='cluster', cov_kwds={'groups': g})  # refit so absent fixed-effect levels are not kept as empty columns

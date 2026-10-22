@@ -26,7 +26,7 @@ The narrative-content measure (the Cooperative Content Index, CCI) uses a publis
 | H5 content apart from moralizing gods | No content effect to separate |
 | H6 experiment | Not run (needs real participants) |
 | H7 same effect in every era | Uninterpretable (early era rests on two traditions) |
-| H8 service-legitimated rule | Not supported by any available proxy |
+| H8 service-legitimated rule | Original proxy (belief in divine sanction of rulers) failed. Revised test on conduct (V-Dem, 1,600 autocratic regimes since 1789): cooperative rule ended violently less often (39 vs 63%) and was followed by faster growth and longer lives; no difference in duration, civil war or coups |
 | H9a behaviours judged good everywhere | see `report/` |
 | H9b moralizing God spreads by descent and scale | Supported: D = -0.20; OR 2.37 per level of hierarchy |
 | Study 2 folklore content and trust | Null for trust (pipeline check reproduces the trickster result) |
@@ -42,7 +42,9 @@ The full per-hypothesis account, with the reasons each result came out as it did
 | `study1/analysis/` | Covariates, Cox and Fine-Gray library, analysis script (frozen copy and post-freeze diff), results, specification curve, independent verification |
 | `cci/` | Corpus specification, retrieval and cleaning briefs, raw and cleaned public-domain texts with removal audit, MAC-D scorer, tradition scores |
 | `h4b/` | Conquest episodes, coder brief, batches, coder outputs, agreement, adjudication, analysis |
-| `h8/` | Within-region, literate-state and CrisisDB analyses |
+| `h8/` | Within-region, literate-state and CrisisDB analyses; follow-up on the costs of removal and internal collapse |
+| `h8r/` | Revised H8: dominance versus cooperative ruler conduct and religious legitimation (V-Dem v15) |
+| `verification/` | Independent re-derivation of the Study 2 and CrisisDB numbers |
 | `h9a/` | Sampling rule, candidate list, passages, coder brief, codes, results |
 | `h9b/` | Phylogenetic signal (D statistic) and political-scale models on the Ethnographic Atlas |
 | `study2/` | Folklore motif scoring and the trust, immigrant and political-scale models |
@@ -57,6 +59,7 @@ The scripts were run with Python 3.13, numpy, pandas, scipy, statsmodels, scikit
 Third-party data not included here (size or licence), with where to get them:
 
 * Michalopoulos and Xue (2021), "Folklore", replication archive: Harvard Dataverse, https://doi.org/10.7910/DVN/IXOHKB, unpacked to `/root/data/mx_folklore/`.
+* V-Dem v15: the vdemdata package, https://github.com/vdeminstitute/vdemdata (data/vdem.RData), read with pyreadr into `/root/data/ext_vdem/vdem.pkl`. V-Dem data are CC BY-SA 4.0.
 * D-PLACE CLDF data (Ethnographic Atlas, Glottolog trees): https://github.com/D-PLACE/dplace-cldf, cloned to `/root/data/dplace-cldf/`.
 * MAC-D dictionaries: the eMACDscore package, https://github.com/medianeuroscience/eMACDscore, cloned to `/root/data/ext/eMACDscore/`. The package's dictionary files are `macdvirtue.dic` and `macdvice.dic`. The vice file is the same size as the OSF original (https://osf.io/86qry). The virtue file (28,332 bytes) is 9 bytes smaller than the OSF copy, and the OSF copy could not be downloaded to find the difference (see deviations).
 
