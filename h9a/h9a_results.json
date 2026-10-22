@@ -1,0 +1,264 @@
+{
+ "items": 2368,
+ "coded1": 2368,
+ "coded2": 474,
+ "missing1": [],
+ "agreement": {
+  "n": 474,
+  "relevant_agree": 455,
+  "relevant_alpha": 0.8735620875993451,
+  "valence_agree": 452,
+  "valence_alpha": 0.8620529832019016,
+  "neg_by_coder1": 0,
+  "neg_by_coder2": 0
+ },
+ "primary": {
+  "Family": {
+   "items": 360,
+   "irrelevant": 301,
+   "none": 48,
+   "pos": 11,
+   "neg": 0,
+   "share_neg": 0.0,
+   "lo95": 2.7755575615628914e-17,
+   "hi95": 0.2588400172488141,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 10,
+   "societies_with_neg": 0,
+   "neg_societies": []
+  },
+  "Group": {
+   "items": 360,
+   "irrelevant": 326,
+   "none": 19,
+   "pos": 15,
+   "neg": 0,
+   "share_neg": 0.0,
+   "lo95": 0,
+   "hi95": 0.20388926630434784,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 13,
+   "societies_with_neg": 0,
+   "neg_societies": []
+  },
+  "Reciprocity": {
+   "items": 329,
+   "irrelevant": 245,
+   "none": 48,
+   "pos": 35,
+   "neg": 1,
+   "share_neg": 0.027777777777777776,
+   "lo95": 0.004920280295569679,
+   "hi95": 0.141700337350308,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 19,
+   "societies_with_neg": 1,
+   "neg_societies": [
+    "Egyptians_urban_Cairo"
+   ]
+  },
+  "Heroism": {
+   "items": 356,
+   "irrelevant": 305,
+   "none": 17,
+   "pos": 34,
+   "neg": 0,
+   "share_neg": 0.0,
+   "lo95": 0,
+   "hi95": 0.10151790621961015,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 16,
+   "societies_with_neg": 0,
+   "neg_societies": []
+  },
+  "Deference": {
+   "items": 336,
+   "irrelevant": 252,
+   "none": 46,
+   "pos": 37,
+   "neg": 1,
+   "share_neg": 0.02631578947368421,
+   "lo95": 0.004660467553530057,
+   "hi95": 0.13495178436800254,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 18,
+   "societies_with_neg": 1,
+   "neg_societies": [
+    "Russian_peasants"
+   ]
+  },
+  "Fairness": {
+   "items": 276,
+   "irrelevant": 243,
+   "none": 15,
+   "pos": 18,
+   "neg": 0,
+   "share_neg": 0.0,
+   "lo95": 0,
+   "hi95": 0.1758845505823749,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 12,
+   "societies_with_neg": 0,
+   "neg_societies": []
+  },
+  "Property": {
+   "items": 351,
+   "irrelevant": 243,
+   "none": 57,
+   "pos": 50,
+   "neg": 1,
+   "share_neg": 0.0196078431372549,
+   "lo95": 0.003469603253442241,
+   "hi95": 0.10304807675589372,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 20,
+   "societies_with_neg": 1,
+   "neg_societies": [
+    "Khoikhoi_Nama"
+   ]
+  }
+ },
+ "second_coder_where_double": {
+  "Family": {
+   "items": 360,
+   "irrelevant": 298,
+   "none": 51,
+   "pos": 11,
+   "neg": 0,
+   "share_neg": 0.0,
+   "lo95": 2.7755575615628914e-17,
+   "hi95": 0.2588400172488141,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 10,
+   "societies_with_neg": 0,
+   "neg_societies": []
+  },
+  "Group": {
+   "items": 360,
+   "irrelevant": 323,
+   "none": 21,
+   "pos": 16,
+   "neg": 0,
+   "share_neg": 0.0,
+   "lo95": 0,
+   "hi95": 0.19361341827271994,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 14,
+   "societies_with_neg": 0,
+   "neg_societies": []
+  },
+  "Reciprocity": {
+   "items": 329,
+   "irrelevant": 244,
+   "none": 49,
+   "pos": 35,
+   "neg": 1,
+   "share_neg": 0.027777777777777776,
+   "lo95": 0.004920280295569679,
+   "hi95": 0.141700337350308,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 19,
+   "societies_with_neg": 1,
+   "neg_societies": [
+    "Egyptians_urban_Cairo"
+   ]
+  },
+  "Heroism": {
+   "items": 356,
+   "irrelevant": 306,
+   "none": 16,
+   "pos": 34,
+   "neg": 0,
+   "share_neg": 0.0,
+   "lo95": 0,
+   "hi95": 0.10151790621961015,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 16,
+   "societies_with_neg": 0,
+   "neg_societies": []
+  },
+  "Deference": {
+   "items": 336,
+   "irrelevant": 251,
+   "none": 45,
+   "pos": 39,
+   "neg": 1,
+   "share_neg": 0.025,
+   "lo95": 0.0044267174077949195,
+   "hi95": 0.1288165948800778,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 18,
+   "societies_with_neg": 1,
+   "neg_societies": [
+    "Russian_peasants"
+   ]
+  },
+  "Fairness": {
+   "items": 276,
+   "irrelevant": 241,
+   "none": 16,
+   "pos": 19,
+   "neg": 0,
+   "share_neg": 0.0,
+   "lo95": 0,
+   "hi95": 0.16818436536845052,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 12,
+   "societies_with_neg": 0,
+   "neg_societies": []
+  },
+  "Property": {
+   "items": 351,
+   "irrelevant": 239,
+   "none": 60,
+   "pos": 51,
+   "neg": 1,
+   "share_neg": 0.019230769230769232,
+   "lo95": 0.0034027204090655225,
+   "hi95": 0.10120746268024422,
+   "falsified": false,
+   "upper_bound_below_5pct": false,
+   "societies_with_pos": 21,
+   "societies_with_neg": 1,
+   "neg_societies": [
+    "Khoikhoi_Nama"
+   ]
+  }
+ },
+ "neg_examples": [
+  {
+   "pid": "V0696",
+   "society": "Egyptians_urban_Cairo",
+   "domain": "Reciprocity",
+   "behaviour": "thanking a benefactor, implying help creates obligation to repay",
+   "quote": "a person of mean disposition, who regarded a positive duty as an act imposing obligation"
+  },
+  {
+   "pid": "V1589",
+   "society": "Khoikhoi_Nama",
+   "domain": "Property",
+   "behaviour": "stealing enemy cattle, giving thanks to charm root for booty",
+   "quote": "if they have carried off large booty, or stolen cattle of the enemy, they light these roots, and say : ** We thank thee"
+  },
+  {
+   "pid": "V1117",
+   "society": "Russian_peasants",
+   "domain": "Deference",
+   "behaviour": "homage to officials and paying taxes to the state",
+   "quote": "excludes himself from the book of the living, and is doomed to perdition"
+  }
+ ]
+}

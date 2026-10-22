@@ -19,7 +19,7 @@ For each hypothesis the report gives: what it claims; what was done; the result;
 - H6, reading high-content stories raises trust in strangers: not run (needs a real experiment).
 - H7, the same effect in every era: uninterpretable; the earliest era rests on two traditions.
 - H8, service-legitimated rule outlasts force: the original proxy failed, but the revised test supports part of the claim. Belief that rulers answer to divine morality did not protect polities, and crises under it more often ended in removals, which came with civil war, not reform. Measured by what rulers do (V-Dem, 1,600 autocratic regimes since 1789), cooperative rule did not last longer, but it ended violently far less often (39 versus 63 percent) and was followed by faster growth and longer lives. Civil wars and coups did not differ. Regimes legitimated by religion behave like dominance regimes.
-- H9a, the seven cooperative behaviours are judged good everywhere: in progress: the sample of public-domain ethnographies is being compiled, then passages are coded.
+- H9a, the seven cooperative behaviours are judged good everywhere: not falsified. In a new sample of 30 societies, 200 of 203 stated judgements were positive (98.5 percent), and no behaviour was judged bad more than 2.8 percent of the time. The three exceptions mark the edge of the group, such as stealing from enemies. The evidence is thin, though: with 11 to 50 judgements per behaviour, condemnation rates of up to 10 to 26 percent cannot be ruled out.
 - H9b, belief in a moralizing God spreads by descent and scale: supported. Strong phylogenetic clustering (D = -0.20) and a steep rise with political scale.
 - Study 2, folklore content and trust: the content score does not predict trust across countries or among second-generation immigrants (an effect of 0.10 SD or more is ruled out there), and shows a weak positive tendency with political scale.
 
@@ -250,7 +250,31 @@ Human data allowed a test, so no new primate data were compiled. The published p
 
 ## H9a: the seven cooperative behaviours are judged good everywhere
 
-*In progress.* A new sample of about 30 societies, one per language family and none from earlier studies, is being drawn from public-domain ethnographies published before 1929. Passages mentioning each of the seven behaviours will be coded for whether the society approves or condemns them (Section 14.3 of the protocol, `h9a/`).
+### Claim
+
+If what humanity converged on is the content of morality, the seven cooperative behaviours should be judged good wherever people judge them: helping kin, loyalty to one's group, returning favours, bravery, respect for superiors, fair division and respect for property. Curry, Mullins and Whitehouse (2019) found this in 60 societies of the Probability Sample File: 961 of 962 evaluations were positive. The only negative one was Chuuk, where stealing openly was admired as a show of dominance. H9a repeats the test in a new sample.
+
+### What was done
+
+The sample was one society per top-level language family, excluding the 60 earlier societies, drawn from full English ethnographies published before 1929 that are freely available online. The rule (fixed before any text was read) gave 30 societies: 13 in the Americas, 6 in Asia, 5 in Oceania, 4 in Africa and 2 in Europe and northern Eurasia. From each ethnography, up to 12 paragraphs per behaviour were drawn at random from those containing any dictionary word for it, virtue or vice. That gave 2,368 passages. Independent AI coders, not told the hypothesis, recorded two things for each passage: whether it describes the society performing, expecting or judging that behaviour; and if so, whether the society approves, condemns or gives no evaluation. A random fifth (474 passages) was coded twice. The coders agreed on relevance in 455 (alpha 0.87) and on valence in 452 (alpha 0.86). The plan's criterion: H9a fails for a behaviour if it is judged bad in more than 5 percent of the instances where the society's evaluation is stated.
+
+### Result
+
+Of the 2,368 passages, 453 described the society's own practice, and 203 stated how the society judges it. 200 of those 203 judgements were positive and 3 negative (1.5 percent). By behaviour:
+
+- Family 11 positive, 0 negative; group loyalty 15 and 0; reciprocity 35 and 1; bravery 34 and 0; deference 37 and 1; fairness 18 and 0; property 50 and 1. Every behaviour is below the 5 percent threshold (0 to 2.8 percent), so H9a is not falsified for any of them.
+- The three negative cases fit the pattern Curry and colleagues described: one cooperative value giving way to another, or stopping at the group's edge. The Koranna (Khoikhoi) give thanks for cattle stolen from enemies, so respect for property does not extend to enemies. A Russian sect, the 'wanderers', taught that anyone who pays homage or taxes to the Tsar's officials, as servants of Antichrist, is doomed, so deference to the state is rejected in the name of a higher loyalty. And Lane reports that a Bedouin he sheltered gave no thanks, because thanking would imply the host saw a duty owed under God's law as a favour creating a debt; the coder read this as rejecting reciprocity, but it can equally be read as treating help as an obligation. Neither coder recorded a negative judgement in the double-coded fifth.
+- The estimates are imprecise. With 11 to 50 stated judgements per behaviour, the 95 percent upper bounds on the share judged bad run from 10 percent (property, bravery) to 26 percent (family). So the data are consistent with near-universal approval, but cannot by themselves rule out that a behaviour is condemned in up to a tenth to a quarter of cases.
+
+### Why
+
+Approval is near-universal in what old ethnographies record: when they report how a society judges helping kin, keeping faith, bravery, respect, fairness and others' property, the judgement is almost always positive. Two features limit what this shows. First, the yield is low. Selecting paragraphs by dictionary words brings in many passages about other societies, myths, word lists and indexes; only 9 percent of passages carried an evaluation, and one society (Seri) yielded none. Second, ethnographers of this period wrote in a frame that may have favoured recording approved norms. The pattern of the exceptions matters for the theory: approval is bounded by the group (enemies' property is fair game) and by competing loyalties (God over the state), as the morality-as-cooperation account predicts, because each behaviour is a solution to cooperation within a group.
+
+### How to test it better
+
+- Select passages by the eHRAF subject codes for each behaviour rather than by keywords, as Curry and colleagues did. This raises the share of relevant passages several-fold.
+- Code at least 30 stated evaluations per behaviour per region, so that the upper bound on condemnation falls below 5 percent.
+- Add human coders for a validation subset, and code who the behaviour is directed at (kin, group members, strangers, enemies), since the exceptions all concern out-groups.
 
 ## H9b: belief in a moralizing God spreads by descent and scale
 
@@ -305,11 +329,11 @@ Motif descriptions are one or two sentences, and only 26 percent of motifs conta
 - Recruit two human coders for termination types and validate the AI codes on at least 100 items; the protocol's threshold for using an AI coder is agreement with humans at least as high as human-human agreement on 500 items.
 - Replace word counts with endorsement coding of redacted passages, blind to polity and outcome.
 - Run Study 3, the experiment, which alone can show that content changes behaviour.
-- Treat H9b and the Study 2 pipeline check as the robust findings so far, and the null results for H1, H2, H4a and Study 2 trust as estimates bounded by weak measures, not as refutations of the theory.
+- Treat H9b, the Study 2 pipeline check and the revised H8 test as the most robust findings so far, because they rest on human-coded data. Treat the null results for H1, H2, H4a and Study 2 trust as estimates bounded by weak measures, not as refutations of the theory.
 
 ## What the results mean for the author's note in the protocol
 
-The note argues two things. First, humans converged on the content of morality rather than on a particular God. Second, hierarchies led by service outlast those held by force. The first claim is consistent with H9b: belief in a moralizing God tracks inheritance and scale rather than appearing independently everywhere. H9a bears on whether the content itself converged (see above). The second claim found no support while it was measured by belief about rulers. Measured by conduct, it found partial support: cooperative rule in modern and early-modern autocracies did not last longer, but it ended violently less often and left its societies richer and healthier. Regimes that rule in God's name behave like regimes of force. These are empirical results about the measures used. As Section 10 of the protocol states, no result can settle the normative premise or the leap the note describes.
+The note argues two things. First, humans converged on the content of morality rather than on a particular God. Second, hierarchies led by service outlast those held by force. The first claim is consistent with H9b: belief in a moralizing God tracks inheritance and scale rather than appearing independently everywhere. H9a supports the other half: in a new sample of 30 societies from 30 language families, the seven cooperative behaviours were approved in 200 of 203 stated judgements, and the exceptions mark the edge of the group rather than a rejection of the behaviour. The second claim found no support while it was measured by belief about rulers. Measured by conduct, it found partial support: cooperative rule in modern and early-modern autocracies did not last longer, but it ended violently less often and left its societies richer and healthier. Regimes that rule in God's name behave like regimes of force. These are empirical results about the measures used. As Section 10 of the protocol states, no result can settle the normative premise or the leap the note describes.
 
 ## Files and reproducibility
 

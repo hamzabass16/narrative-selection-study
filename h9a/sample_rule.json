@@ -1,0 +1,13 @@
+{
+ "rule": "H9a pipeline (Addendum 14.3). Rules fixed here on 23 Oct 2026 before candidates.csv was read.\nStage 'sample': choose one society per top-level family from candidates.csv:\n  - keep candidates whose society is not a PSF society (checked by the candidate agent) and whose approx_words >= 30000;\n  - within a family, choose one candidate at random (random.Random('20261022-<family_glottocode>'));\n  - if more than 30 families remain, choose 30 by region: regions are Africa, Asia, Oceania, Americas, Europe-NEurasia\n    (as recorded in the candidates' region field, mapped below); take up to 6 per region in random order (seed 20261022),\n    then fill remaining slots at random from the leftover families; writes sample.csv and sample_rule.json.\n",
+ "n_candidates": 46,
+ "n_families": 36,
+ "n_sample": 30,
+ "by_bucket": {
+  "Americas": 13,
+  "Asia": 6,
+  "Oceania": 5,
+  "Africa": 4,
+  "Europe-NEurasia": 2
+ }
+}

@@ -1,4 +1,4 @@
-Task: download the full plain texts of the public-domain ethnographies listed in /root/analysis/h9a/sample.csv (columns include society, society_key, fulltext_url, title, author, year).
+Task: download the full plain texts of the public-domain ethnographies listed in the sample file named in your instructions (/root/analysis/h9a/sample_partN.csv; columns include society, society_key, fulltext_url, title, author, year).
 - Do not read, summarize or evaluate their content beyond checking completeness.
 - Do not open any other file under /root/analysis.
 - Never load a whole book into your own context: these texts run to hundreds of thousands of words.
@@ -12,7 +12,7 @@ METHOD (the shell cannot reach these sites; use the Chrome browser)
       - Internet Archive: https://archive.org/download/<identifier>/<identifier>_djvu.txt, which is plain text; the /stream/ URLs are HTML pages.
    b. Use javascript_tool to return ONLY short facts: document.body.innerText.length, the first 300 characters and the last 300 characters. This is how you check that it is the right, complete book.
    c. Call get_page_text with max_chars 6000000. A result this large is not shown to you. It is saved to a file, and the tool result gives that file's path.
-      - Use Bash with python to read that file and write the text to /root/analysis/h9a/texts/<society_key>.txt, using exactly the society_key value from sample.csv.
+      - Use Bash with python to read that file and write the text to /root/analysis/h9a/texts/<society_key>.txt, using exactly the society_key value from your sample file.
       - The saved file is usually JSON: a list whose first element has a 'text' field. If it is not JSON, use the raw content.
       - Do NOT use the Read tool on it, and do not print more than 300 characters of it.
       - Check that the saved length is within 2 percent of innerText.length.
@@ -20,7 +20,12 @@ METHOD (the shell cannot reach these sites; use the Chrome browser)
       - it is the right book (the title words appear in the first 3,000 characters);
       - it is complete (the end is an index, an appendix, a colophon or a licence, not a cut-off);
       - the OCR is mostly words: at least 80 percent of whitespace-separated tokens are alphabetic.
-3. Record the result in /root/analysis/h9a/retrieval_log.csv, with columns: society_key, url, chars, words, alpha_share, complete (Y/N), notes.
+TRIMMING (volumes that contain other works): if the title or notes columns show that the monograph is part of a larger volume (for example a journal volume, an expedition report volume or an annual report with several papers), save only the monograph itself.
+- Use python to find the monograph's own title heading at its start and the start of the next paper (or the volume index) at its end.
+- Keep that span only.
+- Record the start and end markers you used, and the kept word count, in the notes column of the log.
+- Choose the span by headings only, never by content.
+3. Record the result in /root/analysis/h9a/retrieval_log_partN.csv (N as in your sample file), with columns: society_key, url, chars, words, alpha_share, complete (Y/N), notes.
    - If a URL fails, look for another public-domain full text of the SAME book (another Internet Archive scan, or Gutenberg) and record that.
    - Never substitute a different book.
 

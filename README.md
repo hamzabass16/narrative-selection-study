@@ -22,7 +22,7 @@ The short answer so far: counting moral words in sacred texts does not predict h
 
 1. **Stories as a second inheritance.** Biologists call the wall between what a body learns and what its genes pass on the Weismann barrier. Narratives cross it. If the moral content of stories is selected like a trait, then societies whose canonical stories carry more cooperative content (care for kin, loyalty, reciprocity, courage, respect, fairness, property) should endure longer. This should hold even after accounting for the armies, farms and populations that usually decide who survives.
 2. **Service outlasts force.** Rulers who govern by serving and by accepting limits should leave sturdier societies than rulers who govern by fear. A simple model in the protocol predicts something more specific. Rule by force need not be shorter, but it should end more often in sudden internal collapse, because it holds only while the fear holds.
-3. **Convergence on content, not on God.** If humanity converged on anything, it should be the behaviours that make cooperation work, valued everywhere. Belief in a moralizing God should instead spread like an inherited institution of large states.
+3. **Convergence on content, not on God.** If humanity converged on anything, it should be on the behaviours that make cooperation work, which would then be valued everywhere. Belief in a moralizing God, by contrast, should spread like an inherited institution of large states.
 
 ## What was found
 
@@ -49,11 +49,13 @@ The short answer so far: counting moral words in sacred texts does not predict h
 
 **Conquerors adopt the faith of the conquered only when they bring none to rival it.** The theory predicts that conquerors adopt the stories of the conquered when those stories carry more cooperative content, as the Mongols became Muslims and the Manchus became Confucian emperors. In 61 conquests where the two sides held different traditions, conquerors adopted the conquered tradition fully in 5 and partly in 16. Adoption was, if anything, less likely for high-content traditions (odds ratio 0.60 [0.31, 1.15]). What mattered was what the conquerors brought. Peoples with no codified religion of their own adopted in 11 of 15 conquests; Christian and Muslim conquerors kept their own in 23 of 26.
 
-**Still running:** whether a new sample of old ethnographies, one society per language family, shows the seven cooperative behaviours valued everywhere.
+**The seven cooperative behaviours are valued almost everywhere, with exceptions at the group's edge.** A new sample of 30 societies from 30 language families was drawn from ethnographies written before 1929. In it, helping kin, group loyalty, returning favours, bravery, respect for superiors, fair division and respect for property were approved in 200 of the 203 passages that state how the society judges them. The three exceptions show where approval stops: Khoikhoi warriors give thanks for cattle stolen from enemies, and a Russian sect condemns paying taxes to the Tsar's officials. This replicates an earlier 60-society study (961 of 962 judgements positive). It also fits the idea that people converged on the content of morality. The new evidence is thin, though: only 11 to 50 judgements per behaviour.
 
 ## Why it matters
 
 The boldest claim, that the moral content of stories selects which societies survive, did not show up when content was measured by word counts. That leaves two possibilities: the claim is wrong, or the measure is too blunt. The folklore result points to the second. Readers respond to whether a story rewards the cheat, not to how often it says "brother". The next test has to code what stories endorse.
+
+The convergence claim held on both sides. The cooperative behaviours are approved almost everywhere they are judged, while belief in a moralizing God travels with descent and with the growth of states, as an inherited institution does.
 
 The leadership claim held up once it was measured by conduct rather than by belief. Force does not shorten a regime's life. It changes how the regime dies: in coups, assassinations and uprisings instead of orderly transitions, with poorer and less healthy societies left behind. And a ruler who claims God's authority is, on the evidence of the last century, more likely to rule by force than to be bound by morality.
 
