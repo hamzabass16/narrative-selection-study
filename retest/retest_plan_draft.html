@@ -1,0 +1,303 @@
+<html><head><meta charset="utf-8"><title>Retest Plan for Approval</title></head><body>
+<h1>Retest Plan for Approval: Narrative Selection and Societal Endurance</h1>
+<p><b>Status:</b> draft for the author's approval, 23 October 2026. Nothing in this plan has been run. Before writing it, I looked only at the following: which Seshat variables exist and how many of their values are dated; how often the Equinox ideology codes are present, absent or unknown, and how much of their variation lies within religious traditions; how many Equinox polities match current Seshat polities, and how many of those already have termination codes; how many CrisisDB crises fall in those polities; and how many polities each era contains. No exposure has been linked to any outcome. All results will remain exploratory (Deviations D1 to D23 still apply), because the plan is written after the first results were known.</p>
+
+<h2>1. What changes</h2>
+<ol>
+<li><b>The word-count content score is retired.</b> The dictionary Cooperative Content Index (CCI) counted moral words and gave one value per religion, so the first run had only 15 independent values. It is not used in any new test. The earlier results stay in the record as the test of a superseded measure.</li>
+<li><b>Content is measured per polity, by human experts.</b> Seshat's Equinox 2020 release records, for each polity, whether its normative ideology treats people as equals and puts elites and rulers under the same norms as commoners. Seshat's historians coded these variables; no AI coder is involved. The measure varies between polities of the same religion, and it also covers polities without scriptures.</li>
+<li><b>Time enters century by century, and each region is compared with its own past.</b> All Seshat tests move to a century panel with values that change over time, and region fixed effects replace comparisons between regions.</li>
+<li><b>H4b is replaced, H5 becomes a head-to-head test, H6 is tested from published experiments, and H7 is restated.</b></li>
+<li><b>H8, H9a, H9b and Study 2 get the improvements listed in the results report.</b> Folklore is coded for what stories reward and punish, not for which words they use. An optional new hypothesis (H10) tests whether the narratives themselves are selected.</li>
+</ol>
+
+<h2>2. Summary</h2>
+<table border="1">
+<tr><th>Hypothesis</th><th>Problem in the first run</th><th>New test</th><th>Main data</th></tr>
+<tr><td>H1 content predicts endurance</td><td>Word counts; 15 values</td><td>Hazard of polity termination on polity-level ideology content, within regions</td><td>Seshat Equinox 2020; termination codes</td></tr>
+<tr><td>H2 robust to drivers of power</td><td>Controls averaged over each polity's whole life</td><td>Century-level controls lagged one century, region fixed effects, within-polity change where Seshat dates it</td><td>Equinox, Polaris 2026, Seshat Agri, Cliopatria</td></tr>
+<tr><td>H3 content precedes complexity</td><td>Not testable (content constant)</td><td>Cross-lagged region-century models and an event study</td><td>About 1,000 region-centuries</td></tr>
+<tr><td>H4a internal collapse, not conquest</td><td>Weak measure; 49 events</td><td>Competing risks with the new measure</td><td>As H2</td></tr>
+<tr><td>H4b conquerors adopt high-content stories</td><td>Measured the conquerors' own religion, not content</td><td>Replaced by H4b*: recovery from crisis</td><td>CrisisDB (105 crises in covered polities)</td></tr>
+<tr><td>H5 message, not vessel</td><td>No content effect to compare</td><td>Head-to-head: ideology content against moralizing-god codes in the same polities</td><td>Equinox</td></tr>
+<tr><td>H6 stories raise trust in strangers</td><td>Needed a new experiment</td><td>Meta-analysis of published randomized experiments</td><td>Published studies</td></tr>
+<tr><td>H7 same effect in every era</td><td>Early era was two traditions</td><td>Era-specific estimates with many polities per era, plus an equivalence rule</td><td>As H2; V-Dem for H8</td></tr>
+<tr><td>H8 service outlasts force</td><td>Modern data only; possible hindsight and reverse causation</td><td>Premodern executive constraints; lagged V-Dem exposure; leader-level exits</td><td>Equinox, V-Dem, Archigos</td></tr>
+<tr><td>H9a cooperative behaviours judged good</td><td>11 to 50 judgements per behaviour; negatives never double-coded</td><td>More societies, evaluation-targeted passages, target of the act coded, every negative double- and triple-coded</td><td>Pre-1929 ethnographies</td></tr>
+<tr><td>H9b moralizing God spreads by descent and scale</td><td>Undated trees; no test of order</td><td>Dated trees and correlated-evolution models</td><td>D-PLACE</td></tr>
+<tr><td>Study 2 folklore and trust</td><td>Word counts on one-line summaries</td><td>Endorsement coding of all 2,564 motifs, checked against human codes</td><td>Michalopoulos and Xue archive, Glottolog</td></tr>
+<tr><td>H10 (new, optional) narratives are selected</td><td>Not in the protocol</td><td>Spread and retention of motifs that reward cooperation</td><td>Motif codes, dated trees</td></tr>
+</table>
+
+<h2>3. Content measures</h2>
+<h3>3.1 Polity ideology content (Study 1: H1 to H5 and H7)</h3>
+<p>Source: Seshat Equinox 2020, May 2023 release, published on Seshat's GitHub (build_polaris_dataset). Section: Religion and Normative Ideology. Three variables have real variation (counts of known values; inferred codes counted with their direction):</p>
+<ul>
+<li>Ideological reinforcement of equality: about 260 known, 132 present and 128 absent.</li>
+<li>Ideological thought equates elites and commoners: about 231 known, 102 present and 129 absent.</li>
+<li>Ideological thought equates rulers and commoners: about 246 known, 71 present and 175 absent.</li>
+</ul>
+<p><b>Primary index (Egalitarian-Prosocial Ideology, EPI):</b> the mean of the three, with present = 1 and absent = 0. Unknown and suspected-unknown values are missing, never absent (the lesson of Beheim et al. 2021). A polity needs at least 2 of the 3 items. Three further items are reported only descriptively, because almost every coded polity has them: ideology reinforces prosociality (170 present, 6 absent), production of public goods (129 and 7), and moralizing norms are broad (204 and 107).</p>
+<p><b>What it measures.</b> Whether the polity's dominant normative ideology extends moral standing beyond the elite: people treated as equals, and elites and rulers held to the same norms as commoners. This is the moral-scope part of the protocol's CCI definition, plus the content of the planned Ruler Constraint item. It does not cover all seven cooperative domains: Seshat does not code family, bravery, deference or property. It is the ideology as historians describe it, not a reading of the narratives themselves.</p>
+<p><b>Coverage, checked before writing.</b> 245 Equinox polities have at least 2 of the 3 items. 238 of them overlap a current Seshat polity in the same region for at least 60 percent of the shorter span (223 uniquely), and 207 of those already have termination codes. By start date they are spread across eras: 56 before 500 BCE, 130 from 500 BCE to 1500 CE and 43 after 1500 CE. In a first, cruder match, about a third of the index's variance lay within religious traditions. And 75 of 193 polities had no scored scriptural tradition, so polities with oral traditions enter for the first time.</p>
+<p><b>Matching rule.</b> Equinox polity codes (for example 'CnEHan') are linked to current Seshat polities by region, date overlap and name. The few ambiguous cases go to an AI matcher that sees only names, regions and dates, never ideology values or outcomes. The matching table is frozen before any model is run.</p>
+<p><b>Limits.</b> The historians who coded ideology knew how each polity ended, so hindsight could colour the codes. Mitigation: the within-tradition version of every model compares polities of the same religion, where a historian's view of the religion cannot drive the result. The codes describe official and elite ideology, not what most people heard.</p>
+
+<h3>3.2 Folklore endorsement coding (Study 2 and H10)</h3>
+<p>Each of Berezkin's 2,564 motif descriptions (from the Michalopoulos and Xue 2021 archive) is coded by independent AI coders. For each of the seven behaviours (helping kin, group loyalty, reciprocity, bravery, deference, fairness, respect for property), the coders record:</p>
+<ul>
+<li>whether the motif shows the behaviour or its violation;</li>
+<li>the outcome for the actor: rewarded or praised; punished or condemned; or no outcome;</li>
+<li>the target of the act: kin, own group, stranger or enemy.</li>
+</ul>
+<p><b>Motif score:</b> cooperative acts rewarded plus defections punished, minus defections rewarded and cooperative acts punished. Society and country scores are the means across their motifs, weighted as in the first run.</p>
+<p><b>Blinding.</b> Ethnonyms and place names are redacted, and coders never see which societies carry a motif. This is far easier than blinding canonical scriptures, which a model recognizes.</p>
+<p><b>Human check.</b> Michalopoulos and Xue had MTurk workers classify 281 trickster and deception motifs by whether the antisocial act succeeds. That motif-level file is in their Dataverse archive and will be downloaded. The AI codes for 'defection rewarded or punished' on those motifs are compared with the human codes, and, if the file allows, with agreement among the workers themselves. This would be the first check of this project's AI coding against human coders.</p>
+<p><b>Reliability.</b> A 5 percent pilot is used only for reliability. Then a random 20 percent is double-coded, with Krippendorff alpha of at least 0.80 per behaviour as the target.</p>
+
+<h3>3.3 Retired</h3>
+<p>The dictionary CCI, for Study 1, Study 2 and H4b. Endorsement coding of canonical scriptures is not proposed instead, for two reasons. The effective sample would still be 15 to 20 traditions. And an AI coder recognizes these texts and knows how their polities fared, which breaks the blinding rule (Deviation D4).</p>
+
+<h2>4. The century panel (H1 to H5 and H7)</h2>
+<p><b>What the data allow.</b> Seshat's historians record most variables once per polity, and polities last a median of 190 years (interquartile range 108 to 308). Only about 5 percent of current Seshat values carry a date inside a polity. Within-polity change is recorded mainly for:</p>
+<ul>
+<li>population: 87 polities with at least two dated values;</li>
+<li>territory: 72;</li>
+<li>largest settlement: 83.</li>
+</ul>
+<p>So true within-polity change can be measured for those three. For everything else, the value in a region changes when one polity succeeds another. The design therefore compares each region with its own earlier centuries (region fixed effects). Fixed geography and all other differences between regions drop out, and no polity is compared with a polity elsewhere.</p>
+<p><b>Construction.</b> There are two panels:</p>
+<ul>
+<li>Polity-centuries: one row for each century of a polity's life, for the hazard models.</li>
+<li>Region-centuries: about 1,000 across 33 regions (median 21 centuries each), for H3. Each century takes the values of the polity governing the region at its midpoint.</li>
+</ul>
+<p>Values are sampled with the rules of Seshat's own SeshatDatasetAnalysis package:</p>
+<ul>
+<li>dated values where they exist, otherwise the polity's value;</li>
+<li>one of the disputed values drawn at random;</li>
+<li>ranges drawn uniformly.</li>
+</ul>
+<p>The sampling is repeated 20 times to carry the uncertainty into the estimates. Territory is also taken year by year from Cliopatria, Seshat's map of polity borders from 3400 BCE to 2024 CE, where Seshat has no dated value.</p>
+<p><b>Time-varying controls, each measured one century earlier:</b></p>
+<ul>
+<li>agricultural productivity (the Seshat Agri dataset, Turchin et al. 2021, by region and century);</li>
+<li>military technology (the six-category index) and its iron and cavalry components;</li>
+<li>log population, log territory and largest settlement;</li>
+<li>social complexity (first principal component of the nine characteristics);</li>
+<li>writing;</li>
+<li>century dummies.</li>
+</ul>
+<p>Kinship intensity is dropped: it is not in Seshat and does not vary over time. The Agri dataset is listed on Seshat's downloads page. If it sits behind a sign-in, the author will be asked to sign in; I will not create an account.</p>
+
+<h2>5. Hypotheses</h2>
+<h3>H1 (revised): content predicts endurance</h3>
+<p><b>Claim:</b> polities whose normative ideology extends moral standing more widely last longer.</p>
+<p><b>Sample:</b> about 238 polities in 33 regions. 207 already have termination codes; the remaining 30 or so are coded under Codebook v0.3 by independent AI coders blind to ideology, as in the first run, with a 20 percent double-coded sample. Expected: about 110 to 120 terminations, of which 35 to 40 are internal collapses.</p>
+<p><b>Model:</b> a discrete-time hazard (complementary log-log) on polity-centuries with EPI standardized, polity-age and era terms, and region fixed effects; errors clustered by region, with a wild cluster bootstrap because there are only 33 regions. Two companion versions: one with religious-tradition fixed effects, comparing polities within the same religion, and one Cox model for comparison with the first run.</p>
+<p><b>Power:</b> with 110 events and covariate R-squared 0.3, the minimum detectable hazard ratio is about 0.73 per SD at 80 percent power (0.69 at 90 percent). Clustering by region lowers this further.</p>
+<p><b>Decision:</b> supported if the hazard ratio is below 1 with a Holm-corrected p below 0.05 and the same sign in the within-tradition version. Falsified if the 90 percent interval lies inside 0.90 to 1.11, or the ratio is significantly above 1. Otherwise inconclusive. With this sample, a null will most likely be inconclusive rather than a falsification.</p>
+<p><b>If the author does not accept an ideology measure,</b> H1 is removed. H2 to H5 and H7 depend on H1's exposure, so they are removed with it.</p>
+
+<h3>H2 (revised): robust to the drivers of power, century by century</h3>
+<p><b>Model:</b> the H1 model plus the lagged time-varying controls in Section 4, with region fixed effects. Population, territory and largest settlement change within polities where dated. Geography is absorbed by the fixed effects. A between-region version is reported for contrast only.</p>
+<p><b>Decision:</b> as H1, on the adjusted hazard ratio.</p>
+
+<h3>H3 (now testable): content precedes complexity</h3>
+<p><b>Data:</b> region-century series of EPI, complexity, military technology and agriculture.</p>
+<p><b>Tests:</b></p>
+<ol>
+<li>Cross-lagged models with region fixed effects: complexity at t+1 on complexity, EPI, military technology and agriculture at t; and EPI at t+1 on EPI and complexity at t.</li>
+<li>EPI added to the best model of Turchin et al. (2022), which predicts complexity growth from agriculture and military technology.</li>
+<li>An event study of complexity in the five centuries before and after the first century in which a region's governing polity has EPI of at least 2/3. Only regions with known values both before and after are used.</li>
+</ol>
+<p><b>Decision:</b> the protocol's rule. Falsified if the forward lag (content to complexity) is null while the reverse lag is significant and larger. Supported if the forward lag is positive, significant after Holm correction and larger in standardized size than the reverse lag.</p>
+<p><b>Limit:</b> because EPI changes mostly when polities succeed one another, precedence is resolved only to the century.</p>
+
+<h3>H4a (revised): internal collapse rather than conquest</h3>
+<p><b>Model:</b> Fine-Gray and cause-specific models for internal collapse and conquest, with the H2 sample and controls.</p>
+<p><b>Decision:</b> the protocol's rule. With about 35 to 40 internal collapses, only a sub-hazard ratio near 0.58 or stronger is detectable at 80 percent power, so this stays an estimate unless the effect is large.</p>
+
+<h3>H4b replaced by H4b*: recovery from crisis</h3>
+<p><b>Why H4b existed.</b> It was one of the protocol's five ways to separate content that survives because it serves social life from content that survives because its carriers won wars. If conquerors adopt the stories of the people they conquer, those stories' spread cannot be credited to their carriers' armies.</p>
+<p><b>Why replace it.</b> It asks why stories travel, not whether they help a society endure. And the first run showed that adoption tracks the conquerors' own religion: peoples without a codified religion adopted in 11 of 15 conquests, while Christian and Muslim conquerors kept theirs in 23 of 26. No content measure can remove that confound with 9 or 10 traditions carrying all the variation.</p>
+<p><b>Replacement claim:</b> polities whose ideology extends moral standing more widely come through crises better. This tests the protocol's own gap 2 (persistence and recovery from crisis, not growth) and its fourth separation strategy (recovery depends on internal cohesion, not conquest) more directly than H4b did.</p>
+<p><b>Data:</b> CrisisDB consequences in Polaris 2026: 169 crises, 105 of them in polities with EPI.</p>
+<p><b>Outcomes:</b></p>
+<ol>
+<li>The polity survives the crisis: no non-continuous termination within 50 years of onset.</li>
+<li>Severity: the count of civil war, extermination, collapse and fragmentation.</li>
+<li>Reform: new public goods or a new constitution follow.</li>
+<li>The ruler is deposed or assassinated (reported, not predicted).</li>
+</ol>
+<p><b>Model:</b> logit and count models with log population, complexity and era as controls, errors clustered by polity, and Fisher exact tests where a model separates.</p>
+<p><b>Decision:</b> supported if EPI raises the odds of survival (Holm-corrected) and does not significantly raise severity. Falsified if the 90 percent interval for the survival odds ratio lies inside 0.80 to 1.25. Otherwise inconclusive.</p>
+
+<h3>H5 (head-to-head): the message, not the vessel</h3>
+<p><b>Why H5 exists.</b> It is the protocol's main difference from the Big Gods hypothesis (gap 1): content should matter whether or not it comes with moralizing gods. It failed in the first run only because there was no content effect to compare, and because moralizing punishment is coded present in 85 percent of polities.</p>
+<p><b>Test:</b> in the H2 model, enter EPI (the message) alongside three vessel codes from the same Equinox polities:</p>
+<ul>
+<li>moralizing supernatural punishment;</li>
+<li>moralizing high god;</li>
+<li>'moral concern is primary' (167 present, 157 absent).</li>
+</ul>
+<p>The mediation analysis through historical trust is dropped, because no data exist for it.</p>
+<p><b>Decision:</b> falsified if the EPI effect loses more than half its size, or moves inside the equivalence bounds, when the vessel codes are added. Supported if it keeps its sign and significance while the vessel codes add nothing. If H1 is null, H5 is reported only as an estimate.</p>
+
+<h3>H6 (now testable): exposure to cooperative stories increases cooperation with strangers</h3>
+<p><b>Design:</b> a pre-registered systematic review and meta-analysis of existing randomized experiments. This replaces running a new experiment.</p>
+<p><b>Primary set:</b></p>
+<ul>
+<li>randomized experiments;</li>
+<li>the treatment is a story, scripture or narrative text whose content shows or endorses cooperative behaviour;</li>
+<li>the control is a neutral or matched text;</li>
+<li>the outcome is incentivized behaviour toward anonymous others: amount sent in a trust game, dictator giving, public-goods contribution, prisoner's dilemma cooperation, or the random allocation game.</li>
+</ul>
+<p><b>Separate strata:</b></p>
+<ul>
+<li>non-narrative moral messages (for example the Golden Rule message in Dal Bó and Dal Bó 2014);</li>
+<li>implicit religious primes (Shariff et al. 2016);</li>
+<li>non-incentivized helping;</li>
+<li>honesty tasks.</li>
+</ul>
+<p><b>Already found, to show the literature exists:</b></p>
+<ul>
+<li>Smith, Mabulla and Apicella (2023): Hadza adults who heard a rescue story gave 0.22 more meat sticks in a dictator game (90 percent interval -0.12 to 0.57; 185 people) and did not recall the story better.</li>
+<li>Hillenbrand and Verrina (2022): positive narratives raised prosocial behaviour (more than 1,500 participants).</li>
+<li>Dal Bó and Dal Bó (2014): a Golden Rule message raised public-goods contributions sharply but only for a few rounds.</li>
+</ul>
+<p><b>Search:</b> web and scholar searches with a fixed query set; the reference lists of existing meta-analyses; forward citations of the key studies; and OSF and PsyArXiv for unpublished and registered studies.</p>
+<p><b>Extraction:</b> two independent AI extractors per study, each number quoted with its page or table, disagreements settled by a third, and 20 percent re-checked against the paper by a separate verifier. Studies whose statistics are inaccessible are listed as missing.</p>
+<p><b>Analysis:</b></p>
+<ul>
+<li>random-effects meta-analysis of Hedges' g, with robust variance estimation for multiple effects per study;</li>
+<li>publication-bias corrections: PET-PEESE and a three-parameter selection model;</li>
+<li>a version restricted to preregistered studies.</li>
+</ul>
+<p><b>Moderators:</b> traditional or religious narrative versus modern story; children versus adults; non-WEIRD samples; stranger versus in-group target; delay before the outcome.</p>
+<p><b>Decision:</b> supported if the bias-corrected pooled effect in the primary set is positive with a 95 percent interval excluding 0, and is also positive among preregistered studies. Falsified if the bias-corrected 90 percent interval lies inside d = -0.15 to 0.15, the protocol's bound. Otherwise inconclusive.</p>
+<p><b>Limit:</b> few studies use traditional narratives matched within a tradition, as H6 specified, so the specific form of H6 is tested only in that subset.</p>
+
+<h3>H7 (restated): the same effect in every era</h3>
+<p><b>The claim, exactly:</b> the relation between moral content and endurance is the same before 500 BCE, from 500 BCE to 1500 CE, and after 1500 CE. It is the protocol's operational form of the author's claim that these narrative truths are atemporal for humans. If content helps societies last in the Bronze Age, in the classical and medieval world, and in the modern world, despite their very different technology, then the effect reflects human social life, not one period.</p>
+<p><b>Three features matter:</b></p>
+<ol>
+<li>It presupposes an effect; 'no effect in every era' is not what it means.</li>
+<li>It is a no-difference claim, so failing to find an interaction is not evidence of invariance.</li>
+<li>Its pre-set falsification is narrow: a significant interaction with a sign reversal.</li>
+</ol>
+<p><b>New test:</b> era-specific hazard ratios in the H2 model, with many polities per era (about 56, 130 and 43), and the interaction test.</p>
+<p><b>Decision:</b></p>
+<ul>
+<li>Falsified as in the protocol.</li>
+<li>Invariance supported only if all three era estimates fall on the protective side and the 90 percent interval of each between-era ratio lies inside 0.67 to 1.5. This added equivalence rule is proposed here for approval, and it is probably underpowered.</li>
+<li>Otherwise, not falsified and not shown.</li>
+</ul>
+<p>The same question is asked of H8, by setting the premodern constraint test against the V-Dem test of 1789 to 2025.</p>
+
+<h3>H8 (strengthened): service-legitimated rule outlasts force</h3>
+<p><b>Part A. Premodern conduct.</b> The exposure is a constraint index built from Equinox institutional variables, which are human-coded:</p>
+<ul>
+<li>constraint on the executive by government: about 101 polities known, 47 present and 54 absent;</li>
+<li>constraint on the executive by non-government actors: 83 known, 47 and 36;</li>
+<li>impeachment: 99 known, 11 and 88;</li>
+<li>ideology equates rulers and commoners: 246 known.</li>
+</ul>
+<p>Outcomes: the internal-collapse sub-hazard, violent internal ends, and deposition, assassination and civil war in CrisisDB crises. Prediction, from the model in Section 2 of the protocol: constraint does not lengthen a polity's life, but it lowers internal collapse and violent ends. With about 100 polities, this is an estimate. It fills the gap that the revised test starts in 1789.</p>
+<p><b>Part B. Hindsight and reverse causation in V-Dem.</b> The primary exposure becomes the strategy score averaged only over years ending at least 10 years before the regime's end (20 years in a sensitivity check). The ending test is repeated with country fixed effects, so that each country is compared with itself.</p>
+<p><b>Part C. Leaders.</b> Archigos 4.1 (1875 to 2015) records each leader's manner of exit (regular, irregular or foreign) and fate after leaving office. The test: is irregular exit, or a bad fate, less likely for leaders whose first three years in office were more cooperative?</p>
+<p><b>Part D (optional).</b> If the data are accessible: successful versus failed assassination attempts (Jones and Olken 2009). Do they change outcomes differently under dominance and cooperative regimes?</p>
+<p><b>Decision:</b> as Section 14.5 of the protocol, with the lagged exposure of Part B as primary. Parts A and C are estimates. No primate test is needed, because human data exist.</p>
+
+<h3>H9a (strengthened): the seven cooperative behaviours are judged good everywhere</h3>
+<p><b>Sample:</b></p>
+<ul>
+<li>the 30 societies already retrieved;</li>
+<li>the 16 other verified candidates (46 societies in 36 families);</li>
+<li>a targeted search for pre-1929 public-domain ethnographies of Uralic, Turkic, Tungusic and Caucasian peoples.</li>
+</ul>
+<p>Estimates are weighted to one society per family and clustered by family.</p>
+<p><b>Passages:</b> paragraphs that contain both a behaviour term and an evaluation term from a fixed list (for example praise, honour, shame, disgrace, punish, approve, despise, admire, duty, crime, wrong). The list is frozen before extraction. The cap rises from 12 to 30 per behaviour per society, drawn with a fixed seed. This targets the 9 percent yield problem.</p>
+<p><b>Coding:</b></p>
+<ul>
+<li>as before, plus the target of the act: kin, own group, stranger or enemy;</li>
+<li>every passage coded negative is double-coded and then triple-coded, which closes the untested-agreement gap on negative judgements;</li>
+<li>a random 20 percent is double-coded.</li>
+</ul>
+<p>eHRAF subject codes remain unavailable (subscription).</p>
+<p><b>Decision:</b> unchanged (judged bad in more than 5 percent of stated evaluations). For the 95 percent upper bound to fall below 5 percent with no negatives, a behaviour needs at least 73 stated judgements, so whether each behaviour reaches that number is reported.</p>
+
+<h3>H9b (strengthened): belief in a moralizing God spreads by descent and scale</h3>
+<ol>
+<li>The D statistic on dated published trees in D-PLACE: Austronesian (Gray et al. 2009), Bantu (Grollemund et al. 2015), Indo-European (Bouckaert et al. 2012), and any other tree with at least 30 Ethnographic Atlas societies.</li>
+<li>Pagel's (1994) correlated-evolution test of moralizing high god (EA034) and political hierarchy (EA033, at least two levels above the community). It is fitted by maximum likelihood with custom code checked by simulation. It asks whether moralizing gods are gained more readily in hierarchical lineages, and which trait tends to come first.</li>
+<li>The protocol's comparison with the signal of cooperative norms cannot be computed. Approval of the seven behaviours barely varies (H9a), so there is no clustering to compare. The report says so instead of forcing a number.</li>
+</ol>
+<p><b>Prediction:</b> hierarchy precedes moralizing gods.</p>
+
+<h3>Study 2 (rerun with endorsement codes): folklore and trust</h3>
+<p><b>Exposure:</b> the endorsement score in Section 3.2, with the trickster measure kept as the positive control.</p>
+<p><b>Models:</b> those of Section 14.1: country trust, second-generation immigrants, and political scale.</p>
+<p><b>Exploratory endurance outcome:</b> whether the group's language is still spoken. This is Glottolog's endangerment status, on six levels from not endangered to extinct, for Ethnographic Atlas groups with a language code. The model is an ordered logit with continent fixed effects, documentation controls and political scale, and errors clustered by language family. Colonization drives much of language loss, so this outcome is labelled exploratory.</p>
+<p><b>Smallest effect of interest:</b> recalibrated to the trickster benchmark (about 0.03 SD among immigrants, 0.34 SD across countries; Deviation D16).</p>
+<p><b>Decision:</b> supported if the score predicts higher trust across countries and among immigrants after Holm correction, robust to continent fixed effects.</p>
+
+<h3>H10 (new, optional): the narratives themselves are selected</h3>
+<p><b>Claim:</b> motifs whose stories reward cooperation and punish defection are retained and spread more than other motifs. This tests the 'selectable trait' part of the narrative selection hypothesis at the level of the stories, regardless of what happened to the societies that told them.</p>
+<p><b>Tests:</b></p>
+<ol>
+<li>Breadth: the number of language families and macro-regions that carry each motif, by content, controlling for Berezkin's thematic chapter and description length.</li>
+<li>Retention: the loss rate of each motif on the dated trees (a binary Markov model), compared between motifs that reward cooperation and other motifs.</li>
+<li>Individual level: transmission-chain experiments in the H6 search that compare recall of cooperative and other moral content.</li>
+</ol>
+<p><b>Limit:</b> breadth also reflects a motif's age and how well a region is documented. Retention is the stronger test.</p>
+
+<h2>6. Coders and validation</h2>
+<ul>
+<li>AI coders are independent instances given frozen briefs, not told the hypotheses, and blind to exposures and outcomes. They are barred from Seshat and CrisisDB when coding terminations.</li>
+<li>Coding uses a 5 percent reliability pilot and 20 percent double coding, with a third instance adjudicating.</li>
+<li>Exposures for H1 to H5, H7 and premodern H8 are human-coded (Seshat). The only AI codes in Study 1 are termination types, as before.</li>
+<li>The folklore motif codes are checked against human MTurk codes where these exist.</li>
+</ul>
+
+<h2>7. Integrity rules</h2>
+<ul>
+<li>This plan is frozen in Drive once approved. Each analysis script is frozen (SHA-256) before exposures are linked to outcomes, and every change after freezing is logged as a diff.</li>
+<li>Deviations are logged from D24 onward in the protocol.</li>
+<li>Holm correction applies within three families: Study 1 (H1, H2, H3, H4a, H4b*, H5, H7); H6; and Study 2.</li>
+<li>Every result is reported, null or not, and the earlier results stay in Sections 13 and 15.</li>
+<li>A separate agent re-derives the main numbers with its own code before anything is reported as final.</li>
+</ul>
+
+<h2>8. Order of work</h2>
+<ol>
+<li><b>Data:</b> the frozen Equinox matching table; the Agri, Cliopatria, Glottolog, MTurk motif and Archigos files; the panels. A coverage report goes to the author before any model is run.</li>
+<li><b>Coding:</b> termination codes for the newly covered polities; motif endorsement coding with the human check; H9a extraction and coding; the H6 search and extraction.</li>
+<li><b>Analyses:</b> the H6 synthesis; Study 1 (H1 to H5 and H7); H8; Study 2 and H10; H9a; H9b.</li>
+<li><b>Write-up:</b> independent verification, the report Doc, protocol Section 16, and the repository.</li>
+</ol>
+
+<h2>9. Decisions for the author</h2>
+<ol>
+<li>Use the Seshat ideology index as the content measure for H1 to H5 and H7, or remove H1 (and with it H2 to H5 and H7).</li>
+<li>Replace H4b with H4b*, recovery from crisis.</li>
+<li>Include the optional H10.</li>
+<li>Accept the equivalence rule added to H7 (era ratios within 0.67 to 1.5).</li>
+</ol>
+
+<h2>Sources</h2>
+<ul>
+<li>Seshat Equinox 2020 (May 2023) and Polaris 2026: https://github.com/Seshat-Global-History-Databank/build_polaris_dataset</li>
+<li>Seshat data and downloads (Agri dataset): https://seshatdatabank.info/data and https://seshat-db.com/downloads_page</li>
+<li>SeshatDatasetAnalysis (century sampling): https://github.com/matildaperuzzo/SeshatDatasetAnalysis</li>
+<li>Cliopatria (polity borders over time): https://github.com/Seshat-Global-History-Databank/cliopatria</li>
+<li>Turchin et al. (2022), Science Advances: https://doi.org/10.1126/sciadv.abn3517</li>
+<li>Michalopoulos and Xue (2021) archive: https://doi.org/10.7910/DVN/IXOHKB</li>
+<li>Smith, Mabulla and Apicella (2023), Human Nature: https://doi.org/10.1007/s12110-023-09444-4</li>
+<li>Hillenbrand and Verrina (2022), Games and Economic Behavior: https://www.zew.de/PU83744-1</li>
+<li>Dal Bó and Dal Bó (2014), Journal of Public Economics (NBER version): https://nber.org/papers/w15559</li>
+<li>Shariff, Willard, Andersen and Norenzayan (2016), Personality and Social Psychology Review: https://www2.psych.ubc.ca/~ara/Manuscripts/Shariff%20et%20al%20PSPR%202016.pdf</li>
+<li>Archigos: https://rochester.edu/college/faculty/hgoemans/data.htm</li>
+<li>Glottolog CLDF: https://github.com/glottolog/glottolog-cldf</li>
+<li>D-PLACE CLDF (dated trees): https://github.com/D-PLACE/dplace-cldf</li>
+</ul>
+</body></html>

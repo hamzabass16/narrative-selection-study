@@ -1,0 +1,865 @@
+name,long_name,nga,start,end,status,equinox_code,overlap,candidates
+cn_qing_dyn_1,Early Qing,Middle Yellow River Valley,1644,1796,unique,CnQingE,0.993,"CnQingE(1644..1795,0.99)"
+cn_qing_dyn_2,Late Qing,Middle Yellow River Valley,1796,1912,unique,CnQingL,1.0,"CnQingL(1796..1912,1.00)"
+mx_basin_of_mexico_1,Archaic Basin of Mexico,Basin of Mexico,-6000,-2001,unique,MxArch,1.0,"MxArch(-6000..-2001,1.00)"
+mx_basin_of_mexico_2,Initial Formative Basin of Mexico,Basin of Mexico,-2000,-1201,unique,MxInitl,1.0,"MxInitl(-2000..-1201,1.00)"
+mx_basin_of_mexico_3,Early Formative Basin of Mexico,Basin of Mexico,-1200,-801,unique,MxFormE,1.0,"MxFormE(-1200..-801,1.00)"
+mx_basin_of_mexico_4,Middle Formative Basin of Mexico,Basin of Mexico,-800,-401,unique,MxFormM,1.0,"MxFormM(-800..-401,1.00)"
+mx_basin_of_mexico_5,Late Formative Basin of Mexico,Basin of Mexico,-400,-101,unique,MxFormL,1.0,"MxFormL(-400..-101,1.00)"
+mx_basin_of_mexico_6,Terminal Formative Basin of Mexico,Basin of Mexico,-100,99,unique,MxFormT,1.0,"MxFormT(-100..99,1.00)"
+mx_basin_of_mexico_7,Classic Basin of Mexico,Basin of Mexico,100,649,unique,MxClass,1.0,"MxClass(100..649,1.00)"
+mx_basin_of_mexico_8,Epiclassic Basin of Mexico,Basin of Mexico,650,899,unique,MxEpicl,1.0,"MxEpicl(650..899,1.00)"
+mx_toltec,Toltecs,Basin of Mexico,900,1199,unique,MxToltc,1.0,"MxToltc(900..1199,1.00)"
+mx_basin_of_mexico_10,Middle Postclassic Basin of Mexico,Basin of Mexico,1200,1426,unique,MxPostM,1.0,"MxPostM(1200..1426,1.00)"
+mx_aztec_emp,Aztec Empire,Basin of Mexico,1427,1526,unique,MxAztec,1.0,"MxAztec(1427..1526,1.00)"
+us_hawaii_1,Hawaii I,Big Island Hawaii,1000,1200,unique,Hawaii1,0.995,"Hawaii1(1000..1199,0.99)"
+us_hawaii_2,Hawaii II,Big Island Hawaii,1200,1580,unique,Hawaii2,1.0,"Hawaii2(1200..1649,1.00)"
+us_hawaii_3,Hawaii III,Big Island Hawaii,1580,1778,unique,Hawaii3,0.641,"Hawaii3(1650..1777,0.64)"
+us_kamehameha_k,Kingdom of Hawaii - Kamehameha Period,Big Island Hawaii,1778,1819,unique,USKameh,1.0,"USKameh(1778..1819,1.00)"
+us_hawaii_k,Kingdom of Hawaii - Post-Kamehameha Period,Big Island Hawaii,1820,1898,none,,,
+us_woodland_1,Cahokia - Early Woodland,Cahokia,-600,-150,unique,USMisEW,0.998,"USMisEW(-600..-151,1.00)"
+us_woodland_2,Cahokia - Middle Woodland,Cahokia,-150,300,unique,USMisMW,0.998,"USMisMW(-150..299,1.00)"
+us_woodland_3,Cahokia - Late Woodland I,Cahokia,300,450,unique,USMisRo,0.993,"USMisRo(300..449,0.99)"
+us_woodland_4,Cahokia - Late Woodland II,Cahokia,450,600,unique,USMisMu,0.993,"USMisMu(450..599,0.99)"
+us_woodland_5,Cahokia - Late Woodland III,Cahokia,600,750,unique,USMisPa,0.993,"USMisPa(600..749,0.99)"
+us_emergent_mississippian_1,Cahokia - Emergent Mississippian I,Cahokia,750,900,unique,USMisSp,0.993,"USMisSp(750..899,0.99)"
+us_cahokia_3,Cahokia - Sand Prairie,Cahokia,1275,1400,unique,USMisSd,0.992,"USMisSd(1275..1399,0.99)"
+us_oneota,Oneota,Cahokia,1400,1650,unique,USOneot,0.956,"USOneot(1400..1639,0.96)"
+us_early_illinois_confederation,Early Illinois Confederation,Cahokia,1640,1717,unique,USIllin,1.0,"USIllin(1640..1717,1.00)"
+us_late_illinois_confederation,Late Illinois Confederation,,1718,1778,none,,,
+us_cahokia_1,Cahokia - Lohman-Stirling,Cahokia,1050,1199,unique,USCahoE,1.0,"USCahoE(1050..1199,1.00)"
+us_cahokia_2,Cahokia - Moorehead,Cahokia,1200,1275,unique,USCahoL,0.987,"USCahoL(1200..1274,0.99)"
+us_emergent_mississippian_2,Cahokia - Emergent Mississippian II,Cahokia,900,1049,unique,USMisME,1.0,"USMisME(900..1049,1.00)"
+kh_cambodia_ba,Bronze Age Cambodia,Cambodian Basin,-1200,-501,unique,KhMekBA,1.0,"KhMekBA(-1200..-501,1.00)"
+kh_cambodia_ia,Iron Age Cambodia,Cambodian Basin,-500,224,unique,KhMekIA,1.0,"KhMekIA(-500..224,1.00)"
+kh_funan_1,Funan I,Cambodian Basin,225,540,unique,KhFunaE,0.997,"KhFunaE(225..539,1.00)"
+kh_funan_2,Funan II,Cambodian Basin,540,640,unique,KhFunaL,0.99,"KhFunaL(540..639,0.99)"
+kh_chenla,Chenla,Cambodian Basin,550,825,unique,KhChenl,0.585,"KhChenl(640..801,0.59)"
+kh_angkor_1,Early Angkor,Cambodian Basin,802,1100,unique,KhAngkE,0.93,"KhAngkE(802..1079,0.93)"
+kh_angkor_2,Classical Angkor,Cambodian Basin,1100,1220,unique,KhAngkC,0.992,"KhAngkC(1080..1219,0.99)"
+kh_angkor_3,Late Angkor,Cambodian Basin,1220,1432,unique,KhAngkL,0.995,"KhAngkL(1220..1431,1.00)"
+kh_khmer_k,Khmer Kingdom,Cambodian Basin,1432,1594,unique,KhCambd,0.994,"KhCambd(1432..1593,0.99)"
+th_ayutthaya,Ayutthaya,Cambodian Basin,1593,1767,unique,ThAyuth,0.994,"ThAyuth(1594..1767,0.99)"
+th_rattanakosin,Rattanakosin,Cambodian Basin,1782,1873,unique,ThRattn,1.0,"ThRattn(1782..1873,1.00)"
+id_buni,Java - Buni Culture,Central Java,-400,500,unique,IdCJBun,0.999,"IdCJBun(-400..499,1.00)"
+id_kalingga_k,Kalingga Kingdom,Central Java,500,732,unique,IdKalin,0.996,"IdKalin(500..731,1.00)"
+id_medang_k,Medang Kingdom,Central Java,732,1019,unique,IdMedng,1.0,"IdMedng(732..1019,1.00)"
+id_kediri_k,Kediri Kingdom,Central Java,1049,1222,unique,IdKedir,1.0,"IdKedir(1049..1222,1.00)"
+id_majapahit_k,Majapahit Kingdom,Central Java,1292,1518,unique,IdMajap,1.0,"IdMajap(1291..1518,1.00)"
+id_mataram_k,Mataram Sultanate,Central Java,1568,1755,unique,IdMatrm,0.722,"IdMatrm(1568..1703,0.72)"
+pa_monagrillo,Monagrillo,,-3000,-1300,none,,,
+pa_la_mula_sarigua,La Mula-Sarigua,,-1300,200,none,,,
+pa_cocle_1,Early Greater Coclé,,200,700,none,,,
+pa_cocle_2,Middle Greater Coclé,,700,1000,none,,,
+pa_cocle_3,Late Greater Coclé,,1000,1515,none,,,
+fm_truk_1,Chuuk - Early Truk,Chuuk Islands,1775,1886,unique,FmTrukE,0.991,"FmTrukE(1775..1885,0.99)"
+fm_truk_2,Chuuk - Late Truk,Chuuk Islands,1886,1948,unique,FmTrukL,1.0,"FmTrukL(1886..1948,1.00)"
+gr_crete_nl,Neolithic Crete,Crete,-7000,-3000,unique,GrCrNeo,1.0,"GrCrNeo(-7000..-3001,1.00)"
+gr_crete_pre_palace,Prepalatial Crete,Crete,-3000,-1900,unique,GrCrPre,0.999,"GrCrPre(-3000..-1901,1.00)"
+gr_crete_old_palace,Old Palace Crete,Crete,-1900,-1700,unique,GrCrOPa,0.995,"GrCrOPa(-1900..-1701,0.99)"
+gr_crete_new_palace,New Palace Crete,Crete,-1700,-1450,unique,GrCrNPa,0.996,"GrCrNPa(-1700..-1451,1.00)"
+gr_crete_mono_palace,Monopalatial Crete,Crete,-1450,-1300,unique,GrCrMPa,0.993,"GrCrMPa(-1450..-1301,0.99)"
+gr_crete_post_palace_1,Postpalatial Crete,Crete,-1300,-1200,unique,GrCrPPa,0.99,"GrCrPPa(-1300..-1201,0.99)"
+gr_crete_post_palace_2,Final Postpalatial Crete,Crete,-1200,-1000,unique,GrCrFPa,0.995,"GrCrFPa(-1200..-1001,0.99)"
+gr_crete_geometric,Geometric Crete,Crete,-1000,-710,unique,GrCrGeo,0.997,"GrCrGeo(-1000..-711,1.00)"
+gr_crete_archaic,Archaic Crete,Crete,-710,-500,unique,GrCrArc,0.995,"GrCrArc(-710..-501,1.00)"
+gr_crete_classical,Classical Crete,Crete,-500,-323,unique,GrCrCls,1.0,"GrCrCls(-500..-322,1.00)"
+gr_crete_hellenistic,Hellenistic Crete,Crete,-323,-69,unique,GrCrHel,1.0,"GrCrHel(-323..-69,1.00)"
+it_roman_principate,Roman Empire - Principate,Latium,-31,284,unique,ItRomPr,0.997,"ItRomPr(-31..283,1.00)"
+tr_roman_dominate,Roman Empire - Dominate,Konya Plain,285,394,unique,TrRomDm,1.0,"TrRomDm(284..473,1.00)"
+tr_east_roman_emp,East Roman Empire,Konya Plain,395,631,unique,TrERom,1.0,"TrERom(395..632,1.00)"
+tr_byzantine_emp_1,Byzantine Empire I,Konya Plain,632,866,unique,TrByzM1,1.0,"TrByzM1(632..866,1.00)"
+gr_crete_emirate,The Emirate of Crete,Crete,824,961,unique,GrCrEmr,0.993,"GrCrEmr(824..960,0.99)"
+tr_byzantine_emp_2,Byzantine Empire II,Konya Plain,867,1072,unique,TrByzM2,1.0,"TrByzM2(867..1072,1.00)"
+tr_byzantine_emp_3,Byzantine Empire III,Crete,1073,1204,unique,TrByzM3,0.992,"TrByzM3(1073..1203,0.99)"
+pe_cuzco_1,Cuzco - Late Formative,Cuzco,-500,200,none,,,
+pe_cuzco_2,Cuzco - Early Intermediate I,Cuzco,200,499,unique,PeCuzE1,1.0,"PeCuzE1(200..499,1.00)"
+pe_cuzco_3,Cuzco - Early Intermediate II,Cuzco,500,649,unique,PeCuzE2,1.0,"PeCuzE2(500..649,1.00)"
+pe_wari_emp,Wari Empire,Cuzco,650,999,unique,PeWari,1.0,"PeWari(650..999,1.00)"
+pe_cuzco_5,Cuzco - Late Intermediate I,Cuzco,1000,1250,unique,PeCuzL1,0.996,"PeCuzL1(1000..1249,1.00)"
+pe_cuzco_6,Cuzco - Late Intermediate II,Cuzco,1250,1400,unique,PeCuzL2,0.993,"PeCuzL2(1250..1399,0.99)"
+pe_inca_emp,Inca Empire,Cuzco,1375,1532,unique,PeInca,0.834,"PeInca(1400..1531,0.83)"
+es_spanish_emp_1,Spanish Empire I,Cuzco,1516,1715,unique,EsHabsb,0.899,"EsHabsb(1521..1700,0.90)"
+in_deccan_nl,Deccan - Neolithic,Deccan,-2700,-1200,unique,InDecNL,0.999,"InDecNL(-2700..-1201,1.00)"
+in_deccan_ia,Deccan - Iron Age,Deccan,-1200,-300,unique,InDecIA,0.999,"InDecIA(-1200..-301,1.00)"
+in_mauryan_emp,Magadha - Maurya Empire,Middle Ganga,-324,-187,unique,InMaury,0.993,"InMaury(-324..-188,0.99)"
+in_post_mauryan_k,Post-Mauryan Kingdoms,Deccan,-205,-101,unique,InDecKg,1.0,"InDecKg(-205..-101,1.00)"
+in_satavahana_emp,Satavahana Empire,Deccan,-100,200,unique,InSataL,1.0,"InSataL(-100..203,1.00)"
+in_vakataka_k,Vakataka Kingdom,Deccan,255,550,none,,,
+in_kadamba_emp,Kadamba Empire,Deccan,345,550,none,,,
+in_badami_chalukya_emp,Chalukyas of Badami,Deccan,543,753,unique,InChaBd,1.0,"InChaBd(541..756,1.00)"
+in_rashtrakuta_emp,Rashtrakuta Empire,Deccan,753,973,unique,InRasht,0.982,"InRasht(757..973,0.98)"
+in_kalyani_chalukya_emp,Chalukyas of Kalyani,Deccan,973,1189,none,,,
+in_hoysala_k,Hoysala Kingdom,Deccan,1108,1346,none,,,
+in_kampili_k,Kampili Kingdom,Deccan,1280,1327,unique,InKampi,0.638,"InKampi(1280..1310,0.64)"
+in_vijayanagara_emp,Vijayanagara Empire,Deccan,1336,1646,unique,InVijay,0.997,"InVijay(1337..1646,1.00)"
+in_mughal_emp,Mughal Empire,Kachi Plain,1526,1858,unique,InMugl,0.834,"InMugl(1526..1803,0.83)"
+us_proto_haudenosaunee,Proto-Haudenosaunee Confederacy,Finger Lakes,1300,1565,unique,UsIroqP,1.0,"UsIroqP(1300..1565,1.00)"
+us_haudenosaunee_1,Haudenosaunee Confederacy - Early,Finger Lakes,1566,1713,unique,UsIroqE,1.0,"UsIroqE(1566..1713,1.00)"
+us_haudenosaunee_2,Haudenosaunee Confederacy - Late,Finger Lakes,1714,1848,unique,UsIroqL,1.0,"UsIroqL(1714..1848,1.00)"
+il_canaan,Canaan,Galilee,-2000,-1175,unique,IlCanaa,0.993,"IlCanaa(-2000..-1181,0.99)"
+lb_phoenician_emp,Phoenician Empire,Galilee,-1200,-332,none,,,
+il_yisrael,Yisrael,Galilee,-1030,-722,unique,IlYisrl,1.0,"IlYisrl(-1030..-722,1.00)"
+iq_neo_assyrian_emp,Neo-Assyrian Empire,Southern Mesopotamia,-911,-612,unique,IqDynE,0.599,"IqDynE(-979..-732,0.60)"
+ir_achaemenid_emp,Achaemenid Empire,Susiana,-550,-331,unique,IrAchae,1.0,"IrAchae(-550..-329,1.00)"
+ir_seleucid_emp,Seleucid Empire,Southern Mesopotamia,-312,-63,none,,,
+eg_ptolemaic_k_1,Ptolemaic Kingdom I,Upper Egypt,-305,-217,unique,EgPtol1,1.0,"EgPtol1(-305..-199,1.00)"
+il_judea,Yehuda,Galilee,-141,-63,unique,IlJudea,0.513,"IlJudea(-103..-62,0.51)"
+in_achik_1,Early A'chik,Garo Hills,1775,1867,unique,InGaroE,1.0,"InGaroE(1775..1867,1.00)"
+in_achik_2,Late A'chik,Garo Hills,1867,1956,unique,InGaroL,0.989,"InGaroL(1868..1956,0.99)"
+gh_akan,Akan - Pre-Ashanti,Ghanaian Coast,1501,1701,unique,GhAshnE,1.0,"GhAshnE(1501..1701,1.00)"
+gh_ashanti_emp,Ashanti Empire,Ghanaian Coast,1701,1895,unique,GhAshnL,0.995,"GhAshnL(1702..1895,0.99)"
+is_icelandic_commonwealth,Icelandic Commonwealth,Iceland,930,1262,unique,IsCommw,0.997,"IsCommw(930..1261,1.00)"
+no_norway_k_2,Kingdom of Norway II,Iceland,1262,1396,unique,NorKing,0.881,"NorKing(1262..1380,0.88)"
+pk_kachi_enl,Kachi Plain - Aceramic Neolithic,Kachi Plain,-7500,-5500,unique,PkAcerN,1.0,"PkAcerN(-7500..-5501,1.00)"
+pk_kachi_lnl,Kachi Plain - Ceramic Neolithic,Kachi Plain,-5500,-4000,unique,PkCeraN,0.999,"PkCeraN(-5500..-4001,1.00)"
+pk_kachi_ca,Kachi Plain - Chalcolithic,Kachi Plain,-4000,-3200,unique,PkChalc,0.999,"PkChalc(-4000..-3201,1.00)"
+pk_kachi_pre_urban,Kachi Plain - Pre-Urban Period,Kachi Plain,-3200,-2500,unique,PkPreUr,0.999,"PkPreUr(-3200..-2501,1.00)"
+pk_kachi_urban_1,Kachi Plain - Urban Period I,Kachi Plain,-2500,-2100,unique,PkUrbn1,0.998,"PkUrbn1(-2500..-2101,1.00)"
+pk_kachi_urban_2,Kachi Plain - Urban Period II,Kachi Plain,-2100,-1800,unique,PkUrbn2,0.997,"PkUrbn2(-2100..-1801,1.00)"
+pk_kachi_post_urban,Kachi Plain - Post-Urban Period,Kachi Plain,-1800,-1300,unique,PkPostU,0.998,"PkPostU(-1800..-1301,1.00)"
+pk_kachi_proto_historic,Kachi Plain - Proto-Historic Period,Kachi Plain,-1300,-500,unique,PkProto,0.936,"PkProto(-1300..-551,0.94)"
+ir_parthian_emp_1,Parthian Empire I,Susiana,-247,40,unique,IrPart1,0.582,"IrPart1(-143..24,0.58)"
+pk_indo_greek_k,Indo-Greek Kingdom,Kachi Plain,-180,-10,none,,,
+af_kushan_emp,Kushan Empire,Sogdiana,35,319,unique,AfKushn,1.0,"AfKushn(30..319,1.00)"
+ir_sassanid_emp_1,Sasanid Empire I,Susiana,205,487,unique,IrSasn1,0.947,"IrSasn1(220..498,0.95)"
+af_hephthalite_emp,Hephthalite Empire,Sogdiana,408,561,unique,AfHepht,0.882,"AfHepht(426..563,0.88)"
+ir_sassanid_emp_2,Sasanid Empire II,Susiana,488,642,unique,IrSasn2,0.929,"IrSasn2(499..642,0.93)"
+sy_umayyad_cal,Umayyad Caliphate,Southern Mesopotamia,661,750,unique,SyCalUm,1.0,"SyCalUm(661..750,1.00)"
+iq_abbasid_cal_1,Abbasid Caliphate I,Southern Mesopotamia,750,946,ambiguous,IqAbbs1,1.0,"IqAbbs1(750..946,1.00);IqAbbs2(751..1207,0.99)"
+pk_sind_abbasid_fatimid,Sind - Abbasid-Fatimid Period,Kachi Plain,854,1193,unique,PkSind1,0.973,"PkSind1(862..1192,0.97)"
+af_ghur_principality,Ghur Principality,Kachi Plain,1025,1215,unique,PkSind1,0.879,"PkSind1(862..1192,0.88)"
+in_delhi_sultanate,Delhi Sultanate,Kachi Plain,1206,1526,ambiguous,InDelh,0.997,"InDelh(1206..1525,1.00);PkSind2(1340..1519,0.56)"
+pk_samma_dyn,Sind - Samma Dynasty,Kachi Plain,1335,1521,ambiguous,InDelh,1.0,"InDelh(1206..1525,1.00);PkSind2(1340..1519,0.96)"
+af_durrani_emp,Durrani Empire,Kachi Plain,1747,1826,ambiguous,AfDurrn,0.987,"AfDurrn(1748..1826,0.99);InMugl(1526..1803,0.71)"
+jp_jomon_1,Japan - Incipient Jomon,Kansai,-13600,-9200,unique,JpJomo1,1.0,"JpJomo1(-13600..-9200,1.00)"
+jp_jomon_2,Japan - Initial Jomon,Kansai,-9200,-5300,unique,JpJomo2,1.0,"JpJomo2(-9200..-5300,1.00)"
+jp_jomon_3,Japan - Early Jomon,Kansai,-5300,-3500,unique,JpJomo3,1.0,"JpJomo3(-5300..-3500,1.00)"
+jp_jomon_4,Japan - Middle Jomon,Kansai,-3500,-2500,none,,,
+jp_jomon_5,Japan - Late Jomon,Kansai,-2500,-1200,unique,JpJomo5,1.0,"JpJomo5(-2500..-1200,1.00)"
+jp_jomon_6,Japan - Final Jomon,Kansai,-1200,-300,none,,,
+jp_yayoi,Kansai - Yayoi Period,Kansai,-300,250,unique,JpYayoi,0.998,"JpYayoi(-300..249,1.00)"
+jp_kofun,Kansai - Kofun Period,Kansai,250,537,unique,JpKofun,1.0,"JpKofun(250..537,1.00)"
+jp_asuka,Asuka,Kansai,538,710,unique,JpAsuka,1.0,"JpAsuka(538..710,1.00)"
+jp_heian,Heian,Kansai,794,1185,unique,JpHeian,0.997,"JpHeian(794..1184,1.00)"
+jp_kamakura,Kamakura Shogunate,Kansai,1185,1333,unique,JpKamak,1.0,"JpKamak(1185..1333,1.00)"
+jp_ashikaga,Ashikaga Shogunate,Kansai,1336,1467,unique,JpAshik,0.992,"JpAshik(1336..1466,0.99)"
+jp_sengoku_jidai,Warring States Japan,Kansai,1467,1568,unique,JpSengk,0.99,"JpSengk(1467..1567,0.99)"
+jp_azuchi_momoyama,Japan - Azuchi-Momoyama,Kansai,1568,1603,unique,JpAzMom,0.971,"JpAzMom(1568..1602,0.97)"
+jp_tokugawa_shogunate,Tokugawa Shogunate,Kansai,1603,1868,unique,JpTokgw,1.0,"JpTokgw(1603..1868,1.00)"
+id_iban_1,Iban - Pre-Brooke,Kapuasi Basin,1650,1841,unique,IdBrokE,1.0,"IdBrokE(1650..1841,1.00)"
+id_iban_2,Iban - Brooke Raj and Colonial,Kapuasi Basin,1841,1987,unique,IdBrokL,0.993,"IdBrokL(1842..1987,0.99)"
+tr_konya_enl,Konya Plain - Early Neolithic,Konya Plain,-9600,-7000,unique,TrNeoER,1.0,"TrNeoER(-9600..-7001,1.00)"
+tr_konya_mnl,Konya Plain - Ceramic Neolithic,Konya Plain,-7000,-6600,unique,TrNeoCR,0.998,"TrNeoCR(-7000..-6601,1.00)"
+tr_konya_lnl,Konya Plain - Late Neolithic,Konya Plain,-6600,-6000,unique,TrNeoLT,0.998,"TrNeoLT(-6600..-6001,1.00)"
+tr_konya_eca,Konya Plain - Early Chalcolithic,Konya Plain,-6000,-5500,unique,TrClcER,0.998,"TrClcER(-6000..-5501,1.00)"
+tr_konya_lca,Konya Plain - Late Chalcolithic,Konya Plain,-5500,-3000,unique,TrClcLT,0.8,"TrClcLT(-5000..-3001,0.80)"
+tr_konya_eba,Konya Plain - Early Bronze Age,Konya Plain,-3000,-2000,unique,TrBrzER,0.999,"TrBrzER(-3000..-2001,1.00)"
+tr_central_anatolia_mba,Middle Bronze Age in Central Anatolia,Konya Plain,-2000,-1700,unique,TrBrzMD,1.0,"TrBrzMD(-2000..-1700,1.00)"
+tr_hatti_old_k,Hatti - Old Kingdom,Konya Plain,-1650,-1500,unique,TrHatOK,0.993,"TrHatOK(-1650..-1501,0.99)"
+tr_konya_lba,Konya Plain - Late Bronze Age II,Konya Plain,-1500,-1400,unique,TrBrzL2,1.0,"TrBrzL2(-1500..-1400,1.00)"
+tr_hatti_new_k,Hatti - New Kingdom,Konya Plain,-1400,-1180,unique,TrHatNK,0.741,"TrHatNK(-1344..-1181,0.74)"
+tr_neo_hittite_k,Neo-Hittite Kingdoms,Konya Plain,-1180,-900,unique,TrNHitt,0.996,"TrNHitt(-1180..-901,1.00)"
+tr_phrygian_k,Phrygian Kingdom,Konya Plain,-900,-695,unique,TrPhryg,0.683,"TrPhryg(-836..-696,0.68)"
+tr_tabal_k,Tabal Kingdoms,Konya Plain,-900,-730,unique,TrPhryg,0.624,"TrPhryg(-836..-696,0.62)"
+tr_lydia_k,Kingdom of Lydia,Konya Plain,-670,-546,unique,TrLydia,0.992,"TrLydia(-670..-547,0.99)"
+tr_lysimachus_k,Lysimachus Kingdom,Konya Plain,-323,-281,none,,,
+tr_cappadocia_2,Late Cappadocia,Konya Plain,-330,16,none,,,
+tr_rum_sultanate,Rum Sultanate,Konya Plain,1077,1307,unique,TrRum,0.652,"TrRum(1093..1243,0.65)"
+ir_il_khanate,Ilkhanate,Susiana,1256,1339,unique,IrIlkhn,0.867,"IrIlkhn(1263..1335,0.87)"
+tr_ottoman_emirate,Ottoman Emirate,Konya Plain,1299,1402,none,,,
+tr_ottoman_emp_1,Ottoman Empire I,Konya Plain,1402,1517,unique,TrOttm2,0.826,"TrOttm2(1421..1516,0.83)"
+tr_ottoman_emp_2,Ottoman Empire II,Konya Plain,1517,1683,unique,TrOttm3,0.994,"TrOttm3(1517..1682,0.99)"
+tr_ottoman_emp_3,Ottoman Empire III,Konya Plain,1683,1839,unique,TrOttm4,0.994,"TrOttm4(1683..1838,0.99)"
+tr_ottoman_emp_4,Ottoman Empire IV,Konya Plain,1839,1922,none,,,
+it_latium_ca,Latium - Copper Age,Latium,-3600,-1800,unique,ItLatCA,0.999,"ItLatCA(-3600..-1801,1.00)"
+it_latium_ba,Latium - Bronze Age,Latium,-1800,-900,unique,ItLatBA,0.888,"ItLatBA(-1800..-1001,0.89)"
+it_latium_ia,Latium - Iron Age,Latium,-1000,-580,unique,ItLatIA,0.674,"ItLatIA(-1000..-717,0.67)"
+it_roman_k,Roman Kingdom,Latium,-716,-509,unique,ItRomRg,0.995,"ItRomRg(-716..-510,1.00)"
+it_roman_rep_1,Early Roman Republic,Latium,-509,-264,unique,ItRomER,0.996,"ItRomER(-509..-265,1.00)"
+it_roman_rep_2,Middle Roman Republic,Latium,-264,-133,unique,ItRomMR,0.992,"ItRomMR(-264..-134,0.99)"
+it_roman_rep_3,Late Roman Republic,Latium,-133,-31,unique,ItRomLR,1.0,"ItRomLR(-133..-29,1.00)"
+it_western_roman_emp,Western Roman Empire - Late Antiquity,Latium,395,476,unique,ItRomWe,0.765,"ItRomWe(395..457,0.77)"
+it_ostrogoth_k,Ostrogothic Kingdom,Latium,489,554,unique,ItOstrg,0.938,"ItOstrg(493..554,0.94)"
+it_ravenna_exarchate,Exarchate of Ravenna,Latium,568,751,unique,ItRav,0.776,"ItRav(568..710,0.78)"
+it_st_peter_rep_1,Republic of St Peter I,Latium,752,904,unique,ItStPet,0.993,"ItStPet(711..903,0.99)"
+it_st_peter_rep_2,Rome - Republic of St Peter II,Latium,904,1198,unique,ItPapEM,0.997,"ItPapEM(904..1197,1.00)"
+it_papal_state_1,Papal States - High Medieval Period,Latium,1198,1309,unique,ItPapHM,0.991,"ItPapHM(1198..1308,0.99)"
+it_papal_state_2,Papal States - Renaissance Period,Latium,1378,1527,unique,ItPapRn,0.993,"ItPapRn(1378..1526,0.99)"
+it_papal_state_3,Papal States - Early Modern Period I,Latium,1527,1648,unique,ItPapM1,0.992,"ItPapM1(1527..1647,0.99)"
+it_papal_state_4,Papal States - Early Modern Period II,Latium,1648,1809,unique,ItPapM2,0.944,"ItPapM2(1648..1800,0.94)"
+ru_sakha_early,Sakha - Early,Lena River Valley,1400,1632,unique,RuYakuE,1.0,"RuYakuE(1400..1642,1.00)"
+ru_sakha_late,Sakha - Late,Lena River Valley,1632,1900,unique,RuYakuL,0.959,"RuYakuL(1643..1900,0.96)"
+ec_shuar_1,Shuar - Colonial,Lowland Andes,1534,1830,unique,EcJivaE,1.0,"EcJivaE(1534..1830,1.00)"
+ec_shuar_2,Shuar - Ecuadorian,Lowland Andes,1831,1931,unique,EcJivaL,1.0,"EcJivaL(1831..1931,1.00)"
+eg_new_k_1,Egypt - New Kingdom Thutmosid Period,Upper Egypt,-1550,-1293,unique,EgNKThu,0.996,"EgNKThu(-1550..-1294,1.00)"
+eg_new_k_2,Egypt - New Kingdom Ramesside Period,Upper Egypt,-1293,-1070,unique,EgNKRam,0.996,"EgNKRam(-1293..-1071,1.00)"
+eg_thebes_libyan,Egypt - Thebes-Libyan Period,Upper Egypt,-1069,-747,unique,EgThebL,0.957,"EgThebL(-1070..-761,0.96)"
+tn_carthage_emp,Carthage Empire,,-814,-146,none,,,
+eg_saite,Egypt - Saite Period,Upper Egypt,-664,-525,unique,EgSaite,0.928,"EgSaite(-655..-526,0.93)"
+sd_meroe,Meroe,,-600,-300,none,,,
+eg_inter_occupation,Egypt - Inter-Occupation Period,Upper Egypt,-404,-342,unique,EgIntOc,0.984,"EgIntOc(-404..-343,0.98)"
+dz_numidia,Numidia,,-220,-46,none,,,
+eg_ptolemaic_k_2,Ptolemaic Kingdom II,Upper Egypt,-217,-30,unique,EgPtol2,0.989,"EgPtol2(-217..-32,0.99)"
+et_aksum_emp_1,Axum I,Yemeni Coastal Plain,-149,349,ambiguous,EtAksm1,1.0,"EtAksm1(-149..349,1.00);YeSaRay(-110..149,0.52)"
+ma_mauretania,Mauretania,,-125,44,none,,,
+et_aksum_emp_2,Axum II,,350,599,none,,,
+dz_vandal_k,Vandal Kingdom,,429,534,none,,,
+sd_makuria_k_1,Makuria Kingdom I,,568,618,none,,,
+et_aksum_emp_3,Axum III,,600,800,none,,,
+sd_alodia,Alodia Kingdom,,600,1504,none,,,
+sd_makuria_k_2,Makuria Kingdom II,,619,849,none,,,
+mr_wagadu_2,Middle Wagadu Empire,Niger Inland Delta,700,1077,unique,MlJeJe3,0.528,"MlJeJe3(400..899,0.53)"
+dz_rustamid_imamate,Rustamid Imamate,,761,909,none,,,
+ma_idrisid_dyn,Idrisids,,789,917,none,,,
+sd_makuria_k_3,Makuria Kingdom III,,850,1099,none,,,
+td_kanem,Kanem Empire,,850,1380,none,,,
+tn_fatimid_cal,Fatimid Caliphate,Upper Egypt,909,1171,unique,TnFatim,0.763,"TnFatim(970..1170,0.76)"
+tn_zirid_dyn,Zirids,,973,1148,none,,,
+ma_almoravid_dyn,Almoravids,,1035,1150,none,,,
+mr_wagadu_3,Later Wagadu Empire,Niger Inland Delta,1078,1203,unique,MrWagdL,0.816,"MrWagdL(1100..1202,0.82)"
+ma_almohad_emp,Almohad Empire,,1123,1248,none,,,
+ib_banu_ghaniya,Banu Ghaniya,,1126,1227,none,,,
+et_zagwe,Zagwe,,1137,1269,none,,,
+tn_hafsid_dyn,Hafsid Dynasty,,1227,1452,none,,,
+ml_mali_emp,Mali Empire,Niger Inland Delta,1230,1410,unique,MlMali,0.972,"MlMali(1235..1410,0.97)"
+dz_tlemcen,Tlemcen,,1235,1554,none,,,
+dz_zayyanid_dyn,Zayyanid Berber Kingdom,,1235,1509,none,,,
+eg_mamluk_sultanate_1,Egypt - Mamluk Sultanate I,Upper Egypt,1260,1348,unique,EgMamBh,0.989,"EgMamBh(1260..1347,0.99)"
+ma_marinid_dyn,Marinid Dynasty,,1269,1465,none,,,
+et_ethiopian_k,Ethiopia Kingdom,,1270,1620,none,,,
+my_malacca_sultanate_22222,Malacca Sultanate,,1270,1415,none,,,
+eg_mamluk_sultanate_2,Egypt - Mamluk Sultanate II,Upper Egypt,1348,1412,unique,EgMamCP,0.984,"EgMamCP(1348..1411,0.98)"
+ml_songhai_1,Songhai Empire,,1376,1493,none,,,
+eg_mamluk_sultanate_3,Egypt - Mamluk Sultanate III,Upper Egypt,1412,1517,unique,EgMamBu,0.99,"EgMamBu(1412..1516,0.99)"
+ma_wattasid_dyn,Wattasid Dynasty,,1465,1554,none,,,
+ao_kongo_2,Kingdom of Congo,,1491,1568,none,,,
+ml_songhai_2,Songhai Empire - Askiya Dynasty,Niger Inland Delta,1493,1591,unique,MlSong2,0.99,"MlSong2(1493..1590,0.99)"
+cn_late_shang_dyn,Late Shang,Middle Yellow River Valley,-1250,-1045,unique,CnShang,0.62,"CnShang(-1250..-1123,0.62)"
+cn_western_zhou_dyn,Western Zhou,Middle Yellow River Valley,-1122,-771,unique,CnWZhou,0.932,"CnWZhou(-1122..-795,0.93)"
+cn_jin_spring_and_autumn,Jin,Middle Yellow River Valley,-780,-404,unique,CnJinSA,0.774,"CnJinSA(-794..-489,0.77)"
+cn_chu_dyn_spring_autumn,Chu Kingdom - Spring and Autumn Period,,-740,-489,none,,,
+cn_wu_confederacy,Wu Confederacy,,-585,-477,none,,,
+cn_yue_dyn,Yue Kingdom,,-510,-334,none,,,
+cn_chu_k_warring_states,Chu Kingdom - Warring States Period,Middle Yellow River Valley,-488,-223,unique,CnWeiWS,1.0,"CnWeiWS(-488..-223,1.00)"
+cn_qin_emp,Qin Empire,,-338,-207,none,,,
+cn_western_han_dyn,Western Han Empire,Middle Yellow River Valley,-202,9,unique,CnWHan,1.0,"CnWHan(-202..9,1.00)"
+kr_goguryeo_k,Goguryeo Kingdom,,-37,668,none,,,
+cn_eastern_han_dyn,Eastern Han Empire,Middle Yellow River Valley,25,220,unique,CnEHan,0.995,"CnEHan(25..219,0.99)"
+cn_western_jin_dyn,Western Jin,Middle Yellow River Valley,265,317,unique,CnErJin,1.0,"CnErJin(265..317,1.00)"
+cn_eastern_jin_dyn,Eastern Jin Dynasty,,317,420,none,,,
+cn_later_yan_dyn,Later Yan Kingdom,,385,409,none,,,
+cn_later_qin_dyn,Later Qin Kingdom,,386,417,none,,,
+cn_northern_wei_dyn,Northern Wei,Middle Yellow River Valley,386,534,unique,CnNWei,1.0,"CnNWei(386..557,1.00)"
+cn_southern_qi_dyn,Southern Qi State,,479,502,none,,,
+cn_sui_dyn,Sui Dynasty,Middle Yellow River Valley,581,618,unique,CnSui,0.973,"CnSui(581..617,0.97)"
+cn_tang_dyn_1,Tang Dynasty I,Middle Yellow River Valley,617,763,unique,CnTangE,0.986,"CnTangE(618..762,0.99)"
+kr_balhae_k,Balhae Kingdom,,698,926,none,,,
+jp_nara,Nara,,710,794,none,,,
+cn_tang_dyn_2,Tang Dynasty II,Middle Yellow River Valley,763,907,unique,CnTangL,1.0,"CnTangL(763..907,1.00)"
+kr_goryeo_k,Goryeo Kingdom,,936,1258,none,,,
+cn_later_great_jin,Jin Dynasty,Middle Yellow River Valley,1115,1234,unique,CnLrJin,0.899,"CnLrJin(1127..1234,0.90)"
+mn_mongol_emp,Mongol Empire,Orkhon Valley,1206,1270,unique,MnMngKh,1.0,"MnMngKh(1206..1367,1.00)"
+cn_yuan_dyn,Great Yuan,Middle Yellow River Valley,1271,1368,unique,CnYuan,0.99,"CnYuan(1271..1367,0.99)"
+cn_ming_dyn,Great Ming,Middle Yellow River Valley,1368,1644,unique,CnMing,0.996,"CnMing(1368..1643,1.00)"
+kr_joseon,Joseon Dynasty,,1392,1567,none,,,
+ua_skythian_k_3,Third Scythian Kingdom,,-429,-225,none,,,
+mn_hunnu_emp,Xiongnu Imperial Confederation,Orkhon Valley,-209,-60,unique,MnXngnM,1.0,"MnXngnM(-209..-60,1.00)"
+uz_kangju,Kangju,,-150,350,none,,,
+mn_hunnu_late,Late Xiongnu,Orkhon Valley,-60,100,unique,MnXngnL,0.988,"MnXngnL(-59..99,0.99)"
+cn_loulan_shanshan_k,Loulan-Shanshan kingdom,,25,330,none,,,
+cn_tuyuhun,Tuyuhun,,300,663,none,,,
+kz_chionite,Chionites,,300,388,none,,,
+mn_rouran_khaganate,Rouran Khaganate,Orkhon Valley,300,555,unique,MnRourn,0.984,"MnRourn(300..551,0.98)"
+kz_yueban,Yueban,,350,450,none,,,
+hu_hun_k,Kingdom of the Huns,,376,469,none,,,
+af_kidarite_k,Kidarite Kingdom,Sogdiana,388,477,ambiguous,AfKidar,1.0,"AfKidar(388..477,1.00);AfHepht(426..563,0.57)"
+kg_western_turk_khaganate,Western Turk Khaganate,Sogdiana,582,630,unique,UzSogdi,0.542,"UzSogdi(604..711,0.54)"
+mn_turk_khaganate_1,Eastern Turk Khaganate,Orkhon Valley,583,630,unique,MnETurk,1.0,"MnETurk(583..630,1.00)"
+hu_avar_khaganate,Avar Khaganate,,586,822,none,,,
+ru_khazar_emp,Khazar Empire,,626,965,none,,,
+mn_uygur_khaganate,Uigur Khaganate,Orkhon Valley,745,840,unique,MnUigur,1.0,"MnUigur(745..840,1.00)"
+uz_samanid_emp,Samanid Empire,Sogdiana,819,999,unique,UzSamnd,0.633,"UzSamnd(876..990,0.63)"
+mn_khitan_1,Khitan I,Orkhon Valley,907,1125,unique,MnKhitn,1.0,"MnKhitn(907..1125,1.00)"
+kg_kara_khanid_dyn,Kara-Khanids,Sogdiana,950,1212,unique,KgKarKh,0.844,"KgKarKh(991..1212,0.84)"
+ge_georgia_k_2,Kingdom of Georgia II,,975,1243,none,,,
+cn_xixia,Xixia,,1032,1227,none,,,
+ru_ryazan_principality,Principality of Ryazan,,1097,1521,none,,,
+ua_russian_principate,Russian Principate,,1133,1240,none,,,
+tm_kara_khitai_khanate,Kara Khitai Khanate,,1137,1218,none,,,
+tm_khwarezmid_emp,Khwarezmid Empire,,1157,1231,none,,,
+uz_chagatai_khanate,Chagatai Khanate,Sogdiana,1227,1402,unique,UzChagt,0.56,"UzChagt(1263..1361,0.56)"
+kz_oirat,Oirats,,1368,1630,none,,,
+ru_kazan_khanate,Kazan Khanate,,1438,1552,none,,,
+ru_crimean_khanate,Crimean Khanate,,1440,1783,none,,,
+ru_sibir_khanate,Sibir Khanate,,1490,1598,none,,,
+uz_shaybanid_k,Shaybanid Kingdom,,1500,1598,none,,,
+gb_tudor_stuart,England Tudor-Stuart,,1486,1689,none,,,
+es_visigothic_k,Visigothic Kingdom,,418,711,none,,,
+fr_merovingian_emp_1,Early Merovingian,Paris Basin,481,543,unique,FrMervE,0.984,"FrMervE(481..542,0.98)"
+it_lombard_k,Lombard Kingdom,,568,774,none,,,
+fr_merovingian_emp_2,Middle Merovingian,Paris Basin,543,687,unique,FrMervM,0.993,"FrMervM(543..686,0.99)"
+fr_aquitaine_duc_1,Duchy of Aquitaine I,,602,768,none,,,
+bg_bulgaria_early,Bulgaria - Early,,681,864,none,,,
+fr_carolingian_emp_1,Carolingian Empire I,Paris Basin,752,840,unique,FrCarlE,0.989,"FrCarlE(752..839,0.99)"
+es_cordoba_cal,Cordoba Caliphate,,929,1031,none,,,
+fr_carolingian_emp_2,Carolingian Empire II,Paris Basin,840,987,unique,FrCarlL,0.993,"FrCarlL(840..986,0.99)"
+bg_bulgaria_medieval,Bulgaria - Middle,,865,1018,none,,,
+ru_novgorod_land,Novgorod Land,,880,1240,none,,,
+ua_kievan_rus,Kievan Rus,,880,1242,none,,,
+es_leon_k,Leon,,910,1158,none,,,
+pl_piast_dyn_1,Poland - Piast Dynasty I,,963,1138,none,,,
+bg_volga_k,Volga Kingdom,,965,1236,none,,,
+es_aragon_k,Aragon Kingdom,,1035,1163,none,,,
+es_castile_k,Castile Kingdom,,1065,1230,none,,,
+ru_novgorod_rep,Novgorod Republic,,1135,1478,none,,,
+ru_vladimir_suzdal,Vladimir-Suzdal,,1157,1331,none,,,
+it_sicily_k_2,Kingdom of Sicily - Hohenstaufen and Angevin dynasties,,1194,1281,none,,,
+ua_galicia_volhynia_principality,Galicia-Volhynia Principality,,1199,1349,none,,,
+es_leon_castille,Leon & Castille,,1230,1715,none,,,
+pl_teutonic_order,State of the Teutonic Order,,1300,1400,none,,,
+fr_valois_k_1,French Kingdom - Early Valois,Paris Basin,1328,1450,unique,FrValoE,0.992,"FrValoE(1328..1449,0.99)"
+pl_jagiellonian_dyn,Poland-Lithuania Kingdom,,1386,1569,none,,,
+sv_kalmar_union,Kalmar Union,,1397,1523,none,,,
+ru_moskva_rurik_dyn,"Grand Principality of Moscow, Rurikid Dynasty",,1480,1613,none,,,
+sv_swedish_k_2,Kingdom of Sweden II,,1524,1610,none,,,
+iq_babylonia_2,Kassite Babylonia,Southern Mesopotamia,-1595,-1150,unique,IqBabKs,1.0,"IqBabKs(-1595..-1150,1.00)"
+sy_mitanni_k,Mitanni Kingdom,,-1475,-1275,none,,,
+tr_urartu_k,Urartu Kingdom,,-1200,-710,none,,,
+ir_median_emp,Median Persian Empire,,-715,-550,none,,,
+iq_neo_babylonian_emp,Neo-Babylonian Empire,Southern Mesopotamia,-626,-539,ambiguous,IqNAssr,1.0,"IqNAssr(-721..-539,1.00);IqNeoBb(-626..-539,1.00)"
+ir_atropatene_k,Atropatene Kingdom,,-323,200,none,,,
+jo_nabataean_k,Nabataean Kingdom,,-312,106,none,,,
+tr_pergamon_k,Pergamon Kingdom,,-282,-133,none,,,
+af_greco_bactrian_k,Greco-Bactrian Kingdom,Sogdiana,-256,-125,unique,AfGrBct,0.901,"AfGrBct(-248..-130,0.90)"
+am_artaxiad_dyn,Armenian Kingdom,,-188,6,none,,,
+pk_indo_parthian_k,Indo-Parthian Kingdom,,-12,100,none,,,
+ye_himyar_1,Himyar I,Yemeni Coastal Plain,270,340,ambiguous,EtAksm1,1.0,"EtAksm1(-149..349,1.00);YeHmyr1(270..340,1.00)"
+ye_himyar_2,Himyar II,Yemeni Coastal Plain,378,525,unique,YeHmyr2,1.0,"YeHmyr2(378..525,1.00)"
+iq_lakhmid_k,Lakhmid Kigdom,,400,611,none,,,
+jo_ghassanid_k,Ghassanid Kingdom,,500,636,none,,,
+om_azd,Omani Azd Tribe,,632,702,none,,,
+sa_rashidun_dyn,Rashidun Caliphate,,632,661,none,,,
+ye_ziyad_dyn,Yemen Ziyadid Dynasty,Yemeni Coastal Plain,822,1037,unique,YeZiyad,0.781,"YeZiyad(869..1037,0.78)"
+ir_saffarid_emp,Saffarid Caliphate,,861,1003,none,,,
+eg_thulunid_ikhshidid,Egypt - Tulunid-Ikhshidid Period,Upper Egypt,868,969,unique,EgTulIk,1.0,"EgTulIk(868..969,1.00)"
+ir_buyid_confederation,Buyid Confederation,Susiana,932,1062,unique,IrBuyid,0.831,"IrBuyid(947..1055,0.83)"
+af_ghaznavid_emp,Ghaznavid Empire,,998,1040,none,,,
+ir_seljuk_sultanate,Seljuk Sultanate,Susiana,1037,1157,unique,IrSeljq,0.842,"IrSeljq(1056..1190,0.84)"
+ye_warlords,Yemen - Era of Warlords,Yemeni Coastal Plain,1038,1174,unique,YeWarLd,1.0,"YeWarLd(1038..1174,1.00)"
+om_nabhani_imamate,Oman Imamate,,1160,1660,none,,,
+eg_ayyubid_sultanate,Ayyubid Sultanate,Upper Egypt,1171,1250,unique,EgAyyub,1.0,"EgAyyub(1171..1259,1.00)"
+ye_rasulid_dyn,Rasulid Dynasty,Yemeni Coastal Plain,1229,1453,unique,YeRasul,1.0,"YeRasul(1229..1453,1.00)"
+ir_jayarid_khanate,Jayarid Khanate,,1336,1393,none,,,
+uz_timurid_emp,Timurid Empire,Sogdiana,1370,1526,unique,UzTimur,1.0,"UzTimur(1370..1526,1.00)"
+ye_tahirid_dyn,Yemen - Tahirid Dynasty,Yemeni Coastal Plain,1454,1517,unique,YeTahir,1.0,"YeTahir(1454..1517,1.00)"
+ru_astrakhan_khanate,Astrakhan Khanate,,1466,1556,none,,,
+ir_safavid_emp,Safavid Empire,Susiana,1501,1722,unique,IrSafvd,0.982,"IrSafvd(1505..1722,0.98)"
+cn_viet_baiyu_k,Viet Baiyu Kingdom,,-332,-109,none,,,
+cn_nanzhao_k,Nanzhao Kingdom,,800,900,none,,,
+id_srivijaya_emp,Srivijaya Empire,,852,1200,none,,,
+cn_dali_k,Dali Kingdom,,937,1253,none,,,
+mm_bagan,Bagan,,1044,1287,none,,,
+th_sukhotai,Sukhotai,,1238,1419,none,,,
+la_lan_xang_k,Lan Xang Kingdom,,1354,1707,none,,,
+mm_ava_k,Ava Kingdom,,1364,1527,none,,,
+my_malacca_sultanate,Malacca Sultanate,,1396,1511,none,,,
+in_mahajanapada,Mahajanapada era,Middle Ganga,-600,-324,unique,InMahaJ,0.996,"InMahaJ(-600..-325,1.00)"
+in_sunga_emp,Magadha - Sunga Empire,Middle Ganga,-187,-65,unique,InSunga,1.0,"InSunga(-187..-65,1.00)"
+pk_western_satraps,Western Satraps,,35,405,none,,,
+in_yaudheya_rep,Yaudheya Republic,,300,375,none,,,
+in_gupta_emp,Gupta Empire,Middle Ganga,320,550,unique,InGupta,0.843,"InGupta(320..514,0.84)"
+in_kamarupa_k,Kamarupa Kingdom,,350,1130,none,,,
+in_magadha_k,Magadha,Middle Ganga,450,605,none,,,
+in_maitraka_dyn,Maitraka Dynasty,,470,790,none,,,
+in_maukhari_dyn,Maukhari Dynasty,,550,605,none,,,
+cn_tibet_k,Tibet Kingdom,,620,846,none,,,
+in_karkota_dyn,Karkota Dynasty,,625,1339,none,,,
+in_pala_emp,Pala Empire,,750,1174,none,,,
+in_chola_emp,Chola Empire,,849,1280,none,,,
+in_utpala_dyn,Utpala Dynasty,,855,1003,none,,,
+in_chaulukya_dyn,Chaulukya Dynasty,,941,1245,none,,,
+in_chandela_k,Chandela Kingdom,,950,1308,none,,,
+in_chauhana_dyn,Chauhana Dynasty,,973,1192,none,,,
+in_paramara_dyn,Paramara Dynasty,,974,1235,none,,,
+in_lohara_dyn,Lohara Dynasty,,1003,1255,none,,,
+in_ganga_k,Ganga Kingdom,,1028,1435,none,,,
+in_gahadavala_dyn,Gahadavala Dynasty,Middle Ganga,1085,1193,unique,InGhdvl,0.954,"InGhdvl(1090..1202,0.95)"
+in_kalachuri_emp,Kalachuris of Kalyani,,1157,1184,none,,,
+in_kakatiya_dyn,Kakatiya Dynasty,,1175,1324,none,,,
+in_yadava_dyn,Yadava Dynasty,,1190,1318,none,,,
+bd_bengal_sultanate,Bengal Sultanate,,1338,1538,none,,,
+in_kashmiri_sultanate,Kashmiri Sultanate,,1346,1580,none,,,
+in_bahmani_sultanate,Bahmani Sultanate,,1347,1518,none,,,
+in_sharqi_dyn,Sharqi,,1394,1479,none,,,
+in_bijapur_sultanate,Bijapur Sultanate,,1470,1686,none,,,
+in_ganga_nl,Neolithic Middle Ganga,Middle Ganga,-7000,-3001,unique,InGangN,1.0,"InGangN(-7000..-3001,1.00)"
+in_ganga_ca,Chalcolithic Middle Ganga,Middle Ganga,-3000,-601,unique,InGangC,1.0,"InGangC(-3000..-601,1.00)"
+in_ayodhya_k,Kingdom of Ayodhya,Middle Ganga,-64,34,unique,InAyodE,1.0,"InAyodE(-64..34,1.00)"
+in_kannauj_varman_dyn,Kannauj - Varman Dynasty,Middle Ganga,650,780,unique,InKanau,0.992,"InKanau(650..779,0.99)"
+in_gurjara_pratihara_dyn,Gurjar-Pratihara Dynasty,Middle Ganga,730,1030,unique,InGurjr,0.733,"InGurjr(810..1030,0.73)"
+cn_yangshao,Yangshao,Middle Yellow River Valley,-5000,-3000,unique,CnYngsh,1.0,"CnYngsh(-5000..-3001,1.00)"
+cn_longshan,Longshan,Middle Yellow River Valley,-3000,-1900,unique,CnLngsh,1.0,"CnLngsh(-3000..-1900,1.00)"
+cn_erlitou,Erlitou,Middle Yellow River Valley,-1850,-1600,unique,CnErlit,0.796,"CnErlit(-1850..-1651,0.80)"
+cn_erligang,Erligang,Middle Yellow River Valley,-1650,-1250,unique,CnErlig,0.998,"CnErlig(-1650..-1251,1.00)"
+cn_eastern_zhou_warring_states,Eastern Zhou,,-475,-256,none,,,
+cn_wei_dyn_warring_states,Early Wei Dynasty,Middle Yellow River Valley,-445,-225,unique,CnWeiWS,1.0,"CnWeiWS(-488..-223,1.00)"
+cn_northern_song_dyn,Northern Song,Middle Yellow River Valley,960,1127,unique,CnNSong,0.994,"CnNSong(960..1126,0.99)"
+cn_southern_song_dyn,Southern Song,,1127,1279,none,,,
+ml_jenne_jeno_1,Jenne-jeno I,Niger Inland Delta,-250,49,unique,MlJeJe1,1.0,"MlJeJe1(-250..49,1.00)"
+ml_jenne_jeno_2,Jenne-jeno II,Niger Inland Delta,50,399,unique,MlJeJe2,1.0,"MlJeJe2(50..399,1.00)"
+mr_wagadu_1,Early Wagadu Empire,,250,700,none,,,
+ml_jenne_jeno_3,Jenne-jeno III,Niger Inland Delta,400,899,unique,MlJeJe3,1.0,"MlJeJe3(400..899,1.00)"
+ml_jenne_jeno_4,Jenne-jeno IV,Niger Inland Delta,900,1300,none,,,
+ma_saadi_sultanate,Saadi Sultanate,Niger Inland Delta,1554,1659,none,,,
+ml_segou_k,Segou Kingdom,Niger Inland Delta,1650,1712,unique,MlSegou,0.984,"MlSegou(1640..1711,0.98)"
+ml_bamana_k,Bamana kingdom,Niger Inland Delta,1712,1861,unique,MlBaman,0.711,"MlBaman(1712..1818,0.71)"
+co_neguanje,Neguanje,North Colombia,250,1050,unique,CoNahua,0.999,"CoNahua(250..1049,1.00)"
+co_tairona,Tairona,North Colombia,1050,1524,unique,CoTairo,1.0,"CoTairo(1050..1524,1.00)"
+mn_hunnu_early,Early Xiongnu,Orkhon Valley,-1400,-300,unique,MnXngnE,1.0,"MnXngnE(-1400..-300,1.00)"
+mn_xianbei,Xianbei Confederation,Orkhon Valley,100,250,unique,MnXianb,1.0,"MnXianb(100..250,1.00)"
+mn_shiwei,Shiwei,Orkhon Valley,600,1000,none,,,
+mn_turk_khaganate_2,Second Turk Khaganate,Orkhon Valley,682,744,unique,MnTurk2,0.968,"MnTurk2(684..744,0.97)"
+mn_mongol_early,Early Mongols,Orkhon Valley,1000,1206,unique,MnKhitn,0.607,"MnKhitn(907..1125,0.61)"
+mn_mongol_late,Late Mongols,Orkhon Valley,1368,1690,unique,MnMongL,0.997,"MnMongL(1368..1689,1.00)"
+mn_zungharian_emp,Zungharian Empire,Orkhon Valley,1670,1757,unique,MnZungh,0.575,"MnZungh(1695..1745,0.57)"
+pg_orokaiva_pre_colonial,Orokaiva - Pre-Colonial,Oro PNG,1734,1883,unique,PgOrokE,1.0,"PgOrokE(1734..1883,1.00)"
+pg_orokaiva_colonial,Orokaiva - Colonial,Oro PNG,1884,1942,unique,PgOrokL,1.0,"PgOrokL(1884..1942,1.00)"
+fr_beaker_eba,Beaker Culture,Paris Basin,-3200,-2000,unique,FrBeakr,0.832,"FrBeakr(-3200..-2201,0.83)"
+fr_atlantic_complex,Atlantic Complex,Paris Basin,-2200,-1000,unique,FrAtlBA,0.999,"FrAtlBA(-2200..-1001,1.00)"
+fr_hallstatt_a_b1,Hallstatt A-B1,Paris Basin,-1000,-900,unique,FrHallA,0.99,"FrHallA(-1000..-901,0.99)"
+fr_hallstatt_b2_3,Hallstatt B2-3,Paris Basin,-900,-700,unique,FrHallB,0.995,"FrHallB(-900..-701,0.99)"
+fr_hallstatt_c,Hallstatt C,Paris Basin,-700,-600,unique,FrHallC,0.99,"FrHallC(-700..-601,0.99)"
+fr_hallstatt_d,Hallstatt D,Paris Basin,-600,-475,unique,FrHallD,1.0,"FrHallD(-600..-475,1.00)"
+fr_la_tene_a_b1,La Tene A-B1,Paris Basin,-475,-325,unique,FrTeneA,0.993,"FrTeneA(-474..-325,0.99)"
+fr_la_tene_b2_c1,La Tene B2-C1,Paris Basin,-325,-175,unique,FrTeneB,0.993,"FrTeneB(-324..-175,0.99)"
+fr_la_tene_c2_d,La Tene C2-D,Paris Basin,-175,-27,unique,FrTeneC,0.993,"FrTeneC(-174..-27,0.99)"
+fr_merovingian_emp_3,Proto-Carolingian,Paris Basin,687,751,unique,FrMervL,0.984,"FrMervL(687..750,0.98)"
+fr_capetian_k_1,Proto-French Kingdom,Paris Basin,987,1150,unique,FrCaptE,0.994,"FrCaptE(987..1149,0.99)"
+fr_capetian_k_2,French Kingdom - Late Capetian,Paris Basin,1150,1328,unique,FrCaptL,0.994,"FrCaptL(1150..1327,0.99)"
+fr_valois_k_2,French Kingdom - Late Valois,Paris Basin,1450,1589,unique,FrValoL,0.993,"FrValoL(1450..1588,0.99)"
+fr_bourbon_k_1,French Kingdom - Early Bourbon,Paris Basin,1589,1660,unique,FrBurbE,0.986,"FrBurbE(1589..1659,0.99)"
+fr_bourbon_k_2,French Kingdom - Late Bourbon,Paris Basin,1660,1815,unique,FrBurbL,0.826,"FrBurbL(1660..1788,0.83)"
+tj_sarasm,Sarazm,Sogdiana,-3500,-2000,unique,TjSaraz,0.999,"TjSaraz(-3500..-2001,1.00)"
+kz_andronovo,Andronovo,Sogdiana,-1800,-1200,unique,KzAndro,0.665,"KzAndro(-2000..-1401,0.67)"
+uz_koktepe_1,Koktepe I,Sogdiana,-1400,-1000,unique,UzKok01,1.0,"UzKok01(-1400..-1000,1.00)"
+uz_khwarasm_1,Ancient Khwarazm,Sogdiana,-1000,-521,unique,UzKhw01,0.518,"UzKhw01(-999..-751,0.52)"
+uz_koktepe_2,Koktepe II,Sogdiana,-750,-550,unique,UzKok02,0.75,"UzKok02(-750..-600,0.75)"
+af_tocharian,Tocharians,Sogdiana,-129,29,unique,AfTochr,1.0,"AfTochr(-129..29,1.00)"
+uz_sogdiana_city_states,Sogdiana - City-States Period,Sogdiana,604,711,unique,UzSogdi,1.0,"UzSogdi(604..711,1.00)"
+uz_janid_dyn,Khanate of Bukhara,Sogdiana,1599,1747,unique,UzJanid,1.0,"UzJanid(1599..1747,1.00)"
+cn_hmong_1,Hmong - Late Qing,Southern China Hills,1701,1895,unique,CnHQngL,1.0,"CnHQngL(1701..1895,1.00)"
+cn_hmong_2,Hmong - Early Chinese,Southern China Hills,1895,1941,unique,CnHChin,0.978,"CnHChin(1896..1941,0.98)"
+iq_so_mesopotamia_nl,Southern Mesopotamia Neolithic,Southern Mesopotamia,-9000,-5501,unique,IqSoNeo,1.0,"IqSoNeo(-9000..-5501,1.00)"
+iq_ubaid,Ubaid,Southern Mesopotamia,-5500,-4000,unique,IqUbaid,0.866,"IqUbaid(-5500..-4201,0.87)"
+iq_uruk,Uruk,Southern Mesopotamia,-4000,-2900,unique,IqUruk,1.0,"IqUruk(-4000..-2900,1.00)"
+iq_early_dynastic,Early Dynastic,Southern Mesopotamia,-2900,-2500,unique,IqEDyn,1.0,"IqEDyn(-2900..-2500,1.00)"
+iq_akkad_emp,Akkadian Empire,Southern Mesopotamia,-2270,-2083,unique,IqAkkad,0.733,"IqAkkad(-2250..-2113,0.73)"
+iq_ur_dyn_3,Ur - Dynasty III,Southern Mesopotamia,-2112,-2004,unique,IqUrIII,0.769,"IqUrIII(-2112..-2029,0.77)"
+iq_isin_larsa,Isin-Larsa,Southern Mesopotamia,-2004,-1763,ambiguous,IqIsinL,1.0,"IqIsinL(-2004..-1763,1.00);IqBabAm(-2000..-1600,0.98)"
+iq_babylonia_1,Amorite Babylonia,Southern Mesopotamia,-2000,-1600,ambiguous,IqBabAm,1.0,"IqBabAm(-2000..-1600,1.00);IqIsinL(-2004..-1763,0.59)"
+iq_isin_dynasty2,Second Dynasty of Isin,Southern Mesopotamia,-1153,-1027,unique,IqIsin2,1.0,"IqIsin2(-1153..-1027,1.00)"
+iq_bazi_dyn,Bazi Dynasty,Southern Mesopotamia,-1005,-986,unique,IqBazi,1.0,"IqBazi(-1005..-986,1.00)"
+iq_dynasty_e,Dynasty of E,Southern Mesopotamia,-979,-732,unique,IqDynE,1.0,"IqDynE(-979..-732,1.00)"
+iq_parthian_emp_2,Parthian Empire II,Southern Mesopotamia,41,226,unique,IrPart2,1.0,"IrPart2(41..226,1.00)"
+iq_abbasid_cal_2,Abbasid Caliphate II,Southern Mesopotamia,1191,1258,none,,,
+ir_susiana_pre_ceramic,Pre-Ceramic Period,Susiana,-7800,-7200,unique,IrPrCer,0.998,"IrPrCer(-7800..-7201,1.00)"
+ir_susiana_formative,Formative Period,Susiana,-7200,-7000,unique,IrForma,0.995,"IrForma(-7200..-7001,0.99)"
+ir_susiana_archaic,Susiana - Muhammad Jaffar,Susiana,-7000,-6000,unique,IrArcha,0.999,"IrArcha(-7000..-6001,1.00)"
+ir_susiana_a,Susiana A,Susiana,-6000,-5700,unique,IrKhzE,0.997,"IrKhzE(-6000..-5701,1.00)"
+ir_susiana_b,Susiana B,Susiana,-5700,-5100,unique,IrKhzEM,0.998,"IrKhzEM(-5700..-5101,1.00)"
+ir_susiana_ubaid_1,Susiana - Early Ubaid,Susiana,-5100,-4700,unique,IrKhzM,0.998,"IrKhzM(-5100..-4701,1.00)"
+ir_susiana_ubaid_2,Susiana - Late Ubaid,Susiana,-4700,-4300,unique,IrKhzL,0.998,"IrKhzL(-4700..-4301,1.00)"
+ir_susa_1,Susa I,Susiana,-4300,-3800,unique,IrSusa1,0.998,"IrSusa1(-4300..-3801,1.00)"
+ir_susa_2,Susa II,Susiana,-3800,-3100,unique,IrSusa2,0.999,"IrSusa2(-3800..-3101,1.00)"
+ir_susa_3,Susa III,Susiana,-3100,-2675,unique,IrSusa3,0.998,"IrSusa3(-3100..-2676,1.00)"
+ir_elam_1,Elam - Awan Dynasty I,Susiana,-2675,-2100,unique,IrAwanE,0.737,"IrAwanE(-2675..-2251,0.74)"
+ir_elam_2,Elam - Shimashki Period,Susiana,-2028,-1940,unique,IrShima,1.0,"IrShima(-2028..-1901,1.00)"
+ir_elam_3,Elam - Early Sukkalmah,Susiana,-1900,-1701,unique,IrSukkE,1.0,"IrSukkE(-1900..-1701,1.00)"
+ir_elam_4,Elam - Late Sukkalmah,Susiana,-1700,-1500,unique,IrSukkL,0.995,"IrSukkL(-1700..-1501,0.99)"
+ir_elam_5,Elam - Kidinuid Period,Susiana,-1500,-1400,unique,IrMElm1,0.99,"IrMElm1(-1500..-1401,0.99)"
+ir_elam_6,Elam - Igihalkid Period,Susiana,-1399,-1200,unique,IrMElm2,0.995,"IrMElm2(-1400..-1201,0.99)"
+ir_elam_7,Elam - Shutrukid Period,Susiana,-1199,-1100,unique,IrMElm3,0.99,"IrMElm3(-1200..-1101,0.99)"
+ir_elam_8,Elam - Crisis Period,Susiana,-1100,-900,unique,IrElmCP,0.995,"IrElmCP(-1100..-901,0.99)"
+ir_neo_elam_1,Elam I,Susiana,-900,-744,unique,IrNElm1,1.0,"IrNElm1(-900..-744,1.00)"
+ir_neo_elam_2,Elam II,Susiana,-743,-647,unique,IrNElm2,1.0,"IrNElm2(-743..-647,1.00)"
+ir_neo_elam_3,Elam III,Susiana,-612,-539,unique,IrNElm3,0.986,"IrNElm3(-612..-540,0.99)"
+gr_macedonian_emp,Macedonian Empire,,-330,-312,none,,,
+ir_elymais_2,Elymais II,Susiana,25,215,unique,IrElym2,1.0,"IrElym2(25..215,1.00)"
+ir_ak_koyunlu,Ak Koyunlu,Susiana,1339,1501,none,,,
+ir_qajar_dyn,Qajar Dynasty,Susiana,1794,1925,unique,IrQajar,1.0,"IrQajar(1794..1925,1.00)"
+eg_badarian,Badarian,Upper Egypt,-4400,-3800,unique,EgBadar,0.998,"EgBadar(-4400..-3801,1.00)"
+eg_naqada_1,Naqada I,Upper Egypt,-3800,-3550,unique,EgNaqa1,0.996,"EgNaqa1(-3800..-3551,1.00)"
+eg_naqada_2,Naqada II,Upper Egypt,-3550,-3300,unique,EgNaqa2,0.996,"EgNaqa2(-3550..-3301,1.00)"
+eg_naqada_3,Egypt - Dynasty 0,Upper Egypt,-3300,-3100,unique,EgNaqa3,0.995,"EgNaqa3(-3300..-3101,0.99)"
+eg_dynasty_1,Egypt - Dynasty I,Upper Egypt,-3100,-2900,unique,EgDyn1,0.995,"EgDyn1(-3100..-2901,0.99)"
+eg_dynasty_2,Egypt - Dynasty II,Upper Egypt,-2900,-2687,unique,EgDyn2,1.0,"EgDyn2(-2900..-2651,1.00)"
+eg_old_k_1,Egypt - Classic Old Kingdom,Upper Egypt,-2650,-2350,unique,EgOldK1,0.997,"EgOldK1(-2650..-2351,1.00)"
+eg_old_k_2,Egypt - Late Old Kingdom,Upper Egypt,-2350,-2150,unique,EgOldK2,0.995,"EgOldK2(-2350..-2151,0.99)"
+eg_regions,Egypt - Period of the Regions,Upper Egypt,-2150,-2016,unique,EgRegns,0.993,"EgRegns(-2150..-2017,0.99)"
+eg_middle_k,Egypt - Middle Kingdom,Upper Egypt,-2016,-1700,unique,EgMidKg,0.934,"EgMidKg(-2016..-1721,0.93)"
+eg_thebes_hyksos,Egypt - Thebes-Hyksos Period,Upper Egypt,-1720,-1567,unique,EgThebH,1.0,"EgThebH(-1720..-1567,1.00)"
+eg_kushite,Egypt - Kushite Period,Upper Egypt,-747,-656,unique,SdKusht,1.0,"SdKusht(-760..-656,1.00)"
+mx_tierras_largas,Oaxaca - Tierras Largas,Valley of Oaxaca,-1400,-1150,unique,MxTieLa,0.996,"MxTieLa(-1400..-1151,1.00)"
+mx_san_jose,Oaxaca - San Jose,Valley of Oaxaca,-1150,-700,unique,MxSanGu,0.998,"MxSanGu(-1150..-701,1.00)"
+mx_rosario,Oaxaca - Rosario,Valley of Oaxaca,-700,-500,unique,MxRosar,0.995,"MxRosar(-700..-501,0.99)"
+mx_monte_alban_1_early,Early Monte Alban I,Valley of Oaxaca,-500,-300,unique,MxAlb1E,0.995,"MxAlb1E(-500..-301,0.99)"
+mx_monte_alban_1_late,Monte Alban Late I,Valley of Oaxaca,-300,-100,unique,MxAlb1L,0.995,"MxAlb1L(-300..-101,0.99)"
+mx_monte_alban_2,Monte Alban II,Valley of Oaxaca,-100,200,unique,MxAlb2,0.997,"MxAlb2(-100..199,1.00)"
+mx_monte_alban_3_a,Monte Alban III,Valley of Oaxaca,200,500,unique,MxAlb3A,0.997,"MxAlb3A(200..499,1.00)"
+mx_monte_alban_3_b_4,Monte Alban IIIB and IV,Valley of Oaxaca,500,900,unique,MxAlb3B,0.998,"MxAlb3B(500..899,1.00)"
+mx_monte_alban_5_a,Monte Alban V Early Postclassic,,900,1099,none,,,
+mx_monte_alban_5_b,Monte Alban V Late Postclassic,,1101,1520,none,,,
+mx_monte_alban_5,Monte Alban V,Valley of Oaxaca,900,1520,unique,MxAlb5,1.0,"MxAlb5(900..1520,1.00)"
+ug_early_nyoro,Early Nyoro,,900,1449,none,,,
+ug_bunyoro_k_1,Cwezi Dynasty,,1450,1699,none,,,
+ug_bunyoro_k_2,Bito Dynasty,,1700,1894,none,,,
+ye_yemen_lnl,Neolithic Yemen,Yemeni Coastal Plain,-3500,-1201,unique,YeNeoL,1.0,"YeNeoL(-3500..-1201,1.00)"
+ye_yemen_lba,Yemen - Late Bronze Age,Yemeni Coastal Plain,-1200,-801,unique,YeLBA,1.0,"YeLBA(-1200..-801,1.00)"
+ye_sabaean_commonwealth,Sabaean Commonwealth,Yemeni Coastal Plain,-800,-451,unique,YeSabaC,1.0,"YeSabaC(-800..-451,1.00)"
+ye_qatabanian_commonwealth,Qatabanian Commonwealth,Yemeni Coastal Plain,-450,-111,unique,YeQatab,1.0,"YeQatab(-450..-111,1.00)"
+ye_saba_k,Kingdom of Saba and Dhu Raydan,Yemeni Coastal Plain,-110,149,ambiguous,EtAksm1,1.0,"EtAksm1(-149..349,1.00);YeSaRay(-110..149,1.00)"
+ye_qasimid_dyn,Yemen - Qasimid Dynasty,Yemeni Coastal Plain,1637,1805,unique,YeQasmi,1.0,"YeQasmi(1637..1805,1.00)"
+tr_ottoman_emp_4_copy,Yemen - Ottoman period,,1873,1920,none,,,
+cn_peiligang,Peiligang,Middle Yellow River Valley,-7000,-5001,unique,CnPeili,1.0,"CnPeili(-7000..-5001,1.00)"
+it_venetian_rep_3,Republic of Venice III,Crete,1204,1563,unique,ItVenR3,0.997,"ItVenR3(1205..1564,1.00)"
+it_venetian_rep_4,Republic of Venice IV,Crete,1564,1797,unique,ItVenR4,0.996,"ItVenR4(1565..1797,1.00)"
+cn_five_dyn,Five Dynasties Period,,906,970,none,,,
+cn_wei_k,Wei Kingdom,,220,265,none,,,
+it_italy_k,Italian Kingdom Late Antiquity,,476,489,none,,,
+bo_tiwanaku_2,Late Tiwanaku,,800,1149,none,,,
+us_hohokam_culture,Hohokam Culture,,300,1500,none,,,
+mx_maya_classic,Classic Maya,,550,950,none,,,
+us_antebellum,Antebellum US,,1776,1865,none,,,
+at_habsburg_1,Austria - Habsburg Dynasty I,,1454,1648,none,,,
+fr_france_napoleonic,Napoleonic France,,1816,1870,none,,,
+at_habsburg_2,Austria - Habsburg Dynasty II,,1649,1918,none,,,
+cz_bohemian_k_2,Kingdom of Bohemia - Luxembourgian and Jagiellonian Dynasty,,1310,1526,none,,,
+mx_mexico_1,Early United Mexican States,,1810,1920,none,,,
+es_spanish_emp_2,Spanish Empire II,,1716,1814,none,,,
+ru_romanov_dyn_2,"Russian Empire, Romanov Dynasty II",,1776,1917,none,,,
+ru_golden_horde,Golden Horde,,1240,1440,none,,,
+gb_anglo_saxon_1,Anglo-Saxon England I,,410,926,none,,,
+us_united_states_of_america_reconstruction,Us Reconstruction-Progressive,,1866,1933,none,,,
+us_chaco_2,Chaco Regional System - Late,,1040,1149,none,,,
+mo_alawi_dyn_1,Alawi Dynasty I,,1631,1727,none,,,
+gb_england_plantagenet,Plantagenet England,,1154,1485,none,,,
+bo_titicaca_early_pacajes,Titicaca Basin - Early Pacajes phase,,1150,1450,none,,,
+gt_tikal_terminal_classic,Terminal Classic Tikal,,870,950,none,,,
+mx_mexico_2,Late United Mexican States,,1921,2020,none,,,
+mo_alawi_dyn_2,Alawi Dynasty II,,1728,1912,none,,,
+gb_england_norman,Norman England,,1066,1153,none,,,
+gb_british_emp_1,British Empire I,Deccan,1690,1849,none,,,
+jp_japanese_emp,Empire of Japan,,1869,1945,none,,,
+in_sur_emp,Sur Empire,,1540,1556,none,,,
+gt_tikal_early_classic,Early Classic Tikal,,250,554,none,,,
+gt_tikal_late_classic,Late Classic Tikal,,555,869,none,,,
+us_united_states_of_america_contemporary,United States of America - Contemporary,,1934,2020,none,,,
+it_republic_restoration,Italian Republic Restoration Period,Latium,1309,1378,none,,,
+at_interwar_austria,Interwar Austria,,1918,1938,none,,,
+de_ns_germany,Nazi Germany,,1933,1945,none,,,
+cz_bohemian_k_1,Kingdom of Bohemia - Přemyslid Dynasty,,1198,1309,none,,,
+ru_moskva_mongolian_period,"Grand Principality of Moscow, Mongolian period",,1240,1479,none,,,
+ru_romanov_dyn_1,"Russian Empire, Romanov Dynasty I",,1614,1775,none,,,
+ru_soviet_union,Soviet Union,,1918,1991,none,,,
+tr_turkey_rep,Republic of Turkey,,1923,2020,none,,,
+gb_anglo_saxon_2,Anglo-Saxon England II,,927,1065,none,,,
+si_early_modern_interior,Early Modern Sierra Leone,,1650,1896,none,,,
+gm_kaabu_emp,Kaabu,,1500,1867,none,,,
+si_freetown_1,Freetown,,1787,1808,none,,,
+gu_futa_jallon,Futa Jallon,,1725,1896,none,,,
+si_mane_emp,Mane,,1550,1650,none,,,
+ni_nok_1,Middle and Late Nok,,-1500,-901,none,,,
+bf_west_burkina_faso_yellow_5,West Burkina Faso Yellow I,,100,500,none,,,
+cd_kanem,Kanem,,800,1379,none,,,
+ni_nok_2,Middle and Late Nok,,-900,0,none,,,
+si_pre_sape,Pre-Sape Sierra Leone,,600,1400,none,,,
+bf_west_burkina_faso_red_2,West Burkina Faso Red II and III,,1100,1400,none,,,
+bf_west_burkina_faso_red_4,West Burkina Faso Red IV,,1401,1500,none,,,
+bf_west_burkina_faso_red_1,West Burkina Faso Red I,,701,1100,none,,,
+bf_mossi_k_1,Mossi,,1100,1897,none,,,
+si_sape,Sape,,1400,1550,none,,,
+bf_west_burkina_faso_yellow_6,West Burkina Faso Yellow II,,501,700,none,,,
+zi_toutswe,Toutswe,,700,1250,none,,,
+zi_great_zimbabwe,Great Zimbabwe,,1270,1550,none,,,
+zi_torwa_rozvi,Torwa-Rozvi,,1494,1850,none,,,
+zi_mutapa,Mutapa,,1450,1880,none,,,
+in_pandya_emp_3,Pandya Empire,,1216,1323,none,,,
+sl_dambadeniya,Dambadaneiya,,1232,1293,none,,,
+sl_anuradhapura_4,Anurādhapura IV,,614,1017,none,,,
+sl_polonnaruva,Polonnaruwa,,1070,1255,none,,,
+sl_anuradhapura_3,Anurādhapura III,,428,614,none,,,
+nl_dutch_emp_1,Dutch Empire,,1648,1795,none,,,
+sl_anuradhapura_1,Anurādhapura I,,-300,70,none,,,
+sl_jaffa_k,Jaffna,,1310,1591,none,,,
+sl_anuradhapura_2,Anurādhapura II,,70,428,none,,,
+et_jimma_k,Kingdom of Jimma,,1790,1932,none,,,
+so_adal_sultanate,Adal Sultanate,,1375,1543,none,,,
+so_tunni_sultanate,Tunni Sultanate,,800,1200,none,,,
+so_ajuran_sultanate,Ajuran Sultanate,,1250,1700,none,,,
+so_habr_yunis,Habr Yunis,,1300,1886,none,,,
+et_gomma_k,Kingdom of Gomma,,1780,1886,none,,,
+so_geledi_sultanate,Sultanate of Geledi,,1750,1911,none,,,
+et_showa_sultanate,Shoa Sultanate,,1108,1285,none,,,
+et_harla_k,Harla Kingdom,,500,1500,none,,,
+et_hadiya_sultanate,Hadiya Sultanate,,1300,1680,none,,,
+so_ifat_sultanate,Ifat Sultanate,,1280,1375,none,,,
+er_medri_bahri,Medri Bahri,,1310,1889,none,,,
+so_majeerteen_sultanate,Majeerteen Sultanate,,1750,1926,none,,,
+et_funj_sultanate,Funj Sultanate,,1504,1820,none,,,
+et_kaffa_k,Kingdom of Kaffa,,1390,1897,none,,,
+et_gumma_k,Kingdom of Gumma,,1800,1897,none,,,
+et_harar_emirate,Emirate of Harar,,1650,1875,none,,,
+et_aussa_sultanate,Early Sultanate of Aussa,,1734,1895,none,,,
+so_isaaq_sultanate,Isaaq Sultanate,,1300,1886,none,,,
+ni_proto_yoruba,Proto-Yoruba,,301,649,none,,,
+ni_yoruba_classic,Classical Ife,,1000,1400,none,,,
+ni_formative_yoruba,Late Formative Yoruba,,650,1049,none,,,
+ni_kwararafa,Kwararafa,,596,1820,none,,,
+ni_allada_k,Allada,,1100,1724,none,,,
+ni_igodomingodo,Igodomingodo,,900,1450,none,,,
+ni_oyo_emp_2,Ilú-ọba Ọ̀yọ́,,1601,1835,none,,,
+ni_whydah_k,Whydah,,1671,1727,none,,,
+ni_oyo_emp_1,Oyo,,1300,1535,none,,,
+ni_proto_yoruboid,Proto-Yoruboid,,-300,300,none,,,
+ni_aro,Aro,,1690,1902,none,,,
+ni_sokoto_cal,Sokoto Caliphate,,1804,1904,none,,,
+ni_igala_k,Igala,,1600,1900,none,,,
+ni_nri_k,Ọ̀ràézè Ǹrì,,1043,1911,none,,,
+ni_hausa_k,Hausa bakwai,,900,1808,none,,,
+ni_bornu_emp,Kanem-Borno,,1380,1893,none,,,
+ni_dahomey_k,Foys,,1715,1894,none,,,
+ni_benin_emp,Benin Empire,,1140,1897,none,,,
+ni_wukari_fed,Wukari Federation,,1820,1899,none,,,
+se_cayor_k,Kingdom of Cayor,,1549,1864,none,,,
+se_saloum_k,Kingdom of Saloum,,1490,1863,none,,,
+se_baol_k,Kingdom of Baol,,1550,1890,none,,,
+se_sine_k,Kingdom of Sine,,1350,1887,none,,,
+se_waalo_k,Kingdom of Waalo,,1287,1855,none,,,
+se_jolof_emp,Jolof Empire,,1360,1549,none,,,
+se_futa_toro_imamate,Imamate of Futa Toro,,1776,1860,none,,,
+se_great_fulo_emp,Denyanke Kingdom,,1490,1776,none,,,
+se_jolof_k,Kingdom of Jolof,,1549,1865,none,,,
+ug_buganda_k_2,Buganda II,,1717,1894,none,,,
+ug_toro_k,Toro,,1830,1896,none,,,
+ug_buganda_k_1,Buganda I,,1408,1716,none,,,
+tz_karagwe_k,Karagwe,,1500,1916,none,,,
+Early Niynginya,Kingdom of Nyinginya,,1650,1897,none,,,
+ug_nkore_k_1,Nkore,,1450,1749,none,,,
+rw_ndorwa_k,Ndorwa,,1700,1800,none,,,
+bu_burundi_k,Burundi,,1680,1903,none,,,
+rw_mubari_k,Mubari,,1700,1896,none,,,
+rw_gisaka_k,Gisaka,,1700,1867,none,,,
+tz_milansi_k,Fipa,,1600,1890,none,,,
+rw_bugesera_k,Bugesera,,1700,1799,none,,,
+ug_nkore_k_2,Nkore,,1750,1901,none,,,
+tz_buhayo_k,Buhaya,,1700,1890,none,,,
+in_pandya_emp_2,Pandya Dynasty,,590,915,none,,,
+in_cholas_1,Early Cholas,,-300,300,none,,,
+in_thanjavur_maratha_k,Thanjavur Maratha Kingdom,,1675,1799,none,,,
+in_pandya_emp_1,Early Pandyas,,-300,300,none,,,
+in_carnatic_sul,Carnatic Sultanate,,1710,1801,none,,,
+in_pallava_emp_2,Late Pallava Empire,,300,890,none,,,
+in_kalabhra_dyn,Kalabhra Dynasty,,200,600,none,,,
+in_thanjavur_nayaks,Nayaks of Thanjavur,,1532,1676,none,,,
+in_madurai_nayaks,Nayaks of Madurai,,1529,1736,none,,,
+pt_portuguese_emp_1,Portuguese Empire - Renaissance Period,,1495,1579,none,,,
+pt_portuguese_emp_2,Portuguese Empire - Early Modern,,1640,1806,none,,,
+tz_tana,Classic Tana,,1000,1498,none,,,
+om_busaidi_imamate_1,Imamate of Oman and Muscat,,1749,1895,none,,,
+gt_tikal_early_postclassic,Early Postclassic Tikal,,951,1250,none,,,
+bo_titicaca_late_formative,Late Formative Titicaca Basin,,100,499,none,,,
+bo_tiwanaku_1,Early Tiwanaku,,500,799,none,,,
+tz_east_africa_ia_1,Early East Africa Iron Age,,200,499,none,,,
+tz_early_tana_1,Early Tana 1,,500,749,none,,,
+tz_early_tana_2,Early Tana 2,,750,999,none,,,
+es_spanish_emp_3,Spanish Empire III,,1815,1931,none,,,
+cg_lunda_k,Kingdom of Lunda,,1600,1895,none,,,
+sa_south_africa_rep,Republic of South Africa,,1920,2020,none,,,
+tn_tunisia_rep,Republic of Tunisia,,1956,2020,none,,,
+cg_congo_democratic_rep,Democratic Republic of the Congo,,1960,2020,none,,,
+rw_rwanda_rep,Republic of Rwanda,,1962,2020,none,,,
+ar_argentina_rep_1,Argentine Republic I,,1816,1983,none,,,
+ch_chile_rep_1,Republic of Chile I,,1818,1990,none,,,
+co_colombia_rep_1,Republic of Colombia I,,1819,1958,none,,,
+mx_united_mexican_states_1,United Mexican States I,,1821,1917,none,,,
+br_brazil_emp,Empire of Brazil,,1822,1888,none,,,
+ve_venezuela_rep_1,Republic of Venezuela I,,1830,1983,none,,,
+cr_costa_rica_rep,Republic of Costa Rica,,1838,2020,none,,,
+ca_canada_dominion,Dominion of Canada,,1867,2020,none,,,
+cu_cuba_rep_1,Republic of Cuba I,,1902,1956,none,,,
+ko_korean_democratic_peoples_rep,Democratic People's Republic of Korea,,1948,2020,none,,,
+ko_korean_rep,Republic of Korea,,1948,2020,none,,,
+cn_chinese_peoples_rep,People's Republic of China,,1950,2024,none,,,
+jp_japan_contemporary,Japan,,1952,2020,none,,,
+mn_mongolia_peoples_rep,Mongolian People's Republic,,1920,1992,none,,,
+af_afghanistan_k,Kingdom of Afghanistan,,1927,1973,none,,,
+af_afghanistan_rep,Republic of Afghanistan,,1974,2020,none,,,
+nl_dutch_emp_2,Late Dutch Empire,,1815,1940,none,,,
+dk_danish_emp_modern,Danish Empire,,1815,1940,none,,,
+sv_united_k_sweden_and_norway,United Kingdoms of Sweden and Norway,,1815,1905,none,,,
+it_italian_k,Kingdom of Italy,,1861,1946,none,,,
+fr_france_modern_1,Modern France I,,1871,1940,none,,,
+no_norway_k_modern,Kingdom of Norway - Modern,,1905,1940,none,,,
+sv_sweden_k_modern,Kingdom of Sweden - Modern,,1906,2020,none,,,
+su_finland_rep,Republic of Finland,,1917,2020,none,,,
+de_weimar_rep,Weimar Republic,,1918,1932,none,,,
+ei_ireland_rep,Republic of Ireland,,1922,2024,none,,,
+sr_yugoslavia,Yugoslavia,,1944,1992,none,,,
+at_austrian_rep_2,Second Austrian Republic,,1945,2020,none,,,
+om_yaruba_imamate,Oman Imamate Yaruba Period,,1160,1660,none,,,
+ir_pahlavi_dyn,Iran Pahlavi Dynasty,,1926,1979,none,,,
+iq_iraq_rep,Republic of Iraq,,1959,2020,none,,,
+as_australia_colonial,Australia Colonial Period,,1803,1901,none,,,
+vt_nguyen_dyn,Nguyen Dynasty,,1802,1887,none,,,
+th_reform_period_thailand,Thailand Reform Period,,1887,1932,none,,,
+pi_philippines_rep,Republic of the Philippines,,1946,2020,none,,,
+id_indonesian_rep,Republic of Indonesia,,1949,2020,none,,,
+vt_vietnam_democratic_rep,Democratic Republic of Vietnam,,1954,1975,none,,,
+vt_vietnam_rep,Republic of Vietnam,,1955,1975,none,,,
+vt_vietnam_socialist_rep,Socialist Republic of Vietnam,,1975,2020,none,,,
+pk_pakistan_islamic_rep,Islamic Republic of Pakistan,,1947,2020,none,,,
+sl_sri_lanka,Sri Lanka,,1948,2020,none,,,
+us_chaco_1,Chaco Regional System - Early,,850,1039,none,,,
+us_aztec_puebloan,Aztec Regional System,,1150,1300,none,,,
+tz_east_africa_ia_2,Late East Africa Iron Age,,800,1150,none,,,
+mw_pre_maravi,Pre-Maravi,,1151,1399,none,,,
+mw_early_maravi,Early Maravi,,1400,1499,none,,,
+mw_northern_maravi_k,Northern Maravi Kingdom,,1500,1621,none,,,
+mw_maravi_emp,Maravi Empire,,1622,1870,none,,,
+in_nanda_dyn,Magadha - Nanda Dynasty,,-413,-322,none,,,
+in_east_india_co,British East India Company,,1757,1858,none,,,
+bd_deva_dyn,Deva Dynasty,,1150,1300,none,,,
+bd_chandra_dyn,Chandra Dynasty,,900,1050,none,,,
+bd_nawabs_of_bengal,Nawabs of Bengal,,1717,1757,none,,,
+bd_twelve_bhuyans,Twelve Bhuyans,,1538,1612,none,,,
+in_gauda_k,Gauda Kingdom,,600,625,none,,,
+cn_chinese_rep,Republic of China,,1913,1949,none,,,
+ye_qasimid_dyn_222222,Qasimid Dynasty XXXXXXX,,1637,1805,none,,,
+gb_british_emp_2,British Empire II,,1850,1968,none,,,
+ic_wattara_emp,Wattara Empire,,1710,1895,none,,,
+et_ethiopian_k_3,Ethiopia Kingdom III,,1769,1854,none,,,
+et_ethiopian_k_2,Ethiopia Kingdom II,,1621,1768,none,,,
+et_habesha,Habesha,,801,1136,none,,,
+bd_khadga_dyn,Khadga Dynasty,,650,700,none,,,
+in_kanva_dyn,Magadha - Kanva Dynasty,,-75,-30,none,,,
+bd_sena_dyn,Sena Dynasty,,1095,1245,none,,,
+in_vanga_k,Vanga Dynasty,,550,600,none,,,
+bd_yadava_varman_dyn,Yadava-Varman Dynasty,,1080,1150,none,,,
+in_gangaridai,Gangaridai,,-300,-100,none,,,
+de_empire_1,Holy Roman Empire - Ottonian-Salian Dynasty,,919,1125,none,,,
+de_east_francia,East Francia,,842,919,none,,,
+de_empire_2,Holy Roman Empire - Hohenstaufen and Welf Dynasties,,1126,1254,none,,,
+de_empire_3,Holy Roman Empire - Fragmented Period,,1255,1453,none,,,
+de_hohenzollern_1,Electorate of Brandenburg,,1415,1618,none,,,
+de_hohenzollern_2,Brandenburg-Prussia,,1618,1870,none,,,
+de_bavaria_1,Electorate of Bavaria,,1623,1806,none,,,
+de_hohenzollern_3,Germany - Hohenzollern Dynasty,,1871,1918,none,,,
+de_empire_2_sub,Holy Roman Empire - Hohenstaufen Faction,,1198,1215,none,,,
+pl_poland_lithuania_commonwealth,Poland-Lithuania Commonwealth,,1570,1791,none,,,
+pl_piast_dyn_2,Poland - Piast Dynasty II,,1139,1382,none,,,
+hu_arpad_dyn,Hungary Kingdom - Árpád Dynasty,,1000,1301,none,,,
+hu_later_dyn,Hungary Kingdom - Anjou and Later Dynasties,,1302,1526,none,,,
+cz_samo_emp,Samo's Empire,,623,658,none,,,
+cz_moravia_k,Great Moravia,,820,907,none,,,
+es_aragon_crown,Crown of Aragon,,1164,1515,none,,,
+es_castile_crown,Crown of Castile,,1231,1515,none,,,
+gb_brythonic_k,Brythonic Kingdoms,,410,1283,none,,,
+gb_danelaw,Danelaw,,878,954,none,,,
+no_norway_k_1,Kingdom of Norway I,,872,1261,none,,,
+fr_burgundian_k,Kingdom of the Burgundians,,411,534,none,,,
+pt_suebi_k,Kingdom of the Suebi,,409,584,none,,,
+gb_dal_riata,Dál Riata,,498,899,none,,,
+gb_alba_k,Kingdom of Alba,,900,1292,none,,,
+hr_croatia_k,Duchy and Kingdom of Croatia,,790,1102,none,,,
+rs_serbia_k,"Grand Principality, Kingdom and Serbian Empire",,1091,1371,none,,,
+it_genoa_rep_1,Republic of Genoa I,,1099,1284,none,,,
+tr_latin_emp,Latin Empire,,1204,1261,none,,,
+ro_wallachia_principality_1,Principality of Wallachia I,,1330,1416,none,,,
+ba_bosnia_banate,Banate of Bosnia,,1154,1376,none,,,
+ba_bosnia_k,Kingdom of Bosnia,,1377,1463,none,,,
+it_genoa_rep_2,Republic of Genoa II,,1285,1528,none,,,
+it_genoa_rep_3,Republic of Genoa III,,1529,1797,none,,,
+it_florence_rep,Republic and Duchy of Florence,,1115,1568,none,,,
+it_tuscany_grand_duc,Grand Duchy of Tuscany,,1569,1860,none,,,
+ge_georgia_k_3,Kingdom of Georgia III,,1329,1463,none,,,
+tr_qara_qoyunlu,Qara Qoyunlu,,1375,1468,none,,,
+md_moldavia_principality_1,Principality of Moldavia I,,1346,1503,none,,,
+md_moldavia_principality_2,Principality of Moldavia II,,1504,1710,none,,,
+md_moldavia_principality_3,Principality of Moldavia III,,1711,1859,none,,,
+it_milan_duc_1,Duchy of Milan I,,1395,1498,none,,,
+es_cordoba_emirate,Emirate of Córdoba,,756,928,none,,,
+es_asturias_k,Kingdom of Asturias,,718,924,none,,,
+es_taifas,Taifas of Iberia,,1010,1241,none,,,
+es_galicia_k,Kingdom of Galicia,,911,1111,none,,,
+pt_portugal_k,Kingdom of Portugal,,1139,1494,none,,,
+gr_epirus_despot,Despotate of Epirus,,1205,1479,none,,,
+tr_karaman_bey,Beylik of Karaman,,1250,1487,none,,,
+tr_trebizond_emp,Empire of Trebizond,,1204,1461,none,,,
+gr_achaea_principality,Principality of Achaea,,1204,1432,none,,,
+cy_cyprus_k,Kingdom of Cyprus,,1192,1489,none,,,
+it_naples_k,Kingdom of Naples,,1282,1442,none,,,
+hu_hungary_principality,Principality of Hungary,,895,999,none,,,
+ch_swiss_conf_1,Old Swiss Confederacy,,1315,1515,none,,,
+ch_swiss_conf_2,Swiss Confederation - early modern period,,1516,1798,none,,,
+ch_swiss_conf_3,Swiss Confederation - Napoleonic period,,1799,1848,none,,,
+ch_swiss_conf_4,Swiss Confederation - modern period,,1849,2014,none,,,
+de_empire_minor_1,Holy Roman Empire - Minor Imperial States I,,1454,1648,none,,,
+de_empire_minor_2,Holy Roman Empire - Minor Imperial States II,,1649,1806,none,,,
+rs_gepid_k,Kingdom of the Gepids,,454,567,none,,,
+tr_ramadanid_emirate,Ramadanid Emirate,,1397,1517,none,,,
+tr_candar_bey,Beylik of Candar,,1291,1461,none,,,
+fr_aquitania_duc_2,Duchy of Aquitaine II,,893,1137,none,,,
+pl_polish_rep_1,Republic of Poland I,,1919,1939,none,,,
+pl_polish_peoples_rep,Polish People's Republic,,1953,1989,none,,,
+cz_czechoslovakia,Czechoslovakia,,1919,1992,none,,,
+cz_czech_rep,Czech Republic,,1993,2020,none,,,
+lt_lithuania_grand_duc,Grand Duchy of Lithuania,,1220,1385,none,,,
+sv_swedish_k_1,Kingdom of Sweden I,,980,1396,none,,,
+sv_swedish_emp,Swedish Empire,,1611,1814,none,,,
+il_jerusalem_k_1,Kingdom of Jerusalem I,,1099,1187,none,,,
+il_jerusalem_k_2,Kingdom of Jerusalem II,,1192,1291,none,,,
+tn_aghlabid_dyn,Aghlabid Dynasty,,800,908,none,,,
+dk_danish_k,Kingdom of Denmark - Medieval,,958,1396,none,,,
+dk_denmark_norway,Denmark-Norway,,1524,1814,none,,,
+dk_danish_k_modern,Kingdom of Denmark - Modern,,1946,2020,none,,,
+it_sicily_k_1,Norman Sicily,,1071,1193,none,,,
+it_two_sicilies_k,Kingdom of the Two Sicilies,,1816,1861,none,,,
+sv_scandinavian_minor_k,Scandinavian Minor Kingdoms,,500,979,none,,,
+in_ahmadnagar_sultanate,Ahmadnagar Sultanate,,1490,1636,none,,,
+fr_arles_k,Kingdom of Arles,,933,1006,none,,,
+it_milan_duc_2,Duchy of Milan II,,1499,1796,none,,,
+in_cheras_1,Early Cheras,,-300,300,none,,,
+in_harsha_emp,Harsha's Empire,,606,647,none,,,
+in_mysore_k,Kingdom of Mysore,,1566,1799,none,,,
+in_maratha_emp,Maratha Empire,,1674,1818,none,,,
+ro_wallachia_principality_2,Principality of Wallachia II,,1417,1714,none,,,
+ro_wallachia_principality_3,Principality of Wallachia III,,1715,1858,none,,,
+cn_qi_spring_autumn,Qi - Spring and Autumn,,-770,-489,none,,,
+cn_qi_warring_states,Qi - Warring States,,-488,-222,none,,,
+ro_transylvania_principality,Principality of Transylvania,,1570,1711,none,,,
+kz_kazakh_khanate_1,Kazakh Khanate I,,1465,1718,none,,,
+kz_kazakh_khanate_2,Kazakh Khanate II,,1719,1847,none,,,
+th_haribhunjaya_k,Haribhunjaya,,662,1292,none,,,
+kz_kimek_conf,Kimek–Kipchak Confederation,,880,1227,none,,,
+kz_oghuz_state,Oghuz Yabgu State,,766,1055,none,,,
+gb_scotland_k,Kingdom of Scotland,,1293,1706,none,,,
+af_afghanistan_emirate,Emirate of Afghanistan,,1827,1926,none,,,
+th_lavo_k_1,Lavo Kingdom I,,638,1001,none,,,
+th_lavo_k_2,Lavo Kingdom II,,1002,1350,none,,,
+cn_qocho_k,Qocho Kingdom,,843,1132,none,,,
+cn_ganzhou_k,Ganzhou Kingdom,,893,1036,none,,,
+az_caucasus_khanates,Khanates of the Caucasus,,1748,1828,none,,,
+bo_bolivia_rep,Bolivia - Independence and Republican Era,,1825,1952,none,,,
+bo_bolivia_modern,Bolivia - Modern Era,,1953,2024,none,,,
+cn_khotan_k,Kingdom of Khotan,,852,1006,none,,,
+cz_bohemian_duc,Duchy of Bohemia,,880,1003,none,,,
+gr_antigonid_emp,Antigonid Dynasty,,-311,-168,none,,,
+iq_middle_assyrian_emp,Middle Assyrian Empire,,-1365,-912,none,,,
+ru_russian_federation,Russian Federation,,1992,2024,none,,,
+no_viking_settlements,Viking settlements,,750,1100,none,,,
+fr_france_modern_2,Modern France II,,1946,2026,none,,,
+eg_egypt_modern_1,Modern Egypt I,,1805,1921,none,,,
+eg_egypt_modern_2,Modern Egypt II,,1922,2026,none,,,
+sy_syria_modern,Modern Syria,,1945,2026,none,,,
+fr_normandy_duc,Duchy of Normandy,,911,1066,none,,,

@@ -1,0 +1,504 @@
+{
+  "claims": [
+    {
+      "claim": 1,
+      "item": "polities",
+      "claimed": 221,
+      "yours": 221,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 1,
+      "item": "events",
+      "claimed": 117,
+      "yours": 117,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 1,
+      "item": "internal collapse",
+      "claimed": 42,
+      "yours": 42,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 1,
+      "item": "conquest",
+      "claimed": 70,
+      "yours": 70,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 1,
+      "item": "NGAs",
+      "claimed": 34,
+      "yours": 34,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 2,
+      "item": "polity-centuries",
+      "claimed": 526,
+      "yours": 526,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 2,
+      "item": "NGAs",
+      "claimed": 30,
+      "yours": 30,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 2,
+      "item": "HR",
+      "claimed": 1.029,
+      "yours": 1.0287,
+      "verdict": "REPRODUCED",
+      "note": "default IRLS converges to a false optimum (llf -4420.96, HR blows up); zero-start IRLS / Newton / BFGS agree at llf -281.291"
+    },
+    {
+      "claim": 2,
+      "item": "CI low",
+      "claimed": 0.722,
+      "yours": 0.7222,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 2,
+      "item": "CI high",
+      "claimed": 1.466,
+      "yours": 1.4655,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 3,
+      "item": "HR",
+      "claimed": 1.184,
+      "yours": 1.1844,
+      "verdict": "REPRODUCED",
+      "note": "matches only when the NGAs with no events are kept (555 polity-centuries, 34 NGAs). On the 526-piece / 30-NGA sample of claim 2 the no-dummy HR is 1.310 (1.006 to 1.707, p 0.045)."
+    },
+    {
+      "claim": 3,
+      "item": "CI low",
+      "claimed": 0.902,
+      "yours": 0.9015,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 3,
+      "item": "CI high",
+      "claimed": 1.556,
+      "yours": 1.5561,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 4,
+      "item": "HR",
+      "claimed": 1.25,
+      "yours": 1.25,
+      "verdict": "REPRODUCED",
+      "note": "own Cox; Breslow and Efron identical (HR 1.2500, no tied event times within NGA); statsmodels PHReg point estimate HR 1.2500 (its grouped robust SE returns NaN here; own robust SE matches PHReg exactly where PHReg returns one, e.g. claim 6 all-endings); own robust p 0.1033; using the codes-file end_year instead gives HR 1.188"
+    },
+    {
+      "claim": 4,
+      "item": "CI low",
+      "claimed": 0.95,
+      "yours": 0.9557,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 4,
+      "item": "CI high",
+      "claimed": 1.64,
+      "yours": 1.6349,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 5,
+      "item": "polities",
+      "claimed": 87,
+      "yours": 87,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 5,
+      "item": "events",
+      "claimed": 47,
+      "yours": 47,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 5,
+      "item": "internal collapse",
+      "claimed": 19,
+      "yours": 19,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 5,
+      "item": "conquest",
+      "claimed": 26,
+      "yours": 26,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 5,
+      "item": "Cox all endings HR",
+      "claimed": 1.11,
+      "yours": 1.1095,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 5,
+      "item": "Cox all endings p",
+      "claimed": 0.47,
+      "yours": 0.4588,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 5,
+      "item": "Cox internal HR",
+      "claimed": 0.93,
+      "yours": 0.9278,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 5,
+      "item": "Cox internal p",
+      "claimed": 0.78,
+      "yours": 0.7686,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 6,
+      "item": "polities",
+      "claimed": 215,
+      "yours": 215,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 6,
+      "item": "events",
+      "claimed": 116,
+      "yours": 116,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 6,
+      "item": "internal collapse",
+      "claimed": 42,
+      "yours": 42,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 6,
+      "item": "Cox internal HR",
+      "claimed": 0.71,
+      "yours": 0.7097,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 6,
+      "item": "Cox internal p",
+      "claimed": 0.12,
+      "yours": 0.1147,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 6,
+      "item": "logit OR",
+      "claimed": 0.63,
+      "yours": 0.6275,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 6,
+      "item": "logit p",
+      "claimed": 0.08,
+      "yours": 0.0864,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 6,
+      "item": "logit n",
+      "claimed": 140,
+      "yours": 140,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 7,
+      "item": "OR",
+      "claimed": 1.24,
+      "yours": 1.2428,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 7,
+      "item": "CI low",
+      "claimed": 1.03,
+      "yours": 1.0261,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 7,
+      "item": "CI high",
+      "claimed": 1.5,
+      "yours": 1.5051,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 7,
+      "item": "p",
+      "claimed": 0.026,
+      "yours": 0.0262,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 7,
+      "item": "transitions",
+      "claimed": 977,
+      "yours": 977,
+      "verdict": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "claim": 7,
+      "item": "polities",
+      "claimed": 100,
+      "yours": 100,
+      "verdict": "REPRODUCED",
+      "note": ""
+    }
+  ],
+  "extra": {
+    "claim2_sensitivity": {
+      "end_year|agecat_base=0|right_closed=False": {
+        "HR": 1.0477,
+        "lo": 0.7284,
+        "hi": 1.5072,
+        "n_rows": 526,
+        "HR_noNGA_dropped_sample": 1.3161
+      },
+      "end_year|agecat_base=0|right_closed=True": {
+        "HR": 1.0287,
+        "lo": 0.7222,
+        "hi": 1.4655,
+        "n_rows": 526,
+        "HR_noNGA_dropped_sample": 1.3105
+      },
+      "end_year|agecat_base=1|right_closed=False": {
+        "HR": 1.0611,
+        "lo": 0.7513,
+        "hi": 1.4986,
+        "n_rows": 526,
+        "HR_noNGA_dropped_sample": 1.3121
+      },
+      "end_year|agecat_base=1|right_closed=True": {
+        "HR": 1.0445,
+        "lo": 0.7458,
+        "hi": 1.4629,
+        "n_rows": 526,
+        "HR_noNGA_dropped_sample": 1.3067
+      },
+      "code_end_year|agecat_base=0|right_closed=False": {
+        "HR": 1.0453,
+        "lo": 0.7326,
+        "hi": 1.4915,
+        "n_rows": 526,
+        "HR_noNGA_dropped_sample": 1.3348
+      },
+      "code_end_year|agecat_base=0|right_closed=True": {
+        "HR": 1.0445,
+        "lo": 0.7374,
+        "hi": 1.4796,
+        "n_rows": 526,
+        "HR_noNGA_dropped_sample": 1.3229
+      },
+      "code_end_year|agecat_base=1|right_closed=False": {
+        "HR": 1.0602,
+        "lo": 0.7599,
+        "hi": 1.4792,
+        "n_rows": 526,
+        "HR_noNGA_dropped_sample": 1.3261
+      },
+      "code_end_year|agecat_base=1|right_closed=True": {
+        "HR": 1.0592,
+        "lo": 0.7643,
+        "hi": 1.4678,
+        "n_rows": 526,
+        "HR_noNGA_dropped_sample": 1.3144
+      }
+    },
+    "claim5_detail": {
+      "exposure": "CONSTR",
+      "n": 87,
+      "events": 47,
+      "internal": 19,
+      "conquest": 26,
+      "ngas": 17,
+      "cox_all": {
+        "HR": 1.1095052381242625,
+        "lo": 0.8428203369028,
+        "hi": 1.4605744777693281,
+        "p": 0.45879145277207234,
+        "events": 47,
+        "n": 87
+      },
+      "cox_internal": {
+        "HR": 0.9278267175272823,
+        "lo": 0.5633275571924029,
+        "hi": 1.5281738071681559,
+        "p": 0.7685737486799676,
+        "events": 19,
+        "n": 87
+      },
+      "cox_all_efron": {
+        "HR": 1.1095052381242625,
+        "lo": 0.8428203369028,
+        "hi": 1.4605744777693281,
+        "p": 0.45879145277207234,
+        "events": 47,
+        "n": 87
+      },
+      "cox_internal_efron": {
+        "HR": 0.9278267175272823,
+        "lo": 0.5633275571924029,
+        "hi": 1.5281738071681559,
+        "p": 0.7685737486799676,
+        "events": 19,
+        "n": 87
+      },
+      "sm_cox_all": {
+        "HR": 1.1095052381242625,
+        "p": NaN,
+        "se": NaN
+      },
+      "sm_cox_internal": {
+        "HR": 0.9278267175272823,
+        "p": NaN,
+        "se": NaN
+      },
+      "logit_internal_vs_T0": {
+        "OR": 0.8690797334294103,
+        "lo": 0.43335168455459705,
+        "hi": 1.7429252267336606,
+        "p": 0.6926856609640881,
+        "n": 59
+      }
+    },
+    "claim6_detail": {
+      "exposure": "rulers_eq_commoners",
+      "n": 215,
+      "events": 116,
+      "internal": 42,
+      "conquest": 69,
+      "ngas": 33,
+      "cox_all": {
+        "HR": 1.1008399020694102,
+        "lo": 0.8451797788676062,
+        "hi": 1.4338351677223686,
+        "p": 0.47615184843245306,
+        "events": 116,
+        "n": 215
+      },
+      "cox_internal": {
+        "HR": 0.7097411454292363,
+        "lo": 0.4635528576975967,
+        "hi": 1.0866775711774799,
+        "p": 0.11468047678278567,
+        "events": 42,
+        "n": 215
+      },
+      "cox_all_efron": {
+        "HR": 1.1010950764473992,
+        "lo": 0.8440416910541394,
+        "hi": 1.4364342190994166,
+        "p": 0.47771547721694285,
+        "events": 116,
+        "n": 215
+      },
+      "cox_internal_efron": {
+        "HR": 0.7095744531621051,
+        "lo": 0.46336184906765604,
+        "hi": 1.086614933001928,
+        "p": 0.11458298250709865,
+        "events": 42,
+        "n": 215
+      },
+      "sm_cox_all": {
+        "HR": 1.1008399020694102,
+        "p": 0.4761518484324535,
+        "se": 0.1348388817264852
+      },
+      "sm_cox_internal": {
+        "HR": 0.7097411454292363,
+        "p": NaN,
+        "se": NaN
+      },
+      "logit_internal_vs_T0": {
+        "OR": 0.6274689122533565,
+        "lo": 0.36834803736857186,
+        "hi": 1.0688729025328128,
+        "p": 0.0863655054854686,
+        "n": 140
+      }
+    },
+    "claim7_detail": {
+      "OR": 1.2427508975596009,
+      "lo": 1.0261263332343458,
+      "hi": 1.505106869752731,
+      "p": 0.026156650029872497,
+      "n": 977,
+      "n_polities": 100,
+      "n_irregular": 474,
+      "era_counts": {
+        "0": 66,
+        "1": 720,
+        "2": 191
+      }
+    },
+    "spec_choices": {
+      "duration": "frame end_year - start_year, min 1 (code end_year tested as alternative)",
+      "agecat": "0-based piece index capped at 3 (categories 0,1,2,3)",
+      "era_bins": "pd.cut right-closed on piece midpoint; no bin lacked events so no merging",
+      "glm_se": "statsmodels GLM cov_type=cluster (default small-sample correction), normal CI",
+      "cox": "own Newton-Raphson Cox, robust SE = lifelines/R-style clustered dfbeta sandwich, no correction",
+      "logit": "statsmodels Logit cov_type=cluster by NGA / PolityName"
+    }
+  }
+}

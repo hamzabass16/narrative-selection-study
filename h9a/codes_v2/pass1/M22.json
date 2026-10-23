@@ -1,0 +1,1602 @@
+[
+ {
+  "pid": "W04201",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04202",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04203",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04204",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04205",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04206",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04207",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "warrior society members must go to war or be degraded as cowards",
+  "quote": "if cowardice was suspected to be his motive for this action he was degraded from his rank",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04208",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "mother watches over baby playing with knife",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04209",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04210",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "peasants resist governor's land seizure and appeal to Senate",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04211",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04212",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "duty to family ancestors in ancestor worship",
+  "quote": "the sense of duty to the ancestor was deepened by dim awe of the forces controlling the world",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04213",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04214",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04215",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04216",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04217",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "wife respects husband's elder brothers and mother-in-law",
+  "quote": "the young bride must work a whole year for her mother-in-law",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04218",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04219",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04220",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04221",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "gens organizes scouts to protect tribe; camp defenders honored",
+  "quote": "It was also the duty of this gens when the tribe was on its annual buffalo hunt, to organize",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04222",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04223",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04224",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04225",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04226",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04227",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "husband observes sexual taboos in interest of wife and child",
+  "quote": "He, in her interest and in that of the child, may not have intercourse with other women",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04228",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04229",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04230",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04231",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "clan members treated as one family with access to houses",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04232",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04233",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04234",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04235",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "Haida ridicule intermarriage with outsider Tsimshian",
+  "quote": "The Haidas seemed to ridicule the idea of intermarriage with the Zimsheans",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04236",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04237",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04238",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "relatives give gifts when their kinsmen are honored",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04239",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04240",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "village boys must supply firewood for bachelors' house",
+  "quote": "The young boys of the village have to keep up the supply of firewood for the zawlbuk, this duty",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04241",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "war honors displayed on hair fringes, granted by warriors",
+  "quote": "It was this custom that made garments of this character so highly valued.",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04242",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "Badagas give grain to Todas in return for prayers",
+  "quote": "",
+  "target": "STRANGER"
+ },
+ {
+  "pid": "W04243",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04244",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "man leaves job to check on child dreamed sick",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04245",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04246",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "peasant repays advance from benefactor with labour debt",
+  "quote": "",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04247",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "officials and crowds pay homage to the Sultan",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04248",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "bride taught to provide food for husband and in-laws",
+  "quote": "When you are married, do not act childishly ; you are to provide food.",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04249",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04250",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "Kiowa raid Texas, destroying property and stampeding agency stock",
+  "quote": "",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04251",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "quarrelsome disturbers of tribal harmony expelled from society",
+  "quote": "This punishment was considered a great public disgrace.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04252",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04253",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04254",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "father's brothers help support divorced woman's children",
+  "quote": "the father's brothers would be expected to assist the woman in their support",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04255",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04256",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04257",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04258",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04259",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "clan-mother backs daughter's refusal to pose",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04260",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "theft punished; ordeal decides accused thief's guilt",
+  "quote": "the accused is considered guilty and punished accordingly",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04261",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04262",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "treasure-trove belongs to Sultan; appropriating it punishable by death",
+  "quote": "treasure-trove is the property of the Sultan, and that to appropriate it is punishable with death",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04263",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04264",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04265",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04266",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04267",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "ownership closely tied to use among Creeks",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04268",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "strong family feeling and maternal affection",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04269",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "parents avoid naming young children to protect them from spirits",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04270",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04271",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04272",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04273",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "visiting sacred ruin requires permission of ceremonial director",
+  "quote": "if he should visit the house without the permission of the director of the personators of the deceased Kla'nakwe. Zufii would be in imminent danger",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04274",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "each relative gives a waist-string to the corpse",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04275",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04276",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "mir deals fairly and honestly with its members",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04277",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "Alo praised for heroically killing the great enemy fish",
+  "quote": "praised for his heroic",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04278",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04279",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04280",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "Indians answer foreigners' broken compacts in kind",
+  "quote": "if a foreigner acts insincerely or appears to break a compact, the Indian feels justified in acting in a like manner towards him",
+  "target": "STRANGER"
+ },
+ {
+  "pid": "W04281",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "stealing punished by double restitution",
+  "quote": "Stealing was punished by restoring double.",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04282",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04283",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04284",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04285",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04286",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04287",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04288",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04289",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04290",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "poor people should be humble before others in the house",
+  "quote": "Poor people should be humble, and, when entering the house, not walk proudly up to the fire",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04291",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "robberies and burglaries increasing in Egypt",
+  "quote": "",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04292",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04293",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04294",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04295",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04296",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04297",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04298",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04299",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04300",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04301",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04302",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04303",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04304",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "chief promises blankets and gives copper in potlatch exchange",
+  "quote": "Keep in your old ways, Kwakiutl; keep in the ways of your grandfathers, who laid down the custom for you.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04305",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "enduring painful tattooing without flinching or crying out",
+  "quote": "it was considered a great disgrace for the patient to flinch or cry out, and if so he was branded as a coward",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04306",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "husband and wife's family exchange gifts as marital obligations",
+  "quote": "marriage involves a series of mutual obligations between the husband and the wife's family",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04307",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04308",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04309",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04310",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04311",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "daughter must obey her father's wishes",
+  "quote": "let it ever be remembered that she ceased being a goddess because she disobeyed the wishes of her father",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04312",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04313",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04314",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "hereditary ownership of heraldic tipis and shield designs",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04315",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04316",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04317",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04318",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04319",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04320",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04321",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04322",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04323",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04324",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04325",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "clan jointly opposes outsiders' encroachment on its territory",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04326",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "uncle pays compensation rather than surrender kinswoman as slave",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04327",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04328",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04329",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04330",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04331",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "warriors travel far to avenge slain kin on enemies",
+  "quote": "when that kindred duty of retaliation is justly executed",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04332",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04333",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04334",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04335",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04336",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04337",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04338",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "band stands and fights rather than flee overwhelming enemy",
+  "quote": "if they did their relatives in the other world would not receive them",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04339",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04340",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04341",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04342",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04343",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04344",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04345",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04346",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "Seri raid pueblos for robbery and steal cattle",
+  "quote": "",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04347",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04348",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04349",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04350",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04351",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "disputants conceal facts in court to protect tribal customs",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04352",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04353",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04354",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04355",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04356",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "fulfilling a promise of blankets to another tribe",
+  "quote": "he had not fulfil 3d his promise so far, he was much ridiculed",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04357",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04358",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04359",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04360",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04361",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04362",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04363",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "young people never look elders in the face",
+  "quote": "Young people may never look their elders in the face.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04364",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "obedience to custom, parents, lords and rulers",
+  "quote": "filial piety was the basis of social order, and loyalty itself was derived from filial piety",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04365",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "family attends dying man and laments him",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04366",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "Ainu regard hair-cropping prison punishment as unjust",
+  "quote": "To be cast into prison after having had the hair cut has been considered by them as a great injustice",
+  "target": "STRANGER"
+ },
+ {
+  "pid": "W04367",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04368",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "raiders surprised at night flee to their camels",
+  "quote": "",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04369",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "wife's guardian returns dowry when marriage ends",
+  "quote": "recovering the dowry used to afford a frequent pretext for war",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04370",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "stealing from tribesman or keeping lost articles blackens countenance",
+  "quote": "by steal- ing from a fellow tribesman or neighbor",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04371",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04372",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04373",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04374",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04375",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "land claimed by right of ancestors' first cultivation",
+  "quote": "the land was brought under cultivation by my ancestors, the village is ours",
+  "target": "STRANGER"
+ },
+ {
+  "pid": "W04376",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "clans shield thieves from punishment by outside agent",
+  "quote": "",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04377",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04378",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04379",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04380",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04381",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04382",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04383",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04384",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04385",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04386",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04387",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04388",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04389",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04390",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "oppressed Mundas resolve to plunder and loot foreign farmers",
+  "quote": "",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04391",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "son-in-law presents a horse to his mother-in-law",
+  "quote": "This was a creditable thing for him to do, and was an honor to the woman.",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04392",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04393",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04394",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04395",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04396",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04397",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "brotherhood helps headman cultivate fields, help reciprocated",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04398",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04399",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "peasants rebel against authorities over land embezzlement",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04400",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ }
+]

@@ -1,0 +1,67 @@
+--- s1r_analysis_frozen_2026-10-23.py	2026-10-23 18:30:39.291351064 +0400
++++ s1r_analysis.py	2026-10-23 19:47:54.713350119 +0400
+@@ -31,11 +31,13 @@
+ sys.path.insert(0, '/root/analysis/retest'); sys.path.insert(0, '/root/analysis/study1')
+ import s1r_data as D, coxlib
+ ap = argparse.ArgumentParser(); ap.add_argument('--simulate', action='store_true'); ap.add_argument('--M', type=int, default=20)
+-ap.add_argument('--B', type=int, default=9999); args = ap.parse_args()
++ap.add_argument('--B', type=int, default=9999)
++ap.add_argument('--codes_g', default=None); ap.add_argument('--out', default=None)  # post-freeze: rerun with the pre-follow-up codes
++args = ap.parse_args(); NFIX = []
+ M = args.M; OUT = {'simulated': bool(args.simulate), 'M': M}
+ EQ_LO, EQ_HI = 0.90, 1.11
+ 
+-f = D.frame()
++f = D.frame(args.codes_g) if args.codes_g else D.frame()
+ if args.simulate:  # debugging only: outcomes replaced by noise unrelated to any exposure
+     rng = np.random.default_rng(7); f['ev_any'] = rng.binomial(1, 0.5, len(f)).astype(float)
+     f['cause'] = np.where(f.ev_any == 1, rng.choice([1, 2, 3], len(f), p=[.3, .6, .1]), 0)
+@@ -121,6 +123,13 @@
+     # IRLS for the cloglog model is started from the Poisson (piecewise-exponential) estimates; default starts can diverge
+     st = sm.GLM(mod.endog, mod.exog, family=sm.families.Poisson(), offset=mod.offset).fit().params
+     res = mod.fit(start_params=np.asarray(st), cov_type='cluster', cov_kwds={'groups': pd.factorize(d[cluster])[0]})
++    # Post-freeze fix (23 Oct 2026): IRLS can report convergence at a point far below the maximum (draw 8 of H2: log-
++    # likelihood -4375 against -265 at the maximum). Newton from the same start is also fitted; the higher likelihood wins.
++    alt = mod.fit(start_params=np.asarray(st), method='newton', maxiter=300, disp=0, cov_type='cluster', cov_kwds={'groups': pd.factorize(d[cluster])[0]})
++    if np.isfinite(alt.llf) and (not np.isfinite(res.llf) or alt.llf > res.llf + 1e-6):
++        res = alt; NFIX.append(1)
++    else:
++        NFIX.append(0)
+     return mod, res, d
+ 
+ def boot_p(mod, res, term, d, cluster, B):
+@@ -129,7 +138,10 @@
+     X = mod.exog; y = mod.endog; off = mod.offset
+     Xr = np.delete(X, k, axis=1)
+     st = sm.GLM(y, Xr, family=sm.families.Poisson(), offset=off).fit().params
+-    rr = sm.GLM(y, Xr, family=mod.family, offset=off).fit(start_params=np.asarray(st))
++    gr = sm.GLM(y, Xr, family=mod.family, offset=off)
++    rr = gr.fit(start_params=np.asarray(st))
++    alt = gr.fit(start_params=np.asarray(st), method='newton', maxiter=300, disp=0)  # post-freeze fix, as in fit_glm
++    if np.isfinite(alt.llf) and (not np.isfinite(rr.llf) or alt.llf > rr.llf + 1e-6): rr = alt
+     pr = np.insert(rr.params, k, 0.0)
+     return D.wild_score_boot_glm(mod, pr, k, d[cluster].values, B=B, seed=11)[0]
+ 
+@@ -328,5 +340,6 @@
+ inv = all(h < 1 for h in hrs) and all(0.67 <= v['lo90'] and v['hi90'] <= 1.5 for v in R['H7_ratios'].values())
+ dec['H7'] = 'falsified (sign reversal)' if reversal else ('invariance supported' if inv else 'not falsified, not shown')
+ OUT['results'] = R; OUT['p'] = P; OUT['holm'] = holm; OUT['decisions'] = dec
+-json.dump(OUT, open('/root/analysis/retest/' + ('s1r_results_SIMULATED.json' if args.simulate else 's1r_results.json'), 'w'), indent=1, default=float)
++OUT['newton_refits'] = dict(fits=len(NFIX), used_newton=int(sum(NFIX)))
++json.dump(OUT, open('/root/analysis/retest/' + (args.out or ('s1r_results_SIMULATED.json' if args.simulate else 's1r_results.json')), 'w'), indent=1, default=float)
+ print(json.dumps({'sample': OUT['sample'], 'decisions': dec, 'holm': holm}, indent=1, default=float))
+--- s1r_data_frozen_2026-10-23.py	2026-10-23 18:30:39.293097582 +0400
++++ s1r_data.py	2026-10-23 19:47:54.713872818 +0400
+@@ -19,10 +19,10 @@
+ WAR = ['Miltech', 'Iron', 'Cavalry']
+ INTERNAL = {'T1a', 'T1b', 'T1c'}; CONQ = {'T2'}; OTHER = {'T3', 'T4', 'T5'}
+ 
+-def frame():
++def frame(codes_g=None):
+     f = pd.read_csv(A + 'frame/polities_frame.csv')
+     fc = pd.read_csv(A + 'frame/final_codes.csv')[['polity_id', 'Q2', 'Q3', 'end_year']]
+-    g = R + 'term/final_codes_G.csv'
++    g = codes_g or R + 'term/final_codes_G.csv'
+     try:
+         fg = pd.read_csv(g)[['polity_id', 'Q2', 'Q3', 'end_year']]
+         fc = pd.concat([fc, fg[~fg.polity_id.isin(fc.polity_id)]])

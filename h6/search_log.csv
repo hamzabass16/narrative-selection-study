@@ -1,0 +1,100 @@
+step,query_or_source,results_screened,records_kept
+1,"WebSearch: ""story"" ""dictator game"" experiment prosocial",10,5
+1,"WebSearch FU1: story manipulation ""dictator game"" giving randomized narrative altruism",10,2
+1,"WebSearch FU2: ""short story"" ""charitable giving"" OR donation experiment reading prosocial story control",9,3
+1,"WebSearch: narrative exposure ""trust game"" randomized",10,2
+1,"WebSearch FU1: ""trust game"" narrative video oxytocin story generosity strangers",9,1
+1,"WebSearch FU2: ""trust game"" OR ""prisoner's dilemma"" film clip OR story prosocial manipulation experiment cooperation",10,1
+1,"WebSearch: ""prosocial story"" children sharing experiment",10,6
+1,"WebSearch FU1: storybook prosocial children sharing stickers experiment randomized ""control story""",10,1
+1,"WebSearch FU2: ""picture book"" OR storybook children altruism ""dictator game"" stickers story reading effect",9,1
+1,WebSearch FU3: prosocial cartoon OR video children donating stickers experiment story,9,2
+1,"WebSearch: ""moral story"" OR ""moral stories"" experiment children sharing OR honesty",9,2
+1,"WebSearch FU1: ""moral stories"" children sharing stickers experiment altruism",9,1
+1,"WebSearch FU2: ""George Washington and the cherry tree"" OR ""Pinocchio"" story children lying experiment",10,0
+1,"WebSearch FU3: moral story children prosocial behavior randomized ""resource allocation"" OR ""sharing"" fable experiment",9,0
+1,"WebSearch: ""reading"" fiction ""dictator game"" OR ""economic game"" experiment",9,2
+1,"WebSearch FU1: ""literary fiction"" OR ""reading fiction"" experiment ""dictator game"" OR ""trust game"" OR donation behavior",10,1
+1,"WebSearch FU2: reading a story increases generosity experiment ""economic game"" narrative transportation donation",9,2
+1,"WebSearch FU3: fiction reading prosocial behavior experiment ""public goods"" OR ""ultimatum"" OR ""dictator"" story participants randomly assigned",9,1
+1,"WebSearch: scripture OR Bible OR Quran passage experiment ""dictator game"" OR ""public goods""",9,5
+1,"WebSearch FU1: ""Good Samaritan"" parable reading experiment donation OR ""dictator game"" OR helping",10,1
+1,"WebSearch FU2: ""religious text"" OR ""Bible passage"" OR ""scripture"" reading experiment generosity ""trust game"" OR ""dictator game"" OR charity",10,4
+1,"WebSearch FU3: Quran verses OR recitation experiment cooperation OR generosity OR ""public goods"" randomized",9,2
+1,"WebSearch: ""moral suasion"" OR ""moral message"" ""public goods game"" experiment",9,3
+1,"WebSearch FU1: ""moral reminder"" OR ""moral appeal"" ""dictator game"" OR ""public goods"" experiment giving",9,4
+1,"WebSearch FU2: ""Golden Rule"" experiment ""public goods"" OR ""dictator game"" OR ""trust game"" message treatment",9,3
+1,"WebSearch FU3: moral suasion experiment cooperation ""prisoner's dilemma"" OR ""public good"" message normative appeal laboratory",9,2
+1,"WebSearch: narratives prosocial behavior experiment ""positive narratives""",9,1
+1,"WebSearch FU1: Hillenbrand Verrina ""asymmetric effect of narratives"" dictator game selfish prosocial narratives",10,0
+1,"WebSearch FU2: ""narratives"" ""dictator game"" experiment exposure to others' justifications stories giving",9,0
+1,"WebSearch FU3: ""prosocial narrative"" OR ""cooperative narrative"" experiment incentivized giving OR cooperation",9,0
+1,WebSearch: storytelling cooperation experiment hunter-gatherers OR field,9,1
+1,"WebSearch FU1: ""Hearing prosocial stories"" Hadza hunter-gatherers sharing Smith Mabulla Apicella",10,1
+1,"WebSearch FU2: folktale OR ""folk tale"" OR myth experiment cooperation ""economic game"" stories field experiment",9,0
+1,"WebSearch FU3: field experiment stories village ""dictator game"" OR ""public goods"" narrative treatment radio OR film OR soap opera",10,3
+1,"WebSearch: ""transmission chain"" moral OR prosocial OR cooperative content memory",9,2
+1,WebSearch FU1: transmission chain experiment prosocial OR cooperative story recall bias retelling,9,1
+1,"WebSearch FU2: ""transmission chain"" moral norm violation OR ""moral content"" story experiment cultural evolution",10,0
+1,"WebSearch FU3 (extended): transmission chain experiment ""prosocial"" OR ""moral"" OR ""norm"" content bias narratives Berl OR ""content biases"" cultural transmission retelling",9,3
+1,"WebSearch: ""serial reproduction"" social information bias experiment",10,4
+1,"WebSearch FU1: ""transmission chain"" ""social information"" bias gossip Mesoudi Whiten Dunbar experiment",10,2
+1,"WebSearch FU2: ""serial reproduction"" moral OR cooperation OR prosocial story content memory experiment",9,3
+1,"WebSearch FU3: ""serial reproduction"" OR ""transmission chain"" negativity OR ""survival information"" OR ""counterintuitive"" content bias experiment",9,0
+1,"WebSearch: elevation video OR story ""altruistic behavior"" experiment",9,2
+1,"WebSearch FU1: ""moral elevation"" video ""dictator game"" OR donation OR ""charitable giving"" experiment",10,1
+1,"WebSearch FU2: ""prosocial video"" OR ""prosocial media"" ""dictator game"" OR ""economic game"" OR ""public goods"" experiment",9,3
+2,"Reference list: Shariff, Willard, Andersen & Norenzayan (2016) PSPR, UBC PDF (starred references A-Z)",35,17
+2,"Reference list: Coyne et al. (2017/2018) Developmental Psychology prosocial media meta-analysis, BYU PDF, Table 1 experimental rows",60,14
+2,"Reference list: Dal Bo & Dal Bo (2014), Brown working-paper PDF",16,3
+2,"Reference list: Hillenbrand & Verrina (2022), KIT PDF (reference list truncated in extraction; intro/related literature used)",17,0
+2,"Reference list: Smith, Mabulla & Apicella (2023) Human Nature, Springer page (reference list visible, full text paywalled)",60,9
+2,NOT COMPLETED - Reference list: Dodell-Feder & Tamir (2018) fiction and social cognition meta-analysis (no open copy surfaced before WebSearch budget of 200 calls/turn was exhausted; constructed URLs blocked),0,0
+2,"Further meta-analyses/reviews found in Step 1: Saleam & Moustafa (2016) Frontiers review of religious prosociality (opened); Ruberto (2024) JBEP religion-DG meta-analysis (opened, not narrative/media, list not extracted)",9,3
+2,"Extra: reference list of Kruse, Faller & Read (2020), Springer page",40,0
+2,"Extra: residual unfetched Step 1 result URLs re-screened via WebFetch (author pages, repositories, press pages)",38,6
+3,"NOT COMPLETED - Forward citations via Semantic Scholar/Google Scholar for Smith et al. 2023, Hillenbrand & Verrina 2022, Dal Bo & Dal Bo 2014, Larsen et al. 2018, Lee et al. 2014 (Semantic Scholar API fetch blocked: URL approval timed out; Google Scholar not attempted because WebSearch budget was exhausted and search-engine workarounds are not permitted)",0,0
+4,NOT COMPLETED - OSF Preprints and PsyArXiv searches for story OR narrative x dictator / trust game / public goods / sharing (WebSearch budget exhausted; OSF pages render only via JavaScript and search-API URLs would be blocked),0,0
+2,"STEP 2 (completes the NOT COMPLETED row): WebSearch: ""Fiction reading has a small positive impact on social cognition"" Dodell-Feder Tamir pdf OR osf",9,1
+2,"STEP 2: Reference list: Dodell-Feder & Tamir (2018) JEP:General, author in-press PDF on the Rochester lab site (asterisked references and Table 2; 14 included studies, only Koopman 2015 has a behavioural outcome)",14,1
+2,"STEP 2: Reference list: Dodell-Feder & Tamir (2018) via OpenAlex referenced works of W2790371811 (62 indexed references, screened for narrative studies with behavioural outcomes; Johnson 2012 = S082; Koopman 2015 counted above; EUR repository page for Koopman BLOCKED, ScienceDirect robots-disallowed)",62,1
+2,"STEP 2 extra: Reference list of Ciesielska, Kucirkova & Thomson (2025) storybook-reading and empathy-skills meta-analysis, Early Education and Development, open White Rose PDF (found during the S007 full-text search; Kruse 2020 = S007, Russell & Cain 2022 = S120)",20,1
+3,"STEP 3 (completes the NOT COMPLETED row): Forward citations of Smith, Mabulla & Apicella 2023 via OpenAlex cites:W4321748682",6,1
+3,STEP 3: Forward citations of Hillenbrand & Verrina 2022 via OpenAlex cites:W4292327994 (abstracts via OpenAlex; SSRN 6264558 and repec.econ.muni.cz WP 2024-06 BLOCKED),20,7
+3,"STEP 3: Forward citations of Dal Bo & Dal Bo 2014 (journal version) via OpenAlex cites:W2013218718, 2 pages (Elsevier abstracts absent from OpenAlex; air.unimi.it, econstor.eu and an IDEAS page BLOCKED)",155,14
+3,STEP 3: Forward citations of Dal Bo & Dal Bo working-paper versions via OpenAlex cites:W3124179595 (7) and cites:W3025318802 (9),16,0
+3,"STEP 3: Forward citations of Larsen, Lee & Ganea 2018 via OpenAlex cites:W2741928096, 2 pages",138,11
+3,"STEP 3: Forward citations of Lee et al. 2014 via OpenAlex cites:W2140462348, 2 pages (Du & Hao 2018 counted under the Ciesielska row)",165,11
+3,"STEP 3 screening: WebSearch: ""cooperative and uncooperative narratives"" trust COVID-19 Galdikiene Jaraite Kajackaite experiment (IDEAS abstract and Mendeley Data page read)",9,0
+3,"STEP 3 supplementary forward-citation search (Smith et al. 2023): WebSearch: ""prosocial stories"" OR ""prosocial story"" experiment generosity ""economic game"" OR ""dictator game"" 2024 OR 2025 Smith Apicella Hadza cited (philpapers.org fetch failed)",10,1
+3,"STEP 3 screening: WebSearch: Du Hao 2018 ""Moral stories emphasizing actors' negative emotions toward their nonhelping behavior"" preschoolers donating",10,0
+3,"STEP 3 screening: WebSearch: Rottman Zizik Minard Young Blake Kelemen ""The moral, or the story?"" (author PDF opened)",9,0
+3,"STEP 3 screening: WebSearch: Grodeck Schoenegger ""Demanding the morally demanding"" (EA Forum summary read)",10,1
+3,"STEP 3 screening: WebSearch: Russell Cain ""The animals in moral tales"" (Lancaster portal link redirected to its homepage)",9,0
+3,"STEP 3 screening: WebSearch: ""Social Media and Adolescents' Prosocial Behavior"" short videos PRBM 2024 (DOAJ record read)",9,0
+3,"STEP 3 note: further meta-analyses seen in the citation lists, reference lists NOT read: Behavioral impact of moral appeals (2026, OpenAlex W7155548388); shared book-reading and social-emotional competence (2026, W7160019961); values and moral education interventions in preschool (2026, W7213409421)",3,0
+3,STEP 3 NOT ATTEMPTED: Google Scholar and Semantic Scholar cited-by pages (OpenAlex used instead; the Semantic Scholar API approval timed out in the earlier run and constructed Google Scholar URLs are not fetchable),0,0
+4,"STEP 4 (completes the NOT COMPLETED row): WebSearch: site:osf.io story OR narrative ""dictator game"" experiment (osf.io/dsuqa and osf.io/xc73h render only via JavaScript and could not be screened; api.osf.io BLOCKED)",9,0
+4,"STEP 4: WebSearch: psyarxiv preprint story OR narrative ""trust game"" experiment",9,0
+4,"STEP 4: WebSearch: site:osf.io OR site:psyarxiv.com story OR narrative ""public goods game"" experiment preprint",10,1
+4,"STEP 4: WebSearch: psyarxiv OR ""osf.io/preprints"" storybook OR story children sharing stickers experiment preprint prosocial",9,0
+4,"STEP 4: OpenAlex OSF Preprints source S4306401127 (includes PsyArXiv): search=(story OR stories OR narrative OR narratives) AND ""dictator game"", 2 pages (full-text matching)",60,1
+4,"STEP 4: OpenAlex OSF Preprints: (story OR stories OR narrative OR narratives) AND ""trust game""",32,0
+4,"STEP 4: OpenAlex OSF Preprints: (story OR stories OR narrative OR narratives) AND ""public goods"" (page 1 of 177, relevance-ranked)",50,0
+4,"STEP 4: OpenAlex OSF Preprints: (story OR stories OR narrative OR narratives) AND ""public goods game""",27,0
+4,STEP 4: OpenAlex OSF Preprints: title_and_abstract.search story sharing children (the boolean 'sharing' query twice returned a stale cached response and was replaced by this form),31,0
+4,STEP 4: OpenAlex OSF Preprints: title_and_abstract.search story prosocial,12,0
+4,STEP 4: OpenAlex OSF Preprints: title_and_abstract.search narrative cooperation experiment,2,0
+4,"STEP 4 screening: WebSearch: ""Cli-fi videos can increase charitable donations"" experimental evidence UK (LSE record and Frontiers PDF opened)",9,0
+FT,"FULL-TEXT search S051 (Larsen 2018): WebSearch title + pdf; OpenAlex: closed, no repository copy; none found",10,0
+FT,FULL-TEXT search S006 (Kotaman 2025): WebSearch; Bayburt repository closedAccess; avesis record has no file; none found,10,0
+FT,FULL-TEXT search S007 (Kruse 2020): WebSearch; SCU Scholar Commons links to the publisher only; Springer page shows no OA badge; none found,9,1
+FT,FULL-TEXT search S008 (Kotaman & Balci 2026): WebSearch; avesis records have no file; Ondokuz Mayis record for Balci 2024 closedAccess; none found,9,0
+FT,"FULL-TEXT search S014 (Ferro & Guerra): WebSearch; AEA registry only (Aug 2026 revision: participant-level randomization, trial end Nov 2026); no paper",9,1
+FT,FULL-TEXT search S045 (Sakai 2023): WebSearch; PMC10115303 opened (CC BY) -> accessible Y,9,0
+FT,"FULL-TEXT search S050 (Smith 2023): OpenAlex lists PsyArXiv preprint 10.31234/osf.io/7aszx; WebSearch; osf.io pages JavaScript-only, PMC result captcha -> located, not opened",10,0
+FT,FULL-TEXT search S052 (Schwitzgebel 2022): WebSearch; author abstract page -> author final manuscript PDF opened -> accessible Y,10,0
+FT,"FULL-TEXT search S054 (Rand 2014): WebSearch; author-site PDF on daverand.squarespace.com BLOCKED (permission timeout); ACU repository controlled access -> located, not opened",9,0
+FT,"FULL-TEXT search S064 (de Leeuw 2015): WebSearch; Dutch-language OA report of the same experiment (Tijdschrift voor Communicatiewetenschap 42(4), 2014) on aup-online.com, PDF not opened; PMC result for Kleemans 2017 captcha",10,1
+FT,FULL-TEXT search S065 (Teachman & Orme 1981): WebSearch; none found,9,0
+FT,FULL-TEXT search S081 (Rathje 2021): WebSearch; no open copy; PsyPost summary read for design,9,0

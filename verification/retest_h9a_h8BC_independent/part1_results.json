@@ -1,0 +1,423 @@
+{
+ "n_passages": 5172,
+ "n_societies": 53,
+ "n_families": 42,
+ "n_both_coded": 1034,
+ "relevance_agreement": 969,
+ "alpha_relevance": 0.8365803195778857,
+ "alpha_valence": 0.8303056816686591,
+ "first_coder_neg": 26,
+ "final_neg_including_disputed": 25,
+ "total_final_neg_all_passages": 25,
+ "overturned": [
+  "W01848"
+ ],
+ "disputed": [],
+ "neg_review": [
+  {
+   "pid": "W00429",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W00539",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W01154",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W01173",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W01550",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "D",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W01659",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "D",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W01743",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W01790",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "D",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W01848",
+   "codes": [
+    "NEG",
+    "NONE",
+    "NONE"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NONE"
+  },
+  {
+   "pid": "W01887",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W02094",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W02613",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W03022",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W03099",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W03194",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W03375",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W03411",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W03474",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W03688",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W03896",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "D",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W03939",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W03991",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W04027",
+   "codes": [
+    "NEG",
+    "NA",
+    "NEG"
+   ],
+   "second_source": "D",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W04085",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W04124",
+   "codes": [
+    "NEG",
+    "NA",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  },
+  {
+   "pid": "W05140",
+   "codes": [
+    "NEG",
+    "NEG",
+    "NEG"
+   ],
+   "second_source": "N2",
+   "missing_second": false,
+   "missing_third": false,
+   "final": "NEG"
+  }
+ ],
+ "domain_table": {
+  "Deference": {
+   "POS": 116,
+   "NEG": 5,
+   "raw_share": 0.04132231404958678,
+   "weighted_share": 0.031914893617021274,
+   "falsified": false
+  },
+  "Fairness": {
+   "POS": 17,
+   "NEG": 1,
+   "raw_share": 0.05555555555555555,
+   "weighted_share": 0.037037037037037035,
+   "falsified": false
+  },
+  "Family": {
+   "POS": 169,
+   "NEG": 6,
+   "raw_share": 0.03428571428571429,
+   "weighted_share": 0.03474903474903475,
+   "falsified": false
+  },
+  "Group": {
+   "POS": 154,
+   "NEG": 0,
+   "raw_share": 0.0,
+   "weighted_share": 0.0,
+   "falsified": false
+  },
+  "Heroism": {
+   "POS": 140,
+   "NEG": 1,
+   "raw_share": 0.0070921985815602835,
+   "weighted_share": 0.004629629629629629,
+   "falsified": false
+  },
+  "Property": {
+   "POS": 171,
+   "NEG": 8,
+   "raw_share": 0.0446927374301676,
+   "weighted_share": 0.05172413793103448,
+   "falsified": true
+  },
+  "Reciprocity": {
+   "POS": 77,
+   "NEG": 4,
+   "raw_share": 0.04938271604938271,
+   "weighted_share": 0.03389830508474576,
+   "falsified": false
+  }
+ },
+ "property_by_target": {
+  "ENEMY": {
+   "POS": 2,
+   "NEG": 4
+  },
+  "GROUP": {
+   "POS": 90,
+   "NEG": 1
+  },
+  "KIN": {
+   "POS": 12,
+   "NEG": 0
+  },
+  "STRANGER": {
+   "POS": 9,
+   "NEG": 0
+  },
+  "UNCLEAR": {
+   "POS": 58,
+   "NEG": 3
+  }
+ },
+ "checks": {
+  "duplicate_pids_pass1": [],
+  "duplicate_pids_D": [],
+  "duplicate_pids_N2": [],
+  "duplicate_pids_N3": [],
+  "passages_without_pass1": [],
+  "relevance_values": {
+   "Y": 1366,
+   "N": 3806
+  },
+  "valence_values": {
+   "POS": 844,
+   "NA": 3806,
+   "NONE": 496,
+   "NEG": 26
+  },
+  "societies_without_family": [],
+  "sample_pids_not_in_D": [],
+  "D_pids_not_in_sample": []
+ }
+}

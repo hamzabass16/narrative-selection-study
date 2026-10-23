@@ -1,0 +1,52 @@
+{
+ "reliability_double": {
+  "n_double": 487,
+  "score_interval": 0.8654103977357366,
+  "sign_ordinal": 0.8695659095843594,
+  "any_act": 0.9212952976704055,
+  "family_presence": 0.9567074527252503,
+  "family_sign": 0.8241761312982182,
+  "family_n_acts_coder1": 36,
+  "group_presence": 0.8292982456140351,
+  "group_sign": 0.8887726817021253,
+  "group_n_acts_coder1": 12,
+  "reciprocity_presence": 0.9111518302296843,
+  "reciprocity_sign": 0.8946089376601443,
+  "reciprocity_n_acts_coder1": 111,
+  "bravery_presence": 0.8279216185625353,
+  "bravery_sign": 0.7799116162489811,
+  "bravery_n_acts_coder1": 31,
+  "deference_presence": 0.9265327695560254,
+  "deference_sign": 0.9557004401027378,
+  "deference_n_acts_coder1": 15,
+  "fairness_presence": 0.7970802919708029,
+  "fairness_sign": 0.7682732307430417,
+  "fairness_n_acts_coder1": 7,
+  "property_presence": 0.9330028231081733,
+  "property_sign": 0.9191423398747457,
+  "property_n_acts_coder1": 23,
+  "trick_class": 0.8691858713137972
+ },
+ "human_check": {
+  "n_motifs": 281,
+  "agree_with_human_majority": 0.5765124555160143,
+  "alpha_ai_vs_majority": 0.42489296267261656,
+  "ai_class_counts": {
+   "success": 93,
+   "no": 85,
+   "unclear": 59,
+   "notsuccess": 44
+  },
+  "human_majority_counts": {
+   "success": 102,
+   "notsuccess": 78,
+   "no": 57,
+   "unclear": 44
+  },
+  "agree_on_outcome_when_both_code_outcome": 0.8760330578512396,
+  "n_both_outcome": 121,
+  "human_pairwise_agreement": 0.47718706727027893,
+  "human_fleiss_kappa": 0.28928136825561523,
+  "ai_agreement_with_random_worker": 0.48796895146369934
+ }
+}

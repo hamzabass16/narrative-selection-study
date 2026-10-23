@@ -1,0 +1,38 @@
+"""Protocol Section 16: results of the retest (23 October 2026). Inserted before References. Styles: H2, H3, P."""
+S = []
+def H2(x): S.append((x, 'HEADING_2', None))
+def H3(x): S.append((x, 'HEADING_3', None))
+def P(x, lab=None): S.append((x, 'NORMAL_TEXT', lab))
+
+H2("16. Results of the retest (23 October 2026)")
+P("The retest follows the plan approved by the author on 23 October 2026 ('Retest Plan (approved)', frozen copy in Drive), with the deviations D24 to D37 in Section 12. All results are exploratory. Study 1 p-values are Holm-corrected across H1, H2, H3, H4a, H4b*, H5 and H7; none is below 0.05 after correction (all adjusted p = 1). Two independent agents re-derived the main numbers of Study 1, H8 and H9a with their own code, and all reproduced (D37).")
+
+H3("16.1 Study 1: ideology content and endurance (H1 to H5, H7)")
+P("Sample. 221 polities with the Equinox ideology index (EPI) and a known ending, in 34 regions; 117 endings (42 internal collapses, 70 conquests, 4 other, 1 of unknown type). 81 have no scored scriptural tradition. EPI mean 0.42, SD 0.41. Discrete-time complementary log-log hazard on polity-centuries with region fixed effects, age and era terms; 20 sampling and imputation draws; wild cluster score bootstrap over regions (9,999 draws).")
+P("H1: HR 1.03 per SD [0.72, 1.47], 90 percent [0.76, 1.39], bootstrap p = 0.87; within religious traditions 0.94 [0.71, 1.26]; without region effects 1.18 [0.90, 1.56] on 34 regions and 1.31 [1.01, 1.71] on the 30 regions of the main model; Cox stratified by region 1.25 [0.95, 1.64]. Inconclusive.", "H1:")
+P("H2 (controls lagged one century: agriculture, military technology, iron, cavalry, population, territory, capital size, complexity, writing): HR 1.18 [0.77, 1.81], p = 0.46. Inconclusive. Within-polity variation: population in 36 percent of polities, territory 56 percent, complexity 70 percent.", "H2")
+P("H3: EPI to next-century complexity -0.008 SD [-0.047, 0.032]; complexity to next-century EPI -0.004 SD [-0.120, 0.111]. Inconclusive. Event study (10 regions): no pre-trend; complexity 0.4 to 0.7 SD higher in most centuries from the one in which EPI first reaches 2/3.", "H3:")
+P("H4a: within regions, internal collapse HR 1.11 [0.51, 2.44], conquest 1.31 [0.71, 2.40]. Inconclusive. Fine-Gray between regions: internal collapse 0.78 [0.61, 0.99], conquest 1.41 [1.14, 1.74].", "H4a:")
+P("H4b*: survival of 109 crises OR 1.12 [0.74, 1.71] (90 percent [0.79, 1.60]); severity 1.04 [0.88, 1.24]; reform 0.99 [0.62, 1.56]; ruler removed 1.40 [0.88, 2.22]. Inconclusive.", "H4b*:")
+P("H5: EPI with the vessel codes HR 1.22 [0.80, 1.87]; vessel codes jointly p = 0.46. Estimate only (no content effect in H2).", "H5:")
+P("H7: era HRs 0.99 [0.51, 1.92], 1.22 [0.73, 2.01], 1.18 [0.52, 2.72]; interaction p = 0.84; between-era ratio intervals 0.37 to 2.23, outside the 0.67 to 1.5 band. Not falsified, not shown.", "H7:")
+
+H3("16.2 H6: published experiments")
+P("Search (retest plan and h6_protocol.md, Steps 1 to 4 complete): 148 records recorded at screening; strata P 24, N 26, R 19, H 13, D 11, T 1, excluded 54. Extraction (two extractors, all agreed; verifier on S045 and S129, no numerical error): 5 usable P effects. S045 dropped because the sign of its interaction F is not stated; S052, S053 and S054 not convertible; 14 inaccessible; S014 has no results yet. Pooled (REML, robust variance by study): g = 0.74 [0.09, 1.39], p = 0.03, tau squared 0.23. PEESE: 1.48 [-0.13, 3.08] (90 percent [0.29, 2.66]). Preregistered studies: none. Selection model: not fitted (fewer than 8 effects). Decision: inconclusive. All five samples are children or adolescents and all narratives are modern; moderator analyses are not informative.")
+
+H3("16.3 H8: ruler conduct")
+P("Part A (Seshat, premodern). Executive constraint, 87 polities: all endings HR 1.11 (p = 0.47), internal collapse 0.93 (p = 0.78), irregular successions OR 1.02. Ruler equality in ideology, 215 polities: internal-collapse sub-hazard 0.68 [0.47, 1.00]; irregular successions OR 1.24 [1.03, 1.50] (58 against 45 percent between the top and bottom quarters); shorter tenures (b = -0.13, p = 0.015).", "Part A")
+P("Part B (V-Dem, lagged exposure). Violent internal end against orderly end: 10-year lag OR 0.65 [0.48, 0.87], 373 regimes, 30 against 53 percent; 20-year lag 0.42 [0.25, 0.71]; unlagged 0.75 [0.63, 0.89]. Country fixed effects (conditional logit): 0.91 [0.59, 1.40] at 10 years, 0.91 [0.74, 1.13] unlagged. External ends: 0.54 [0.35, 0.82] at 10 years. The pre-set component 'violent-end prediction holds with lagged exposure' is met.", "Part B")
+P("Part C (Archigos 4.1, 2,020 leaders, 164 countries). Irregular exit OR 0.53 [0.44, 0.64] (11 against 51 percent); removal by foreign force 0.37 [0.24, 0.56]; exile, imprisonment or death 0.58 [0.48, 0.69] (15 against 54 percent). Part D not run (D33).", "Part C")
+
+H3("16.4 H9a: the seven cooperative behaviours")
+P("53 societies, 42 language families, 5,172 passages, 1,366 relevant, 869 stated judgements. Double-coded 20 percent (1,034): alpha 0.84 (relevance), 0.83 (valence), 0.92 (valence when both coders found the passage relevant). All 26 first-coder negatives coded three times: 25 confirmed, 1 overturned. Family-weighted share judged bad: group loyalty 0 (154 judgements), bravery 0.005 (141), deference 0.032 (121), reciprocity 0.034 (81), helping kin 0.035 (175), fair division 0.037 (18), respect for property 0.052 [0.008, 0.107] (179). Decision: falsified for respect for property; not falsified for the other six. Property by target: own group 1 of 91 judgements bad, kin 0 of 12, strangers 0 of 9, enemies 4 of 6, unclear 3 of 61. Post hoc: reciprocity without revenge passages 0.047 (D31).")
+
+H3("16.5 H9b: moralizing high gods on dated trees")
+P("D for moralizing high god: Austronesian 0.09 (47 tips), Bantu 0.29 (63), Indo-European 0.05 (31); for political hierarchy 0.83, 0.93, 1.03. Pagel's correlated-evolution test: LR 3.52, 1.74 and 2.72; pooled LR 7.98, df 12, p = 0.79. Descent supported; dependence on hierarchy not shown.")
+
+H3("16.6 Study 2 and H10: folklore endorsement")
+P("2,436 motifs coded; 35 percent show an act; motif-score alpha 0.87 on 487 double-coded motifs; agreement with MTurk workers 0.49 (workers with each other 0.48). Country trust (104 countries, continent effects): 0.020 SD [-0.125, 0.164] (90 percent), p = 0.82. Second-generation immigrants (6,558): 0.014 SD [-0.005, 0.034] (90 percent), p = 0.22. Holm p 0.82 and 0.45: inconclusive. Political scale -0.008 SD (p = 0.78). Language endangerment OR 1.18 [0.96, 1.43]. Trickster positive control: 0.28 SD across countries, 0.031 SD among immigrants (p = 0.008). H10: breadth in language families IRR 0.90 [0.81, 1.01], continents 0.93 [0.87, 0.99]; retention on dated trees, pooled coefficient on log loss rate -0.19 (SE 0.20, p = 0.33). Inconclusive.")
+
+H3("16.7 Interpretation")
+P("With a polity-level, human-coded content measure, more than ten times the independent units of the first run and region fixed effects, ideology content does not predict how long polities last, how they end, or whether they recover from crises. A strong protective effect is unlikely; small effects remain possible, and the codes may carry hindsight. Conduct predicts how modern regimes and leaders end, and the lagged and leader-level tests answer the hindsight objection, but not the objection that cooperative rule tracks stable country traits. The convergence claims hold in their in-group form: cooperative behaviours are approved almost everywhere they are judged, with property respected inside the group and not at its edge, and belief in moralizing gods is inherited along language lineages.")

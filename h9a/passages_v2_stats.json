@@ -1,0 +1,1645 @@
+{
+ "Abipon": {
+  "paragraphs": 232,
+  "Family": [
+   9,
+   9
+  ],
+  "Group": [
+   4,
+   4
+  ],
+  "Reciprocity": [
+   3,
+   3
+  ],
+  "Heroism": [
+   20,
+   20
+  ],
+  "Deference": [
+   14,
+   14
+  ],
+  "Fairness": [
+   4,
+   4
+  ],
+  "Property": [
+   7,
+   7
+  ]
+ },
+ "Ainu": {
+  "paragraphs": 1256,
+  "Family": [
+   70,
+   30
+  ],
+  "Group": [
+   20,
+   20
+  ],
+  "Reciprocity": [
+   14,
+   14
+  ],
+  "Heroism": [
+   44,
+   30
+  ],
+  "Deference": [
+   29,
+   29
+  ],
+  "Fairness": [
+   5,
+   5
+  ],
+  "Property": [
+   22,
+   22
+  ]
+ },
+ "Angami_Naga": {
+  "paragraphs": 1065,
+  "Family": [
+   48,
+   30
+  ],
+  "Group": [
+   46,
+   30
+  ],
+  "Reciprocity": [
+   4,
+   4
+  ],
+  "Heroism": [
+   18,
+   18
+  ],
+  "Deference": [
+   9,
+   9
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   19,
+   19
+  ]
+ },
+ "Baffin_Island_and_Hudson_Bay_Inuit_Central_Eskimo": {
+  "paragraphs": 725,
+  "Family": [
+   16,
+   16
+  ],
+  "Group": [
+   8,
+   8
+  ],
+  "Reciprocity": [
+   6,
+   6
+  ],
+  "Heroism": [
+   12,
+   12
+  ],
+  "Deference": [
+   1,
+   1
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   2,
+   2
+  ]
+ },
+ "Bering_Strait_Eskimo": {
+  "paragraphs": 2005,
+  "Family": [
+   18,
+   18
+  ],
+  "Group": [
+   4,
+   4
+  ],
+  "Reciprocity": [
+   3,
+   3
+  ],
+  "Heroism": [
+   36,
+   30
+  ],
+  "Deference": [
+   7,
+   7
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   9,
+   9
+  ]
+ },
+ "Birhor": {
+  "paragraphs": 787,
+  "Family": [
+   45,
+   30
+  ],
+  "Group": [
+   26,
+   26
+  ],
+  "Reciprocity": [
+   7,
+   7
+  ],
+  "Heroism": [
+   4,
+   4
+  ],
+  "Deference": [
+   4,
+   4
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   7,
+   7
+  ]
+ },
+ "Bontoc_Igorot": {
+  "paragraphs": 879,
+  "Family": [
+   15,
+   15
+  ],
+  "Group": [
+   4,
+   4
+  ],
+  "Reciprocity": [
+   3,
+   3
+  ],
+  "Heroism": [
+   11,
+   11
+  ],
+  "Deference": [
+   2,
+   2
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   6,
+   6
+  ]
+ },
+ "Cheyenne": {
+  "paragraphs": 2473,
+  "Family": [
+   36,
+   30
+  ],
+  "Group": [
+   35,
+   30
+  ],
+  "Reciprocity": [
+   12,
+   12
+  ],
+  "Heroism": [
+   52,
+   30
+  ],
+  "Deference": [
+   12,
+   12
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   20,
+   20
+  ]
+ },
+ "Chickasaw": {
+  "paragraphs": 375,
+  "Family": [
+   24,
+   24
+  ],
+  "Group": [
+   18,
+   18
+  ],
+  "Reciprocity": [
+   5,
+   5
+  ],
+  "Heroism": [
+   28,
+   28
+  ],
+  "Deference": [
+   3,
+   3
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   3,
+   3
+  ]
+ },
+ "Creek": {
+  "paragraphs": 913,
+  "Family": [
+   67,
+   30
+  ],
+  "Group": [
+   62,
+   30
+  ],
+  "Reciprocity": [
+   10,
+   10
+  ],
+  "Heroism": [
+   42,
+   30
+  ],
+  "Deference": [
+   18,
+   18
+  ],
+  "Fairness": [
+   4,
+   4
+  ],
+  "Property": [
+   18,
+   18
+  ]
+ },
+ "Egyptians_urban_Cairo": {
+  "paragraphs": 768,
+  "Family": [
+   58,
+   30
+  ],
+  "Group": [
+   25,
+   25
+  ],
+  "Reciprocity": [
+   37,
+   30
+  ],
+  "Heroism": [
+   68,
+   30
+  ],
+  "Deference": [
+   52,
+   30
+  ],
+  "Fairness": [
+   4,
+   4
+  ],
+  "Property": [
+   28,
+   28
+  ]
+ },
+ "Euahlayi": {
+  "paragraphs": 435,
+  "Family": [
+   14,
+   14
+  ],
+  "Group": [
+   10,
+   10
+  ],
+  "Reciprocity": [
+   1,
+   1
+  ],
+  "Heroism": [
+   5,
+   5
+  ],
+  "Deference": [
+   5,
+   5
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   2,
+   2
+  ]
+ },
+ "Haida": {
+  "paragraphs": 437,
+  "Family": [
+   23,
+   23
+  ],
+  "Group": [
+   22,
+   22
+  ],
+  "Reciprocity": [
+   4,
+   4
+  ],
+  "Heroism": [
+   19,
+   19
+  ],
+  "Deference": [
+   7,
+   7
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   10,
+   10
+  ]
+ },
+ "Hupa": {
+  "paragraphs": 267,
+  "Family": [
+   14,
+   14
+  ],
+  "Group": [
+   6,
+   6
+  ],
+  "Reciprocity": [
+   3,
+   3
+  ],
+  "Heroism": [
+   10,
+   10
+  ],
+  "Deference": [
+   1,
+   1
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   2,
+   2
+  ]
+ },
+ "Ila": {
+  "paragraphs": 2108,
+  "Family": [
+   102,
+   30
+  ],
+  "Group": [
+   64,
+   30
+  ],
+  "Reciprocity": [
+   29,
+   29
+  ],
+  "Heroism": [
+   66,
+   30
+  ],
+  "Deference": [
+   39,
+   30
+  ],
+  "Fairness": [
+   4,
+   4
+  ],
+  "Property": [
+   46,
+   30
+  ]
+ },
+ "Japanese": {
+  "paragraphs": 387,
+  "Family": [
+   92,
+   30
+  ],
+  "Group": [
+   60,
+   30
+  ],
+  "Reciprocity": [
+   24,
+   24
+  ],
+  "Heroism": [
+   50,
+   30
+  ],
+  "Deference": [
+   64,
+   30
+  ],
+  "Fairness": [
+   9,
+   9
+  ],
+  "Property": [
+   14,
+   14
+  ]
+ },
+ "Jivaro": {
+  "paragraphs": 308,
+  "Family": [
+   14,
+   14
+  ],
+  "Group": [
+   10,
+   10
+  ],
+  "Reciprocity": [
+   16,
+   16
+  ],
+  "Heroism": [
+   10,
+   10
+  ],
+  "Deference": [
+   4,
+   4
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   1,
+   1
+  ]
+ },
+ "Khoikhoi_Nama": {
+  "paragraphs": 402,
+  "Family": [
+   16,
+   16
+  ],
+  "Group": [
+   13,
+   13
+  ],
+  "Reciprocity": [
+   6,
+   6
+  ],
+  "Heroism": [
+   13,
+   13
+  ],
+  "Deference": [
+   8,
+   8
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   3,
+   3
+  ]
+ },
+ "Kiowa": {
+  "paragraphs": 877,
+  "Family": [
+   22,
+   22
+  ],
+  "Group": [
+   48,
+   30
+  ],
+  "Reciprocity": [
+   18,
+   18
+  ],
+  "Heroism": [
+   33,
+   30
+  ],
+  "Deference": [
+   14,
+   14
+  ],
+  "Fairness": [
+   3,
+   3
+  ],
+  "Property": [
+   21,
+   21
+  ]
+ },
+ "Kwakiutl": {
+  "paragraphs": 1007,
+  "Family": [
+   25,
+   25
+  ],
+  "Group": [
+   20,
+   20
+  ],
+  "Reciprocity": [
+   3,
+   3
+  ],
+  "Heroism": [
+   21,
+   21
+  ],
+  "Deference": [
+   0,
+   0
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   10,
+   10
+  ]
+ },
+ "Lango": {
+  "paragraphs": 1073,
+  "Family": [
+   83,
+   30
+  ],
+  "Group": [
+   51,
+   30
+  ],
+  "Reciprocity": [
+   13,
+   13
+  ],
+  "Heroism": [
+   18,
+   18
+  ],
+  "Deference": [
+   12,
+   12
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   31,
+   30
+  ]
+ },
+ "Lengua": {
+  "paragraphs": 982,
+  "Family": [
+   24,
+   24
+  ],
+  "Group": [
+   19,
+   19
+  ],
+  "Reciprocity": [
+   10,
+   10
+  ],
+  "Heroism": [
+   20,
+   20
+  ],
+  "Deference": [
+   13,
+   13
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   11,
+   11
+  ]
+ },
+ "Lushei": {
+  "paragraphs": 605,
+  "Family": [
+   39,
+   30
+  ],
+  "Group": [
+   29,
+   29
+  ],
+  "Reciprocity": [
+   6,
+   6
+  ],
+  "Heroism": [
+   8,
+   8
+  ],
+  "Deference": [
+   11,
+   11
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   21,
+   21
+  ]
+ },
+ "Mafulu": {
+  "paragraphs": 730,
+  "Family": [
+   20,
+   20
+  ],
+  "Group": [
+   20,
+   20
+  ],
+  "Reciprocity": [
+   4,
+   4
+  ],
+  "Heroism": [
+   6,
+   6
+  ],
+  "Deference": [
+   3,
+   3
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   7,
+   7
+  ]
+ },
+ "Mailu": {
+  "paragraphs": 667,
+  "Family": [
+   42,
+   30
+  ],
+  "Group": [
+   37,
+   30
+  ],
+  "Reciprocity": [
+   9,
+   9
+  ],
+  "Heroism": [
+   13,
+   13
+  ],
+  "Deference": [
+   7,
+   7
+  ],
+  "Fairness": [
+   7,
+   7
+  ],
+  "Property": [
+   22,
+   22
+  ]
+ },
+ "Menomini": {
+  "paragraphs": 1280,
+  "Family": [
+   31,
+   30
+  ],
+  "Group": [
+   16,
+   16
+  ],
+  "Reciprocity": [
+   7,
+   7
+  ],
+  "Heroism": [
+   25,
+   25
+  ],
+  "Deference": [
+   8,
+   8
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   5,
+   5
+  ]
+ },
+ "Meriam_Eastern_Torres_Strait_Islanders": {
+  "paragraphs": 1366,
+  "Family": [
+   30,
+   30
+  ],
+  "Group": [
+   10,
+   10
+  ],
+  "Reciprocity": [
+   5,
+   5
+  ],
+  "Heroism": [
+   16,
+   16
+  ],
+  "Deference": [
+   5,
+   5
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   7,
+   7
+  ]
+ },
+ "Mongols_eastern_and_southern": {
+  "paragraphs": 766,
+  "Family": [
+   14,
+   14
+  ],
+  "Group": [
+   18,
+   18
+  ],
+  "Reciprocity": [
+   12,
+   12
+  ],
+  "Heroism": [
+   43,
+   30
+  ],
+  "Deference": [
+   17,
+   17
+  ],
+  "Fairness": [
+   4,
+   4
+  ],
+  "Property": [
+   23,
+   23
+  ]
+ },
+ "Munda": {
+  "paragraphs": 1034,
+  "Family": [
+   32,
+   30
+  ],
+  "Group": [
+   22,
+   22
+  ],
+  "Reciprocity": [
+   13,
+   13
+  ],
+  "Heroism": [
+   18,
+   18
+  ],
+  "Deference": [
+   19,
+   19
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   24,
+   24
+  ]
+ },
+ "Nandi": {
+  "paragraphs": 579,
+  "Family": [
+   20,
+   20
+  ],
+  "Group": [
+   13,
+   13
+  ],
+  "Reciprocity": [
+   4,
+   4
+  ],
+  "Heroism": [
+   5,
+   5
+  ],
+  "Deference": [
+   3,
+   3
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   4,
+   4
+  ]
+ },
+ "Natchez": {
+  "paragraphs": 1396,
+  "Family": [
+   51,
+   30
+  ],
+  "Group": [
+   31,
+   30
+  ],
+  "Reciprocity": [
+   20,
+   20
+  ],
+  "Heroism": [
+   70,
+   30
+  ],
+  "Deference": [
+   30,
+   30
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   7,
+   7
+  ]
+ },
+ "Northern_Maidu": {
+  "paragraphs": 490,
+  "Family": [
+   7,
+   7
+  ],
+  "Group": [
+   3,
+   3
+  ],
+  "Reciprocity": [
+   2,
+   2
+  ],
+  "Heroism": [
+   7,
+   7
+  ],
+  "Deference": [
+   1,
+   1
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   2,
+   2
+  ]
+ },
+ "Omaha": {
+  "paragraphs": 1546,
+  "Family": [
+   110,
+   30
+  ],
+  "Group": [
+   169,
+   30
+  ],
+  "Reciprocity": [
+   23,
+   23
+  ],
+  "Heroism": [
+   120,
+   30
+  ],
+  "Deference": [
+   32,
+   30
+  ],
+  "Fairness": [
+   5,
+   5
+  ],
+  "Property": [
+   24,
+   24
+  ]
+ },
+ "Oraon": {
+  "paragraphs": 843,
+  "Family": [
+   41,
+   30
+  ],
+  "Group": [
+   40,
+   30
+  ],
+  "Reciprocity": [
+   7,
+   7
+  ],
+  "Heroism": [
+   14,
+   14
+  ],
+  "Deference": [
+   9,
+   9
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   10,
+   10
+  ]
+ },
+ "Orokaiva": {
+  "paragraphs": 611,
+  "Family": [
+   25,
+   25
+  ],
+  "Group": [
+   13,
+   13
+  ],
+  "Reciprocity": [
+   8,
+   8
+  ],
+  "Heroism": [
+   21,
+   21
+  ],
+  "Deference": [
+   17,
+   17
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   17,
+   17
+  ]
+ },
+ "Osmanli_Turks": {
+  "paragraphs": 484,
+  "Family": [
+   52,
+   30
+  ],
+  "Group": [
+   20,
+   20
+  ],
+  "Reciprocity": [
+   13,
+   13
+  ],
+  "Heroism": [
+   57,
+   30
+  ],
+  "Deference": [
+   34,
+   30
+  ],
+  "Fairness": [
+   5,
+   5
+  ],
+  "Property": [
+   16,
+   16
+  ]
+ },
+ "Pima": {
+  "paragraphs": 985,
+  "Family": [
+   16,
+   16
+  ],
+  "Group": [
+   18,
+   18
+  ],
+  "Reciprocity": [
+   4,
+   4
+  ],
+  "Heroism": [
+   21,
+   21
+  ],
+  "Deference": [
+   5,
+   5
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   9,
+   9
+  ]
+ },
+ "Russian_peasants": {
+  "paragraphs": 1138,
+  "Family": [
+   33,
+   30
+  ],
+  "Group": [
+   49,
+   30
+  ],
+  "Reciprocity": [
+   28,
+   28
+  ],
+  "Heroism": [
+   57,
+   30
+  ],
+  "Deference": [
+   42,
+   30
+  ],
+  "Fairness": [
+   18,
+   18
+  ],
+  "Property": [
+   28,
+   28
+  ]
+ },
+ "Rwala_Bedouin": {
+  "paragraphs": 1578,
+  "Family": [
+   106,
+   30
+  ],
+  "Group": [
+   81,
+   30
+  ],
+  "Reciprocity": [
+   41,
+   30
+  ],
+  "Heroism": [
+   116,
+   30
+  ],
+  "Deference": [
+   18,
+   18
+  ],
+  "Fairness": [
+   4,
+   4
+  ],
+  "Property": [
+   51,
+   30
+  ]
+ },
+ "Salinan": {
+  "paragraphs": 295,
+  "Family": [
+   4,
+   4
+  ],
+  "Group": [
+   1,
+   1
+  ],
+  "Reciprocity": [
+   1,
+   1
+  ],
+  "Heroism": [
+   4,
+   4
+  ],
+  "Deference": [
+   3,
+   3
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   2,
+   2
+  ]
+ },
+ "Samoans": {
+  "paragraphs": 824,
+  "Family": [
+   51,
+   30
+  ],
+  "Group": [
+   5,
+   5
+  ],
+  "Reciprocity": [
+   11,
+   11
+  ],
+  "Heroism": [
+   22,
+   22
+  ],
+  "Deference": [
+   9,
+   9
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   29,
+   29
+  ]
+ },
+ "Seri": {
+  "paragraphs": 940,
+  "Family": [
+   26,
+   26
+  ],
+  "Group": [
+   43,
+   30
+  ],
+  "Reciprocity": [
+   8,
+   8
+  ],
+  "Heroism": [
+   30,
+   30
+  ],
+  "Deference": [
+   14,
+   14
+  ],
+  "Fairness": [
+   9,
+   9
+  ],
+  "Property": [
+   13,
+   13
+  ]
+ },
+ "Shan": {
+  "paragraphs": 748,
+  "Family": [
+   39,
+   30
+  ],
+  "Group": [
+   6,
+   6
+  ],
+  "Reciprocity": [
+   8,
+   8
+  ],
+  "Heroism": [
+   18,
+   18
+  ],
+  "Deference": [
+   11,
+   11
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   7,
+   7
+  ]
+ },
+ "Shasta": {
+  "paragraphs": 260,
+  "Family": [
+   11,
+   11
+  ],
+  "Group": [
+   2,
+   2
+  ],
+  "Reciprocity": [
+   2,
+   2
+  ],
+  "Heroism": [
+   2,
+   2
+  ],
+  "Deference": [
+   0,
+   0
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   7,
+   7
+  ]
+ },
+ "Thompson_Nlaka_pamux": {
+  "paragraphs": 699,
+  "Family": [
+   16,
+   16
+  ],
+  "Group": [
+   13,
+   13
+  ],
+  "Reciprocity": [
+   2,
+   2
+  ],
+  "Heroism": [
+   13,
+   13
+  ],
+  "Deference": [
+   4,
+   4
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   2,
+   2
+  ]
+ },
+ "Thonga": {
+  "paragraphs": 2713,
+  "Family": [
+   233,
+   30
+  ],
+  "Group": [
+   163,
+   30
+  ],
+  "Reciprocity": [
+   23,
+   23
+  ],
+  "Heroism": [
+   83,
+   30
+  ],
+  "Deference": [
+   49,
+   30
+  ],
+  "Fairness": [
+   4,
+   4
+  ],
+  "Property": [
+   83,
+   30
+  ]
+ },
+ "Toda": {
+  "paragraphs": 2394,
+  "Family": [
+   82,
+   30
+  ],
+  "Group": [
+   46,
+   30
+  ],
+  "Reciprocity": [
+   20,
+   20
+  ],
+  "Heroism": [
+   10,
+   10
+  ],
+  "Deference": [
+   16,
+   16
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   12,
+   12
+  ]
+ },
+ "Tsimshian": {
+  "paragraphs": 3855,
+  "Family": [
+   111,
+   30
+  ],
+  "Group": [
+   46,
+   30
+  ],
+  "Reciprocity": [
+   15,
+   15
+  ],
+  "Heroism": [
+   49,
+   30
+  ],
+  "Deference": [
+   12,
+   12
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   14,
+   14
+  ]
+ },
+ "Vedda": {
+  "paragraphs": 1140,
+  "Family": [
+   28,
+   28
+  ],
+  "Group": [
+   13,
+   13
+  ],
+  "Reciprocity": [
+   1,
+   1
+  ],
+  "Heroism": [
+   11,
+   11
+  ],
+  "Deference": [
+   10,
+   10
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   4,
+   4
+  ]
+ },
+ "Yucatec_Maya_Santa_Cruz_and_British_Honduras_Maya": {
+  "paragraphs": 374,
+  "Family": [
+   1,
+   1
+  ],
+  "Group": [
+   0,
+   0
+  ],
+  "Reciprocity": [
+   1,
+   1
+  ],
+  "Heroism": [
+   6,
+   6
+  ],
+  "Deference": [
+   2,
+   2
+  ],
+  "Fairness": [
+   0,
+   0
+  ],
+  "Property": [
+   1,
+   1
+  ]
+ },
+ "Yuchi": {
+  "paragraphs": 501,
+  "Family": [
+   26,
+   26
+  ],
+  "Group": [
+   24,
+   24
+  ],
+  "Reciprocity": [
+   5,
+   5
+  ],
+  "Heroism": [
+   10,
+   10
+  ],
+  "Deference": [
+   10,
+   10
+  ],
+  "Fairness": [
+   2,
+   2
+  ],
+  "Property": [
+   8,
+   8
+  ]
+ },
+ "Zia_Pueblo": {
+  "paragraphs": 410,
+  "Family": [
+   15,
+   15
+  ],
+  "Group": [
+   7,
+   7
+  ],
+  "Reciprocity": [
+   2,
+   2
+  ],
+  "Heroism": [
+   8,
+   8
+  ],
+  "Deference": [
+   7,
+   7
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   2,
+   2
+  ]
+ },
+ "Zuni": {
+  "paragraphs": 1814,
+  "Family": [
+   47,
+   30
+  ],
+  "Group": [
+   18,
+   18
+  ],
+  "Reciprocity": [
+   7,
+   7
+  ],
+  "Heroism": [
+   13,
+   13
+  ],
+  "Deference": [
+   3,
+   3
+  ],
+  "Fairness": [
+   1,
+   1
+  ],
+  "Property": [
+   7,
+   7
+  ]
+ }
+}

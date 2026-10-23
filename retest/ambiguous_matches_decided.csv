@@ -1,0 +1,12 @@
+current_polity,chosen_code,reason
+iq_abbasid_cal_1,IqAbbs1,Recorded names include Abbasid Caliphate I and dates match exactly (750..946) while IqAbbs2 is the second period.
+in_delhi_sultanate,InDelh,Name Delhi Sultanate matches and dates differ by only one end year (1525 vs 1526) while PkSind2 is the Samma dynasty.
+pk_samma_dyn,PkSind2,Name Sind - Samma Dynasty matches exactly and dates are close (1340..1519 vs 1335..1521) while InDelh is the Delhi Sultanate.
+af_durrani_emp,AfDurrn,Name Durrani Empire matches and dates differ by one start year (1748 vs 1747) while InMugl is the Mughal Empire.
+et_aksum_emp_1,EtAksm1,Aksumite names match Axum I and dates match exactly (-149..349) while YeSaRay is Saba and Dhu Raydan.
+af_kidarite_k,AfKidar,Recorded names include Kidarite Kingdom and dates match exactly (388..477) while AfHepht is the Hephthalites.
+iq_neo_babylonian_emp,IqNeoBb,Chaldean Empire is the Neo-Babylonian Empire and dates match exactly (-626..-539) while IqNAssr is Neo-Assyria.
+ye_himyar_1,YeHmyr1,Names Himyar - Pagan Period and Himyarites match Himyar I and dates match exactly (270..340).
+iq_isin_larsa,IqIsinL,Its only recorded name (Old Babylonian Period) is generic but its code and exact dates (-2004..-1763) match Isin-Larsa while IqBabAm is the Amorite dynasty.
+iq_babylonia_1,IqBabAm,Name Old Babylonian Amorite Dynasty matches Amorite Babylonia and dates match exactly (-2000..-1600).
+ye_saba_k,YeSaRay,Name Kingdom of Saba and Dhu Raydan matches exactly and dates match exactly (-110..149).

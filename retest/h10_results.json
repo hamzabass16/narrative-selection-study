@@ -1,0 +1,72 @@
+{
+ "motifs": 2436,
+ "pro_motifs": 280,
+ "anti_motifs": 251,
+ "breadth_n_families": {
+  "IRR": 0.9028199759565538,
+  "lo95": 0.8053124410431122,
+  "hi95": 1.0121337600725793,
+  "p": 0.07957813974617313,
+  "mean_pro": 8.139285714285714,
+  "mean_other": 8.936920222634509
+ },
+ "breadth_n_continents": {
+  "IRR": 0.9267941045753152,
+  "lo95": 0.8692783097250586,
+  "hi95": 0.988115431693256,
+  "p": 0.020033861534097128,
+  "mean_pro": 2.7464285714285714,
+  "mean_other": 2.9373840445269015
+ },
+ "breadth_n_groups": {
+  "IRR": 0.9066398179758685,
+  "lo95": 0.7628012625504619,
+  "hi95": 1.0776014669809728,
+  "p": 0.26613656359121995,
+  "mean_pro": 39.55357142857143,
+  "mean_other": 41.27040816326531
+ },
+ "breadth_families_by_sign": {
+  "C(np.sign(score))[T.0]": 1.164445436554019,
+  "C(np.sign(score))[T.1]": 1.0275350313594036
+ },
+ "retention_Austronesian": {
+  "tips": 80,
+  "motifs_fitted": 420,
+  "pro_fitted": 27,
+  "b_logloss_pro": 0.4299709706472207,
+  "se": 0.45007170044800265,
+  "p": 0.33940637822021047,
+  "median_loss_pro": 4.612492572627282,
+  "median_loss_other": 3.324524963699126,
+  "share_at_bounds": 0.05238095238095238
+ },
+ "retention_Bantu": {
+  "tips": 126,
+  "motifs_fitted": 412,
+  "pro_fitted": 45,
+  "b_logloss_pro": -0.8327376091607019,
+  "se": 0.5075967603938648,
+  "p": 0.10089096611945007,
+  "median_loss_pro": 1.4623663884117897,
+  "median_loss_other": 1.809749982916358,
+  "share_at_bounds": 0.12378640776699029
+ },
+ "retention_Indo-European": {
+  "tips": 32,
+  "motifs_fitted": 864,
+  "pro_fitted": 118,
+  "b_logloss_pro": -0.2248310593571483,
+  "se": 0.24105252579997058,
+  "p": 0.35097195276868265,
+  "median_loss_pro": 3.764214590071856,
+  "median_loss_other": 4.402595064019081,
+  "share_at_bounds": 0.17824074074074073
+ },
+ "retention_pooled": {
+  "b_logloss_pro": -0.19128320818405187,
+  "se": 0.19601176013126748,
+  "p": 0.32912582631924236
+ },
+ "decision": "inconclusive"
+}

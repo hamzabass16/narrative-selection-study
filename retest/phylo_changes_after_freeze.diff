@@ -1,0 +1,10 @@
+35c35
+<         self.blen = np.array([nd.edge_length or 0.0 for nd in self.nodes])
+---
+>         self.blen = np.maximum(np.array([nd.edge_length or 0.0 for nd in self.nodes]), 1e-6)  # zero-length edges make sister differences impossible
+73c73,75
+<         f = lambda lr: -tree.loglik(build(lr), tipstates, k)
+---
+>         def f(lr):
+>             v = -tree.loglik(build(lr), tipstates, k)
+>             return v if np.isfinite(v) else 1e12

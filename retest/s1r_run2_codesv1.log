@@ -1,0 +1,52 @@
+draw 0 done
+draw 1 done
+draw 2 done
+draw 3 done
+draw 4 done
+draw 5 done
+draw 6 done
+draw 7 done
+draw 8 done
+draw 9 done
+draw 10 done
+draw 11 done
+draw 12 done
+draw 13 done
+draw 14 done
+draw 15 done
+draw 16 done
+draw 17 done
+draw 18 done
+draw 19 done
+{
+ "sample": {
+  "polities": 221,
+  "events": 117,
+  "internal": 42,
+  "conquest": 70,
+  "other": 4,
+  "unknown_type": 1,
+  "ngas": 34,
+  "no_tradition": 81,
+  "EPI_mean": 0.4181749622926093,
+  "EPI_sd": 0.41499389986579227
+ },
+ "decisions": {
+  "H1": "inconclusive",
+  "H2": "inconclusive",
+  "H3": "inconclusive",
+  "H4a": "inconclusive",
+  "H4b*": "inconclusive",
+  "H5": "estimate only (no content effect in H2)",
+  "H7": "not falsified, not shown"
+ },
+ "holm": {
+  "H5": 1,
+  "H2": 1,
+  "H4b*": 1,
+  "H3": 1,
+  "H4a": 1,
+  "H7": 1,
+  "H1": 1
+ }
+}

@@ -56,6 +56,20 @@ for f in ['report_text.py', 'build_html.py', 'build_md.py', 'make_figures.py', '
 cp(A/'report/figures', 'report/figures')
 cp(A/'report/export/RESULTS.md', 'report/RESULTS.md')
 cp(A/'report/export/PROTOCOL.pdf', 'report/PROTOCOL.pdf')
+# ---- Retest (23 October 2026) ----
+SKIP_RETEST = {'motifs_redacted.csv'}  # third-party motif texts are not redistributed
+cp(A/'retest', 'retest')
+for f in (A/'s2r').rglob('*'):
+    if f.is_file() and f.name not in SKIP_RETEST and 'batches' not in f.parts and '__pycache__' not in f.parts:
+        cp(f, 'study2_retest/' + str(f.relative_to(A/'s2r')))
+cp(A/'h6', 'h6')
+cp(A/'verify4', 'verification/retest_h9a_h8BC_independent')
+cp(A/'verify5', 'verification/retest_study1_h8A_independent')
+cp(D/'ext2/seshat_agri.csv', 'data/seshat/seshat_agri_index.csv')
+for f in ['deviations3_text.py', 'section16_text.py', 'build_protocol_requests.py']:
+    cp(A/'out'/f, f'protocol/doc_build/{f}')
+cp(A/'report/report_retest_text.py', 'report/build/report_retest_text.py')
+cp(A/'report/build_retest_requests.py', 'report/build/build_retest_requests.py')
 for f in ['unpack_b64.py', 'unpack_parts.py']:
     cp(A/f, f'tools/{f}')
 print('synced')

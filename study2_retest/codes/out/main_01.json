@@ -1,0 +1,1458 @@
+[
+ {
+  "motif_id": "k56f2",
+  "acts": []
+ },
+ {
+  "motif_id": "k27y",
+  "acts": []
+ },
+ {
+  "motif_id": "i104",
+  "acts": []
+ },
+ {
+  "motif_id": "k103",
+  "acts": []
+ },
+ {
+  "motif_id": "k80b",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "punished",
+    "evidence": "The (step)mother kills or orders to kill her small (step)son"
+   }
+  ]
+ },
+ {
+  "motif_id": "j26",
+  "acts": []
+ },
+ {
+  "motif_id": "m38d3",
+  "acts": []
+ },
+ {
+  "motif_id": "m39a6a",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "coop",
+    "target": "kin",
+    "outcome": "rewarded",
+    "evidence": "After an extensive search powerful man finds a smart wife for his son"
+   },
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "The young woman understands the real meaning of the received text"
+   },
+   {
+    "behaviour": "family",
+    "type": "coop",
+    "target": "kin",
+    "outcome": "rewarded",
+    "evidence": "destroys the enemies and releases her father-in-law"
+   }
+  ]
+ },
+ {
+  "motif_id": "k42",
+  "acts": []
+ },
+ {
+  "motif_id": "b42t",
+  "acts": []
+ },
+ {
+  "motif_id": "c6b",
+  "acts": []
+ },
+ {
+  "motif_id": "k27yy",
+  "acts": [
+   {
+    "behaviour": "bravery",
+    "type": "coop",
+    "target": "unclear",
+    "outcome": "none",
+    "evidence": "Hero is sent to a dangerous tree or rock to bring feathers"
+   }
+  ]
+ },
+ {
+  "motif_id": "f42a",
+  "acts": []
+ },
+ {
+  "motif_id": "i10a",
+  "acts": []
+ },
+ {
+  "motif_id": "a18",
+  "acts": []
+ },
+ {
+  "motif_id": "k36",
+  "acts": []
+ },
+ {
+  "motif_id": "l31a",
+  "acts": []
+ },
+ {
+  "motif_id": "m140",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "Trickster pretends to be dead, sick or weak and is picked up"
+   },
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "The trickster secretly eats the food"
+   }
+  ]
+ },
+ {
+  "motif_id": "g17",
+  "acts": []
+ },
+ {
+  "motif_id": "i133",
+  "acts": []
+ },
+ {
+  "motif_id": "k22a",
+  "acts": []
+ },
+ {
+  "motif_id": "b47",
+  "acts": []
+ },
+ {
+  "motif_id": "l114a",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "coop",
+    "target": "kin",
+    "outcome": "rewarded",
+    "evidence": "engaged into different activities instead of killing the sleeping people"
+   }
+  ]
+ },
+ {
+  "motif_id": "m157b",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "Husband casts his wife out"
+   },
+   {
+    "behaviour": "family",
+    "type": "coop",
+    "target": "kin",
+    "outcome": "rewarded",
+    "evidence": "takes her sleeping or drunk husband with her and thus moves him to forgive"
+   }
+  ]
+ },
+ {
+  "motif_id": "i61a",
+  "acts": []
+ },
+ {
+  "motif_id": "i87aa",
+  "acts": []
+ },
+ {
+  "motif_id": "a32dd",
+  "acts": []
+ },
+ {
+  "motif_id": "a22d",
+  "acts": []
+ },
+ {
+  "motif_id": "h48",
+  "acts": []
+ },
+ {
+  "motif_id": "k27nn",
+  "acts": []
+ },
+ {
+  "motif_id": "c24",
+  "acts": []
+ },
+ {
+  "motif_id": "k155",
+  "acts": []
+ },
+ {
+  "motif_id": "l100d",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "she invites the suitor(s) to a private rendezvous"
+   }
+  ]
+ },
+ {
+  "motif_id": "l101",
+  "acts": []
+ },
+ {
+  "motif_id": "k119",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "makes other people believe that the groom is rich"
+   }
+  ]
+ },
+ {
+  "motif_id": "l60",
+  "acts": []
+ },
+ {
+  "motif_id": "k97",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "none",
+    "evidence": "it pretends to drop him or to abandon him on a rock"
+   }
+  ]
+ },
+ {
+  "motif_id": "k1d",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "Brothers of a man's wife hate him and maroon on an islet"
+   }
+  ]
+ },
+ {
+  "motif_id": "k27t",
+  "acts": []
+ },
+ {
+  "motif_id": "m75b1a",
+  "acts": []
+ },
+ {
+  "motif_id": "a37a",
+  "acts": []
+ },
+ {
+  "motif_id": "m93",
+  "acts": []
+ },
+ {
+  "motif_id": "h36b",
+  "acts": []
+ },
+ {
+  "motif_id": "i98a",
+  "acts": []
+ },
+ {
+  "motif_id": "i5",
+  "acts": []
+ },
+ {
+  "motif_id": "i27c",
+  "acts": []
+ },
+ {
+  "motif_id": "m185",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "none",
+    "evidence": "getting to the finish pretends to come there simultaneously with the fast one"
+   }
+  ]
+ },
+ {
+  "motif_id": "k32e",
+  "acts": []
+ },
+ {
+  "motif_id": "k126",
+  "acts": [
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "none",
+    "evidence": "A wolf eats up hero's horse"
+   },
+   {
+    "behaviour": "reciprocity",
+    "type": "coop",
+    "target": "stranger",
+    "outcome": "none",
+    "evidence": "gives him a fare compensation (usually provides a wife)"
+   }
+  ]
+ },
+ {
+  "motif_id": "m192",
+  "acts": []
+ },
+ {
+  "motif_id": "k38f2",
+  "acts": [
+   {
+    "behaviour": "bravery",
+    "type": "coop",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "Hero kills the dragon and saves the girl who had to be sacrificed"
+   },
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "punished",
+    "evidence": "The imposter claims the deed to himself but is exposed"
+   }
+  ]
+ },
+ {
+  "motif_id": "i59a",
+  "acts": [
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "unclear",
+    "outcome": "none",
+    "evidence": "associated with a story of a stealing"
+   }
+  ]
+ },
+ {
+  "motif_id": "i63",
+  "acts": []
+ },
+ {
+  "motif_id": "f34",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "punished",
+    "evidence": "a paramour a big land animal. Husbands, brothers or (adoptive) children kill or maim paramour"
+   }
+  ]
+ },
+ {
+  "motif_id": "f50",
+  "acts": []
+ },
+ {
+  "motif_id": "b70",
+  "acts": []
+ },
+ {
+  "motif_id": "b87b",
+  "acts": []
+ },
+ {
+  "motif_id": "l15h",
+  "acts": []
+ },
+ {
+  "motif_id": "l85d",
+  "acts": []
+ },
+ {
+  "motif_id": "k117",
+  "acts": []
+ },
+ {
+  "motif_id": "l42e",
+  "acts": []
+ },
+ {
+  "motif_id": "k27x2",
+  "acts": [
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "Person is able to steal an egg"
+   }
+  ]
+ },
+ {
+  "motif_id": "m140a",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "ties him by deception and runs away"
+   }
+  ]
+ },
+ {
+  "motif_id": "l56",
+  "acts": []
+ },
+ {
+  "motif_id": "a7a",
+  "acts": []
+ },
+ {
+  "motif_id": "b90",
+  "acts": []
+ },
+ {
+  "motif_id": "a32i",
+  "acts": []
+ },
+ {
+  "motif_id": "m155",
+  "acts": [
+   {
+    "behaviour": "deference",
+    "type": "coop",
+    "target": "kin",
+    "outcome": "rewarded",
+    "evidence": "covers him or her with a cloak and is considered to be the most noble"
+   }
+  ]
+ },
+ {
+  "motif_id": "b35",
+  "acts": []
+ },
+ {
+  "motif_id": "l1f",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "kills her brothers"
+   },
+   {
+    "behaviour": "family",
+    "type": "coop",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "avenging the death of her husband or lover"
+   }
+  ]
+ },
+ {
+  "motif_id": "b58",
+  "acts": [
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "unclear",
+    "outcome": "rewarded",
+    "evidence": "After the original fire is stolen by the ancestors"
+   }
+  ]
+ },
+ {
+  "motif_id": "m123c",
+  "acts": []
+ },
+ {
+  "motif_id": "l93b",
+  "acts": []
+ },
+ {
+  "motif_id": "g23",
+  "acts": []
+ },
+ {
+  "motif_id": "m82",
+  "acts": []
+ },
+ {
+  "motif_id": "b77b1",
+  "acts": []
+ },
+ {
+  "motif_id": "i24",
+  "acts": []
+ },
+ {
+  "motif_id": "m39e1a",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "unclear",
+    "outcome": "none",
+    "evidence": "Person claims that iron or gold disappeared being eaten by mice"
+   }
+  ]
+ },
+ {
+  "motif_id": "m28",
+  "acts": []
+ },
+ {
+  "motif_id": "g25",
+  "acts": []
+ },
+ {
+  "motif_id": "b42l",
+  "acts": []
+ },
+ {
+  "motif_id": "m38a",
+  "acts": []
+ },
+ {
+  "motif_id": "m183",
+  "acts": [
+   {
+    "behaviour": "group",
+    "type": "coop",
+    "target": "group",
+    "outcome": "rewarded",
+    "evidence": "Many animals of one species that all look identical together fulfill the task"
+   },
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "The slow one puts other animals of his species at the finish"
+   }
+  ]
+ },
+ {
+  "motif_id": "k64a",
+  "acts": [
+   {
+    "behaviour": "bravery",
+    "type": "coop",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "Person blinds sleeping ogre and escapes from him"
+   }
+  ]
+ },
+ {
+  "motif_id": "m153a",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "the victim asks for a favor to let him first wash himself and escapes"
+   }
+  ]
+ },
+ {
+  "motif_id": "l108e",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "coop",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "Fox has a child or children (usually adopts a lamb, foal, etc.), cares for it"
+   },
+   {
+    "behaviour": "family",
+    "type": "coop",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "Wolf finds and eats it, the fox revenges on him"
+   }
+  ]
+ },
+ {
+  "motif_id": "a4a",
+  "acts": []
+ },
+ {
+  "motif_id": "l23a",
+  "acts": []
+ },
+ {
+  "motif_id": "b95",
+  "acts": []
+ },
+ {
+  "motif_id": "c25b",
+  "acts": []
+ },
+ {
+  "motif_id": "h12b",
+  "acts": []
+ },
+ {
+  "motif_id": "f93",
+  "acts": []
+ },
+ {
+  "motif_id": "k65",
+  "acts": []
+ },
+ {
+  "motif_id": "k46",
+  "acts": []
+ },
+ {
+  "motif_id": "b115a",
+  "acts": []
+ },
+ {
+  "motif_id": "k146",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "replaces the real medicine with a useless one or keeps part of it for herself"
+   },
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "unclear",
+    "outcome": "none",
+    "evidence": "she revives the hero when he is treacherously killed"
+   }
+  ]
+ },
+ {
+  "motif_id": "l42b",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "believes in what hero tells him (or her) and releases him"
+   }
+  ]
+ },
+ {
+  "motif_id": "a35b",
+  "acts": []
+ },
+ {
+  "motif_id": "i64a",
+  "acts": []
+ },
+ {
+  "motif_id": "k132a",
+  "acts": []
+ },
+ {
+  "motif_id": "b1b",
+  "acts": []
+ },
+ {
+  "motif_id": "l42c",
+  "acts": []
+ },
+ {
+  "motif_id": "m129",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "rewarded",
+    "evidence": "Another son comes in disguise of the chosen one, receives primogeniture"
+   },
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "rewarded",
+    "evidence": "Another son comes in disguise of the chosen one, receives primogeniture"
+   }
+  ]
+ },
+ {
+  "motif_id": "k65c",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "deity",
+    "outcome": "punished",
+    "evidence": "conceals part of them (rare: all) from God. The concealed children become poor people"
+   }
+  ]
+ },
+ {
+  "motif_id": "h17",
+  "acts": [
+   {
+    "behaviour": "group",
+    "type": "coop",
+    "target": "group",
+    "outcome": "punished",
+    "evidence": "trying to defend him or his corpse. A trickster gets to go through the ring"
+   },
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "unclear",
+    "outcome": "rewarded",
+    "evidence": "kills the chief or steals and devours his heart"
+   }
+  ]
+ },
+ {
+  "motif_id": "k14a",
+  "acts": []
+ },
+ {
+  "motif_id": "f72",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "unclear",
+    "outcome": "none",
+    "evidence": "in such a way that a watcher would think she is raped"
+   }
+  ]
+ },
+ {
+  "motif_id": "l9a",
+  "acts": []
+ },
+ {
+  "motif_id": "b46a1",
+  "acts": [
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "unclear",
+    "outcome": "none",
+    "evidence": "Stars of Big Dipper are thieves robbers"
+   }
+  ]
+ },
+ {
+  "motif_id": "k80a3",
+  "acts": [
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "The antagonists appropriates berries picked up by the hero and usually kills him or her"
+   }
+  ]
+ },
+ {
+  "motif_id": "b28d1",
+  "acts": [
+   {
+    "behaviour": "deference",
+    "type": "violation",
+    "target": "deity",
+    "outcome": "punished",
+    "evidence": "he prepares knives (a spear) to kill Transformer. The latter transforms him into deer"
+   }
+  ]
+ },
+ {
+  "motif_id": "m182",
+  "acts": [
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "punished",
+    "evidence": "To catch a thief, a deceiver, the owner of property puts a sticky figure"
+   },
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "puts a sticky figure to which the thief sticks (usually mistaken it for alive being"
+   }
+  ]
+ },
+ {
+  "motif_id": "k103a",
+  "acts": []
+ },
+ {
+  "motif_id": "f30a",
+  "acts": []
+ },
+ {
+  "motif_id": "m114j",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "punished",
+    "evidence": "When a (married) man cultivate a (married) woman"
+   }
+  ]
+ },
+ {
+  "motif_id": "c6f",
+  "acts": []
+ },
+ {
+  "motif_id": "b77b",
+  "acts": []
+ },
+ {
+  "motif_id": "k27hh",
+  "acts": []
+ },
+ {
+  "motif_id": "j47",
+  "acts": []
+ },
+ {
+  "motif_id": "h34b",
+  "acts": []
+ },
+ {
+  "motif_id": "l42g1",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "Father (step mother) abandons children in the forest"
+   },
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "rewarded",
+    "evidence": "Children believe that he is still nearby cutting woods"
+   }
+  ]
+ },
+ {
+  "motif_id": "k136",
+  "acts": []
+ },
+ {
+  "motif_id": "b42c",
+  "acts": []
+ },
+ {
+  "motif_id": "i106",
+  "acts": []
+ },
+ {
+  "motif_id": "m88",
+  "acts": []
+ },
+ {
+  "motif_id": "i32",
+  "acts": []
+ },
+ {
+  "motif_id": "d12a",
+  "acts": []
+ },
+ {
+  "motif_id": "k67b",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "punished",
+    "evidence": "erupts in anger and has to be severely punished or to pay a great fee"
+   }
+  ]
+ },
+ {
+  "motif_id": "e13a",
+  "acts": []
+ },
+ {
+  "motif_id": "b1c",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "another replaces the objects and so achieves the priority by deceit"
+   }
+  ]
+ },
+ {
+  "motif_id": "k54a",
+  "acts": [
+   {
+    "behaviour": "bravery",
+    "type": "coop",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "proves to be crucial because the man badly injures a foot of another giant"
+   }
+  ]
+ },
+ {
+  "motif_id": "b10",
+  "acts": []
+ },
+ {
+  "motif_id": "k8c1",
+  "acts": []
+ },
+ {
+  "motif_id": "i87ab",
+  "acts": []
+ },
+ {
+  "motif_id": "m149a",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "breaks it and the predator is going to kill him but the man remains alive"
+   }
+  ]
+ },
+ {
+  "motif_id": "m162b",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "Person makes believe to rub sour berries into his eyes"
+   }
+  ]
+ },
+ {
+  "motif_id": "l103a",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "her relatives do not open the door and she is devoured by the demon"
+   }
+  ]
+ },
+ {
+  "motif_id": "l42g2",
+  "acts": []
+ },
+ {
+  "motif_id": "l30",
+  "acts": [
+   {
+    "behaviour": "deference",
+    "type": "violation",
+    "target": "unclear",
+    "outcome": "punished",
+    "evidence": "Person who breaks some sort of taboo (usually has eaten a prohibited food) is thirsty"
+   }
+  ]
+ },
+ {
+  "motif_id": "h34a",
+  "acts": []
+ },
+ {
+  "motif_id": "j19",
+  "acts": []
+ },
+ {
+  "motif_id": "c6e",
+  "acts": []
+ },
+ {
+  "motif_id": "h26",
+  "acts": []
+ },
+ {
+  "motif_id": "k63",
+  "acts": []
+ },
+ {
+  "motif_id": "m62d",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "Trickster puts on a rotten hide of an animal and, being unrecognized, pretends"
+   }
+  ]
+ },
+ {
+  "motif_id": "b14",
+  "acts": []
+ },
+ {
+  "motif_id": "k28",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "is his rival or enemy and tries to kill him"
+   }
+  ]
+ },
+ {
+  "motif_id": "k65c1",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "deity",
+    "outcome": "punished",
+    "evidence": "conceals part of them from God. The concealed children become ancestors of the people"
+   }
+  ]
+ },
+ {
+  "motif_id": "c11",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "coop",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "destroy a large group of people who have offended or insulted his son"
+   }
+  ]
+ },
+ {
+  "motif_id": "h29",
+  "acts": []
+ },
+ {
+  "motif_id": "k53",
+  "acts": []
+ },
+ {
+  "motif_id": "l15b",
+  "acts": []
+ },
+ {
+  "motif_id": "m57d4",
+  "acts": []
+ },
+ {
+  "motif_id": "e38b",
+  "acts": []
+ },
+ {
+  "motif_id": "k142",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "then tells that the dead man has returned. The grave-digger buries several people"
+   }
+  ]
+ },
+ {
+  "motif_id": "m39a6h",
+  "acts": []
+ },
+ {
+  "motif_id": "k52b",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "coop",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "He secures the help of a slave repairing his adze or axe"
+   }
+  ]
+ },
+ {
+  "motif_id": "k1i",
+  "acts": []
+ },
+ {
+  "motif_id": "m30b",
+  "acts": []
+ },
+ {
+  "motif_id": "l18",
+  "acts": []
+ },
+ {
+  "motif_id": "m79",
+  "acts": []
+ },
+ {
+  "motif_id": "b72a",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "(Step)parent does not share his or her food with a child"
+   }
+  ]
+ },
+ {
+  "motif_id": "k158",
+  "acts": []
+ },
+ {
+  "motif_id": "k85",
+  "acts": []
+ },
+ {
+  "motif_id": "i32a",
+  "acts": []
+ },
+ {
+  "motif_id": "m130c",
+  "acts": []
+ },
+ {
+  "motif_id": "f64",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "Person changes his or (rare) her guise to marry his or her close relative"
+   },
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "Person changes his or (rare) her guise to marry his or her close relative"
+   }
+  ]
+ },
+ {
+  "motif_id": "k76b",
+  "acts": []
+ },
+ {
+  "motif_id": "k11a",
+  "acts": []
+ },
+ {
+  "motif_id": "k139",
+  "acts": []
+ },
+ {
+  "motif_id": "k100e",
+  "acts": []
+ },
+ {
+  "motif_id": "m61a3",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "none",
+    "evidence": "person tells each one that the other was insulting him"
+   }
+  ]
+ },
+ {
+  "motif_id": "k66a",
+  "acts": []
+ },
+ {
+  "motif_id": "m179b",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "Soon he makes the life difficult for the owner"
+   },
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "the intruder shows him the way out since he is unhappy where he is"
+   }
+  ]
+ },
+ {
+  "motif_id": "b42h1",
+  "acts": []
+ },
+ {
+  "motif_id": "k27r",
+  "acts": []
+ },
+ {
+  "motif_id": "e34",
+  "acts": []
+ },
+ {
+  "motif_id": "b28a",
+  "acts": []
+ },
+ {
+  "motif_id": "m198a2",
+  "acts": []
+ },
+ {
+  "motif_id": "b68",
+  "acts": [
+   {
+    "behaviour": "fairness",
+    "type": "coop",
+    "target": "group",
+    "outcome": "none",
+    "evidence": "He is torn to pieces which are shared between other birds and animals"
+   }
+  ]
+ },
+ {
+  "motif_id": "k101",
+  "acts": []
+ },
+ {
+  "motif_id": "k100f",
+  "acts": [
+   {
+    "behaviour": "family",
+    "type": "violation",
+    "target": "kin",
+    "outcome": "none",
+    "evidence": "His father (the king) drives him away"
+   },
+   {
+    "behaviour": "reciprocity",
+    "type": "coop",
+    "target": "stranger",
+    "outcome": "none",
+    "evidence": "The saved fish helps him"
+   }
+  ]
+ },
+ {
+  "motif_id": "c7",
+  "acts": []
+ },
+ {
+  "motif_id": "j59a",
+  "acts": []
+ },
+ {
+  "motif_id": "k24",
+  "acts": [
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "After the man hides clothes, their owner has to marry him or help him"
+   }
+  ]
+ },
+ {
+  "motif_id": "i22",
+  "acts": []
+ },
+ {
+  "motif_id": "e31",
+  "acts": []
+ },
+ {
+  "motif_id": "m106d",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "Person deceives other people telling them that his name is"
+   }
+  ]
+ },
+ {
+  "motif_id": "k27f",
+  "acts": []
+ },
+ {
+  "motif_id": "k125",
+  "acts": []
+ },
+ {
+  "motif_id": "f60",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "A man comes to cure her but only copulates with her"
+   }
+  ]
+ },
+ {
+  "motif_id": "l94",
+  "acts": []
+ },
+ {
+  "motif_id": "g13",
+  "acts": []
+ },
+ {
+  "motif_id": "k27n3b",
+  "acts": []
+ },
+ {
+  "motif_id": "m123b",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "rewarded",
+    "evidence": "A man gets a woman thanks to a trick"
+   },
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "She asks permission to go to shore to relieve herself, runs away"
+   }
+  ]
+ },
+ {
+  "motif_id": "m157a2",
+  "acts": [
+   {
+    "behaviour": "reciprocity",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "none",
+    "evidence": "Person claims that a calf (colt, kid, etc.) was born not by the cow"
+   },
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "stranger",
+    "outcome": "none",
+    "evidence": "the cow (mare, etc.) of another person but by his own bull"
+   }
+  ]
+ },
+ {
+  "motif_id": "d8",
+  "acts": [
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "enemy",
+    "outcome": "rewarded",
+    "evidence": "Fire or summer is stolen from a big predator"
+   }
+  ]
+ },
+ {
+  "motif_id": "i81a",
+  "acts": []
+ },
+ {
+  "motif_id": "l72c",
+  "acts": []
+ },
+ {
+  "motif_id": "l87",
+  "acts": []
+ },
+ {
+  "motif_id": "k65b",
+  "acts": []
+ },
+ {
+  "motif_id": "i44",
+  "acts": []
+ },
+ {
+  "motif_id": "d4p",
+  "acts": [
+   {
+    "behaviour": "property",
+    "type": "violation",
+    "target": "unclear",
+    "outcome": "rewarded",
+    "evidence": "Parrot or parakeet steals fire for people"
+   },
+   {
+    "behaviour": "group",
+    "type": "coop",
+    "target": "group",
+    "outcome": "rewarded",
+    "evidence": "Parrot or parakeet steals fire for people"
+   }
+  ]
+ }
+]

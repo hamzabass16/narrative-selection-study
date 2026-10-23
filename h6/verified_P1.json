@@ -1,0 +1,43 @@
+[
+  {
+    "study_id": "S045",
+    "citation": "Sakai JT, Chintaluru Y, Raymond KM, McWilliams S, Carter RM, Winters DE, Mikulich-Gilbertson SK (2023). A revised prosocial behavior game: testing associations with psychopathic traits and the effects of moral elevation using a randomized clinical trial. PLOS ONE 18(4):e0283279",
+    "experiment": "Randomized clinical trial (NCT03834467)",
+    "arm_label": "Moral elevation video (subway rescue) vs control nature video",
+    "accessible": true,
+    "design": "between",
+    "population": "adults",
+    "country": "USA (inferred, not stated in the paper: online sample recruited via Craigslist; authors and IRB are in Colorado; payment in $)",
+    "weird": true,
+    "treatment_description": "Moral elevation video depicting a man risking his life to save another in the New York subway, shown between Run 1 and Run 2 of the game.",
+    "control_description": "Nature video of similar length (series of images of the ocean, green spaces and forests).",
+    "narrative_type": "modern_invented",
+    "target": "stranger",
+    "delay": "immediate",
+    "outcome_description": "AlAn's Short Game v.2, Run 2 vs Run 1: number of prosocial decisions (Active Type A trials rejected, where self gains and Red Cross loses, plus Active Type B trials accepted, where self loses and Red Cross gains).",
+    "incentivized": true,
+    "primary_outcome": true,
+    "higher_is_more_prosocial": true,
+    "stat_type": "F1",
+    "values": {
+      "F": 2.4,
+      "n_t": 237,
+      "n_c": 248,
+      "sign": null
+    },
+    "quote": "The Group by Run interaction was non-significant (F1, 478 = 2.40; p = 0.122)",
+    "location": "Results, 'Testing the effects of moral elevation on game behavior' (same F also in the Fig 4 caption, given there as p = 0.12); group ns from Fig 4 caption",
+    "from_figure": false,
+    "preregistered": "Y",
+    "notes": "F is the Group x Run interaction from a mixed-model ANCOVA (random subject effect, unstructured covariance; fixed effects Group, Run and sex; covariates age, race and Red Cross visual analog scale; sex interactions non-significant and removed), i.e. the between-group difference in pre- to post-video change. Group main effect F(1,478) = 0.42, p = 0.52; Run main effect F(1,478) = 2.25, p = 0.13. DIRECTION: values.sign = null. No text, table or caption states which group changed more or in which direction. The paper says only 'both Groups (control and moral elevation video) showed relatively stable levels of prosocial behavior across runs 1 and 2' (Results), 'we did not find that moral elevation stimulus exposure led to changes in prosocial behavior' (Discussion), and refers to 'the lack of change in prosocial behavior in the control group'. Fig 4 plots adjusted estimates with SE but its caption gives no numbers; the verifier could not open the figure image. No means or SDs by group and run are reported in the text or tables. EFFECT-SIZE CAUTION: an F for a Group x Run interaction converted with n_t and n_c gives a standardized difference in change scores; the authors report Run 1 and Run 2 as highly correlated (high test-retest reliability), so this is not on the same scale as a post-test between-group d. SAMPLE: 500 recruited (250 per group planned); analysed modified ITT n = 485 (randomized plus completed baseline). Methods call the elevation arm Group 1, Results call the control arm Group 1; the Fig 4 caption names the arms by video (elevation n = 237, control n = 248), so the ns are unambiguous. Ages 18 to 25; protocol completed online via REDCap; within-sex permuted-blocks randomization scheme created by the study statistician. The sample's country and state are not stated. INCENTIVES: 'Subjects were paid $20 plus earnings from playing the AlAn's Short Game v.2' (Methods), so own payoffs were real and each prosocial choice cost the subject money. The game starts with $2.50 for the subject and a $2.50 Red Cross donation; the paper never says the Red Cross allocation was actually donated, nor that it was hypothetical. Players are told no information on how they played will be shared with others. No manipulation check ('we did not measure self-reported moral elevation'). TREATMENT: the paper says only that the video 'depicts a man risking his life to save another in the New York subway' and 'has been used in prior moral elevation studies'; it does not say whether it is news footage of a real event, and gives no length for either video. Coded modern_invented as the nearest category. Target coded stranger (charity recipient). No outcome is labelled primary in the paper; this is the only test of the elevation main effect (the paper also tests moderation of the psychopathy association: Group x Factor 1 x Run F(1,474) = 0.10, p = 0.76). REGISTRATION: the paper states 'the study protocol was registered with ClinicalTrials.gov (NCT03834467)'; it gives no enrollment dates and does not say whether registration was prospective. The verifier could not open the registry record, so registration timing and the registered primary outcome are unverified.",
+    "verifier_changes": [
+      "values: added sign = null; no text, table or figure caption states which group changed more or in which direction, and the Fig 4 image could not be opened",
+      "country: changed 'USA (Colorado; online via Craigslist)' to mark the country as inferred; the paper does not state the sample's country or state (Colorado is where the authors and IRB are)",
+      "quote: removed the trailing period; in the paper the sentence goes on: 'indicating that there was no significant difference in change in prosocial behavior between Groups'",
+      "location: added that the same F appears in the Fig 4 caption, where p is given as 0.12",
+      "notes: removed the claim that the treatment is a 'real-event video'; the paper does not say so, only that it depicts the subway rescue and 'has been used in prior moral elevation studies'",
+      "notes: added sex as a fixed effect in the model (A listed only age, race and Red Cross VAS) and the Run main effect F(1,478) = 2.25, p = 0.13",
+      "notes: added the direction evidence, the effect-size scale caution (change-score metric), the exact incentive wording, the absence of a manipulation check, the age range, and the unverified registration timing"
+    ]
+  }
+]

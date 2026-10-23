@@ -1,0 +1,6 @@
+study,stratum,g,v,incent,prereg,ntype,pop,weird,target,delay,primary
+S001,P,1.2365576781207053,0.03029236049266251,True,False,modern_invented,children,False,stranger,immediate,True
+S009,P,0.07946650355920619,0.0649989334787193,True,False,modern_invented,children,False,stranger,delayed: posttest after the 8-week reading programme ended; interval since last reading not stated,False
+S089,P,0.5695988933265945,0.09152982605672501,True,False,modern_invented,children,False,unclear,delayed: pre/post intervention assessment; interval not reported,True
+S129,P,0.4413062247457896,0.03674440849681505,True,False,modern_invented,children,True,ingroup,delayed: post-test one week after the end of the three training sessions,False
+S133,P,1.2603322536436552,0.032115933992769796,True,False,modern_invented,children,False,stranger,immediate,True

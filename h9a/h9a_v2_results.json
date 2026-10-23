@@ -1,0 +1,181 @@
+{
+ "passages": 5172,
+ "agreement": {
+  "n": 1034,
+  "relevance_agree": 969,
+  "relevance_alpha": 0.8365803195778857,
+  "valence_agree": 961,
+  "valence_alpha": 0.8303056816686591,
+  "both_relevant": 236,
+  "valence_alpha_both_relevant": 0.9237802411198317,
+  "neg_first": 5,
+  "neg_second": 5
+ },
+ "societies": 53,
+ "families": 42,
+ "relevant": 1366,
+ "valenced": 869,
+ "neg_review": {
+  "first_coder_neg": 26,
+  "confirmed": 25,
+  "disputed": 0,
+  "overturned": 1
+ },
+ "by_behaviour": {
+  "Family": {
+   "pos": 169,
+   "neg": 6,
+   "n": 175,
+   "share": 0.03428571428571429,
+   "wilson_lo": 0.015806185310079338,
+   "wilson_hi": 0.07277275829140936,
+   "weighted_share": 0.03474903474903475,
+   "boot_lo": 0.0040310532065287235,
+   "boot_hi": 0.07556060606060604,
+   "societies_with_evaluation": 45,
+   "n_ge_73": true,
+   "falsified": false
+  },
+  "Group": {
+   "pos": 154,
+   "neg": 0,
+   "n": 154,
+   "share": 0.0,
+   "wilson_lo": 1.734723475976807e-18,
+   "wilson_hi": 0.024338323990633647,
+   "weighted_share": 0.0,
+   "boot_lo": 0.0,
+   "boot_hi": 0.0,
+   "societies_with_evaluation": 42,
+   "n_ge_73": true,
+   "falsified": false
+  },
+  "Reciprocity": {
+   "pos": 77,
+   "neg": 4,
+   "n": 81,
+   "share": 0.04938271604938271,
+   "wilson_lo": 0.01936899210168111,
+   "wilson_hi": 0.12020404753924974,
+   "weighted_share": 0.03389830508474576,
+   "boot_lo": 0.0,
+   "boot_hi": 0.08264618156962654,
+   "societies_with_evaluation": 34,
+   "n_ge_73": true,
+   "falsified": false
+  },
+  "Heroism": {
+   "pos": 140,
+   "neg": 1,
+   "n": 141,
+   "share": 0.0070921985815602835,
+   "wilson_lo": 0.0012530139445820175,
+   "wilson_hi": 0.03907794069828302,
+   "weighted_share": 0.004629629629629629,
+   "boot_lo": 0.0,
+   "boot_hi": 0.015155380333951743,
+   "societies_with_evaluation": 37,
+   "n_ge_73": true,
+   "falsified": false
+  },
+  "Deference": {
+   "pos": 116,
+   "neg": 5,
+   "n": 121,
+   "share": 0.04132231404958678,
+   "wilson_lo": 0.01777722390103202,
+   "wilson_hi": 0.0930960747430097,
+   "weighted_share": 0.031914893617021274,
+   "boot_lo": 0.0,
+   "boot_hi": 0.07693370165745851,
+   "societies_with_evaluation": 34,
+   "n_ge_73": true,
+   "falsified": false
+  },
+  "Fairness": {
+   "pos": 17,
+   "neg": 1,
+   "n": 18,
+   "share": 0.05555555555555555,
+   "wilson_lo": 0.009874935830924525,
+   "wilson_hi": 0.2575779980200754,
+   "weighted_share": 0.037037037037037035,
+   "boot_lo": 0.0,
+   "boot_hi": 0.125,
+   "societies_with_evaluation": 14,
+   "n_ge_73": false,
+   "falsified": false
+  },
+  "Property": {
+   "pos": 171,
+   "neg": 8,
+   "n": 179,
+   "share": 0.0446927374301676,
+   "wilson_lo": 0.022817546303287715,
+   "wilson_hi": 0.08570042772450465,
+   "weighted_share": 0.05172413793103448,
+   "boot_lo": 0.00809634974533107,
+   "boot_hi": 0.10679611650485436,
+   "societies_with_evaluation": 40,
+   "n_ge_73": true,
+   "falsified": true
+  }
+ },
+ "by_target": {
+  "ENEMY": {
+   "pos": 92,
+   "neg": 5
+  },
+  "GROUP": {
+   "pos": 379,
+   "neg": 8
+  },
+  "KIN": {
+   "pos": 231,
+   "neg": 6
+  },
+  "STRANGER": {
+   "pos": 20,
+   "neg": 1
+  },
+  "UNCLEAR": {
+   "pos": 122,
+   "neg": 5
+  }
+ },
+ "first_coder_only_counts": {
+  "Family": {
+   "pos": 169,
+   "neg": 6
+  },
+  "Group": {
+   "pos": 154,
+   "neg": 0
+  },
+  "Reciprocity": {
+   "pos": 77,
+   "neg": 4
+  },
+  "Heroism": {
+   "pos": 140,
+   "neg": 1
+  },
+  "Deference": {
+   "pos": 116,
+   "neg": 5
+  },
+  "Fairness": {
+   "pos": 17,
+   "neg": 1
+  },
+  "Property": {
+   "pos": 171,
+   "neg": 9
+  }
+ },
+ "verdict": "falsified for: Property",
+ "upper_bound_below_5pct": [
+  "Group",
+  "Heroism"
+ ]
+}

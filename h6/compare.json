@@ -1,0 +1,158 @@
+{
+ "S001": {
+  "status": "AGREE",
+  "usableA": 1,
+  "usableB": 1,
+  "gA": [
+   1.237
+  ],
+  "gB": [
+   1.237
+  ]
+ },
+ "S006": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S007": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S008": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S009": {
+  "status": "AGREE",
+  "usableA": 1,
+  "usableB": 1,
+  "gA": [
+   0.079
+  ],
+  "gB": [
+   0.079
+  ]
+ },
+ "S014": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S045": {
+  "status": "AGREE",
+  "usableA": 1,
+  "usableB": 1,
+  "gA": [
+   0.141
+  ],
+  "gB": [
+   0.141
+  ]
+ },
+ "S050": {
+  "status": "AGREE_inaccessible",
+  "nA": 2,
+  "nB": 2
+ },
+ "S051": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S052": {
+  "status": "AGREE_inaccessible",
+  "nA": 7,
+  "nB": 10
+ },
+ "S053": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S054": {
+  "status": "AGREE_inaccessible",
+  "nA": 12,
+  "nB": 12
+ },
+ "S064": {
+  "status": "AGREE_inaccessible",
+  "nA": 2,
+  "nB": 2
+ },
+ "S065": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S081": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S089": {
+  "status": "AGREE",
+  "usableA": 1,
+  "usableB": 1,
+  "gA": [
+   0.57
+  ],
+  "gB": [
+   0.57
+  ]
+ },
+ "S105": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S120": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S121": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S122": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S129": {
+  "status": "AGREE",
+  "usableA": 1,
+  "usableB": 1,
+  "gA": [
+   0.441
+  ],
+  "gB": [
+   0.441
+  ]
+ },
+ "S131": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S132": {
+  "status": "AGREE_inaccessible",
+  "nA": 1,
+  "nB": 1
+ },
+ "S133": {
+  "status": "AGREE",
+  "usableA": 1,
+  "usableB": 1,
+  "gA": [
+   1.26
+  ],
+  "gB": [
+   1.26
+  ]
+ }
+}

@@ -13,17 +13,33 @@ def pic(name, alt):
 FIG_AFTER = {
     'Is divine legitimation a constraint on rulers or a tool of power?': None,
 }
+spec2 = importlib.util.spec_from_file_location('rr', '/root/analysis/report/report_retest_text.py'); rr = importlib.util.module_from_spec(spec2); spec2.loader.exec_module(rr)
+EN_OK = 'Attribution\u2013ShareAlike'
 out = []; inlist = False
+# Part 1: the retest (current)
+for st, tx in rr.R:
+    assert '\u2014' not in tx and '\u2013' not in tx.replace(EN_OK, '')
+    tx = tx.replace('H4b*', 'H4b\\*')
+    if st == 'BULLET':
+        out.append(f'- {tx}'); inlist = True; continue
+    if inlist: out.append(''); inlist = False
+    out.append({'TITLE': '# ', 'HEADING_2': '## ', 'HEADING_3': '### '}.get(st, '') + tx + '\n')
+if inlist: out.append(''); inlist = False
+out.append('## Part 2. The first run (16 to 23 October 2026)\n')
+out.append('The sections below are the report of the first run, unchanged. Its content measure (moral word counts in canonical texts) was retired in the retest; where Part 1 and Part 2 differ, Part 1 is current.\n')
+first = True
 for st, tx in rt.R:
+    if st == 'TITLE': continue
+    if first and st == 'NORMAL_TEXT': first = False; continue
+    first = False
     for k, v in PENDING.items(): tx = tx.replace(k, v)
     assert '—' not in tx and '–' not in tx
     if st == 'BULLET':
         out.append(f'- {tx}'); inlist = True; continue
     if inlist: out.append(''); inlist = False
-    if st == 'TITLE': out.append(f'# {tx}\n')
-    elif st == 'HEADING_2': out.append(f'## {tx}\n')
+    if st == 'HEADING_2': out.append(f'### {tx}\n')
     elif st == 'HEADING_3':
-        out.append(f'### {tx}\n')
+        out.append(f'#### {tx}\n')
     else:
         out.append(tx + '\n')
         if tx.startswith('Comparison with other ideologies'):

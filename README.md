@@ -9,14 +9,15 @@ Genes cannot carry what a person learns in a lifetime. Language can. A lesson ab
 
 This repository tests those ideas against world history, using:
 
-- 864 polities in the Seshat Global History Databank, from the end of the last Ice Age to the present;
+- 864 polities in the Seshat Global History Databank, from the end of the last Ice Age to the present, 221 of them with coded ideology;
 - 2,564 folklore motifs told across 1,265 societies;
 - the religions of 775 societies;
-- 1,600 autocratic regimes since 1789.
+- 1,600 autocratic regimes since 1789 and 2,020 national leaders since 1875;
+- 5,172 passages from ethnographies of 53 societies written before 1929.
 
 The tests come from a pre-registered research protocol, and each one names in advance what result would count against it.
 
-The short answer so far: counting moral words in sacred texts does not predict how long states last. How rulers actually behave predicts how their regimes end.
+The short answer so far: neither moral words in scriptures nor historians' codes of inclusive ideology predict how long states last. How rulers actually behave predicts how their regimes and their own careers end.
 
 ## The ideas being tested
 
@@ -26,49 +27,42 @@ The short answer so far: counting moral words in sacred texts does not predict h
 
 ## What was found
 
-**Moral words in scriptures do not predict how long states last.** The canonical texts of 15 traditions were scored with a published dictionary of cooperative morality (the Bible, the Qur'an, the Rig Veda, the Analects, the Kojiki, the Iliad, and others). The score did not predict how long 253 states lasted: hazard ratio 1.08 per standard deviation [0.90, 1.28]. A strong protective effect is ruled out; a small one is not. The test was weak, though. Only 15 traditions vary, and a word count measures how often morality is mentioned, not whether a story endorses it. The Kojiki scores highest because its genealogies are full of kinship words.
+These are the results of the retest of 23 October 2026, which replaced the first run's word counts with better measures. The first run's results are kept in the reports and summarized at the end of this section.
 
-**In folklore, what predicts trust is how a story ends, not which moral words it uses.** Earlier work found that societies whose folk tales punish the trickster are more trusting today, even among the children of immigrants. That result reproduced exactly here. Counting cooperative words in the same tales predicted nothing.
+**Inclusive ideology does not predict how long states last.** Seshat's historians coded, for each polity, whether its ideology treats people as equals and holds elites and rulers to the same norms as commoners. Across 221 polities with 117 endings, comparing each region with its own past, the hazard ratio is 1.03 per standard deviation [0.72, 1.47]. Within the same religion it is 0.94 [0.71, 1.26]. It stays near 1 after controlling for agriculture, military technology, population, territory and social complexity century by century (1.18 [0.77, 1.81]). The same measure does not predict internal collapse, recovery from crises, or later growth in complexity. A strong protective effect is unlikely; a small one cannot be ruled out.
 
-**Belief in a moralizing God spreads like an inherited institution of large states.** Across 775 societies on a global language tree, belief in a moralizing high god clusters by ancestry (D = -0.20, where 1 would be a random scatter). Each extra level of political hierarchy multiplies its odds by 2.4, and prevalence rises from 6 percent in village societies to 61 percent in societies with four levels of hierarchy. This fits the idea that people converged on moral content while the God travelled with states, conquest and conversion.
+**How rulers behave predicts how regimes and leaders end.** Among autocracies since 1789, those that ruled more cooperatively ended violently from within less often, even when conduct is measured 10 or 20 years before the end (30 against 53 percent at 10 years). Among 2,020 leaders since 1875, those whose first three years were most cooperative left office irregularly 11 percent of the time, against 51 percent for the least cooperative, and ended in exile, prison or death 15 against 54 percent of the time. Two limits: the link disappears when each country is compared only with itself, and premodern constraints on rulers predict nothing.
 
-**Believing that rulers answer to God did not protect states.** Polities whose rulers were believed to be under divine moral judgement suffered no less in their crises. Their crises more often ended with the ruler deposed or killed: 67 versus 22 percent. Those removals came with civil war, not reform; none of 93 removals was followed by new public goods. After an internal collapse, the next state in the same region was less complex than after an ordinary transition; after a conquest it was not.
+**The cooperative behaviours are approved almost everywhere, and respect for property stops at the group's edge.** In 53 societies from 42 language families, 844 of 869 stated judgements approve helping kin, group loyalty, returning favours, bravery, respect for superiors, fair division and respect for property. By the rule set in advance (more than 5 percent condemnations), respect for property fails narrowly: 5.2 percent, family-weighted. Six of the eight condemnations concern the property of enemies or of landlords. Own-group property was condemned in 1 of 91 judgements.
 
-**What rulers do matters more than what is claimed for them.** Human experts (V-Dem) rated every autocracy since 1789 on dominance (political killings, torture, repression) and on cooperation (respecting the constitution, accepting courts and legislatures, spending on public goods rather than favours). The results:
-- **How regimes end:** the most cooperative quarter ended violently from within 39 percent of the time, against 63 percent for the least cooperative quarter (chart above).
-- **How long they last:** cooperative regimes did not last longer. That is exactly what the protocol's model predicted.
-- **Prosperity and health:** for each standard deviation more cooperative, a country grew 2 percent more over the following decade and gained half a year more of life expectancy over two decades.
-- **Not supported:** civil wars and coups were no less frequent.
+**Belief in a moralizing God is inherited along language lineages.** On dated trees of Austronesian, Bantu and Indo-European languages, moralizing gods cluster strongly by ancestry. The trees do not show them following political hierarchy (p = 0.79).
 
-**Rule in the name of religion looks like rule by force.** Autocracies that legitimate themselves through religion grant less religious freedom to others. They kill and torture more, are less constrained by courts, and spend less on public goods. Nationalist and socialist regimes share parts of this profile; only religious legitimation has all of it.
+**What folk tales reward does not predict trust; whether they punish the trickster does.** Coding what 2,436 motifs reward and punish gives a score that predicts neither trust across countries nor trust among children of immigrants. The published trickster-punishment measure still does. Stories that reward cooperation are not more widespread or longer-lived than other stories.
+
+**Published experiments on cooperative stories are few and mostly unreadable here.** Of 24 eligible randomized experiments, only 5 could be read and converted, all with children or adolescents and modern stories, none preregistered. Their pooled effect is large (g = 0.74 [0.09, 1.39]) but varies widely, and after correcting for small-study bias it no longer excludes zero. The test the hypothesis actually needs, traditional stories with adults and real stakes, has essentially not been run.
+
+**Rule in the name of religion looks like rule by force** (first run). Autocracies that legitimate themselves through religion grant less religious freedom, kill and torture more, are less constrained by courts, and spend less on public goods.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="report/figures/fig2_religious_legitimation_dark.png">
   <img alt="Autocracies that legitimate themselves through religion: less religious freedom, fewer public goods, weaker courts, more repression, killings and torture" src="report/figures/fig2_religious_legitimation_light.png" width="760">
 </picture>
 
-**Conquerors adopt the faith of the conquered only when they bring none to rival it.** The theory predicts that conquerors adopt the stories of the conquered when those stories carry more cooperative content, as the Mongols became Muslims and the Manchus became Confucian emperors. In 61 conquests where the two sides held different traditions, conquerors adopted the conquered tradition fully in 5 and partly in 16. Adoption was, if anything, less likely for high-content traditions (odds ratio 0.60 [0.31, 1.15]). What mattered was what the conquerors brought. Peoples with no codified religion of their own adopted in 11 of 15 conquests; Christian and Muslim conquerors kept their own in 23 of 26.
-
-**The seven cooperative behaviours are valued almost everywhere, with exceptions at the group's edge.** A new sample of 30 societies from 30 language families was drawn from ethnographies written before 1929. In it, helping kin, group loyalty, returning favours, bravery, respect for superiors, fair division and respect for property were approved in 200 of the 203 passages that state how the society judges them. The three exceptions show where approval stops: Khoikhoi warriors give thanks for cattle stolen from enemies, and a Russian sect condemns paying taxes to the Tsar's officials. This replicates an earlier 60-society study (961 of 962 judgements positive). It also fits the idea that people converged on the content of morality. The new evidence is thin, though: only 11 to 50 judgements per behaviour.
+**The first run, in brief.** Moral word counts in 15 canonical traditions did not predict how long 253 states lasted (HR 1.08 [0.90, 1.28]). Believing that rulers answer to God did not protect states, and crises under such rulers more often ended in removals. Conquerors adopted the faith of the conquered only when they brought no codified religion of their own. These results, and why the word-count measure was retired, are in [`report/RESULTS.md`](report/RESULTS.md).
 
 ## Why it matters
 
-The boldest claim, that the moral content of stories selects which societies survive, did not show up when content was measured by word counts. That leaves two possibilities: the claim is wrong, or the measure is too blunt. The folklore result points to the second. Readers respond to whether a story rewards the cheat, not to how often it says "brother". The next test has to code what stories endorse.
+The boldest claim, that the moral content of a society's stories helps decide how long it survives, has now failed with two different measures: word counts in scriptures, and historians' codes of each polity's ideology. Neither is a reading of the narratives themselves, so the claim is not refuted, but there is no positive evidence for it in the historical record.
 
-The convergence claim held on both sides. The cooperative behaviours are approved almost everywhere they are judged, while belief in a moralizing God travels with descent and with the growth of states, as an inherited institution does.
+The convergence claim holds in its in-group form. People everywhere approve of the behaviours that make cooperation work among their own, and belief in a moralizing God travels with descent, as an inherited institution does.
 
-The leadership claim held up once it was measured by conduct rather than by belief. Force does not shorten a regime's life. It changes how the regime dies: in coups, assassinations and uprisings instead of orderly transitions, with poorer and less healthy societies left behind. And a ruler who claims God's authority is, on the evidence of the last century, more likely to rule by force than to be bound by morality.
+The leadership claim holds for how rule ends, not how long it lasts. Force does not shorten a regime's life; it changes how the regime and its rulers end. Whether that is cooperation itself or the kind of country that rules cooperatively is the question the next test must answer.
 
 ## How much to trust this
 
-These results are exploratory. The protocol has not been peer reviewed, and every analysis plan was fixed before its data were examined. Every deviation from plan is logged (D1 to D23 in the protocol).
+These results are exploratory. The protocol has not been peer reviewed. Every analysis plan was fixed before its data were linked to outcomes, every script was frozen with a hash, and every later change is logged (deviations D1 to D37 in the protocol).
 
-Three kinds of judgement were made by independent instances of an AI model (Claude), with no human coders:
-- how each state ended;
-- whether conquerors adopted the conquered tradition;
-- how ethnographies evaluate behaviours.
-
-Agreement between those instances shows the model is consistent, not that it is right. The other main sources were coded by human experts: Seshat, V-Dem, the Ethnographic Atlas and the folklore catalogue. Two separate verification runs re-derived the folklore, crisis, ruler-conduct, conquest and ethnography numbers from scratch; all reproduced, and the errors they found are corrected and logged. One gap remains: none of the three passages coded as condemning a behaviour was double-coded, so agreement on those judgements is untested.
+The content and conduct measures in the retest were coded by human experts (Seshat, V-Dem, Archigos, the Ethnographic Atlas, the folklore catalogue). Three kinds of judgement were made by independent instances of an AI model (Claude), with no human coders: how each state ended, what folk motifs reward and punish, and how ethnographies evaluate behaviours. On 281 trickster motifs, the AI coder agreed with human MTurk coders as often as the humans agreed with each other. Agreement between AI instances shows the model is consistent, not that it is right. Independent agents re-derived the main numbers of the retest with their own code; all reproduced, and the points of wording they raised are logged (D37).
 
 ## Read the full reports
 
@@ -86,10 +80,13 @@ Agreement between those instances shows the model is consistent, not that it is 
 | `study2/` | Folklore motif scoring and the trust, immigrant and political-scale models |
 | `h4b/` | Conquest episodes, coding brief, coder outputs, agreement and analysis |
 | `h8/` | Rulers under divine judgement: survival models, crisis models, and the costs of removal and collapse |
-| `h8r/` | Ruler conduct (dominance versus cooperation) and religious legitimation, V-Dem v15 |
-| `h9a/` | Ethnography sample, passage extraction, coding brief and codes |
+| `h8r/` | Ruler conduct (dominance versus cooperation) and religious legitimation, V-Dem v15; retest Parts A to C |
+| `h9a/` | Ethnography sample, texts, passage extraction (versions 1 and 2), coding briefs and codes |
 | `h9b/` | Phylogenetic signal of moralizing-god belief on the Ethnographic Atlas |
-| `verification/` | Independent re-derivations of the folklore, crisis, ruler-conduct, conquest and ethnography results |
+| `retest/` | Retest of Study 1 and H8 Part A: approved plan, Equinox matching, exposures, new termination codes, century-panel analysis, H9b dated trees, H10 |
+| `study2_retest/` | Folklore motif endorsement coding (briefs, codes, reliability, human check) and the rerun of Study 2 |
+| `h6/` | H6 systematic review: protocol, search log, screened records, extraction briefs, both extractions, verification and meta-analysis |
+| `verification/` | Independent re-derivations of the first-run and retest results |
 | `protocol/` | Scripts that wrote the protocol's later sections |
 | `tools/` | Helpers for moving files through the browser |
 
@@ -102,14 +99,23 @@ Third-party data not stored here, and where to get them:
 - **Folklore:** Michalopoulos and Xue (2021), *Folklore*, replication archive: https://doi.org/10.7910/DVN/IXOHKB
 - **V-Dem v15:** https://github.com/vdeminstitute/vdemdata (`data/vdem.RData`)
 - **D-PLACE** (Ethnographic Atlas and Glottolog trees): https://github.com/D-PLACE/dplace-cldf
+- **Seshat Equinox 2020 and power transitions:** https://github.com/Seshat-Global-History-Databank/build_polaris_dataset and https://github.com/matildaperuzzo/SeshatDatasetAnalysis
+- **Seshat Agri dataset:** https://seshat-db.com (downloads page; free account required). The derived index is in `data/seshat/seshat_agri_index.csv`.
+- **Cliopatria:** https://github.com/Seshat-Global-History-Databank/cliopatria
+- **Archigos 4.1:** https://www.rochester.edu/college/faculty/hgoemans/data.htm
+- **Glottolog CLDF (language endangerment):** https://github.com/glottolog/glottolog-cldf
 - **MAC-D dictionaries:** the eMACDscore package, https://github.com/medianeuroscience/eMACDscore. These are the package's copies of the OSF originals (https://osf.io/86qry). The virtue file is 9 bytes smaller than the OSF listing; see deviation D15 in the protocol.
 
 ## Licences
 
 - **Code:** MIT.
-- **Seshat-derived files** (`data/seshat`, `study1`, `h8`): CC BY-NC-SA 4.0, as the Seshat licence requires. Non-commercial use only; cite the Seshat Global History Databank (https://seshat-db.com).
+- **Seshat-derived files** (`data/seshat`, `study1`, `h8`, `retest`, and the premodern part of `h8r`): CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/), under the Seshat Databank User Agreement. Changes made: polity matching, derived indices (ideology, executive constraint, agricultural productivity), century sampling and imputation, and new termination codes. No Seshat Private Data were used.
+
+  This research used data from the Seshat Databank (https://seshat-db.com) under the Creative Commons Attribution–ShareAlike 4.0 International License (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/.
+
+  References: Benam, M. et al. (2022). Seshat Data: Equinox Packaged Data (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6642229. Turchin, P. et al. (2021). An integrative approach to estimating productivity in past societies using Seshat: Global History Databank. The Holocene 31(6): 1055-1065. https://doi.org/10.1177/0959683621994644
 - **V-Dem-derived results** (`h8r`): CC BY-SA 4.0, following V-Dem's licence.
-- **Texts in `cci/texts` and `cci/clean`:** public-domain translations, all published before 1929. Sources are listed in `cci/texts/manifest.csv`. Licence headers were stripped at retrieval, so these are not Project Gutenberg editions.
+- **Texts in `cci/texts`, `cci/clean` and `h9a/texts`:** public-domain works, all published before 1929. Licence headers were stripped at retrieval, so these are not Project Gutenberg editions.
 - **Other coding records, reports and figures:** CC BY 4.0.
 
 ## Author

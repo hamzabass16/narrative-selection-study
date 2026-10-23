@@ -1,0 +1,20 @@
+{
+ "score_interval": 0.925,
+ "sign_ordinal": 0.93,
+ "any_act_nominal": 0.947,
+ "family_presence (acts A+B=21)": 0.845,
+ "family_sign": 0.852,
+ "group_presence (acts A+B=6)": 1.0,
+ "group_sign": 1.0,
+ "reciprocity_presence (acts A+B=34)": 1.0,
+ "reciprocity_sign": 0.923,
+ "bravery_presence (acts A+B=11)": 0.905,
+ "bravery_sign": 0.885,
+ "deference_presence (acts A+B=6)": 1.0,
+ "deference_sign": 1.0,
+ "fairness_presence (acts A+B=2)": 1.0,
+ "fairness_sign": 1.0,
+ "property_presence (acts A+B=12)": 1.0,
+ "property_sign": 1.0,
+ "trick_class_nominal": 0.959
+}

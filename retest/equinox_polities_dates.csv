@@ -1,0 +1,374 @@
+NGA,code,start,end,date_source
+Basin of Mexico,MxArch,-6000.0,-2001.0,Duration
+Basin of Mexico,MxAztec,1427.0,1526.0,Duration
+Basin of Mexico,MxClass,100.0,649.0,Duration
+Basin of Mexico,MxEpicl,650.0,899.0,Duration
+Basin of Mexico,MxFormE,-1200.0,-801.0,Duration
+Basin of Mexico,MxFormL,-400.0,-101.0,Duration
+Basin of Mexico,MxFormM,-800.0,-401.0,Duration
+Basin of Mexico,MxFormT,-100.0,99.0,Duration
+Basin of Mexico,MxInitl,-2000.0,-1201.0,Duration
+Basin of Mexico,MxPostM,1200.0,1426.0,Duration
+Basin of Mexico,MxToltc,900.0,1199.0,Duration
+Big Island Hawaii,Hawaii1,1000.0,1199.0,polities.csv
+Big Island Hawaii,Hawaii2,1200.0,1649.0,polities.csv
+Big Island Hawaii,Hawaii3,1650.0,1777.0,polities.csv
+Big Island Hawaii,USKameh,1778.0,1819.0,polities.csv
+Cahokia,USCahoE,1050.0,1199.0,polities.csv
+Cahokia,USCahoL,1200.0,1274.0,polities.csv
+Cahokia,USIllin,1640.0,1717.0,polities.csv
+Cahokia,USMisEW,-600.0,-151.0,polities.csv
+Cahokia,USMisME,900.0,1049.0,polities.csv
+Cahokia,USMisMW,-150.0,299.0,polities.csv
+Cahokia,USMisMu,450.0,599.0,polities.csv
+Cahokia,USMisPa,600.0,749.0,polities.csv
+Cahokia,USMisRo,300.0,449.0,polities.csv
+Cahokia,USMisSd,1275.0,1399.0,polities.csv
+Cahokia,USMisSp,750.0,899.0,polities.csv
+Cahokia,USOneot,1400.0,1639.0,polities.csv
+Cambodian Basin,KhAngkC,1080.0,1219.0,polities.csv
+Cambodian Basin,KhAngkE,802.0,1079.0,polities.csv
+Cambodian Basin,KhAngkL,1220.0,1431.0,polities.csv
+Cambodian Basin,KhCambd,1432.0,1593.0,polities.csv
+Cambodian Basin,KhChenl,640.0,801.0,polities.csv
+Cambodian Basin,KhFunaE,225.0,539.0,polities.csv
+Cambodian Basin,KhFunaL,540.0,639.0,polities.csv
+Cambodian Basin,KhMekBA,-1200.0,-501.0,Duration
+Cambodian Basin,KhMekIA,-500.0,224.0,Duration
+Cambodian Basin,ThAyuth,1594.0,1767.0,polities.csv
+Cambodian Basin,ThRattn,1782.0,1873.0,polities.csv
+Central Java,IdCJBun,-400.0,499.0,polities.csv
+Central Java,IdKalin,500.0,731.0,polities.csv
+Central Java,IdKedir,1049.0,1222.0,polities.csv
+Central Java,IdMajap,1291.0,1518.0,polities.csv
+Central Java,IdMatrm,1568.0,1703.0,polities.csv
+Central Java,IdMedng,732.0,1019.0,polities.csv
+Chuuk Islands,FmTrukE,1775.0,1885.0,polities.csv
+Chuuk Islands,FmTrukL,1886.0,1948.0,polities.csv
+Crete,GrCrArc,-710.0,-501.0,polities.csv
+Crete,GrCrCls,-500.0,-322.0,polities.csv
+Crete,GrCrEmr,824.0,960.0,polities.csv
+Crete,GrCrFPa,-1200.0,-1001.0,polities.csv
+Crete,GrCrGeo,-1000.0,-711.0,polities.csv
+Crete,GrCrHel,-323.0,-69.0,polities.csv
+Crete,GrCrMPa,-1450.0,-1301.0,polities.csv
+Crete,GrCrNPa,-1700.0,-1451.0,polities.csv
+Crete,GrCrNeo,-7000.0,-3001.0,polities.csv
+Crete,GrCrOPa,-1900.0,-1701.0,polities.csv
+Crete,GrCrPPa,-1300.0,-1201.0,polities.csv
+Crete,GrCrPre,-3000.0,-1901.0,polities.csv
+Crete,ItVenR3,1205.0,1564.0,Duration
+Crete,ItVenR4,1565.0,1797.0,Duration
+Crete,TrByzM3,1073.0,1203.0,polities.csv
+Cuzco,EsHabsb,1521.0,1700.0,polities.csv
+Cuzco,PeCuzE1,200.0,499.0,polities.csv
+Cuzco,PeCuzE2,500.0,649.0,polities.csv
+Cuzco,PeCuzL1,1000.0,1249.0,polities.csv
+Cuzco,PeCuzL2,1250.0,1399.0,polities.csv
+Cuzco,PeCuzLF,1.0,199.0,polities.csv
+Cuzco,PeInca,1400.0,1531.0,polities.csv
+Cuzco,PeWari,650.0,999.0,polities.csv
+Deccan,GbEmpr2,1780.0,1840.0,Duration
+Deccan,InChaBd,541.0,756.0,polities.csv
+Deccan,InChaKl,974.0,1055.0,polities.csv
+Deccan,InDecIA,-1200.0,-301.0,polities.csv
+Deccan,InDecKg,-205.0,-101.0,polities.csv
+Deccan,InDecNL,-2700.0,-1201.0,polities.csv
+Deccan,InHoysa,1192.0,1253.0,polities.csv
+Deccan,InKadam,451.0,540.0,polities.csv
+Deccan,InKampi,1280.0,1310.0,polities.csv
+Deccan,InRasht,757.0,973.0,polities.csv
+Deccan,InSataL,-100.0,203.0,polities.csv
+Deccan,InVakat,286.0,335.0,polities.csv
+Deccan,InVijay,1337.0,1646.0,polities.csv
+Finger Lakes,UsIroqE,1566.0,1713.0,polities.csv
+Finger Lakes,UsIroqL,1714.0,1848.0,polities.csv
+Finger Lakes,UsIroqP,1300.0,1565.0,Duration
+Galilee,IlCanaa,-2000.0,-1181.0,polities.csv
+Galilee,IlJudea,-103.0,-62.0,polities.csv
+Galilee,IlYisrl,-1030.0,-722.0,polities.csv
+Galilee,LbAcPho,-1180.0,-1031.0,polities.csv
+Garo Hills,InGaroE,1775.0,1867.0,polities.csv
+Garo Hills,InGaroL,1868.0,1956.0,polities.csv
+Ghanaian Coast,GhAshnE,1501.0,1701.0,polities.csv
+Ghanaian Coast,GhAshnL,1702.0,1895.0,polities.csv
+Iceland,IsCommw,930.0,1261.0,polities.csv
+Iceland,NorKing,1262.0,1380.0,polities.csv
+Kachi Plain,AfDurrn,1748.0,1826.0,polities.csv
+Kachi Plain,AfGhurd,1193.0,1206.0,polities.csv
+Kachi Plain,InDelh,1206.0,1525.0,polities.csv
+Kachi Plain,InMugl,1526.0,1803.0,polities.csv
+Kachi Plain,PkAcerN,-7500.0,-5501.0,polities.csv
+Kachi Plain,PkCeraN,-5500.0,-4001.0,polities.csv
+Kachi Plain,PkChalc,-4000.0,-3201.0,polities.csv
+Kachi Plain,PkIndGr,-145.0,-96.0,polities.csv
+Kachi Plain,PkPostU,-1800.0,-1301.0,polities.csv
+Kachi Plain,PkPreUr,-3200.0,-2501.0,polities.csv
+Kachi Plain,PkProto,-1300.0,-551.0,polities.csv
+Kachi Plain,PkSind1,862.0,1192.0,polities.csv
+Kachi Plain,PkSind2,1340.0,1519.0,polities.csv
+Kachi Plain,PkUrbn1,-2500.0,-2101.0,polities.csv
+Kachi Plain,PkUrbn2,-2100.0,-1801.0,polities.csv
+Kansai,JpAshik,1336.0,1466.0,polities.csv
+Kansai,JpAsuka,538.0,710.0,polities.csv
+Kansai,JpAzMom,1568.0,1602.0,polities.csv
+Kansai,JpHeian,794.0,1184.0,polities.csv
+Kansai,JpJomo1,-13600.0,-9200.0,Duration
+Kansai,JpJomo2,-9200.0,-5300.0,Duration
+Kansai,JpJomo3,-5300.0,-3500.0,Duration
+Kansai,JpJomo4,3500.0,2500.0,Duration
+Kansai,JpJomo5,-2500.0,-1200.0,Duration
+Kansai,JpJomo6,,,Duration
+Kansai,JpKamak,1185.0,1333.0,polities.csv
+Kansai,JpKofun,250.0,537.0,polities.csv
+Kansai,JpNara,710.0,794.0,Duration
+Kansai,JpSengk,1467.0,1567.0,polities.csv
+Kansai,JpTokgw,1603.0,1868.0,polities.csv
+Kansai,JpYayoi,-300.0,249.0,polities.csv
+Kapuasi Basin,IdBrokE,1650.0,1841.0,polities.csv
+Kapuasi Basin,IdBrokL,1842.0,1987.0,polities.csv
+Konya Plain,TrBrzER,-3000.0,-2001.0,polities.csv
+Konya Plain,TrBrzL2,-1500.0,-1400.0,polities.csv
+Konya Plain,TrBrzMD,-2000.0,-1700.0,polities.csv
+Konya Plain,TrByzM1,632.0,866.0,polities.csv
+Konya Plain,TrByzM2,867.0,1072.0,polities.csv
+Konya Plain,TrCappL,-129.0,-95.0,polities.csv
+Konya Plain,TrClcER,-6000.0,-5501.0,polities.csv
+Konya Plain,TrClcLT,-5000.0,-3001.0,polities.csv
+Konya Plain,TrERom,395.0,632.0,polities.csv
+Konya Plain,TrHatNK,-1344.0,-1181.0,polities.csv
+Konya Plain,TrHatOK,-1650.0,-1501.0,polities.csv
+Konya Plain,TrLydia,-670.0,-547.0,polities.csv
+Konya Plain,TrLysim,-300.0,-282.0,polities.csv
+Konya Plain,TrNHitt,-1180.0,-901.0,polities.csv
+Konya Plain,TrNeoCR,-7000.0,-6601.0,polities.csv
+Konya Plain,TrNeoER,-9600.0,-7001.0,polities.csv
+Konya Plain,TrNeoLT,-6600.0,-6001.0,polities.csv
+Konya Plain,TrOttm1,1393.0,1402.0,polities.csv
+Konya Plain,TrOttm2,1421.0,1516.0,polities.csv
+Konya Plain,TrOttm3,1517.0,1682.0,polities.csv
+Konya Plain,TrOttm4,1683.0,1838.0,polities.csv
+Konya Plain,TrPhryg,-836.0,-696.0,polities.csv
+Konya Plain,TrRomDm,284.0,473.0,polities.csv
+Konya Plain,TrRum,1093.0,1243.0,polities.csv
+Konya Plain,TrTabal,-900.0,-837.0,polities.csv
+Latium,ItLatBA,-1800.0,-1001.0,polities.csv
+Latium,ItLatCA,-3600.0,-1801.0,polities.csv
+Latium,ItLatIA,-1000.0,-717.0,polities.csv
+Latium,ItOstrg,493.0,554.0,polities.csv
+Latium,ItPapEM,904.0,1197.0,polities.csv
+Latium,ItPapHM,1198.0,1308.0,polities.csv
+Latium,ItPapM1,1527.0,1647.0,polities.csv
+Latium,ItPapM2,1648.0,1800.0,polities.csv
+Latium,ItPapRn,1378.0,1526.0,polities.csv
+Latium,ItRav,568.0,710.0,polities.csv
+Latium,ItRomER,-509.0,-265.0,polities.csv
+Latium,ItRomLR,-133.0,-29.0,polities.csv
+Latium,ItRomMR,-264.0,-134.0,polities.csv
+Latium,ItRomPr,-31.0,283.0,polities.csv
+Latium,ItRomRg,-716.0,-510.0,polities.csv
+Latium,ItRomWe,395.0,457.0,polities.csv
+Latium,ItStPet,711.0,903.0,polities.csv
+Lena River Valley,RuYakuE,1400.0,1642.0,polities.csv
+Lena River Valley,RuYakuL,1643.0,1900.0,polities.csv
+Lowland Andes,EcJivaE,1534.0,1830.0,polities.csv
+Lowland Andes,EcJivaL,1831.0,1931.0,polities.csv
+Middle Ganga,InAyodE,-64.0,34.0,polities.csv
+Middle Ganga,InGangC,-3000.0,-601.0,Duration
+Middle Ganga,InGangN,-7000.0,-3001.0,Duration
+Middle Ganga,InGhdvl,1090.0,1202.0,polities.csv
+Middle Ganga,InGupta,320.0,514.0,polities.csv
+Middle Ganga,InGurjr,810.0,1030.0,polities.csv
+Middle Ganga,InKanau,650.0,779.0,polities.csv
+Middle Ganga,InMagad,550.0,606.0,polities.csv
+Middle Ganga,InMahaJ,-600.0,-325.0,polities.csv
+Middle Ganga,InMaury,-324.0,-188.0,polities.csv
+Middle Ganga,InSunga,-187.0,-65.0,polities.csv
+Middle Yellow River Valley,CnEHan,25.0,219.0,polities.csv
+Middle Yellow River Valley,CnErJin,265.0,317.0,polities.csv
+Middle Yellow River Valley,CnErlig,-1650.0,-1251.0,polities.csv
+Middle Yellow River Valley,CnErlit,-1850.0,-1651.0,polities.csv
+Middle Yellow River Valley,CnJinSA,-794.0,-489.0,polities.csv
+Middle Yellow River Valley,CnLngsh,-3000.0,-1900.0,polities.csv
+Middle Yellow River Valley,CnLrJin,1127.0,1234.0,polities.csv
+Middle Yellow River Valley,CnMing,1368.0,1643.0,polities.csv
+Middle Yellow River Valley,CnNSong,960.0,1126.0,polities.csv
+Middle Yellow River Valley,CnNWei,386.0,557.0,polities.csv
+Middle Yellow River Valley,CnPeili,-7000.0,-5001.0,Duration
+Middle Yellow River Valley,CnQingE,1644.0,1795.0,polities.csv
+Middle Yellow River Valley,CnQingL,1796.0,1912.0,polities.csv
+Middle Yellow River Valley,CnShang,-1250.0,-1123.0,polities.csv
+Middle Yellow River Valley,CnSui,581.0,617.0,polities.csv
+Middle Yellow River Valley,CnTangE,618.0,762.0,polities.csv
+Middle Yellow River Valley,CnTangL,763.0,907.0,polities.csv
+Middle Yellow River Valley,CnWHan,-202.0,9.0,polities.csv
+Middle Yellow River Valley,CnWZhou,-1122.0,-795.0,polities.csv
+Middle Yellow River Valley,CnWeiWS,-488.0,-223.0,polities.csv
+Middle Yellow River Valley,CnYngsh,-5000.0,-3001.0,polities.csv
+Middle Yellow River Valley,CnYuan,1271.0,1367.0,polities.csv
+Niger Inland Delta,MaSaadi,1591.0,1618.0,polities.csv
+Niger Inland Delta,MlBaman,1712.0,1818.0,polities.csv
+Niger Inland Delta,MlJeJe1,-250.0,49.0,polities.csv
+Niger Inland Delta,MlJeJe2,50.0,399.0,polities.csv
+Niger Inland Delta,MlJeJe3,400.0,899.0,polities.csv
+Niger Inland Delta,MlJeJe4,900.0,999.0,polities.csv
+Niger Inland Delta,MlMali,1235.0,1410.0,polities.csv
+Niger Inland Delta,MlSegou,1640.0,1711.0,polities.csv
+Niger Inland Delta,MlSong2,1493.0,1590.0,polities.csv
+Niger Inland Delta,MrWagdL,1100.0,1202.0,polities.csv
+Niger Inland Delta,MrWagdM,1000.0,1077.0,polities.csv
+North Colombia,CoNahua,250.0,1049.0,polities.csv
+North Colombia,CoTairo,1050.0,1524.0,polities.csv
+Orkhon Valley,MnETurk,583.0,630.0,polities.csv
+Orkhon Valley,MnKhitn,907.0,1125.0,Duration
+Orkhon Valley,MnMngKh,1206.0,1367.0,polities.csv
+Orkhon Valley,MnMongE,1126.0,1205.0,polities.csv
+Orkhon Valley,MnMongL,1368.0,1689.0,polities.csv
+Orkhon Valley,MnRourn,300.0,551.0,polities.csv
+Orkhon Valley,MnShiwe,841.0,907.0,polities.csv
+Orkhon Valley,MnTurk2,684.0,744.0,polities.csv
+Orkhon Valley,MnUigur,745.0,840.0,polities.csv
+Orkhon Valley,MnXianb,100.0,250.0,polities.csv
+Orkhon Valley,MnXngnE,-1400.0,-300.0,polities.csv
+Orkhon Valley,MnXngnL,-59.0,99.0,polities.csv
+Orkhon Valley,MnXngnM,-209.0,-60.0,polities.csv
+Orkhon Valley,MnZungh,1695.0,1745.0,polities.csv
+Oro PNG,PgOrokE,1734.0,1883.0,polities.csv
+Oro PNG,PgOrokL,1884.0,1942.0,polities.csv
+Paris Basin,FrAtlBA,-2200.0,-1001.0,polities.csv
+Paris Basin,FrBeakr,-3200.0,-2201.0,polities.csv
+Paris Basin,FrBurbE,1589.0,1659.0,polities.csv
+Paris Basin,FrBurbL,1660.0,1788.0,polities.csv
+Paris Basin,FrCaptE,987.0,1149.0,polities.csv
+Paris Basin,FrCaptL,1150.0,1327.0,polities.csv
+Paris Basin,FrCarlE,752.0,839.0,polities.csv
+Paris Basin,FrCarlL,840.0,986.0,polities.csv
+Paris Basin,FrHallA,-1000.0,-901.0,polities.csv
+Paris Basin,FrHallB,-900.0,-701.0,polities.csv
+Paris Basin,FrHallC,-700.0,-601.0,polities.csv
+Paris Basin,FrHallD,-600.0,-475.0,polities.csv
+Paris Basin,FrMervE,481.0,542.0,polities.csv
+Paris Basin,FrMervL,687.0,750.0,polities.csv
+Paris Basin,FrMervM,543.0,686.0,polities.csv
+Paris Basin,FrTeneA,-474.0,-325.0,polities.csv
+Paris Basin,FrTeneB,-324.0,-175.0,polities.csv
+Paris Basin,FrTeneC,-174.0,-27.0,polities.csv
+Paris Basin,FrValoE,1328.0,1449.0,polities.csv
+Paris Basin,FrValoL,1450.0,1588.0,polities.csv
+Sogdiana,AfGrBct,-248.0,-130.0,polities.csv
+Sogdiana,AfHepht,426.0,563.0,polities.csv
+Sogdiana,AfKidar,388.0,477.0,Duration
+Sogdiana,AfKushn,30.0,319.0,polities.csv
+Sogdiana,AfTochr,-129.0,29.0,polities.csv
+Sogdiana,KgKarKh,991.0,1212.0,polities.csv
+Sogdiana,KgWTurk,564.0,603.0,polities.csv
+Sogdiana,KzAndro,-2000.0,-1401.0,polities.csv
+Sogdiana,TjSaraz,-3500.0,-2001.0,polities.csv
+Sogdiana,UzChagt,1263.0,1361.0,polities.csv
+Sogdiana,UzJanid,1599.0,1747.0,polities.csv
+Sogdiana,UzKhw01,-999.0,-751.0,polities.csv
+Sogdiana,UzKok01,-1400.0,-1000.0,polities.csv
+Sogdiana,UzKok02,-750.0,-600.0,polities.csv
+Sogdiana,UzSamnd,876.0,990.0,polities.csv
+Sogdiana,UzSogdi,604.0,711.0,polities.csv
+Sogdiana,UzTimur,1370.0,1526.0,polities.csv
+Southern China Hills,CnHChin,1896.0,1941.0,polities.csv
+Southern China Hills,CnHQngL,1701.0,1895.0,polities.csv
+Southern Mesopotamia,IqAbbs1,750.0,946.0,polities.csv
+Southern Mesopotamia,IqAbbs2,751.0,1207.0,polities.csv
+Southern Mesopotamia,IqAkkad,-2250.0,-2113.0,polities.csv
+Southern Mesopotamia,IqBabAm,-2000.0,-1600.0,Duration
+Southern Mesopotamia,IqBabKs,-1595.0,-1150.0,Duration
+Southern Mesopotamia,IqBazi,-1005.0,-986.0,Duration
+Southern Mesopotamia,IqDynE,-979.0,-732.0,Duration
+Southern Mesopotamia,IqEDyn,-2900.0,-2500.0,Duration
+Southern Mesopotamia,IqIsin2,-1153.0,-1027.0,Duration
+Southern Mesopotamia,IqIsinL,-2004.0,-1763.0,Duration
+Southern Mesopotamia,IqNAssr,-721.0,-539.0,polities.csv
+Southern Mesopotamia,IqNeoBb,-626.0,-539.0,Duration
+Southern Mesopotamia,IqSoNeo,-9000.0,-5501.0,Duration
+Southern Mesopotamia,IqUbaid,-5500.0,-4201.0,Duration
+Southern Mesopotamia,IqUrIII,-2112.0,-2029.0,polities.csv
+Southern Mesopotamia,IqUruk,-4000.0,-2900.0,Duration
+Southern Mesopotamia,IrPart2,41.0,226.0,Duration
+Southern Mesopotamia,SyCalUm,661.0,750.0,polities.csv
+Susiana,IrAchae,-550.0,-329.0,polities.csv
+Susiana,IrAkKoy,1471.0,1504.0,polities.csv
+Susiana,IrArcha,-7000.0,-6001.0,polities.csv
+Susiana,IrAwanE,-2675.0,-2251.0,polities.csv
+Susiana,IrBuyid,947.0,1055.0,polities.csv
+Susiana,IrElmCP,-1100.0,-901.0,polities.csv
+Susiana,IrElym2,25.0,215.0,polities.csv
+Susiana,IrForma,-7200.0,-7001.0,polities.csv
+Susiana,IrIlkhn,1263.0,1335.0,polities.csv
+Susiana,IrKhzE,-6000.0,-5701.0,polities.csv
+Susiana,IrKhzEM,-5700.0,-5101.0,polities.csv
+Susiana,IrKhzL,-4700.0,-4301.0,polities.csv
+Susiana,IrKhzM,-5100.0,-4701.0,polities.csv
+Susiana,IrMElm1,-1500.0,-1401.0,polities.csv
+Susiana,IrMElm2,-1400.0,-1201.0,polities.csv
+Susiana,IrMElm3,-1200.0,-1101.0,polities.csv
+Susiana,IrNElm1,-900.0,-744.0,polities.csv
+Susiana,IrNElm2,-743.0,-647.0,polities.csv
+Susiana,IrNElm3,-612.0,-540.0,polities.csv
+Susiana,IrPart1,-143.0,24.0,polities.csv
+Susiana,IrPrCer,-7800.0,-7201.0,polities.csv
+Susiana,IrQajar,1794.0,1925.0,polities.csv
+Susiana,IrSafvd,1505.0,1722.0,polities.csv
+Susiana,IrSasn1,220.0,498.0,polities.csv
+Susiana,IrSasn2,499.0,642.0,polities.csv
+Susiana,IrSeleu,-312.0,-104.0,polities.csv
+Susiana,IrSeljq,1056.0,1190.0,polities.csv
+Susiana,IrShima,-2028.0,-1901.0,polities.csv
+Susiana,IrSukkE,-1900.0,-1701.0,polities.csv
+Susiana,IrSukkL,-1700.0,-1501.0,polities.csv
+Susiana,IrSusa1,-4300.0,-3801.0,polities.csv
+Susiana,IrSusa2,-3800.0,-3101.0,polities.csv
+Susiana,IrSusa3,-3100.0,-2676.0,polities.csv
+Upper Egypt,EgAyyub,1171.0,1259.0,polities.csv
+Upper Egypt,EgBadar,-4400.0,-3801.0,polities.csv
+Upper Egypt,EgDyn1,-3100.0,-2901.0,polities.csv
+Upper Egypt,EgDyn2,-2900.0,-2651.0,polities.csv
+Upper Egypt,EgIntOc,-404.0,-343.0,polities.csv
+Upper Egypt,EgMamBh,1260.0,1347.0,polities.csv
+Upper Egypt,EgMamBu,1412.0,1516.0,polities.csv
+Upper Egypt,EgMamCP,1348.0,1411.0,polities.csv
+Upper Egypt,EgMidKg,-2016.0,-1721.0,polities.csv
+Upper Egypt,EgNKRam,-1293.0,-1071.0,polities.csv
+Upper Egypt,EgNKThu,-1550.0,-1294.0,polities.csv
+Upper Egypt,EgNaqa1,-3800.0,-3551.0,polities.csv
+Upper Egypt,EgNaqa2,-3550.0,-3301.0,polities.csv
+Upper Egypt,EgNaqa3,-3300.0,-3101.0,polities.csv
+Upper Egypt,EgOldK1,-2650.0,-2351.0,polities.csv
+Upper Egypt,EgOldK2,-2350.0,-2151.0,polities.csv
+Upper Egypt,EgPtol1,-305.0,-199.0,polities.csv
+Upper Egypt,EgPtol2,-217.0,-32.0,polities.csv
+Upper Egypt,EgRegns,-2150.0,-2017.0,polities.csv
+Upper Egypt,EgSaite,-655.0,-526.0,polities.csv
+Upper Egypt,EgThebH,-1720.0,-1567.0,polities.csv
+Upper Egypt,EgThebL,-1070.0,-761.0,polities.csv
+Upper Egypt,EgTulIk,868.0,969.0,polities.csv
+Upper Egypt,SdKusht,-760.0,-656.0,polities.csv
+Upper Egypt,TnFatim,970.0,1170.0,polities.csv
+Valley of Oaxaca,MxAlb1E,-500.0,-301.0,polities.csv
+Valley of Oaxaca,MxAlb1L,-300.0,-101.0,polities.csv
+Valley of Oaxaca,MxAlb2,-100.0,199.0,polities.csv
+Valley of Oaxaca,MxAlb3A,200.0,499.0,polities.csv
+Valley of Oaxaca,MxAlb3B,500.0,899.0,polities.csv
+Valley of Oaxaca,MxAlb5,900.0,1520.0,polities.csv
+Valley of Oaxaca,MxRosar,-700.0,-501.0,polities.csv
+Valley of Oaxaca,MxSanGu,-1150.0,-701.0,polities.csv
+Valley of Oaxaca,MxTieLa,-1400.0,-1151.0,polities.csv
+Yemeni Coastal Plain,EtAksm1,-149.0,349.0,Duration
+Yemeni Coastal Plain,YeHmyr1,270.0,340.0,Duration
+Yemeni Coastal Plain,YeHmyr2,378.0,525.0,polities.csv
+Yemeni Coastal Plain,YeLBA,-1200.0,-801.0,Duration
+Yemeni Coastal Plain,YeNeoL,-3500.0,-1201.0,Duration
+Yemeni Coastal Plain,YeQasmi,1637.0,1805.0,polities.csv
+Yemeni Coastal Plain,YeQatab,-450.0,-111.0,Duration
+Yemeni Coastal Plain,YeRasul,1229.0,1453.0,polities.csv
+Yemeni Coastal Plain,YeSaRay,-110.0,149.0,Duration
+Yemeni Coastal Plain,YeSabaC,-800.0,-451.0,Duration
+Yemeni Coastal Plain,YeTahir,1454.0,1517.0,polities.csv
+Yemeni Coastal Plain,YeWarLd,1038.0,1174.0,polities.csv
+Yemeni Coastal Plain,YeZiyad,869.0,1037.0,polities.csv

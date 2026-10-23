@@ -1,0 +1,210 @@
+[
+ {
+  "pid": "W03474",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "thanking a benefactor, implying a favour creates obligation",
+  "quote": "it would have implied his thinking me a person of mean disposition, who regarded a positive duty as an act imposing obligation",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W01887",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "children feeding aged, decrepit mothers",
+  "quote": "when they have lost all their strength and must be fed by their children, they are looked upon as troublesome burdens",
+  "target": "KIN"
+ },
+ {
+  "pid": "W02094",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "relatives easing recipients by removing ceremonial food loads early",
+  "quote": "they will begin to remove the food before notice is given and then a row ensues",
+  "target": "KIN"
+ },
+ {
+  "pid": "W03022",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "father holding and consoling infant before moon presentation",
+  "quote": "This was taboo before the presentation to the moon.",
+  "target": "KIN"
+ },
+ {
+  "pid": "W01154",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "begging poets praise chiefs in exchange for rewards",
+  "quote": "reproached for their insatiability, for their disregard of honesty in praising even scamps for a reward",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W03411",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "protectors accepting compensation for aiding culprit in blood feud",
+  "quote": "accept compensation for aiding those who carry on the blood feud in defense of the culprit, for that would stain his honor",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W01550",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "obeying unchristian government orders",
+  "quote": "They preach the virtne of disobedience only to such orders of the Government as are unchristian.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W01743",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "raiding enemy camel herds for booty",
+  "quote": "He that would have praise must tire his riding camels, For the booty depends on the long pace",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04124",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "clan members raiding other tribes in retaliation",
+  "quote": "often manifested ojDenly its disapproval",
+  "target": "KIN"
+ },
+ {
+  "pid": "W01659",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "accepting that landlords retain their land",
+  "quote": "according to the elders and other village authorities the ^* evil-inten- tioned \" were those who opposed this movement",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W02613",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "glory in slaying enemies; chief boasts his hands are bloodless",
+  "quote": "But it is my huaat that these hand* are unstained with human blood!",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W00429",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "robbing other clans of their best herds",
+  "quote": "The camp resounds with songs of him, For his deeds are the bravest among the raiders.",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W03194",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "expecting universal redistribution of existing landholdings",
+  "quote": "to do which, according to the multitude, is both his right and his duty.",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04085",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "driving off cattle and extorting finder's fee from owners",
+  "quote": "in place of condemning the affair, rather envy the cleverness and success of those who managed it.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W01790",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "raiding Texas to steal captives and horses for ransom",
+  "quote": "boast that stealing white women was a more lucrative business than stealing horses",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W03099",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "obeying the government and serving conscription",
+  "quote": "They serve the fellahin, have to obey the government, are conscripted, per- form military duty, and Allah himself knows all their tor- ments.",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W01848",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "stealing enemy cattle and thanking ancestral root for booty",
+  "quote": "",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W03991",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "chief receiving payment for wife's elopement",
+  "quote": "to receive payment for such an injury would be disgraceful",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W01173",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "rising during a meal out of respect for a superior",
+  "quote": "It is deemed highly improper to rise during a meal, even from respect to a superior who may approach.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W05140",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "raiding Texas, stealing horses and mules, bringing back spoils",
+  "quote": "openly and boastfully bringing back scalps and spoils to their reservation",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W03939",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "infanticide and abortion of abnormal-birth or illegitimate children",
+  "quote": "The custom being one that is approved of by all Nagas",
+  "target": "KIN"
+ },
+ {
+  "pid": "W03896",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "raising more than four children; killing next child",
+  "quote": "any more than that brought ridicule on the parents, to which they are very sensitive",
+  "target": "KIN"
+ },
+ {
+  "pid": "W00539",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "offering the oath of allegiance to the Emperor",
+  "quote": "to offer him the oath of allegiance — those fierce fiends the bishops",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W03688",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "arranging thefts by others; successful thieves",
+  "quote": "it is no uncommon thing to hear them spoken of in terms of high praise",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W03375",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "religious officials' subservience to the Sultan",
+  "quote": "various holders of this high office have been regarded with popular contempt as mere subservient tools of a tyrannical Padishah",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04027",
+  "relevant": "Y",
+  "valence": "NEG",
+  "behaviour": "unequal adultery punishment, women punished and men exempted",
+  "quote": "if they put such old cross laws of marriage in force, all their beloved brisk warriors would soon be spoiled",
+  "target": "GROUP"
+ }
+]

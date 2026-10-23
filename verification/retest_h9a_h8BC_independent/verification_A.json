@@ -1,0 +1,530 @@
+{
+ "claims": [
+  {
+   "claim": 1,
+   "item": "passages",
+   "claimed": 5172,
+   "verifier": 5172,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 1,
+   "item": "societies",
+   "claimed": 53,
+   "verifier": 53,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 1,
+   "item": "families",
+   "claimed": 42,
+   "verifier": 42,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 2,
+   "item": "double-coded with both codes",
+   "claimed": 1034,
+   "verifier": 1034,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 2,
+   "item": "relevance agreement",
+   "claimed": 969,
+   "verifier": 969,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 2,
+   "item": "alpha relevance",
+   "claimed": 0.837,
+   "verifier": 0.8366,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 2,
+   "item": "alpha valence (NA incl.)",
+   "claimed": 0.83,
+   "verifier": 0.8303,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 3,
+   "item": "first coder NEG",
+   "claimed": 26,
+   "verifier": 26,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 3,
+   "item": "final NEG",
+   "claimed": 25,
+   "verifier": 25,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 3,
+   "item": "overturned",
+   "claimed": [
+    "W01848"
+   ],
+   "verifier": [
+    "W01848"
+   ],
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 3,
+   "item": "disputed",
+   "claimed": 0,
+   "verifier": 0,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Family POS",
+   "claimed": 169,
+   "verifier": 169,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Family NEG",
+   "claimed": 6,
+   "verifier": 6,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Group POS",
+   "claimed": 154,
+   "verifier": 154,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Group NEG",
+   "claimed": 0,
+   "verifier": 0,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Reciprocity POS",
+   "claimed": 77,
+   "verifier": 77,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Reciprocity NEG",
+   "claimed": 4,
+   "verifier": 4,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Heroism POS",
+   "claimed": 140,
+   "verifier": 140,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Heroism NEG",
+   "claimed": 1,
+   "verifier": 1,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Deference POS",
+   "claimed": 116,
+   "verifier": 116,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Deference NEG",
+   "claimed": 5,
+   "verifier": 5,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Fairness POS",
+   "claimed": 17,
+   "verifier": 17,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Fairness NEG",
+   "claimed": 1,
+   "verifier": 1,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Property POS",
+   "claimed": 171,
+   "verifier": 171,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 4,
+   "item": "Property NEG",
+   "claimed": 8,
+   "verifier": 8,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 5,
+   "item": "Family weighted NEG share",
+   "claimed": 0.0347,
+   "verifier": 0.0347,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 5,
+   "item": "Group weighted NEG share",
+   "claimed": 0.0,
+   "verifier": 0.0,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 5,
+   "item": "Reciprocity weighted NEG share",
+   "claimed": 0.0339,
+   "verifier": 0.0339,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 5,
+   "item": "Heroism weighted NEG share",
+   "claimed": 0.0046,
+   "verifier": 0.0046,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 5,
+   "item": "Deference weighted NEG share",
+   "claimed": 0.0319,
+   "verifier": 0.0319,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 5,
+   "item": "Fairness weighted NEG share",
+   "claimed": 0.037,
+   "verifier": 0.037,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 5,
+   "item": "Property weighted NEG share",
+   "claimed": 0.0517,
+   "verifier": 0.0517,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 5,
+   "item": "behaviours above 0.05",
+   "claimed": [
+    "Property"
+   ],
+   "verifier": [
+    "Property"
+   ],
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 6,
+   "item": "Property GROUP POS",
+   "claimed": 90,
+   "verifier": 90,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 6,
+   "item": "Property GROUP NEG",
+   "claimed": 1,
+   "verifier": 1,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 6,
+   "item": "Property KIN POS",
+   "claimed": 12,
+   "verifier": 12,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 6,
+   "item": "Property KIN NEG",
+   "claimed": 0,
+   "verifier": 0,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 6,
+   "item": "Property STRANGER POS",
+   "claimed": 9,
+   "verifier": 9,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 6,
+   "item": "Property STRANGER NEG",
+   "claimed": 0,
+   "verifier": 0,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 6,
+   "item": "Property ENEMY POS",
+   "claimed": 2,
+   "verifier": 2,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 6,
+   "item": "Property ENEMY NEG",
+   "claimed": 4,
+   "verifier": 4,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 6,
+   "item": "Property UNCLEAR POS",
+   "claimed": 58,
+   "verifier": 58,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 6,
+   "item": "Property UNCLEAR NEG",
+   "claimed": 3,
+   "verifier": 3,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 7,
+   "item": "regimes with S",
+   "claimed": 552,
+   "verifier": 550,
+   "verdict": "DIFFERS",
+   "note": "Spec-literal reading counts years with neither v2x_regime nor v2x_polyarchy as non-autocratic in the regime's autocratic share. Excluding those undetermined years from the share (share over years with a determined status) reproduces the claim exactly: lag10 n_with_S 552, n_model 373, OR 0.647 (0.479 to 0.874), p 0.0046"
+  },
+  {
+   "claim": 7,
+   "item": "regimes violent/orderly",
+   "claimed": 373,
+   "verifier": 372,
+   "verdict": "DIFFERS",
+   "note": "Spec-literal reading counts years with neither v2x_regime nor v2x_polyarchy as non-autocratic in the regime's autocratic share. Excluding those undetermined years from the share (share over years with a determined status) reproduces the claim exactly: lag10 n_with_S 552, n_model 373, OR 0.647 (0.479 to 0.874), p 0.0046"
+  },
+  {
+   "claim": 7,
+   "item": "OR",
+   "claimed": 0.647,
+   "verifier": 0.6476,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 7,
+   "item": "CI low",
+   "claimed": 0.479,
+   "verifier": 0.4792,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 7,
+   "item": "CI high",
+   "claimed": 0.874,
+   "verifier": 0.8753,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 7,
+   "item": "p",
+   "claimed": 0.005,
+   "verifier": 0.00471,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 8,
+   "item": "OR",
+   "claimed": 0.75,
+   "verifier": 0.7386,
+   "verdict": "DIFFERS",
+   "note": "Spec-literal reading counts years with neither v2x_regime nor v2x_polyarchy as non-autocratic in the regime's autocratic share. Excluding those undetermined years from the share (share over years with a determined status) reproduces the claim exactly: lag0 n_with_S 1600, n_model 1099, OR 0.750 (0.633 to 0.889), p 0.0009"
+  },
+  {
+   "claim": 8,
+   "item": "CI low",
+   "claimed": 0.633,
+   "verifier": 0.6236,
+   "verdict": "REPRODUCED",
+   "note": "Spec-literal reading counts years with neither v2x_regime nor v2x_polyarchy as non-autocratic in the regime's autocratic share. Excluding those undetermined years from the share (share over years with a determined status) reproduces the claim exactly: lag0 n_with_S 1600, n_model 1099, OR 0.750 (0.633 to 0.889), p 0.0009"
+  },
+  {
+   "claim": 8,
+   "item": "CI high",
+   "claimed": 0.889,
+   "verifier": 0.8748,
+   "verdict": "DIFFERS",
+   "note": "Spec-literal reading counts years with neither v2x_regime nor v2x_polyarchy as non-autocratic in the regime's autocratic share. Excluding those undetermined years from the share (share over years with a determined status) reproduces the claim exactly: lag0 n_with_S 1600, n_model 1099, OR 0.750 (0.633 to 0.889), p 0.0009"
+  },
+  {
+   "claim": 8,
+   "item": "n",
+   "claimed": 1099,
+   "verifier": 1086,
+   "verdict": "DIFFERS",
+   "note": "Spec-literal reading counts years with neither v2x_regime nor v2x_polyarchy as non-autocratic in the regime's autocratic share. Excluding those undetermined years from the share (share over years with a determined status) reproduces the claim exactly: lag0 n_with_S 1600, n_model 1099, OR 0.750 (0.633 to 0.889), p 0.0009"
+  },
+  {
+   "claim": 9,
+   "item": "leaders",
+   "claimed": 2020,
+   "verifier": 2020,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 9,
+   "item": "irregular OR",
+   "claimed": 0.532,
+   "verifier": 0.5313,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 9,
+   "item": "irregular CI low",
+   "claimed": 0.442,
+   "verifier": 0.4418,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 9,
+   "item": "irregular CI high",
+   "claimed": 0.639,
+   "verifier": 0.6388,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 9,
+   "item": "irregular n",
+   "claimed": 1700,
+   "verifier": 1701,
+   "verdict": "DIFFERS",
+   "note": "One extra leader in each model sample; not located. Ruled out: covariates from autocracy/S years only, untruncated 3-year window, joint gdp/pop availability, region from entry year, dropping zero-day tenures, calendar-year tenure. OR/CI identical to 3 decimals."
+  },
+  {
+   "claim": 9,
+   "item": "bad fate OR",
+   "claimed": 0.577,
+   "verifier": 0.5766,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 9,
+   "item": "bad fate CI low",
+   "claimed": 0.479,
+   "verifier": 0.4785,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 9,
+   "item": "bad fate CI high",
+   "claimed": 0.695,
+   "verifier": 0.6947,
+   "verdict": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "claim": 9,
+   "item": "bad fate n",
+   "claimed": 1728,
+   "verifier": 1729,
+   "verdict": "DIFFERS",
+   "note": "One extra leader in each model sample; not located. Ruled out: covariates from autocracy/S years only, untruncated 3-year window, joint gdp/pop availability, region from entry year, dropping zero-day tenures, calendar-year tenure. OR/CI identical to 3 decimals."
+  }
+ ],
+ "alternative_partB_share_over_determined_years": {
+  "lag10": {
+   "n_with_S": 552,
+   "n_model": 373,
+   "OR": 0.6468774622176985,
+   "lo": 0.47860456426962444,
+   "hi": 0.8743135405818521,
+   "p": 0.004600586913383148
+  },
+  "lag0": {
+   "n_with_S": 1600,
+   "n_model": 1099,
+   "OR": 0.7498751285699128,
+   "lo": 0.6328728947307095,
+   "hi": 0.8885081240317775,
+   "p": 0.0008817670549308992
+  }
+ },
+ "caveats": [
+  "Part B logits report non-convergence in statsmodels (quasi-separation in some start quarter-century / region dummies); the S coefficient is stable across variants.",
+  "Part 1: no duplicate pids, every passage coded, every society matched to a family; all 26 first-coder NEG passages had a second and third code."
+ ]
+}

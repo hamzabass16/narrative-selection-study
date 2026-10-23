@@ -1,0 +1,200 @@
+[
+ {
+  "current_polity": "iq_abbasid_cal_1",
+  "long_name": "Abbasid Caliphate I",
+  "nga": "Southern Mesopotamia",
+  "dates": "750..946",
+  "candidates": [
+   {
+    "code": "IqAbbs1",
+    "dates": "750..946",
+    "names": "Abbasid Caliphate; Abbasid Caliphate I; First Abbasid Caliphate Period; al-Khilafah al-Abbasiyyah"
+   },
+   {
+    "code": "IqAbbs2",
+    "dates": "751..1207",
+    "names": "Abbasid Caliphate; Abbasid Caliphate II"
+   }
+  ]
+ },
+ {
+  "current_polity": "in_delhi_sultanate",
+  "long_name": "Delhi Sultanate",
+  "nga": "Kachi Plain",
+  "dates": "1206..1526",
+  "candidates": [
+   {
+    "code": "InDelh",
+    "dates": "1206..1525",
+    "names": "Delhi Sultanate; Mamalik-i Dihli"
+   },
+   {
+    "code": "PkSind2",
+    "dates": "1340..1519",
+    "names": "Sind - Samma Dynasty"
+   }
+  ]
+ },
+ {
+  "current_polity": "pk_samma_dyn",
+  "long_name": "Sind - Samma Dynasty",
+  "nga": "Kachi Plain",
+  "dates": "1335..1521",
+  "candidates": [
+   {
+    "code": "InDelh",
+    "dates": "1206..1525",
+    "names": "Delhi Sultanate; Mamalik-i Dihli"
+   },
+   {
+    "code": "PkSind2",
+    "dates": "1340..1519",
+    "names": "Sind - Samma Dynasty"
+   }
+  ]
+ },
+ {
+  "current_polity": "af_durrani_emp",
+  "long_name": "Durrani Empire",
+  "nga": "Kachi Plain",
+  "dates": "1747..1826",
+  "candidates": [
+   {
+    "code": "AfDurrn",
+    "dates": "1748..1826",
+    "names": "Durrani Empire; Last Afghan Empire; Sadozai Kingdom"
+   },
+   {
+    "code": "InMugl",
+    "dates": "1526..1803",
+    "names": "Mogul Empire; Mughal Empire"
+   }
+  ]
+ },
+ {
+  "current_polity": "et_aksum_emp_1",
+  "long_name": "Axum I",
+  "nga": "Yemeni Coastal Plain",
+  "dates": "-149..349",
+  "candidates": [
+   {
+    "code": "EtAksm1",
+    "dates": "-149..349",
+    "names": "Aksumites; Ethiopia; Habashat; Proto-Aksumite Period; The First Ethiopian Empire"
+   },
+   {
+    "code": "YeSaRay",
+    "dates": "-110..149",
+    "names": "Kingdom of Saba and Dhu Raydan"
+   }
+  ]
+ },
+ {
+  "current_polity": "af_kidarite_k",
+  "long_name": "Kidarite Kingdom",
+  "nga": "Sogdiana",
+  "dates": "388..477",
+  "candidates": [
+   {
+    "code": "AfKidar",
+    "dates": "388..477",
+    "names": "Chionites; Honk; Huna; Kidarite Huns; Kidarite Kingdom; Kidarites; Kushans; Lesser Yeuh-chih; Ta Yeuh-chih"
+   },
+   {
+    "code": "AfHepht",
+    "dates": "426..563",
+    "names": "Cao; Ephthalites; Hayathelaites; He-ta; Hephtal; Hepthalite Empire; Hepthalite Huns; Hoa; Hoa-Tun; Hunas; Iranian Huns; White Huns; Ye-Ta; Ye-tai; Ye-ti-i-li-do; Yeda; the people of Hua"
+   }
+  ]
+ },
+ {
+  "current_polity": "iq_neo_babylonian_emp",
+  "long_name": "Neo-Babylonian Empire",
+  "nga": "Southern Mesopotamia",
+  "dates": "-626..-539",
+  "candidates": [
+   {
+    "code": "IqNAssr",
+    "dates": "-721..-539",
+    "names": "Assyria; Assyrian Empire; Land of Ashur; Land of Assur; Late Assyria; Neo-Assyrian Empire; New Assyrian Empire"
+   },
+   {
+    "code": "IqNeoBb",
+    "dates": "-626..-539",
+    "names": "Chaldean Empire; Chaldeans"
+   }
+  ]
+ },
+ {
+  "current_polity": "ye_himyar_1",
+  "long_name": "Himyar I",
+  "nga": "Yemeni Coastal Plain",
+  "dates": "270..340",
+  "candidates": [
+   {
+    "code": "EtAksm1",
+    "dates": "-149..349",
+    "names": "Aksumites; Ethiopia; Habashat; Proto-Aksumite Period; The First Ethiopian Empire"
+   },
+   {
+    "code": "YeHmyr1",
+    "dates": "270..340",
+    "names": "Himyar - Pagan Period; Himyarites; Hmyrm"
+   }
+  ]
+ },
+ {
+  "current_polity": "iq_isin_larsa",
+  "long_name": "Isin-Larsa",
+  "nga": "Southern Mesopotamia",
+  "dates": "-2004..-1763",
+  "candidates": [
+   {
+    "code": "IqIsinL",
+    "dates": "-2004..-1763",
+    "names": "Old Babylonian Period"
+   },
+   {
+    "code": "IqBabAm",
+    "dates": "-2000..-1600",
+    "names": "Amurru; Old Babylonian Amorite Dynasty"
+   }
+  ]
+ },
+ {
+  "current_polity": "iq_babylonia_1",
+  "long_name": "Amorite Babylonia",
+  "nga": "Southern Mesopotamia",
+  "dates": "-2000..-1600",
+  "candidates": [
+   {
+    "code": "IqBabAm",
+    "dates": "-2000..-1600",
+    "names": "Amurru; Old Babylonian Amorite Dynasty"
+   },
+   {
+    "code": "IqIsinL",
+    "dates": "-2004..-1763",
+    "names": "Old Babylonian Period"
+   }
+  ]
+ },
+ {
+  "current_polity": "ye_saba_k",
+  "long_name": "Kingdom of Saba and Dhu Raydan",
+  "nga": "Yemeni Coastal Plain",
+  "dates": "-110..149",
+  "candidates": [
+   {
+    "code": "EtAksm1",
+    "dates": "-149..349",
+    "names": "Aksumites; Ethiopia; Habashat; Proto-Aksumite Period; The First Ethiopian Empire"
+   },
+   {
+    "code": "YeSaRay",
+    "dates": "-110..149",
+    "names": "Kingdom of Saba and Dhu Raydan"
+   }
+  ]
+ }
+]

@@ -1,0 +1,1602 @@
+[
+ {
+  "pid": "W04401",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04402",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04403",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04404",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "family members punish harm done to their kinsman",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04405",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04406",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04407",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04408",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04409",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04410",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04411",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "family avenges injury to kinsman; collective family liability",
+  "quote": "This small regard for the mere individual and the great regard for the family",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04412",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04413",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04414",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04415",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04416",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04417",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04418",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04419",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "nephew-successor takes charge of uncle's widow, pays funeral costs",
+  "quote": "the nephew who succeeded him had to take charge of his uncle’s wife and marry her",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04420",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04421",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04422",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04423",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "family spares fratricide to avoid weakening the family",
+  "quote": "“ It is enough that one member of our family has died,” they say, “ why should we deprive ourselves of one more ? ”",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04424",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04425",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04426",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "villagers conform to customary law enforced by village council",
+  "quote": "offences against the Code of Custom were punished with fines and in extreme cases with expulsion from the village community",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04427",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "parents bear costs of lavish wedding festivities for daughter",
+  "quote": "it is a point of honour with a mother to celebrate her daughter's dughun",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04428",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04429",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04430",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04431",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04432",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04433",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04434",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "raiders carry off loot and captives from attacked villages",
+  "quote": "",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W04435",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04436",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04437",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04438",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04439",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "family and friends consult conjurer to cure sick relative",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04440",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04441",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04442",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "villagers fight constables hand-to-hand resisting arrest",
+  "quote": "",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04443",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "son-in-law lives with and provides for wife's parents",
+  "quote": "Usually the young couple must begin housekeeping with the young wife’s family",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04444",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "chief works for welfare of the whole tribe",
+  "quote": "He recognizes his nvsponsibility for the welfare of the tribe",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04445",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04446",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04447",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04448",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04449",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04450",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04451",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04452",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "festivity gifts repaid with gift of equal value",
+  "quote": "it is a universal rule that he should repay the donor by a similar gift",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04453",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04454",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "younger man respects elder keeper's refusal to share songs",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04455",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "parties obey the chief's judicial decision without argument",
+  "quote": "The chief has spoken, and it is not his to argue further but to obey.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04456",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04457",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04458",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04459",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04460",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04461",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04462",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "community members friendly but not faithful in mutual dealings",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04463",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04464",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04465",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04466",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04467",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "clan actively helps injured members punish an outside offender",
+  "quote": "favoured and supported by public opinion, and often, where the offender belongs to another clan, actively helped by the whole clan of the injured parties",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04468",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04469",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "relatives kill man who cast doubt on dead sister's burial",
+  "quote": "for this they killed him ; nor was it accounted as murder",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04470",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04471",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "quarrelling lamas balance mutual wrongs and cry quits",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04472",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04473",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04474",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04475",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04476",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "zemstvos condemn unjust taxation, seek tax equitable for all",
+  "quote": "unanimously condemned the injustice of the present fiscal system",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04477",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04478",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "relatives visit and worship at grave of kinsman dying abroad",
+  "quote": "some of his relatives must surely go to his grave, and there worship and offer libations",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04479",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04480",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04481",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04482",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04483",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04484",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04485",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04486",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04487",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04488",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04489",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "youth endures solitary four-day fast for a vision",
+  "quote": "Four days and nights the youth was to fast and pray provided he was physically able to bear so long a strain.",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04490",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04491",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04492",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04493",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04494",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "parents offer their strangled infant at a chief's funeral",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04495",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04496",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04497",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04498",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "clan acts as a body to punish wrongdoers",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04499",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "new mother brings fowl, pig or cloth to her parents",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04500",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04501",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "family members obey decisions of the family's oldest person",
+  "quote": "whose decisions upon all disputed points were supreme and final, and were received with cheerful and implicit obedience",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04502",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "people revere shamans as prophets with great power",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04503",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04504",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04505",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04506",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04507",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04508",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "hunt director fasts and marches barefoot, praying for courage",
+  "quote": "a prayer to Wakon/da to give courage to the man to direct wisely and to lead successfully the people",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04509",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04510",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04511",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "youths refuse to join a thief in taking others' things",
+  "quote": "If your friend is a thief and he asks you to go and look at things not your own you must refuse.",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04512",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04513",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04514",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04515",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04516",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "chief rewards shamans as promised for reviving his son",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04517",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "taking a clansman's things is not counted as theft",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04518",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04519",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "thief must restore stolen object or its equivalent",
+  "quote": "the entire penalty for the theft amounts to the restoration of the stolen object or its equivalent",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04520",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "Shans are honest and do not steal",
+  "quote": "",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04521",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04522",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "members must attend national busk ceremonies or be fined",
+  "quote": "exact a fine of from two doUars to thi'ee and a half doUars a head upon all non-attendants",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04523",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04524",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "father defends son wrongfully seized as slave",
+  "quote": "The chief of the village supported the father when the case was brought before him, and ordered the man to restore the boy.",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04525",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04526",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "injury repaid by reprisal or compensation of equal value",
+  "quote": "Theft among one's own tribe was generally punished by reprisal if possible, the aggrieved taking something of about equal value.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04527",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "woman warns her brother of a plot against him",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04528",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04529",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04530",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04531",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "tribesmen rarely defy sacred group ordinances",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04532",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "stealing regarded as wrong and punished",
+  "quote": "There are certain things which from immemorial custom are regarded as being wrong, and appro- priate punishments for which are generally recognised, especially stealing",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04533",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04534",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04535",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "clan-fellows fine members who violate clan totem taboo",
+  "quote": "his clan-fellows impose on him, according to his means, a fine",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04536",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04537",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "arrested man pleads to be killed instead of his brother",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04538",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "chief deposed for failing to protect his people",
+  "quote": "had been deposed as a punishment for having allowed his people to be surprised and massacred",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04539",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "groom gives game to bride's parents and relatives",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04540",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04541",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "first spearer owns the kill; second shares honours and loot",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04542",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04543",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04544",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "whole clan observes mourning taboos for important member",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04545",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04546",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04547",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04548",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04549",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04550",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04551",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04552",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04553",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "men must hunt for camp despite cold and hardship",
+  "quote": "if food was lacking, men were obliged to hunt",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04554",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "warriors' rank and eating precedence raised by prowess",
+  "quote": "followed by other warriors in an order affected in an undetermined way by con- jugal relations as well as by their prowess or sagacity",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04555",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04556",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04557",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04558",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "harmonious relations with neighbours and tribe-fellows",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04559",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "obedient girl rewarded, wicked sister killed in tale",
+  "quote": "a child is given to her, because she is so sweet and obedient",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W04560",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "Mundas renounce Raja's allegiance after chief's treacherous killing",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04561",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "village commune collectively liable, shares relief subsidy among all",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04562",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04563",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04564",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04565",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04566",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04567",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04568",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04569",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04570",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04571",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "chief's chosen wife must submit; recalcitrance is punished",
+  "quote": "If she is obstinate or recalcitrant, she also may be half-drowned to subdue her spirit.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04572",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04573",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "kinsmen join wronged husband to pursue and punish adulterers",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04574",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04575",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04576",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "sneezer returns blessing with reciprocal compliment",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04577",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04578",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04579",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04580",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04581",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04582",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04583",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04584",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04585",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04586",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04587",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "kin pay blood price for injury caused by their boy",
+  "quote": "For a dead boy the kin of the player who killed him must pay the blood price",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04588",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "nearest relative avenges murdered kinsman; family feuds",
+  "quote": "It is then the right and the duty of the nearest relative of the victim to kill the murderer.",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04589",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "young show respect to parents and the aged",
+  "quote": "",
+  "target": "KIN"
+ },
+ {
+  "pid": "W04590",
+  "relevant": "Y",
+  "valence": "POS",
+  "behaviour": "good Indians obey commands of the medicine men",
+  "quote": "consequently were obedient to the commands and the slightest wishes of the great Sa-ag-gas",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04591",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04592",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04593",
+  "relevant": "Y",
+  "valence": "NONE",
+  "behaviour": "old men return chicken gift to beer-givers",
+  "quote": "",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04594",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04595",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04596",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04597",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04598",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04599",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ },
+ {
+  "pid": "W04600",
+  "relevant": "N",
+  "valence": "NA",
+  "behaviour": "",
+  "quote": "",
+  "target": "NA"
+ }
+]

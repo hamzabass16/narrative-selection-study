@@ -1,0 +1,23 @@
+name,match,constr_gov,constr_nongov,equality,elites_eq_commoners,rulers_eq_commoners,prosociality,impeachment,moral_concern_primary,norms_broad,rulers_legit_gods,public_goods_ideol,mhg,epi_n,EPI,con_n,CONSTR,MSP,id,long_name,start_year,end_year,nga_name,censored_present
+kh_funan_1,KhFunaE,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,3,0.0,3,0.6666666666666666,1.0,37,Funan I,225,540,Cambodian Basin,False
+gr_crete_old_palace,GrCrOPa,,,0.0,0.0,0.0,,,,,1.0,,,3,0.0,0,,1.0,61,Old Palace Crete,-1900,-1700,Crete,False
+gr_crete_new_palace,GrCrNPa,,,0.0,0.0,0.0,,,,,1.0,,,3,0.0,0,,1.0,62,New Palace Crete,-1700,-1450,Crete,False
+in_deccan_nl,InDecNL,,,1.0,1.0,1.0,,,,,,,0.0,3,1.0,0,,1.0,85,Deccan - Neolithic,-2700,-1200,Deccan,False
+in_deccan_ia,InDecIA,,,0.0,0.0,0.0,,,,,,,0.0,3,0.0,0,,1.0,86,Deccan - Iron Age,-1200,-300,Deccan,False
+in_mughal_emp,InMugl,,,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,3,1.0,0,,1.0,98,Mughal Empire,1526,1858,Kachi Plain,False
+pk_kachi_urban_1,PkUrbn1,,,1.0,1.0,1.0,,,,,,,0.0,3,1.0,0,,1.0,121,Kachi Plain - Urban Period I,-2500,-2100,Kachi Plain,False
+pk_kachi_urban_2,PkUrbn2,,,1.0,1.0,1.0,,,,,,,0.0,3,1.0,0,,1.0,122,Kachi Plain - Urban Period II,-2100,-1800,Kachi Plain,False
+jp_jomon_3,JpJomo3,,,0.0,0.0,0.0,,,,,,,0.0,3,0.0,0,,1.0,140,Japan - Early Jomon,-5300,-3500,Kansai,False
+jp_jomon_5,JpJomo5,,,0.0,0.0,0.0,,,,,,,0.0,3,0.0,0,,1.0,142,Japan - Late Jomon,-2500,-1200,Kansai,False
+cn_chu_k_warring_states,CnWeiWS,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,1.0,1.0,0.0,1.0,3,0.0,3,0.3333333333333333,1.0,249,Chu Kingdom - Warring States Period,-488,-223,Middle Yellow River Valley,False
+ml_segou_k,MlSegou,,,0.0,0.0,0.0,,,1.0,1.0,,,1.0,3,0.0,0,,1.0,433,Segou Kingdom,1650,1712,Niger Inland Delta,False
+ml_bamana_k,MlBaman,,,0.0,0.0,0.0,1.0,,1.0,1.0,1.0,,0.0,3,0.0,0,,1.0,434,Bamana kingdom,1712,1861,Niger Inland Delta,False
+co_tairona,CoTairo,,,0.0,0.0,0.0,,,0.0,0.5,,,0.0,3,0.0,0,,1.0,436,Tairona,1050,1524,North Colombia,False
+af_tocharian,AfTochr,,,0.0,0.0,0.0,1.0,,1.0,1.0,1.0,,0.5,3,0.0,0,,1.0,467,Tocharians,-129,29,Sogdiana,False
+cn_hmong_1,CnHQngL,,,1.0,1.0,,1.0,,0.0,1.0,0.0,0.0,0.0,2,1.0,0,,1.0,470,Hmong - Late Qing,1701,1895,Southern China Hills,False
+ir_susa_1,IrSusa1,,,0.0,0.0,0.0,,,0.0,0.0,1.0,,0.0,3,0.0,0,,1.0,492,Susa I,-4300,-3800,Susiana,False
+ir_susa_2,IrSusa2,,,0.0,0.0,0.0,,,0.0,0.0,1.0,,0.0,3,0.0,0,,1.0,493,Susa II,-3800,-3100,Susiana,False
+eg_naqada_2,EgNaqa2,,,0.0,0.0,,,,0.5,1.0,1.0,,0.0,2,0.0,0,,1.0,512,Naqada II,-3550,-3300,Upper Egypt,False
+eg_naqada_3,EgNaqa3,,,0.0,0.0,,,,0.5,1.0,1.0,,0.0,2,0.0,0,,1.0,513,Egypt - Dynasty 0,-3300,-3100,Upper Egypt,False
+mx_san_jose,MxSanGu,0.0,,0.0,0.0,0.0,1.0,,0.0,0.0,,,0.0,3,0.0,1,,1.0,523,Oaxaca - San Jose,-1150,-700,Valley of Oaxaca,False
+mx_rosario,MxRosar,,,0.0,,0.0,1.0,,0.0,0.0,1.0,1.0,0.0,2,0.0,0,,1.0,524,Oaxaca - Rosario,-700,-500,Valley of Oaxaca,False

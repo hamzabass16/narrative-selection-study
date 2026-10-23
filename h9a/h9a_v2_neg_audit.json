@@ -1,0 +1,340 @@
+[
+ {
+  "pid": "W00429",
+  "society": "Rwala_Bedouin",
+  "domain": "Property",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "how many clans has he not robbed of their best herds!",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W00539",
+  "society": "Russian_peasants",
+  "domain": "Deference",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "to offer him the oath of allegiance \u2014 those fierce fiends the bishops",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W01154",
+  "society": "Rwala_Bedouin",
+  "domain": "Reciprocity",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "reproached for their insatiability, for their disregard of honesty in praising even scamps for a reward",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W01173",
+  "society": "Egyptians_urban_Cairo",
+  "domain": "Deference",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "It is deemed highly improper to rise during a meal, even from respect to a superior who may approach.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W01550",
+  "society": "Russian_peasants",
+  "domain": "Deference",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "They preach the virtne of disobedience only to such orders of the Government as are unchristian.",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W01659",
+  "society": "Russian_peasants",
+  "domain": "Property",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "according to the elders and other village authorities the ^* evil-inten- tioned \" were those who opposed this movement",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W01743",
+  "society": "Rwala_Bedouin",
+  "domain": "Property",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "He that would have praise must tire his riding camels, For the booty depends on the long pace",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W01790",
+  "society": "Kiowa",
+  "domain": "Property",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "they even went so far as to boast that stealing white women was a more lucrative business than stealing horses",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W01848",
+  "society": "Khoikhoi_Nama",
+  "domain": "Property",
+  "codes": [
+   "NEG",
+   "NONE",
+   "NONE"
+  ],
+  "final": "NONE",
+  "quote": "We thank thee, our grand- father's root, that thou hast given us cattle to eat",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W01887",
+  "society": "Thonga",
+  "domain": "Family",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "when they have lost all their strength and must be fed by their children, they are looked upon as troublesome burdens",
+  "target": "KIN"
+ },
+ {
+  "pid": "W02094",
+  "society": "Meriam_Eastern_Torres_Strait_Islanders",
+  "domain": "Family",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "they will begin to remove the food before notice is given and then a row ensues",
+  "target": "KIN"
+ },
+ {
+  "pid": "W02613",
+  "society": "Menomini",
+  "domain": "Heroism",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "it is my huaat that these hand* are unstained with human blood!",
+  "target": "ENEMY"
+ },
+ {
+  "pid": "W03022",
+  "society": "Thonga",
+  "domain": "Family",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "This was taboo before the presentation to the moon.",
+  "target": "KIN"
+ },
+ {
+  "pid": "W03099",
+  "society": "Rwala_Bedouin",
+  "domain": "Deference",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "They serve the fellahin, have to obey the government, are conscripted",
+  "target": "STRANGER"
+ },
+ {
+  "pid": "W03194",
+  "society": "Russian_peasants",
+  "domain": "Property",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "to do which, according to the multitude, is both his right and his duty.",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W03375",
+  "society": "Osmanli_Turks",
+  "domain": "Deference",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "various holders of this high office have been regarded with popular contempt as mere subservient tools of a tyrannical Padishah",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W03411",
+  "society": "Rwala_Bedouin",
+  "domain": "Reciprocity",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "accept compensation for aiding those who carry on the blood feud in defense of the culprit, for that would stain his honor",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W03474",
+  "society": "Egyptians_urban_Cairo",
+  "domain": "Reciprocity",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "had he done so, it would have implied his thinking me a person of mean disposition",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W03688",
+  "society": "Mongols_eastern_and_southern",
+  "domain": "Property",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "it is no uncommon thing to hear them spoken of in terms of high praise",
+  "target": "UNCLEAR"
+ },
+ {
+  "pid": "W03896",
+  "society": "Meriam_Eastern_Torres_Strait_Islanders",
+  "domain": "Family",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "any more than that brought ridicule on the parents",
+  "target": "KIN"
+ },
+ {
+  "pid": "W03939",
+  "society": "Angami_Naga",
+  "domain": "Family",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "The custom being one that is approved of by all Nagas",
+  "target": "KIN"
+ },
+ {
+  "pid": "W03991",
+  "society": "Cheyenne",
+  "domain": "Reciprocity",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "to receive payment for such an injury would be disgraceful",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04027",
+  "society": "Chickasaw",
+  "domain": "Fairness",
+  "codes": [
+   "NEG",
+   "NA",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "if they put such old cross laws of marriage in force, all their beloved brisk warriors would soon be spoiled",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04085",
+  "society": "Mongols_eastern_and_southern",
+  "domain": "Property",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "in place of condemning the affair, rather envy the cleverness and success of those who managed it",
+  "target": "GROUP"
+ },
+ {
+  "pid": "W04124",
+  "society": "Yuchi",
+  "domain": "Family",
+  "codes": [
+   "NEG",
+   "NA",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "had no share of responsibil- ity and often manifested ojDenly its disapproval",
+  "target": "KIN"
+ },
+ {
+  "pid": "W05140",
+  "society": "Kiowa",
+  "domain": "Property",
+  "codes": [
+   "NEG",
+   "NEG",
+   "NEG"
+  ],
+  "final": "NEG",
+  "quote": "openly and boastfully bringing back scalps and spoils to their reservation",
+  "target": "ENEMY"
+ }
+]

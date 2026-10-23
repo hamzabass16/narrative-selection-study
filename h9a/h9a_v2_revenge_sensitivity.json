@@ -1,0 +1,43 @@
+{
+ "all_reciprocity": {
+  "n": 117,
+  "relevance_agree": 111,
+  "relevance_alpha": 0.8383441258094357,
+  "valence_agree": 109,
+  "valence_alpha": 0.7968613775065388
+ },
+ "reciprocity_no_revenge_text": {
+  "n": 83,
+  "relevance_agree": 77,
+  "relevance_alpha": 0.7794117647058824,
+  "valence_agree": 77,
+  "valence_alpha": 0.792713567839196
+ },
+ "first_coder_reciprocity": {
+  "valenced": 81,
+  "revenge_valenced": 17,
+  "revenge_pos": 16,
+  "revenge_neg": 1,
+  "pos_without_revenge": 61,
+  "neg_without_revenge": 3,
+  "revenge_pids": [
+   "W00455",
+   "W01458",
+   "W01580",
+   "W01592",
+   "W01729",
+   "W01985",
+   "W02089",
+   "W02377",
+   "W02785",
+   "W03411",
+   "W03647",
+   "W03673",
+   "W03776",
+   "W04623",
+   "W04669",
+   "W04801",
+   "W04985"
+  ]
+ }
+}

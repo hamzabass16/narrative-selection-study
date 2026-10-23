@@ -1,0 +1,182 @@
+{
+ "n_effects": 5,
+ "by_stratum": {
+  "size": {
+   "P": 5
+  },
+  "nunique": {
+   "P": 5
+  }
+ },
+ "P_primary": {
+  "k": 5,
+  "studies": 5,
+  "g_reml": 0.7404919056796466,
+  "se_reml": 0.23491307555234603,
+  "tau2": 0.22670323941303114,
+  "g_rve": 0.7404919056796466,
+  "se_rve": 0.23472127562052916,
+  "p_rve": 0.03435612524161446,
+  "lo95_rve": 0.08880116889724632,
+  "hi95_rve": 1.392182642462047,
+  "pet_peese": {
+   "method": "PEESE",
+   "est": 1.4761029053579908,
+   "se": 0.5045887424060836,
+   "df": 3
+  },
+  "pp_lo90": 0.2886222093668773,
+  "pp_hi90": 2.6635836013491043,
+  "pp_lo95": -0.1297236736000027,
+  "pp_hi95": 3.0819294843159843
+ },
+ "P_preregistered": {
+  "k": 0,
+  "note": "fewer than 2 effects"
+ },
+ "P_by_ntype": {
+  "modern_invented": {
+   "k": 5,
+   "studies": 5,
+   "g_reml": 0.7404919056796466,
+   "se_reml": 0.23491307555234603,
+   "tau2": 0.22670323941303114,
+   "g_rve": 0.7404919056796466,
+   "se_rve": 0.23472127562052916,
+   "p_rve": 0.03435612524161446,
+   "lo95_rve": 0.08880116889724632,
+   "hi95_rve": 1.392182642462047,
+   "pet_peese": {
+    "method": "PEESE",
+    "est": 1.4761029053579908,
+    "se": 0.5045887424060836,
+    "df": 3
+   },
+   "pp_lo90": 0.2886222093668773,
+   "pp_hi90": 2.6635836013491043,
+   "pp_lo95": -0.1297236736000027,
+   "pp_hi95": 3.0819294843159843
+  }
+ },
+ "P_by_pop": {
+  "children": {
+   "k": 5,
+   "studies": 5,
+   "g_reml": 0.7404919056796466,
+   "se_reml": 0.23491307555234603,
+   "tau2": 0.22670323941303114,
+   "g_rve": 0.7404919056796466,
+   "se_rve": 0.23472127562052916,
+   "p_rve": 0.03435612524161446,
+   "lo95_rve": 0.08880116889724632,
+   "hi95_rve": 1.392182642462047,
+   "pet_peese": {
+    "method": "PEESE",
+    "est": 1.4761029053579908,
+    "se": 0.5045887424060836,
+    "df": 3
+   },
+   "pp_lo90": 0.2886222093668773,
+   "pp_hi90": 2.6635836013491043,
+   "pp_lo95": -0.1297236736000027,
+   "pp_hi95": 3.0819294843159843
+  }
+ },
+ "P_by_weird": {
+  "False": {
+   "k": 4,
+   "studies": 4,
+   "g_reml": 0.8148239520760646,
+   "se_reml": 0.28635242822092805,
+   "tau2": 0.2751513751271622,
+   "g_rve": 0.8148239520760646,
+   "se_rve": 0.28608493961784265,
+   "p_rve": 0.06520597830924844,
+   "lo95_rve": -0.09562600700805135,
+   "hi95_rve": 1.7252739111601807,
+   "pet_peese": {
+    "method": "PEESE",
+    "est": 1.728134959259726,
+    "se": 0.4315456499872741,
+    "df": 2
+   },
+   "pp_lo90": 0.46802788403251006,
+   "pp_hi90": 2.988242034486942,
+   "pp_lo95": -0.1286561096695249,
+   "pp_hi95": 3.5849260281889768
+  },
+  "True": {
+   "k": 1,
+   "note": "fewer than 2 effects"
+  }
+ },
+ "P_by_target": {
+  "ingroup": {
+   "k": 1,
+   "note": "fewer than 2 effects"
+  },
+  "stranger": {
+   "k": 3,
+   "studies": 3,
+   "g_reml": 0.8785525011894683,
+   "se_reml": 0.3794362614847093,
+   "tau2": 0.3900198694777109,
+   "g_rve": 0.8785525011894683,
+   "se_rve": 0.37931334786912896,
+   "p_rve": 0.14651804957436018,
+   "lo95_rve": -0.7535011104500468,
+   "hi95_rve": 2.510606112828983
+  },
+  "unclear": {
+   "k": 1,
+   "note": "fewer than 2 effects"
+  }
+ },
+ "P_by_delay": {
+  "delayed: post-test one week after the end of the three training sessions": {
+   "k": 1,
+   "note": "fewer than 2 effects"
+  },
+  "delayed: posttest after the 8-week reading programme ended; interval since last reading not stated": {
+   "k": 1,
+   "note": "fewer than 2 effects"
+  },
+  "delayed: pre/post intervention assessment; interval not reported": {
+   "k": 1,
+   "note": "fewer than 2 effects"
+  },
+  "immediate": {
+   "k": 2,
+   "studies": 2,
+   "g_reml": 1.2480976784292221,
+   "se_reml": 0.12486567344984939,
+   "tau2": 5.363445511637438e-06,
+   "g_rve": 1.2480976784292221,
+   "se_rve": 0.011877141748574271,
+   "p_rve": 0.00605801547138115,
+   "lo95_rve": 1.0971842836912695,
+   "hi95_rve": 1.3990110731671748
+  }
+ },
+ "stratum_N": {
+  "k": 0,
+  "note": "fewer than 2 effects"
+ },
+ "stratum_R": {
+  "k": 0,
+  "note": "fewer than 2 effects"
+ },
+ "stratum_H": {
+  "k": 0,
+  "note": "fewer than 2 effects"
+ },
+ "stratum_D": {
+  "k": 0,
+  "note": "fewer than 2 effects"
+ },
+ "stratum_T": {
+  "k": 0,
+  "note": "fewer than 2 effects"
+ },
+ "decision": "inconclusive"
+}

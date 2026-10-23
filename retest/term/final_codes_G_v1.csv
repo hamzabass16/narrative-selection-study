@@ -1,0 +1,30 @@
+polity_id,item,name,Q2,Q3,end_year
+29,G001,Oneota,T4,U,1650
+37,G002,Funan I,T0,N,540
+47,G003,Kalingga Kingdom,T9,U,732
+61,G004,Old Palace Crete,T0,N,-1700
+62,G005,New Palace Crete,T2,Y,-1450
+85,G006,Deccan - Neolithic,T0,U,-1200
+86,G007,Deccan - Iron Age,T0,U,-300
+98,G008,Mughal Empire,T2,Y,1857
+121,G009,Kachi Plain - Urban Period I,T0,U,-2100
+122,G010,Kachi Plain - Urban Period II,T0,U,-1800
+140,G011,Japan - Early Jomon,T0,U,-3500
+142,G012,Japan - Late Jomon,T0,U,-1200
+216,G013,Middle Wagadu Empire,T0,N,1077
+249,G014,Chu Kingdom - Warring States Period,T2,Y,-223
+427,G015,Jenne-jeno I,T0,U,50
+428,G016,Jenne-jeno II,T0,U,400
+430,G017,Jenne-jeno III,T0,U,900
+433,G018,Segou Kingdom,T1a,Y,1682
+434,G019,Bamana kingdom,T2,Y,1861
+436,G020,Tairona,T2,Y,1600
+467,G021,Tocharians,T0,N,30
+470,G022,Hmong - Late Qing,T0,N,1895
+492,G023,Susa I,T9,U,-3800
+493,G024,Susa II,T0,U,-3100
+510,G025,Badarian,T0,U,-3800
+512,G026,Naqada II,T0,U,-3300
+513,G027,Egypt - Dynasty 0,T0,N,-3100
+523,G028,Oaxaca - San Jose,T0,U,-700
+524,G029,Oaxaca - Rosario,T0,U,-500
